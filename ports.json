@@ -6012,6 +6012,54 @@
       },
       "version": 3
     },
+    "brotato.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [],
+        "desc": "Brotato is a top-down arena shooter roguelite where you play as a potato wielding up to six weapons to fend off alien hordes. Customize traits and items to survive until help arrives.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy and download the game of Epic https://store.epicgames.com/en-US/p/brotato-ed4097\nCopy the brotato.pck to brotato/gamedata folder",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [
+          "ultra"
+        ],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Brotato"
+      },
+      "items": [
+        "Brotato.sh",
+        "brotato"
+      ],
+      "items_opt": null,
+      "name": "brotato.zip",
+      "source": {
+        "date_added": "2024-12-11",
+        "date_updated": "2024-12-11",
+        "md5": "c0a6b73c8bcce1cc6739c254ef0825f4",
+        "release_id": "2024-12-11_1336",
+        "repo": "main",
+        "size": 295995,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-11_1336/brotato.zip"
+      },
+      "version": 3
+    },
     "bstone-aog.zip": {
       "attr": {
         "arch": [
@@ -10828,6 +10876,79 @@
         "repo": "main",
         "size": 13519797,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cybarian.zip"
+      },
+      "version": 3
+    },
+    "cyberseraph.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A vertically-scrolling shoot-'em-up where you will be facing diverse bosses on your quest to save your homeworld from annihilation. Collect chips from wounded bosses to unlock special abilities and push onward to final victory.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game at itch.io (https://cosmicvoid.itch.io/cyber-seraph), grab the Windows version (Cyber Seraph.zip), extract and and copy the game files into cyberseraph/gamedata folder.",
+        "inst_md": "Purchase the game at [itch.io](https://cosmicvoid.itch.io/cyber-seraph), grab the Windows version (*Cyber Seraph.zip*), extract and and copy the game files into `cyberseraph/gamedata` folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Cyber Seraph"
+      },
+      "items": [
+        "Cyber Seraph.sh",
+        "cyberseraph"
+      ],
+      "items_opt": null,
+      "name": "cyberseraph.zip",
+      "source": {
+        "date_added": "2024-12-11",
+        "date_updated": "2024-12-11",
+        "md5": "e3c3def10afd665a38a38e5da4b7f92c",
+        "release_id": "2024-12-11_1336",
+        "repo": "main",
+        "size": 14151593,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-11_1336/cyberseraph.zip"
       },
       "version": 3
     },
@@ -35180,12 +35301,12 @@
       "name": "openttd.zip",
       "source": {
         "date_added": "2022-02-12",
-        "date_updated": "2024-12-09",
-        "md5": "52fdbdfe7ab9a8733450b858b86336b0",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2024-12-11",
+        "md5": "aa5fc5172b4ebb63a4f330fc2bdb9454",
+        "release_id": "2024-12-11_1336",
         "repo": "main",
-        "size": 49371725,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/openttd.zip"
+        "size": 49371762,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-11_1336/openttd.zip"
       },
       "version": 3
     },
@@ -49390,6 +49511,80 @@
       },
       "version": 3
     },
+    "superglitter.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Super Glitter Rush is a boss-rush style bullet hell shoot-em-up!\n\n30 cute and unique bosses are waiting for you in a colorful world of pixel art.\nThe hail of bullets might look hard.\nBut don't worry.\nWith special bullets that catch your opponent's bullets, you can shoot them all back!\nThe more you catch, the stronger you get!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the port on Steam and copy game files into assets folder. \nThe game is also sold on Itch.io and it comes with Steam key as well.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Super Glitter Rush"
+      },
+      "items": [
+        "Super Glitter Rush.sh",
+        "superglitter"
+      ],
+      "items_opt": null,
+      "name": "superglitter.zip",
+      "source": {
+        "date_added": "2024-12-11",
+        "date_updated": "2024-12-11",
+        "md5": "49ea4a29095d9b2dbd08f8e3849819c7",
+        "release_id": "2024-12-11_1336",
+        "repo": "main",
+        "size": 15235417,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-11_1336/superglitter.zip"
+      },
+      "version": 3
+    },
     "supermeatboy.zip": {
       "attr": {
         "arch": [
@@ -51037,22 +51232,22 @@
         "reqs": [],
         "rtr": false,
         "runtime": null,
-        "title": "The Curruption Within"
+        "title": "The Corruption Within"
       },
       "items": [
-        "The Curruption Within.sh",
+        "The Corruption Within.sh",
         "thecorruptionwithin"
       ],
       "items_opt": null,
       "name": "thecorruptionwithin.zip",
       "source": {
         "date_added": "2024-12-05",
-        "date_updated": "2024-12-05",
-        "md5": "b87a962300e6ec9c9a47e0e787da78a4",
-        "release_id": "2024-12-05_0844",
+        "date_updated": "2024-12-11",
+        "md5": "85a48f8a925d7cc2e496e14f7446eb3c",
+        "release_id": "2024-12-11_1336",
         "repo": "main",
-        "size": 13940770,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/thecorruptionwithin.zip"
+        "size": 13940767,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-11_1336/thecorruptionwithin.zip"
       },
       "version": 3
     },
@@ -52784,7 +52979,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to run. \n",
+        "inst": "Ready to run!",
         "inst_md": null,
         "porter": [
           "Ganimoth"
@@ -52802,12 +52997,12 @@
       "name": "towerbag.zip",
       "source": {
         "date_added": "2024-09-17",
-        "date_updated": "2024-09-20",
-        "md5": "d594a5d4ed5ff225744e37323bfabee3",
-        "release_id": "2024-09-20_1106",
+        "date_updated": "2024-12-11",
+        "md5": "984f5606ff31dbaff73671bccefe0437",
+        "release_id": "2024-12-11_1336",
         "repo": "main",
-        "size": 15608663,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/towerbag.zip"
+        "size": 14269444,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-11_1336/towerbag.zip"
       },
       "version": 3
     },
@@ -55749,6 +55944,79 @@
         "repo": "main",
         "size": 1728425,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/vodovod.zip"
+      },
+      "version": 3
+    },
+    "voidbreach.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A low-res, retro point-and-click adventure game where an experiment has gone unpredictably wrong. Your daughter is whooshed through a tear in space! Embrace the void and follow her. The only way to bring her back.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game at itch.io (https://cosmicvoid.itch.io/void-breach), grab the Windows version (Void Breach.rar), extract and and copy the game files into voidbreach/gamedata folder.",
+        "inst_md": "Purchase the game at [itch.io](https://cosmicvoid.itch.io/void-breach), grab the Windows version (*Void Breach.rar*), extract and and copy the game files into `voidbreach/gamedata` folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Void Breach"
+      },
+      "items": [
+        "Void Breach.sh",
+        "voidbreach"
+      ],
+      "items_opt": null,
+      "name": "voidbreach.zip",
+      "source": {
+        "date_added": "2024-12-11",
+        "date_updated": "2024-12-11",
+        "md5": "2eb1b1812abf44131c6a107b4ab2bb78",
+        "release_id": "2024-12-11_1336",
+        "repo": "main",
+        "size": 13929154,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-11_1336/voidbreach.zip"
       },
       "version": 3
     },
