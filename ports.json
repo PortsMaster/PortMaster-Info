@@ -11028,6 +11028,78 @@
       },
       "version": 3
     },
+    "darkcrypt.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dark Crypt is a turn-based puzzler with a teleporting mechanic about sneaking through an ancient crypt, while avoiding its traps and the undead.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch.io and copy the DarkCrypt.pck into the gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Dark Crypt"
+      },
+      "items": [
+        "Dark Crypt.sh",
+        "darkcrypt"
+      ],
+      "items_opt": null,
+      "name": "darkcrypt.zip",
+      "source": {
+        "date_added": "2024-12-13",
+        "date_updated": "2024-12-13",
+        "md5": "0dcae8c3916445fb04e5e351911db826",
+        "release_id": "2024-12-13_1501",
+        "repo": "main",
+        "size": 75193,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/darkcrypt.zip"
+      },
+      "version": 3
+    },
     "darkdeity.zip": {
       "attr": {
         "arch": [
@@ -11789,12 +11861,12 @@
       "name": "deltarune.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2024-12-07",
-        "md5": "a4836559456f14284aa4595d42e3f09c",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2024-12-13",
+        "md5": "1e3c9c9405b1287021aaa780b3e49f34",
+        "release_id": "2024-12-13_1501",
         "repo": "main",
-        "size": 29322507,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/deltarune.zip"
+        "size": 29322635,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/deltarune.zip"
       },
       "version": 3
     },
@@ -13398,12 +13470,12 @@
       "name": "doom2d.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2024-10-27",
-        "md5": "cc8c43975e58292f812ab5f119b95dbe",
-        "release_id": "2024-10-27_1327",
+        "date_updated": "2024-12-13",
+        "md5": "176a2bd9afa909a01153c05210aabb85",
+        "release_id": "2024-12-13_1501",
         "repo": "main",
-        "size": 7514191,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/doom2d.zip"
+        "size": 7515055,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/doom2d.zip"
       },
       "version": 3
     },
@@ -26955,12 +27027,12 @@
       "name": "lierolibre.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-04-25",
-        "md5": "6093807010d96e65920b6dc6c3b67b46",
-        "release_id": "2024-04-25_1154",
+        "date_updated": "2024-12-13",
+        "md5": "a8ad3b2df91bb512570eecbda324c4e1",
+        "release_id": "2024-12-13_1501",
         "repo": "main",
-        "size": 10982029,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/lierolibre.zip"
+        "size": 11079019,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/lierolibre.zip"
       },
       "version": 3
     },
@@ -28774,6 +28846,83 @@
         "repo": "main",
         "size": 16036518,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/luminousslash.zip"
+      },
+      "version": 3
+    },
+    "lunarlux.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Experience a sci-fi action-adventure RPG on the Moon in the year 30XX! Join Bella in a story of science, truth, justice, and trust, as she travels the silver globe to find a way to save humanity from Comet Coda! It's time to unleash your Lux!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Use `download_depot 1932680 1932681 4860005663388923912` with Steam Console to download the game and add the data to `lunarlux/assets`",
+        "inst_md": null,
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Lunar Lux"
+      },
+      "items": [
+        "Lunar Lux.sh",
+        "lunarlux"
+      ],
+      "items_opt": null,
+      "name": "lunarlux.zip",
+      "source": {
+        "date_added": "2024-12-13",
+        "date_updated": "2024-12-13",
+        "md5": "ea71a081fa35546bd470551d40ff6622",
+        "release_id": "2024-12-13_1501",
+        "repo": "main",
+        "size": 46407975,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/lunarlux.zip"
       },
       "version": 3
     },
@@ -36340,12 +36489,12 @@
       "name": "pacman.zip",
       "source": {
         "date_added": "2024-05-15",
-        "date_updated": "2024-05-15",
-        "md5": "3275a6fd6bad2e07edc316c3ace850d9",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2024-12-13",
+        "md5": "db6d351470b9874ce895851310c75b83",
+        "release_id": "2024-12-13_1501",
         "repo": "main",
-        "size": 10274738,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/pacman.zip"
+        "size": 10260415,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/pacman.zip"
       },
       "version": 3
     },
@@ -44216,6 +44365,73 @@
       },
       "version": 3
     },
+    "sheepo.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL"
+        ],
+        "desc": "Sheepo is a quirky metroidvania platformer featuring a shape-shifting sheep-thing, who must traverse an uncharted planet in order to collect samples of each living species for an intergalactic species database.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam. Use the depot downloader to download the correct version of the game.\nCopy all the game files to /ports/sheepo/gamedata.",
+        "inst_md": "Purchase the game from [steam](https://store.steampowered.com/app/1281790/SHEEPO/). \nRun steam console via Windows+R: Type: steam://open/console, download the 5 September 2020 version of the game by typing: download_depot 1281790 1281791 2354247233124576146. \nWhen the download is complete, it will tell you the location of the folder.\nCopy all files from /depot_1281791 to /ports/sheepo/gamedata",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Sheepo"
+      },
+      "items": [
+        "Sheepo.sh",
+        "sheepo"
+      ],
+      "items_opt": null,
+      "name": "sheepo.zip",
+      "source": {
+        "date_added": "2024-12-13",
+        "date_updated": "2024-12-13",
+        "md5": "f2eed7a0c0be1e119b14b2b543b91dca",
+        "release_id": "2024-12-13_1501",
+        "repo": "main",
+        "size": 29698951,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/sheepo.zip"
+      },
+      "version": 3
+    },
     "shippy.zip": {
       "attr": {
         "arch": [
@@ -51975,12 +52191,12 @@
       "name": "tileworld.zip",
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2024-12-05",
-        "md5": "00ae2d501bd55b5cbf9340c7d395001e",
-        "release_id": "2024-12-05_0844",
+        "date_updated": "2024-12-13",
+        "md5": "e2d34f3e6ab8e9784126b4d573fac8bb",
+        "release_id": "2024-12-13_1501",
         "repo": "main",
-        "size": 29453764,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-05_0844/tileworld.zip"
+        "size": 29688859,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/tileworld.zip"
       },
       "version": 3
     },
@@ -57558,12 +57774,12 @@
       "name": "xye.zip",
       "source": {
         "date_added": "2024-11-16",
-        "date_updated": "2024-11-16",
-        "md5": "e285456678ea67fd4f814d0b64c20a8f",
-        "release_id": "2024-11-16_1010",
+        "date_updated": "2024-12-13",
+        "md5": "51ed286aa14a6c2ebe9617b6547d7d32",
+        "release_id": "2024-12-13_1501",
         "repo": "main",
-        "size": 7922998,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-16_1010/xye.zip"
+        "size": 8035318,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/xye.zip"
       },
       "version": 3
     },
