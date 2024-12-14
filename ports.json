@@ -2204,12 +2204,12 @@
       "name": "asylum.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-05-06",
-        "md5": "d8c8d62ba109655d0de5deefbefbc0e0",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2024-12-14",
+        "md5": "97e5ed2cb3b87917e4ed10ccf8164dc7",
+        "release_id": "2024-12-14_0955",
         "repo": "main",
-        "size": 2277235,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/asylum.zip"
+        "size": 2395357,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_0955/asylum.zip"
       },
       "version": 3
     },
