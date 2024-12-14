@@ -2058,12 +2058,12 @@
       "name": "armagetronad.zip",
       "source": {
         "date_added": "2024-06-29",
-        "date_updated": "2024-06-29",
-        "md5": "9f78662691c46772a3da021a334a24f5",
-        "release_id": "2024-06-29_0905",
+        "date_updated": "2024-12-14",
+        "md5": "6e4fdb4ab1108c63ae7a8c9e00103ebe",
+        "release_id": "2024-12-14_2115",
         "repo": "main",
-        "size": 5277968,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/armagetronad.zip"
+        "size": 5396114,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2115/armagetronad.zip"
       },
       "version": 3
     },
@@ -24129,6 +24129,80 @@
         "repo": "main",
         "size": 5399344,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/iii.zip"
+      },
+      "version": 3
+    },
+    "imagestriker.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This game is a 2D vertical scrolling shooter. You can operate the fighter \u201cImage Striker\u201d to fire shots and destroy enemies in 6 stages.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from Steam for free and copy game files into assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "ImageStriker"
+      },
+      "items": [
+        "ImageStriker.sh",
+        "imagestriker"
+      ],
+      "items_opt": null,
+      "name": "imagestriker.zip",
+      "source": {
+        "date_added": "2024-12-14",
+        "date_updated": "2024-12-14",
+        "md5": "4c7ca92b78e5abb9cc5ddd68de5caa81",
+        "release_id": "2024-12-14_2115",
+        "repo": "main",
+        "size": 13969651,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2115/imagestriker.zip"
       },
       "version": 3
     },
@@ -52121,6 +52195,79 @@
       },
       "version": 3
     },
+    "thysword.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Thy Sword is a hack n' slash platformer with procedural levels and roguelike elements.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam OR Itch.io\nDownload the game and place the data.win into ports/thysword/gamedata",
+        "inst_md": "Purchase the game from [steam](https://store.steampowered.com/app/560300/Thy_Sword/) OR [Itch.io](https://gamephase.itch.io/thy-sword)\nDownload the game and place the data.win into ports/thysword/gamedata",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Thy Sword"
+      },
+      "items": [
+        "Thy Sword.sh",
+        "thysword"
+      ],
+      "items_opt": null,
+      "name": "thysword.zip",
+      "source": {
+        "date_added": "2024-12-14",
+        "date_updated": "2024-12-14",
+        "md5": "e6ff6954a5bf5b6a8ab31dcf602b742c",
+        "release_id": "2024-12-14_2115",
+        "repo": "main",
+        "size": 5797616,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2115/thysword.zip"
+      },
+      "version": 3
+    },
     "tileworld.zip": {
       "attr": {
         "arch": [
@@ -56387,6 +56534,79 @@
       },
       "version": 3
     },
+    "vortexion.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Vortexion is a MSX/SG-1000 inspired shoot-em-up written in Python and uses the Pyxel game engine.",
+        "desc_md": "Vortexion is a MSX/SG-1000 inspired shoot-em-up written in Python and uses the Pyxel game engine.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run !",
+        "inst_md": "Ready to run !",
+        "porter": [
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "pyxel_2.2.8_python_3.11",
+        "title": "Vortexion"
+      },
+      "items": [
+        "Vortexion.sh",
+        "vortexion"
+      ],
+      "items_opt": null,
+      "name": "vortexion.zip",
+      "source": {
+        "date_added": "2024-12-14",
+        "date_updated": "2024-12-14",
+        "md5": "d00bbfb36b6ab92352e5cee261816adf",
+        "release_id": "2024-12-14_2115",
+        "repo": "main",
+        "size": 77438,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2115/vortexion.zip"
+      },
+      "version": 3
+    },
     "vvvvvv.zip": {
       "attr": {
         "arch": [
@@ -56825,6 +57045,82 @@
         "repo": "main",
         "size": 465802648,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/widelands.zip"
+      },
+      "version": 3
+    },
+    "willyousnail.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A unique platformer where an evil AI predicts your movement. Dodge AI-spawned traps, solve optional puzzles and uncover the dark secrets of the simulation. \nA lot of levels in Will You Snail are relatively empty by default. The challenge comes from the interactions with the evil AI. You will jump, run, dodge and die. This game is precise, fast-paced and challenging. (Stay cool, you can change the difficulty at any time.)",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam. Use the Steam console to download the right version of the game: download_depot 1115050 1115051 8411373960038250729. Place all the files from /depot_1115051 into ports/willyousnail/assets",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1115050/Will_You_Snail/).\nUse download_depot 1115050 1115051 8411373960038250729 with Steam Console to download the game and add the data to willyousnail/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Will You Snail"
+      },
+      "items": [
+        "Will You Snail.sh",
+        "willyousnail"
+      ],
+      "items_opt": null,
+      "name": "willyousnail.zip",
+      "source": {
+        "date_added": "2024-12-14",
+        "date_updated": "2024-12-14",
+        "md5": "fe66174a36e47c46584c28f1355d7823",
+        "release_id": "2024-12-14_2115",
+        "repo": "main",
+        "size": 13996484,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2115/willyousnail.zip"
       },
       "version": 3
     },
@@ -57482,12 +57778,12 @@
       "name": "worldofgoo.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-07-28",
-        "md5": "ab3fa09a97c5cd9c2865ae0ba1c67c45",
-        "release_id": "2024-07-28_0519",
+        "date_updated": "2024-12-14",
+        "md5": "dd0df3523dd013864c91c3c44b5a5fba",
+        "release_id": "2024-12-14_2156",
         "repo": "main",
-        "size": 4895017,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/worldofgoo.zip"
+        "size": 4958744,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2156/worldofgoo.zip"
       },
       "version": 3
     },
