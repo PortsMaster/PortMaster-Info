@@ -875,12 +875,12 @@
       "name": "alephone-marathon.zip",
       "source": {
         "date_added": "2021-12-03",
-        "date_updated": "2024-05-09",
-        "md5": "430d6d2130a72effe65af086bff3a871",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-12-16",
+        "md5": "117106dbda192da4b9e7fa7381aa52c6",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 47945470,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/alephone-marathon.zip"
+        "size": 47945454,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/alephone-marathon.zip"
       },
       "version": 3
     },
@@ -950,12 +950,12 @@
       "name": "alephone-marathon2.zip",
       "source": {
         "date_added": "2021-12-03",
-        "date_updated": "2024-05-09",
-        "md5": "f41e669955ad616db7b19b6531be6d1f",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-12-16",
+        "md5": "acc6f3c0748094ac359f69033617ed35",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 85938409,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/alephone-marathon2.zip"
+        "size": 85938394,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/alephone-marathon2.zip"
       },
       "version": 3
     },
@@ -1025,12 +1025,12 @@
       "name": "alephone-marathoninfinity.zip",
       "source": {
         "date_added": "2021-12-03",
-        "date_updated": "2024-05-09",
-        "md5": "ccec2675f7d566133c833a51614bc462",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2024-12-16",
+        "md5": "8351d3bcace0a70a65bbfa62ab2639a7",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 100131863,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/alephone-marathoninfinity.zip"
+        "size": 100131846,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/alephone-marathoninfinity.zip"
       },
       "version": 3
     },
@@ -2508,12 +2508,12 @@
       "name": "axiom.verge.zip",
       "source": {
         "date_added": "2023-04-13",
-        "date_updated": "2024-04-01",
-        "md5": "92344ca4722692b37680771f9894024f",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-12-16",
+        "md5": "6127d31e233ebb10710fc0ff77fb8940",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 5442052,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/axiom.verge.zip"
+        "size": 5442084,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/axiom.verge.zip"
       },
       "version": 3
     },
@@ -8748,12 +8748,12 @@
       "name": "chasm.zip",
       "source": {
         "date_added": "2023-08-02",
-        "date_updated": "2024-06-15",
-        "md5": "98891f61e61f06df801994b4cf36e2f7",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2024-12-16",
+        "md5": "9edfef393792f66bc11f2eadfab2faa6",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 1984947,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/chasm.zip"
+        "size": 1984973,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/chasm.zip"
       },
       "version": 3
     },
@@ -11140,12 +11140,12 @@
       "name": "darkdeity.zip",
       "source": {
         "date_added": "2024-12-07",
-        "date_updated": "2024-12-07",
-        "md5": "7d42cba51c4090971b01345add5331c5",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2024-12-16",
+        "md5": "796db8663927aacb6237cb6152fa9e26",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 1076740670,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/darkdeity.zip"
+        "size": 1077052405,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/darkdeity.zip"
       },
       "version": 3
     },
@@ -11861,12 +11861,12 @@
       "name": "deltarune.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2024-12-13",
-        "md5": "1e3c9c9405b1287021aaa780b3e49f34",
-        "release_id": "2024-12-13_1501",
+        "date_updated": "2024-12-16",
+        "md5": "6891104396aff2c10eb4561a68c8ed5c",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 29322635,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/deltarune.zip"
+        "size": 29634370,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/deltarune.zip"
       },
       "version": 3
     },
@@ -28991,12 +28991,12 @@
       "name": "lunarlux.zip",
       "source": {
         "date_added": "2024-12-13",
-        "date_updated": "2024-12-13",
-        "md5": "ea71a081fa35546bd470551d40ff6622",
-        "release_id": "2024-12-13_1501",
+        "date_updated": "2024-12-16",
+        "md5": "0d35f4e5691a7872ff9592cc14f95a52",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 46407975,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/lunarlux.zip"
+        "size": 46719702,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/lunarlux.zip"
       },
       "version": 3
     },
@@ -30097,12 +30097,12 @@
       "name": "meritous.zip",
       "source": {
         "date_added": "2022-10-15",
-        "date_updated": "2024-07-18",
-        "md5": "02f91250fa899a834597565faca89df2",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-12-16",
+        "md5": "bbaf64f8a493b579d3cb89ad57a314b2",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 3355845,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/meritous.zip"
+        "size": 3355872,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/meritous.zip"
       },
       "version": 3
     },
@@ -32096,12 +32096,12 @@
       "name": "mystikbelle.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-12-07",
-        "md5": "7af4c5929b539f4be58fcb50c48f7a29",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2024-12-16",
+        "md5": "255d29ac9634274b72189b3d39fd99e7",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 9233685,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/mystikbelle.zip"
+        "size": 9545436,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/mystikbelle.zip"
       },
       "version": 3
     },
@@ -42313,6 +42313,83 @@
       },
       "version": 3
     },
+    "rockbot.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A game freely inspired by old classic 8-bit jump-and-shoot games style, with some modern here and there.  Rockbot and RockDroid were created by Upperlands and were inspired by the old NES MegaMan games.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Everything is included and ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Rockbot"
+      },
+      "items": [
+        "Rockbot.sh",
+        "RockDroid.sh",
+        "rockbot/"
+      ],
+      "items_opt": null,
+      "name": "rockbot.zip",
+      "source": {
+        "date_added": "2024-12-16",
+        "date_updated": "2024-12-16",
+        "md5": "9813666698cb6c3f93e8ce0316ba3ba2",
+        "release_id": "2024-12-16_1130",
+        "repo": "main",
+        "size": 19260461,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/rockbot.zip"
+      },
+      "version": 3
+    },
     "rockdodger.zip": {
       "attr": {
         "arch": [
@@ -44789,12 +44866,12 @@
       "name": "shovel.knight.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-09-11",
-        "md5": "e0fae51c57aa243370d246ab48337616",
-        "release_id": "2024-09-11_1523",
+        "date_updated": "2024-12-16",
+        "md5": "71a1e55f4e76eeec1166f51371ed9015",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 3568991,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/shovel.knight.zip"
+        "size": 3568975,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/shovel.knight.zip"
       },
       "version": 3
     },
@@ -47042,12 +47119,12 @@
       "name": "sonictt16b.zip",
       "source": {
         "date_added": "2024-07-28",
-        "date_updated": "2024-11-04",
-        "md5": "c282a91ea7ff52312ac56d1f2814b2ba",
-        "release_id": "2024-11-04_1645",
+        "date_updated": "2024-12-16",
+        "md5": "61c6ae43ead9f68c2ee6bf8bfbcbe85e",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 21024275,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-04_1645/sonictt16b.zip"
+        "size": 21024323,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/sonictt16b.zip"
       },
       "version": 3
     },
@@ -54831,12 +54908,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-12-07",
-        "md5": "d00fc54959f1b885927e07c1797f2853",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2024-12-16",
+        "md5": "d2d0e3c138d9a7a064e84557cdbbcfdf",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 31982213,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/ufo50.zip"
+        "size": 32293904,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/ufo50.zip"
       },
       "version": 3
     },
@@ -56011,12 +56088,12 @@
       "name": "vhr.zip",
       "source": {
         "date_added": "2024-11-07",
-        "date_updated": "2024-12-07",
-        "md5": "2040c2f4a57107ab279d55a799a069ab",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2024-12-16",
+        "md5": "affae09169f98c28fe53e133139e115a",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 22562669,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/vhr.zip"
+        "size": 22874356,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/vhr.zip"
       },
       "version": 3
     },
@@ -57484,12 +57561,12 @@
       "name": "wolf3d.zip",
       "source": {
         "date_added": "2024-09-27",
-        "date_updated": "2024-11-18",
-        "md5": "6cd84fbb993225cf5077d08f0fc10df2",
-        "release_id": "2024-11-18_0913",
+        "date_updated": "2024-12-16",
+        "md5": "4bf104748a109c1232dc41850d84e0bf",
+        "release_id": "2024-12-16_1130",
         "repo": "main",
-        "size": 7196096,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-18_0913/wolf3d.zip"
+        "size": 7196083,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/wolf3d.zip"
       },
       "version": 3
     },
