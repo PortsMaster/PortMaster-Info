@@ -20040,12 +20040,12 @@
       "name": "goldenhornet.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-09-15",
-        "md5": "01441832a29f8a7dd8b185c45d25faa1",
-        "release_id": "2024-09-15_1157",
+        "date_updated": "2024-12-17",
+        "md5": "2402231669264c0d515bf7d293523ee9",
+        "release_id": "2024-12-17_1916",
         "repo": "main",
-        "size": 11355808,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-15_1157/goldenhornet.zip"
+        "size": 11355807,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/goldenhornet.zip"
       },
       "version": 3
     },
@@ -20192,6 +20192,78 @@
         "repo": "main",
         "size": 4201229,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/grafx2.zip"
+      },
+      "version": 3
+    },
+    "gravityblocks.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A simple game made in 7 hours for Ludum Dare 51. Collect coins and don't get smashed by the gravity blocks. Gravity changes every 10 seconds!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Soultie",
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Gravity Blocks"
+      },
+      "items": [
+        "Gravity Blocks.sh",
+        "gravityblocks"
+      ],
+      "items_opt": null,
+      "name": "gravityblocks.zip",
+      "source": {
+        "date_added": "2024-12-17",
+        "date_updated": "2024-12-17",
+        "md5": "898a0440ffea809977f65b60c8df44e4",
+        "release_id": "2024-12-17_1916",
+        "repo": "main",
+        "size": 12654603,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/gravityblocks.zip"
       },
       "version": 3
     },
@@ -29884,6 +29956,77 @@
       },
       "version": 3
     },
+    "megaball.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The goal is to roll the ball over every flashing panel to complete the stage. For each stage you complete, you gain one extra life. If you need to, you can self-destruct (and lose a life) and shatter into ten pieces, killing any enemy which collides with these pieces; you will immediately re-spawn, and the enemy will reappear in 5 seconds.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! Thanks helpcomputer (https://helpcomputer.itch.io) for releasing this game under an MIT license.",
+        "inst_md": "Ready to run! Thanks [helpcomputer](https://helpcomputer.itch.io) for releasing this game under an MIT license.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "pyxel_2.2.8_python_3.11.squashfs",
+        "title": "Megaball"
+      },
+      "items": [
+        "Megaball.sh",
+        "megaball"
+      ],
+      "items_opt": null,
+      "name": "megaball.zip",
+      "source": {
+        "date_added": "2024-12-17",
+        "date_updated": "2024-12-17",
+        "md5": "86968dbca2daaa4a687aa52e0e3a67bd",
+        "release_id": "2024-12-17_1916",
+        "repo": "main",
+        "size": 36430,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/megaball.zip"
+      },
+      "version": 3
+    },
     "megaman.zip": {
       "attr": {
         "arch": [],
@@ -39253,6 +39396,77 @@
         "repo": "main",
         "size": 16557402,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/puremetal.zip"
+      },
+      "version": 3
+    },
+    "push.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A simple game in which you control a rabbit and eat carrots. If there is a hole, you cannot pass through it as it is, so push the rocks to fill the hole and make a path.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game free at https://yyuta342.itch.io/push, and place the push.pyxapp file in the push/gamedata folder.",
+        "inst_md": "Download the game free at [https://yyuta342.itch.io/push](https://yyuta342.itch.io/push), and place the *push.pyxapp* file in the `push/gamedata` folder.",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "pyxel_2.2.8_python_3.11.squashfs",
+        "title": "Push!"
+      },
+      "items": [
+        "Push!.sh",
+        "push"
+      ],
+      "items_opt": null,
+      "name": "push.zip",
+      "source": {
+        "date_added": "2024-12-17",
+        "date_updated": "2024-12-17",
+        "md5": "d14e1276ede29fc5ab039e98fcedf3ff",
+        "release_id": "2024-12-17_1916",
+        "repo": "main",
+        "size": 4909,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/push.zip"
       },
       "version": 3
     },
@@ -56675,12 +56889,12 @@
       "name": "vortexion.zip",
       "source": {
         "date_added": "2024-12-14",
-        "date_updated": "2024-12-14",
-        "md5": "d00bbfb36b6ab92352e5cee261816adf",
-        "release_id": "2024-12-14_2115",
+        "date_updated": "2024-12-17",
+        "md5": "625831ac429129e0390ab28b2c9b5ca6",
+        "release_id": "2024-12-17_1916",
         "repo": "main",
-        "size": 77438,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2115/vortexion.zip"
+        "size": 77444,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/vortexion.zip"
       },
       "version": 3
     },
@@ -57934,6 +58148,80 @@
         "repo": "main",
         "size": 3446841,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/worship_vector.zip"
+      },
+      "version": 3
+    },
+    "xenofightersr.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Xeno Fighters R is an in-development shmup fangame inspired by the Raiden Fighters series by Seibu Kaihatsu. The game has four original fighters: the Amada Vipros, the Phyxius, the Zaiva, and the Xelcor. It also features guest fighters from other shoot 'em up games by Psikyo, Capcom, Konami, and others. There are 20 stages to play in the game with four different game modes to select from. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Xeno Fighters R"
+      },
+      "items": [
+        "Xeno Fighters R.sh",
+        "xenofightersr"
+      ],
+      "items_opt": null,
+      "name": "xenofightersr.zip",
+      "source": {
+        "date_added": "2024-12-17",
+        "date_updated": "2024-12-17",
+        "md5": "52aab676c7305df48bcaa65439f928a2",
+        "release_id": "2024-12-17_1916",
+        "repo": "main",
+        "size": 340538139,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/xenofightersr.zip"
       },
       "version": 3
     },
