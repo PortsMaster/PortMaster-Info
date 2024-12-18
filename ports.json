@@ -46317,6 +46317,7 @@
         },
         "inst": "Follow the guide at https://www.shipofharkinian.com/setup-guide for your desired platform to create your oot.otr and/or oot-mq.otr files. Once created put in the ports/soh folder.",
         "inst_md": null,
+        "min_glibc": 2.36,
         "porter": [
           "Jeod"
         ],
@@ -46333,12 +46334,12 @@
       "name": "soh.zip",
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2024-10-23",
-        "md5": "d44454dc713d7f6690085a8acde09f9b",
-        "release_id": "2024-10-23_0518",
+        "date_updated": "2024-12-18",
+        "md5": "127006b535221e084840ad031aa0cda0",
+        "release_id": "2024-12-18_0822",
         "repo": "multiverse",
-        "size": 24853688,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-23_0518/soh.zip"
+        "size": 14032535,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-12-18_0822/soh.zip"
       },
       "version": 3
     },
