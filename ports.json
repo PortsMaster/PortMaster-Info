@@ -513,12 +513,12 @@
       "name": "abuse.zip",
       "source": {
         "date_added": "2021-11-01",
-        "date_updated": "2024-08-21",
-        "md5": "03aeff81629bee0ce9832dad09a2de1a",
-        "release_id": "2024-08-21_2136",
+        "date_updated": "2024-12-19",
+        "md5": "c9f8a13977b7990a025c4ea7f84f62a2",
+        "release_id": "2024-12-19_1739",
         "repo": "main",
-        "size": 6804086,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-21_2136/abuse.zip"
+        "size": 6804071,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/abuse.zip"
       },
       "version": 3
     },
@@ -4417,12 +4417,12 @@
       "name": "blobwars.zip",
       "source": {
         "date_added": "2022-10-29",
-        "date_updated": "2024-04-01",
-        "md5": "caa3473a95bd134a9ce0ebd35e911aa6",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-12-19",
+        "md5": "afbc8d90c4a48072b2d0691d326518a9",
+        "release_id": "2024-12-19_1739",
         "repo": "main",
-        "size": 67241874,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/blobwars.zip"
+        "size": 67241900,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/blobwars.zip"
       },
       "version": 3
     },
@@ -7974,12 +7974,12 @@
       "name": "cave.story-evo.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-09-04",
-        "md5": "9fe22891a2dbc0a8979ca4c89c1858bf",
-        "release_id": "2024-09-04_1203",
+        "date_updated": "2024-12-19",
+        "md5": "d3335cdf2fb1a7e989d079bc31251893",
+        "release_id": "2024-12-19_1739",
         "repo": "main",
-        "size": 9387457,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/cave.story-evo.zip"
+        "size": 9387442,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/cave.story-evo.zip"
       },
       "version": 3
     },
@@ -23099,12 +23099,12 @@
       "name": "hotlinesanzu.zip",
       "source": {
         "date_added": "2023-11-11",
-        "date_updated": "2024-07-18",
-        "md5": "478959041412a7376dd491c99f9ceacc",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-12-19",
+        "md5": "8c2200f4d506b06881aa4d8428977558",
+        "release_id": "2024-12-19_1739",
         "repo": "main",
-        "size": 8693802,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hotlinesanzu.zip"
+        "size": 9736172,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/hotlinesanzu.zip"
       },
       "version": 3
     },
@@ -30018,12 +30018,12 @@
       "name": "megaball.zip",
       "source": {
         "date_added": "2024-12-17",
-        "date_updated": "2024-12-17",
-        "md5": "86968dbca2daaa4a687aa52e0e3a67bd",
-        "release_id": "2024-12-17_1916",
+        "date_updated": "2024-12-19",
+        "md5": "42345ab7bf06f2fc5e16b615aa3d6765",
+        "release_id": "2024-12-19_1739",
         "repo": "main",
-        "size": 36430,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/megaball.zip"
+        "size": 36465,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/megaball.zip"
       },
       "version": 3
     },
@@ -36859,6 +36859,81 @@
       },
       "version": 3
     },
+    "parsec47.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "PARSEC47 is a retromodern hi-speed shoot 'em up where you get to defeat retro enemies modernly. The player must destroy enemies while avoiding their projectiles and collecting green clusters of boxes for points.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Select the stage by a keyboard or a joystick.\nPress a shot key to start the game.\nAll stages are endless and created randomly each time.\nThe game continues until you lose all ships.\n\nControl your ship and destroy enemies.\nWhile holding a slow key, the ship becomes slow.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "PARSEC47"
+      },
+      "items": [
+        "PARSEC47.sh",
+        "parsec47"
+      ],
+      "items_opt": null,
+      "name": "parsec47.zip",
+      "source": {
+        "date_added": "2024-12-19",
+        "date_updated": "2024-12-19",
+        "md5": "092ace95dfbb230ae46a82781910ed3a",
+        "release_id": "2024-12-19_1739",
+        "repo": "main",
+        "size": 5304482,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/parsec47.zip"
+      },
+      "version": 3
+    },
     "passage.zip": {
       "attr": {
         "arch": [
@@ -37144,12 +37219,12 @@
       "name": "penguincommand.zip",
       "source": {
         "date_added": "2024-10-02",
-        "date_updated": "2024-10-02",
-        "md5": "d77595a566e6dbc25d8d0103fb3fabc9",
-        "release_id": "2024-10-02_2052",
+        "date_updated": "2024-12-19",
+        "md5": "fb20a612ef8f7b16d6cc809e1e45a9a9",
+        "release_id": "2024-12-19_1739",
         "repo": "main",
-        "size": 1542296,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-02_2052/penguincommand.zip"
+        "size": 1542280,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/penguincommand.zip"
       },
       "version": 3
     },
@@ -39461,12 +39536,12 @@
       "name": "push.zip",
       "source": {
         "date_added": "2024-12-17",
-        "date_updated": "2024-12-17",
-        "md5": "d14e1276ede29fc5ab039e98fcedf3ff",
-        "release_id": "2024-12-17_1916",
+        "date_updated": "2024-12-19",
+        "md5": "32270d406d3476a2e262ffce6ab610ad",
+        "release_id": "2024-12-19_1739",
         "repo": "main",
         "size": 4909,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/push.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/push.zip"
       },
       "version": 3
     },
@@ -42669,12 +42744,12 @@
       "name": "rockdodger.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-15",
-        "md5": "26507833b7e57fae61f594d8b101fa39",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2024-12-19",
+        "md5": "dcbd86d713b6cdd1a836187ea106dba2",
+        "release_id": "2024-12-19_1739",
         "repo": "main",
-        "size": 1725751,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/rockdodger.zip"
+        "size": 1725739,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/rockdodger.zip"
       },
       "version": 3
     },
@@ -54467,6 +54542,81 @@
       },
       "version": 3
     },
+    "tumikifighters.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Tumiki Fighters brings a different twist to the side-scrolling shooter genre. With simple 3D graphics, the player has to control a ship and shoot down the enemies. The player can swoop in and attach the wreckage to its own hull for bonus points and protection from enemy attacks. .",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "TUMIKI Fighters"
+      },
+      "items": [
+        "TUMIKI Fighters.sh",
+        "tumikifighters"
+      ],
+      "items_opt": null,
+      "name": "tumikifighters.zip",
+      "source": {
+        "date_added": "2024-12-19",
+        "date_updated": "2024-12-19",
+        "md5": "a41114f3280b16346e2910898ded6f9a",
+        "release_id": "2024-12-19_1739",
+        "repo": "main",
+        "size": 5812864,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/tumikifighters.zip"
+      },
+      "version": 3
+    },
     "tunics.zip": {
       "attr": {
         "arch": [],
@@ -56283,7 +56433,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on Steam and add the game data to `ports/vhr/gamedata`.",
+        "inst": "Purchase the game on Steam and add the game data to `ports/vhr/assets`.",
         "inst_md": null,
         "porter": [
           "Jeod"
@@ -56303,12 +56453,12 @@
       "name": "vhr.zip",
       "source": {
         "date_added": "2024-11-07",
-        "date_updated": "2024-12-16",
-        "md5": "affae09169f98c28fe53e133139e115a",
-        "release_id": "2024-12-16_1130",
+        "date_updated": "2024-12-19",
+        "md5": "79d3a22242971bec4a441d6e84a6e660",
+        "release_id": "2024-12-19_1739",
         "repo": "main",
-        "size": 22874356,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/vhr.zip"
+        "size": 22874360,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/vhr.zip"
       },
       "version": 3
     },
