@@ -1849,6 +1849,81 @@
       },
       "version": 3
     },
+    "area2048.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Fast-paced omni-directional arena shooter.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Clear a scene by destroying all the enemies that are in the scene.\nIf you touch an enemy body or enemy bullet, you loose a life.\nWhen you clear 10 scenes, you proceed to the next area.\nThe game is complete when five areas are cleared.\nIf all areas can't be cleared in the time limit, it's game over.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "AREA2048"
+      },
+      "items": [
+        "AREA2048.sh",
+        "area2048"
+      ],
+      "items_opt": null,
+      "name": "area2048.zip",
+      "source": {
+        "date_added": "2024-12-27",
+        "date_updated": "2024-12-27",
+        "md5": "72aaf0f6738aadf2febf0b34cecd3a34",
+        "release_id": "2024-12-27_1725",
+        "repo": "main",
+        "size": 7770651,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/area2048.zip"
+      },
+      "version": 3
+    },
     "arengius.zip": {
       "attr": {
         "arch": [
@@ -2058,12 +2133,12 @@
       "name": "armagetronad.zip",
       "source": {
         "date_added": "2024-06-29",
-        "date_updated": "2024-12-14",
-        "md5": "6e4fdb4ab1108c63ae7a8c9e00103ebe",
-        "release_id": "2024-12-14_2115",
+        "date_updated": "2024-12-27",
+        "md5": "8219cc539344c90fafe0453ee48b9e65",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 5396114,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2115/armagetronad.zip"
+        "size": 5396120,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/armagetronad.zip"
       },
       "version": 3
     },
@@ -2204,12 +2279,12 @@
       "name": "asylum.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-12-14",
-        "md5": "97e5ed2cb3b87917e4ed10ccf8164dc7",
-        "release_id": "2024-12-14_0955",
+        "date_updated": "2024-12-27",
+        "md5": "cf589382d1ea9fdf4486f2e02b4b77f3",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 2395357,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_0955/asylum.zip"
+        "size": 2395370,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/asylum.zip"
       },
       "version": 3
     },
@@ -4491,12 +4566,12 @@
       "name": "block.attack.zip",
       "source": {
         "date_added": "2021-11-06",
-        "date_updated": "2024-04-01",
-        "md5": "74d8df1af142c7d4dd42695f2531315c",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-12-27",
+        "md5": "0418c9477118979cf2a91896291cdd25",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 14164991,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/block.attack.zip"
+        "size": 14165014,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/block.attack.zip"
       },
       "version": 3
     },
@@ -5358,12 +5433,12 @@
       "name": "boswars.zip",
       "source": {
         "date_added": "2024-09-04",
-        "date_updated": "2024-09-04",
-        "md5": "a4403ff467f0987c7c20f2006d90934d",
-        "release_id": "2024-09-04_2145",
+        "date_updated": "2024-12-27",
+        "md5": "d53bc0a5dbebf2c0e62afed57f488b97",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 78263576,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/boswars.zip"
+        "size": 78263558,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/boswars.zip"
       },
       "version": 3
     },
@@ -6869,12 +6944,12 @@
       "name": "c-dogs.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "c7668dd7401ccf20f121034f322e383f",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-12-27",
+        "md5": "7fb8c421cb0e7e61a330b389a2275f7e",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 26748723,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/c-dogs.zip"
+        "size": 26748762,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/c-dogs.zip"
       },
       "version": 3
     },
@@ -8523,12 +8598,12 @@
       "name": "ceferino.zip",
       "source": {
         "date_added": "2024-10-17",
-        "date_updated": "2024-10-17",
-        "md5": "3032fed5da648ad85ccadc99fb0cadae",
-        "release_id": "2024-10-17_0726",
+        "date_updated": "2024-12-27",
+        "md5": "5370d696b3c7c1b1f72556a4c8726704",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 2696934,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/ceferino.zip"
+        "size": 2696794,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/ceferino.zip"
       },
       "version": 3
     },
@@ -12515,12 +12590,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-10-09",
-        "md5": "e67ae03aac71250e06655e524c18aa70",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-12-27",
+        "md5": "669b378b797cd25bf29ee87ce31a04f0",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 15280044,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/descent.zip"
+        "size": 15280041,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/descent.zip"
       },
       "version": 3
     },
@@ -12593,12 +12668,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-10-09",
-        "md5": "9c13a760ac07f74b9da5af2d5f16c28e",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2024-12-27",
+        "md5": "3bd4ea68134b93fba4709baf03664d84",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 14954214,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/descent2.zip"
+        "size": 14954212,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/descent2.zip"
       },
       "version": 3
     },
@@ -12668,12 +12743,12 @@
       "name": "descent3.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2024-09-04",
-        "md5": "0c0de7951c2b24a8c1a86f4d9412be05",
-        "release_id": "2024-09-04_1203",
+        "date_updated": "2024-12-27",
+        "md5": "b1618bbf77c382963d3a4a23ed15adc2",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 7282529,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/descent3.zip"
+        "size": 7282515,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/descent3.zip"
       },
       "version": 3
     },
@@ -15608,6 +15683,80 @@
       },
       "version": 3
     },
+    "exilesquadron.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Exile Squadron is an action-packed, sidescrolling shoot \u2018em up, inspired by the classics of the genre. As part of an elite fighter group, you will be granted a huge variety of upgradeable weapons, which you can use to stop the invading Colonial forces. Destroy your enemies as fast as possible, collect points, and put your highscore on the online leaderboard.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch.io and copy game files into the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Exile Squadron"
+      },
+      "items": [
+        "Exile Squadron.sh",
+        "exilesquadron"
+      ],
+      "items_opt": null,
+      "name": "exilesquadron.zip",
+      "source": {
+        "date_added": "2024-12-27",
+        "date_updated": "2024-12-27",
+        "md5": "028c7de33a576efc0643e8840b74736a",
+        "release_id": "2024-12-27_1725",
+        "repo": "main",
+        "size": 13948988,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/exilesquadron.zip"
+      },
+      "version": 3
+    },
     "exult.zip": {
       "attr": {
         "arch": [
@@ -18369,12 +18518,12 @@
       "name": "freesiege.zip",
       "source": {
         "date_added": "2024-06-29",
-        "date_updated": "2024-06-29",
-        "md5": "71deca46c13ab623839fd28ceec0cacc",
-        "release_id": "2024-06-29_0905",
+        "date_updated": "2024-12-27",
+        "md5": "30f46211a988bbd70f1ee660b54cddc5",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 20599946,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-29_0905/freesiege.zip"
+        "size": 20599931,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/freesiege.zip"
       },
       "version": 3
     },
@@ -18451,6 +18600,80 @@
         "repo": "main",
         "size": 4946320,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/freesynd.zip"
+      },
+      "version": 3
+    },
+    "fridaynightfunkin.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Friday Night Funkin\u2019 is a musical rhythm game where you compete in freestyle music battles. Press the arrow keys in time with the music to outdo your opponents and enjoy the cool beats!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rhythm"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is Ready To Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Friday Night Funkin"
+      },
+      "items": [
+        "Friday Night Funkin.sh",
+        "fridaynightfunkin"
+      ],
+      "items_opt": null,
+      "name": "fridaynightfunkin.zip",
+      "source": {
+        "date_added": "2024-12-27",
+        "date_updated": "2024-12-27",
+        "md5": "aa811fef338a81adf8e9d6a054af6540",
+        "release_id": "2024-12-27_1725",
+        "repo": "main",
+        "size": 307126342,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/fridaynightfunkin.zip"
       },
       "version": 3
     },
@@ -19532,12 +19755,12 @@
       "name": "gigalomania.zip",
       "source": {
         "date_added": "2022-11-11",
-        "date_updated": "2024-07-18",
-        "md5": "8459953a4627487fd0ea40fb662b8694",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-12-27",
+        "md5": "b4d0f855580e218a64827016433b7910",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 23625992,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gigalomania.zip"
+        "size": 23626017,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/gigalomania.zip"
       },
       "version": 3
     },
@@ -20186,12 +20409,12 @@
       "name": "grafx2.zip",
       "source": {
         "date_added": "2024-07-06",
-        "date_updated": "2024-07-06",
-        "md5": "c7faf6508f0edd50a4ceb69ecb1c8888",
-        "release_id": "2024-07-06_0646",
+        "date_updated": "2024-12-27",
+        "md5": "465583ccd972eb734f3ac96332d4d480",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 4201229,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-06_0646/grafx2.zip"
+        "size": 4201214,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/grafx2.zip"
       },
       "version": 3
     },
@@ -22300,12 +22523,12 @@
       "name": "heroes.zip",
       "source": {
         "date_added": "2024-09-13",
-        "date_updated": "2024-09-13",
-        "md5": "5c6882095a1cdc44409a1842ec8dc7c0",
-        "release_id": "2024-09-13_1353",
+        "date_updated": "2024-12-27",
+        "md5": "dd8e282d1966620e949dcc7a870dfd3c",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 4548657,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-13_1353/heroes.zip"
+        "size": 4548641,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/heroes.zip"
       },
       "version": 3
     },
@@ -22375,12 +22598,12 @@
       "name": "hex-a-hop.zip",
       "source": {
         "date_added": "2022-10-24",
-        "date_updated": "2024-07-18",
-        "md5": "daa1a1977173e48ace42cabae5d9c31b",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2024-12-27",
+        "md5": "2099c771e80a0c6876aac6932c6e25e4",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 11891052,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hex-a-hop.zip"
+        "size": 11891076,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/hex-a-hop.zip"
       },
       "version": 3
     },
@@ -22822,12 +23045,12 @@
       "name": "holotzcastle.zip",
       "source": {
         "date_added": "2024-10-04",
-        "date_updated": "2024-10-04",
-        "md5": "ea34ada47402517c8dda2aad38fe2aa7",
-        "release_id": "2024-10-04_1330",
+        "date_updated": "2024-12-27",
+        "md5": "4458eadb3bbdd289c49a22e8e30747c2",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 5016691,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-04_1330/holotzcastle.zip"
+        "size": 5016677,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/holotzcastle.zip"
       },
       "version": 3
     },
@@ -25785,12 +26008,12 @@
       "name": "justanotherpong.zip",
       "source": {
         "date_added": "2024-06-15",
-        "date_updated": "2024-06-15",
-        "md5": "9d82c18fa97e37cc13e9bcdc0586a002",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2024-12-27",
+        "md5": "2477c235f50484a7f627bbc77072cd12",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 4009075,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/justanotherpong.zip"
+        "size": 4009080,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/justanotherpong.zip"
       },
       "version": 3
     },
@@ -27173,12 +27396,12 @@
       "name": "lierolibre.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-12-13",
-        "md5": "a8ad3b2df91bb512570eecbda324c4e1",
-        "release_id": "2024-12-13_1501",
+        "date_updated": "2024-12-27",
+        "md5": "0311c6e319cb8e1b7c318dd4780a493d",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 11079019,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/lierolibre.zip"
+        "size": 11079036,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/lierolibre.zip"
       },
       "version": 3
     },
@@ -34780,12 +35003,12 @@
       "name": "ohmygodlookatthisknight.zip",
       "source": {
         "date_added": "2024-11-13",
-        "date_updated": "2024-11-13",
-        "md5": "274dcfa21a36a1f169f10d4e99393fe3",
-        "release_id": "2024-11-13_1319",
+        "date_updated": "2024-12-27",
+        "md5": "06832369aad88ccc0847b25b2d42590d",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
         "size": 10593691,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_1319/ohmygodlookatthisknight.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/ohmygodlookatthisknight.zip"
       },
       "version": 3
     },
@@ -35742,12 +35965,12 @@
       "name": "opentyrian.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "5f281b9a4956316abd5209d163c914c7",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-12-27",
+        "md5": "c6883093ee73ec3d2cb43272047053f7",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 5096918,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/opentyrian.zip"
+        "size": 5096961,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/opentyrian.zip"
       },
       "version": 3
     },
@@ -36556,12 +36779,12 @@
       "name": "owlboy.zip",
       "source": {
         "date_added": "2022-03-18",
-        "date_updated": "2024-11-28",
-        "md5": "6237e0437ba5020ba7e30292c847ff62",
-        "release_id": "2024-11-28_0901",
+        "date_updated": "2024-12-27",
+        "md5": "d3e4db46507212800952e49475d70b70",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 2589378,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/owlboy.zip"
+        "size": 2589373,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/owlboy.zip"
       },
       "version": 3
     },
@@ -42819,12 +43042,12 @@
       "name": "rocksndiamonds.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "6524f518219eeafa0f0373b898b4ddbd",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-12-27",
+        "md5": "c264ac8f5dc1cbccdd9879c75e2c8fcd",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 2419405,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/rocksndiamonds.zip"
+        "size": 2419449,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/rocksndiamonds.zip"
       },
       "version": 3
     },
@@ -44484,13 +44707,13 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download septuple.x86_64 from https://nnbnh.itch.io/septuple and place it into gamedata folder. ",
+        "inst": "Ready to run. ",
         "inst_md": null,
         "porter": [
           "Ganimoth"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": "frt_3.5.2.squashfs",
         "title": "Septuple"
       },
@@ -44502,12 +44725,12 @@
       "name": "septuple.zip",
       "source": {
         "date_added": "2024-09-24",
-        "date_updated": "2024-09-24",
-        "md5": "5d96574f6daf4056456e978920f74cdf",
-        "release_id": "2024-09-24_0718",
+        "date_updated": "2024-12-27",
+        "md5": "43a26046451408e31750a924ef03f10d",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 37062,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-24_0718/septuple.zip"
+        "size": 70503642,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/septuple.zip"
       },
       "version": 3
     },
@@ -44936,12 +45159,12 @@
       "name": "shippy.zip",
       "source": {
         "date_added": "2024-02-19",
-        "date_updated": "2024-04-01",
-        "md5": "bf3fd56791a28a3d77bd1b56de139fc4",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-12-27",
+        "md5": "0b164fd18d6baa93edf35e4ee494798c",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 2770686,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/shippy.zip"
+        "size": 2770718,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/shippy.zip"
       },
       "version": 3
     },
@@ -50808,12 +51031,12 @@
       "name": "supertransball2.zip",
       "source": {
         "date_added": "2024-09-26",
-        "date_updated": "2024-09-26",
-        "md5": "72814acd1d8a9b01fbe7f538fc28a7d4",
-        "release_id": "2024-09-26_1748",
+        "date_updated": "2024-12-27",
+        "md5": "d18af4ce4c22f69cfd81acfbf156f779",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 1678434,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/supertransball2.zip"
+        "size": 1678420,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/supertransball2.zip"
       },
       "version": 3
     },
@@ -55273,12 +55496,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2024-12-16",
-        "md5": "d2d0e3c138d9a7a064e84557cdbbcfdf",
-        "release_id": "2024-12-16_1130",
+        "date_updated": "2024-12-27",
+        "md5": "bb45c1a127d8e2ff060f419613b2d67f",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 32293904,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/ufo50.zip"
+        "size": 32949724,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/ufo50.zip"
       },
       "version": 3
     },
@@ -56240,12 +56463,12 @@
       "name": "vcmi.zip",
       "source": {
         "date_added": "2023-04-01",
-        "date_updated": "2024-09-15",
-        "md5": "73881c63876ee059f429f2237a4181e8",
-        "release_id": "2024-09-15_1157",
+        "date_updated": "2024-12-27",
+        "md5": "605d5cea1830d739dee25da27711d0bb",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 23618810,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-15_1157/vcmi.zip"
+        "size": 23618813,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/vcmi.zip"
       },
       "version": 3
     },
@@ -57115,12 +57338,12 @@
       "name": "vvvvvv.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "5ba28df1d85391def6e0044c23806cfb",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2024-12-27",
+        "md5": "1328849093e8ce8d6cbe75f88171b88f",
+        "release_id": "2024-12-27_1725",
         "repo": "main",
-        "size": 62112605,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/vvvvvv.zip"
+        "size": 62112646,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/vvvvvv.zip"
       },
       "version": 3
     },
@@ -58299,6 +58522,82 @@
         "repo": "main",
         "size": 3446841,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/worship_vector.zip"
+      },
+      "version": 3
+    },
+    "wuppo.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Play as an exiled 'wum' looking for a new home in this bizarre but charming world, filled with strange creatures, puzzles, monsters and political chaos.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install portfiles. Buy Wuppo on Steam. Right-click on Wuppo, select Properties, go to Betas, select 'Revert' (For MacOS version, make 'Revert' thick). Right-click on Wuppo again, go to Manage, then 'Browse Local Files.' Copy everything except the Funpack and Soundtrack folders. Go to your ROMs SD card, locate the 'ports/wuppo/assets' folder, and paste it there.",
+        "inst_md": "1. Install portfiles. Buy Wuppo on Steam.\n2. Right-click on Wuppo and select **Properties**.\n3. Go to **Betas**, select **Beta Participation**, and choose **Revert** (For MacOS version, make **Revert** thick).\n4. Right-click on Wuppo again, go to **Manage**, and select **Browse Local Files**.\n5. Copy everything except for the **Funpack** and **Soundtrack** folders.\n6. Go to your **ROMs SD card**, locate the `ports/wuppo/assets` folder, and paste the files there.",
+        "porter": [
+          "Techbane",
+          "JanTrueno"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Wuppo"
+      },
+      "items": [
+        "Wuppo.sh",
+        "wuppo"
+      ],
+      "items_opt": null,
+      "name": "wuppo.zip",
+      "source": {
+        "date_added": "2024-12-27",
+        "date_updated": "2024-12-27",
+        "md5": "126b284def35d83f013c4d874c100c68",
+        "release_id": "2024-12-27_1725",
+        "repo": "main",
+        "size": 57120522,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/wuppo.zip"
       },
       "version": 3
     },
