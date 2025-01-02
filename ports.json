@@ -1271,6 +1271,80 @@
       },
       "version": 3
     },
+    "alruna.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Welcome to a compact, tightly packed Metroidvania, where the Square Aspect Ratio and Single Screen Level Design allows every one of the 200+ rooms to slot into the larger puzzle-box of the world; where secrets, exploits and sequence-breaking are built into the very foundation of the game; and where the overarching story doesn\u2019t care too much which path you happen to take through the game.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy game files into the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Alruna and the Necro-Industrialists"
+      },
+      "items": [
+        "Alruna and the Necro-Industrialists.sh",
+        "alruna"
+      ],
+      "items_opt": null,
+      "name": "alruna.zip",
+      "source": {
+        "date_added": "2025-01-02",
+        "date_updated": "2025-01-02",
+        "md5": "681b4c39118189b19c4c471eed409f55",
+        "release_id": "2025-01-02_1923",
+        "repo": "main",
+        "size": 8882911,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/alruna.zip"
+      },
+      "version": 3
+    },
     "am2r.zip": {
       "attr": {
         "arch": [
@@ -10793,12 +10867,12 @@
       "name": "crysalis.zip",
       "source": {
         "date_added": "2024-07-28",
-        "date_updated": "2024-07-28",
-        "md5": "99ae7b8522410303cd44e2b5470aa57f",
-        "release_id": "2024-07-28_0519",
+        "date_updated": "2025-01-02",
+        "md5": "1a55e6ea4f613f329c024b7bb985ec1d",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 6192629,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/crysalis.zip"
+        "size": 6167329,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/crysalis.zip"
       },
       "version": 3
     },
@@ -13431,6 +13505,79 @@
         "repo": "main",
         "size": 7740790,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/dinothawr.zip"
+      },
+      "version": 3
+    },
+    "discroom.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Are you ready to get sliced in half? The year is 2089 and a giant disc has appeared in orbit of Jupiter. Step into the oversized space suit of a brave scientist and explore this sprawling intergalactic slaughterhouse.\nExplore the expansive orbiting disc ship, moving room to room surviving and completing increasingly complex goals set forth. Use unlocked abilities to outmaneuver dozens of different disc types while solving mysterious puzzles.\nAnd remember: what kills you only makes you stronger.",
+        "desc_md": "Are you ready to get sliced in half? The year is 2089 and a giant disc has appeared in orbit of Jupiter. Step into the oversized space suit of a brave scientist and explore this sprawling intergalactic slaughterhouse.\nExplore the expansive orbiting disc ship, moving room to room surviving and completing increasingly complex goals set forth. Use unlocked abilities to outmaneuver dozens of different disc types while solving mysterious puzzles.\nAnd remember: what kills you only makes you stronger.\n\n**Note: Currently only works with the Steam/GOG Version of the game!**",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam or gog.\nDownload the game and add the game data to discroom/assets.",
+        "inst_md": "Purchase the game from [steam](https://store.steampowered.com/app/1229580/Disc_Room/) or [gog](https://www.gog.com/en/game/disc_room).\nDownload the windows version of the game and add the game data to discroom/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Disc Room"
+      },
+      "items": [
+        "Disc Room.sh",
+        "discroom"
+      ],
+      "items_opt": null,
+      "name": "discroom.zip",
+      "source": {
+        "date_added": "2025-01-02",
+        "date_updated": "2025-01-02",
+        "md5": "de3586fa17ef40e6a7285430c40fcc8b",
+        "release_id": "2025-01-02_1923",
+        "repo": "main",
+        "size": 47969683,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/discroom.zip"
       },
       "version": 3
     },
@@ -17218,12 +17365,12 @@
       "name": "finding_paradise.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-07-18",
-        "md5": "cabc8a8094d3a4bccfc1a01d2d6a01f1",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-01-02",
+        "md5": "30dc399649a880dac76cabf2a5d42f50",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5181152,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/finding_paradise.zip"
+        "size": 5155853,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/finding_paradise.zip"
       },
       "version": 3
     },
@@ -26497,12 +26644,12 @@
       "name": "kaima.zip",
       "source": {
         "date_added": "2024-09-04",
-        "date_updated": "2024-09-04",
-        "md5": "61f8464b2137e71761401aae6964bf60",
-        "release_id": "2024-09-04_2145",
+        "date_updated": "2025-01-02",
+        "md5": "4a812ed074af436a66742dc1f546090f",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5160894,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_2145/kaima.zip"
+        "size": 5135594,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/kaima.zip"
       },
       "version": 3
     },
@@ -27756,12 +27903,12 @@
       "name": "lierolibre.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-12-27",
-        "md5": "0311c6e319cb8e1b7c318dd4780a493d",
-        "release_id": "2024-12-27_1725",
+        "date_updated": "2025-01-02",
+        "md5": "19111f5626adc5084ab3255b61b7f5cd",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 11079036,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/lierolibre.zip"
+        "size": 11486426,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/lierolibre.zip"
       },
       "version": 3
     },
@@ -27975,12 +28122,12 @@
       "name": "lisathebashful.zip",
       "source": {
         "date_added": "2024-06-20",
-        "date_updated": "2024-06-20",
-        "md5": "7af7807b1ec69205591e541ff3fcae07",
-        "release_id": "2024-06-20_0908",
+        "date_updated": "2025-01-02",
+        "md5": "38d59728b2f2a03f8d40ae7608eb71c0",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5164052,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-20_0908/lisathebashful.zip"
+        "size": 5138753,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/lisathebashful.zip"
       },
       "version": 3
     },
@@ -28049,12 +28196,12 @@
       "name": "lisathehopeful.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-10",
-        "md5": "bae19ddb8a4b185c8f847b99d2d30aea",
-        "release_id": "2024-05-10_0144",
+        "date_updated": "2025-01-02",
+        "md5": "a31efa1d60f00cfb32142ba458a81a23",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5162655,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-10_0144/lisathehopeful.zip"
+        "size": 5137356,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/lisathehopeful.zip"
       },
       "version": 3
     },
@@ -28123,12 +28270,12 @@
       "name": "lisathejoyful.zip",
       "source": {
         "date_added": "2024-03-02",
-        "date_updated": "2024-07-18",
-        "md5": "3c9c0f33c876d77c5d5f0db626fe1df2",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-01-02",
+        "md5": "dc731d5b7ee97cb66ad8125ab3795ceb",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5186675,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/lisathejoyful.zip"
+        "size": 5161376,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/lisathejoyful.zip"
       },
       "version": 3
     },
@@ -28197,12 +28344,12 @@
       "name": "lisathepainful.zip",
       "source": {
         "date_added": "2024-03-02",
-        "date_updated": "2024-07-18",
-        "md5": "eff84bc19fd9f4aba68ada3a0c88fbd4",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-01-02",
+        "md5": "a92d8dc14abe7ef41f8667646530706f",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5162858,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/lisathepainful.zip"
+        "size": 5137560,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/lisathepainful.zip"
       },
       "version": 3
     },
@@ -28271,12 +28418,12 @@
       "name": "lisathepointless.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-10",
-        "md5": "8eb6c143aff8973c6d45422d9fcb6d9f",
-        "release_id": "2024-05-10_0144",
+        "date_updated": "2025-01-02",
+        "md5": "3ccbb660f1c22c6249b5d918fd54d989",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5236537,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-10_0144/lisathepointless.zip"
+        "size": 5211238,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/lisathepointless.zip"
       },
       "version": 3
     },
@@ -28345,12 +28492,12 @@
       "name": "lisathetimeless.zip",
       "source": {
         "date_added": "2024-05-23",
-        "date_updated": "2024-05-29",
-        "md5": "60ec5be9513b609cb696ef659d329267",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2025-01-02",
+        "md5": "e62e5e6c6485d62607472778198006f7",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5176272,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/lisathetimeless.zip"
+        "size": 5150972,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/lisathetimeless.zip"
       },
       "version": 3
     },
@@ -28419,12 +28566,12 @@
       "name": "lisatheunbreakable.zip",
       "source": {
         "date_added": "2024-05-08",
-        "date_updated": "2024-05-29",
-        "md5": "6b223796dfd56b8b8ff7cf4db281584f",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2025-01-02",
+        "md5": "a118fea1abf5a8dd2decbd697ebc4236",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5218157,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/lisatheunbreakable.zip"
+        "size": 5192858,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/lisatheunbreakable.zip"
       },
       "version": 3
     },
@@ -28493,12 +28640,12 @@
       "name": "lisatheundone.zip",
       "source": {
         "date_added": "2024-05-06",
-        "date_updated": "2024-05-09",
-        "md5": "eca5fdc7ba11f5a2545754b9103d0d27",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2025-01-02",
+        "md5": "a546fceaee61f0b3d5c5ba0e3bd45ddc",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5154418,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/lisatheundone.zip"
+        "size": 5129118,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/lisatheundone.zip"
       },
       "version": 3
     },
@@ -37274,6 +37421,79 @@
       },
       "version": 3
     },
+    "oxytone.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Oxytone is the ultimate puzzle game, equally easy to learn and challenging to master. Are you ready for a unique adventure like no other? Oxytone invites you to explore the depths of your mind while offering a tranquil escape from the hustle and bustle of everyday life for those seeking relaxation. For more determined players, there are 99 challenges, colorful themes to unlock, and 12 meticulously designed maps. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase on Steam or Itch.io and copy game files into assets folder. You can also use demo versions.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "analog_1|analog_2"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Oxytone"
+      },
+      "items": [
+        "Oxytone.sh",
+        "oxytone"
+      ],
+      "items_opt": null,
+      "name": "oxytone.zip",
+      "source": {
+        "date_added": "2025-01-02",
+        "date_updated": "2025-01-02",
+        "md5": "1ff920b8704d1aa33e530760f824c123",
+        "release_id": "2025-01-02_1923",
+        "repo": "main",
+        "size": 26815236,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/oxytone.zip"
+      },
+      "version": 3
+    },
     "pachi.zip": {
       "attr": {
         "arch": [
@@ -41120,12 +41340,12 @@
       "name": "rakuen.zip",
       "source": {
         "date_added": "2024-02-08",
-        "date_updated": "2024-07-18",
-        "md5": "6276440c66255b2a89e724d682733ad2",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-01-02",
+        "md5": "2c45abb1a3898111e6605a4ff61c1b7d",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5195997,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/rakuen.zip"
+        "size": 5170698,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/rakuen.zip"
       },
       "version": 3
     },
@@ -41632,12 +41852,12 @@
       "name": "rebound.zip",
       "source": {
         "date_added": "2024-06-05",
-        "date_updated": "2024-10-01",
-        "md5": "e1b338490b92b124e3602d32d022c930",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2025-01-02",
+        "md5": "31370358d0e3f9aa62b52d3866c1a459",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5161020,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/rebound.zip"
+        "size": 5135720,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/rebound.zip"
       },
       "version": 3
     },
@@ -42003,12 +42223,12 @@
       "name": "redtrees.zip",
       "source": {
         "date_added": "2024-07-02",
-        "date_updated": "2024-07-02",
-        "md5": "c87053ac7451edb0ed25ebdcf563c6b0",
-        "release_id": "2024-07-02_1342",
+        "date_updated": "2025-01-02",
+        "md5": "82720adde8fdd46598f47d7e37a8e060",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 5156255,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-02_1342/redtrees.zip"
+        "size": 5130955,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/redtrees.zip"
       },
       "version": 3
     },
@@ -42077,12 +42297,12 @@
       "name": "redtrianglesc.zip",
       "source": {
         "date_added": "2024-11-13",
-        "date_updated": "2024-11-13",
-        "md5": "adee543f075438c109abdb841c3a99ff",
-        "release_id": "2024-11-13_1319",
+        "date_updated": "2025-01-02",
+        "md5": "0a9459fec23d1ead5deec6c075fe03fe",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 219572861,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_1319/redtrianglesc.zip"
+        "size": 221254004,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/redtrianglesc.zip"
       },
       "version": 3
     },
@@ -42782,12 +43002,12 @@
       "name": "rick.dangerous.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-10-24",
-        "md5": "cbba1db740fa4b1bc1dcb5f0b3a18c0e",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2025-01-02",
+        "md5": "571116a1c73fa48042d1ececfce654e2",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
         "size": 3106790,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/rick.dangerous.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/rick.dangerous.zip"
       },
       "version": 3
     },
@@ -45655,7 +45875,7 @@
           "video": null
         },
         "inst": "Purchase the game from steam. Use the depot downloader to download the correct version of the game.\nCopy all the game files to /ports/sheepo/gamedata.",
-        "inst_md": "Purchase the game from [steam](https://store.steampowered.com/app/1281790/SHEEPO/). \nRun steam console via Windows+R: Type: steam://open/console, download the 5 September 2020 version of the game by typing: download_depot 1281790 1281791 2354247233124576146. \nWhen the download is complete, it will tell you the location of the folder.\nCopy all files from /depot_1281791 to /ports/sheepo/gamedata",
+        "inst_md": "Purchase the game from [steam](https://store.steampowered.com/app/1281790/SHEEPO/). \nRun steam console via Windows+R: Type: steam://open/console, download the 5 September 2020 version of the game by typing: `download_depot 1281790 1281791 2354247233124576146`. \nWhen the download is complete, it will tell you the location of the folder.\nCopy all files from /depot\\_1281791 to /ports/sheepo/gamedata",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -45675,12 +45895,12 @@
       "name": "sheepo.zip",
       "source": {
         "date_added": "2024-12-13",
-        "date_updated": "2024-12-13",
-        "md5": "f2eed7a0c0be1e119b14b2b543b91dca",
-        "release_id": "2024-12-13_1501",
+        "date_updated": "2025-01-02",
+        "md5": "4a1222a6d44e48b3b6243eea35f3ba88",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 29698951,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/sheepo.zip"
+        "size": 29698955,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/sheepo.zip"
       },
       "version": 3
     },
@@ -45977,6 +46197,82 @@
         "repo": "main",
         "size": 3568975,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/shovel.knight.zip"
+      },
+      "version": 3
+    },
+    "shovelknightpocketdungeon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Delve with Shovel Knight into the depths of the Pocket Dungeon in an action-packed puzzle adventure mashup like none other! Join your mysterious guide Puzzle Knight as you shovel through scads of foes, procure new equipment, and battle bosses both familiar and new. Explore a tale with endless twists and turns, quest as your favorite heroes, and even challenge a friend for fast-paced head-to-head competition in Shovel Knight Pocket Dungeon!",
+        "desc_md": "Delve with Shovel Knight into the depths of the Pocket Dungeon in an action-packed puzzle adventure mashup like none other! Join your mysterious guide Puzzle Knight as you shovel through scads of foes, procure new equipment, and battle bosses both familiar and new. Explore a tale with endless twists and turns, quest as your favorite heroes, and even challenge a friend for fast-paced head-to-head competition in Shovel Knight Pocket Dungeon!\n\n**Note:** This is version 1.13 which does not come with the free DLCs/expansions",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam. Use download_depot 1184760 1184761 5529913677570552716 with Steam Console to download the game and add the data to shovelknightpocketdungeon/gamedata",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Shovel Knight Pocket Dungeon"
+      },
+      "items": [
+        "Shovel Knight Pocket Dungeon.sh",
+        "shovelknightpocketdungeon"
+      ],
+      "items_opt": null,
+      "name": "shovelknightpocketdungeon.zip",
+      "source": {
+        "date_added": "2025-01-02",
+        "date_updated": "2025-01-02",
+        "md5": "12c2433016ee15a68e61172c3802ce73",
+        "release_id": "2025-01-02_1923",
+        "repo": "main",
+        "size": 21998469,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/shovelknightpocketdungeon.zip"
       },
       "version": 3
     },
@@ -53592,7 +53888,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Everything is included and ready to run.  Just launch the original Tile World (Chip's Challenge) or one of the theme mods and play!",
+        "inst": "Everything is included and ready to run.  Launch Tile World, select one of the theme mods and desired display scaling and play!",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -53604,23 +53900,19 @@
         "title": "Tile World"
       },
       "items": [
-        "Tile World (Chip's Challenge).sh",
-        "Tile World (Atari Lynx Theme Mod).sh",
-        "Tile World (Natural Theme Mod).sh",
-        "Tile World (Stadia Theme Mod).sh",
-        "Tile World (Microsoft Theme Mod).sh",
+        "Tile World.sh",
         "tileworld/"
       ],
       "items_opt": null,
       "name": "tileworld.zip",
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2024-12-13",
-        "md5": "e2d34f3e6ab8e9784126b4d573fac8bb",
-        "release_id": "2024-12-13_1501",
+        "date_updated": "2025-01-02",
+        "md5": "12f58f66f8d4410e2294a510fc86b16d",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 29688859,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/tileworld.zip"
+        "size": 30847661,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/tileworld.zip"
       },
       "version": 3
     },
@@ -54129,12 +54421,12 @@
       "name": "to_the_moon.zip",
       "source": {
         "date_added": "2024-02-06",
-        "date_updated": "2025-01-01",
-        "md5": "b064f1ca8b4a522b432f800dd2558b03",
-        "release_id": "2025-01-01_2019",
+        "date_updated": "2025-01-02",
+        "md5": "88cf0b35c1fe49273be6547c2334a5aa",
+        "release_id": "2025-01-02_1923",
         "repo": "main",
-        "size": 9119219,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-01_2019/to_the_moon.zip"
+        "size": 9093911,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/to_the_moon.zip"
       },
       "version": 3
     },
