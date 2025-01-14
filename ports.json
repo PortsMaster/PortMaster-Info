@@ -1419,6 +1419,79 @@
       },
       "version": 3
     },
+    "ametadatagame.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Embark on a short yet captivating journey of self-discovery. Solve intricate puzzles and uncover the hidden truths that await you.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "All files included and ready to run. Thanks to Ansimuz for releasing this fantastic game to the Public Domain.",
+        "inst_md": "All files included and ready to run. Thanks to [Ansimuz](https://ansimuz.itch.io) for releasing this fantastic game to the Public Domain.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "A Meta Data Game"
+      },
+      "items": [
+        "A Meta Data Game.sh",
+        "ametadatagame"
+      ],
+      "items_opt": null,
+      "name": "ametadatagame.zip",
+      "source": {
+        "date_added": "2025-01-14",
+        "date_updated": "2025-01-14",
+        "md5": "0db49df927c1e343bdef5664e1e866c5",
+        "release_id": "2025-01-14_1009",
+        "repo": "main",
+        "size": 3287700,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/ametadatagame.zip"
+      },
+      "version": 3
+    },
     "anarch.zip": {
       "attr": {
         "arch": [
@@ -4928,12 +5001,12 @@
       "name": "blood.zip",
       "source": {
         "date_added": "2021-09-11",
-        "date_updated": "2025-01-01",
-        "md5": "bc6b386844c73bddbeeba184f4be630b",
-        "release_id": "2025-01-01_2019",
+        "date_updated": "2025-01-14",
+        "md5": "a93af175d00b604684c4452f586650fd",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 1340660,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-01_2019/blood.zip"
+        "size": 1340597,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/blood.zip"
       },
       "version": 3
     },
@@ -8936,12 +9009,12 @@
       "name": "celeste.zip",
       "source": {
         "date_added": "2024-09-11",
-        "date_updated": "2024-09-11",
-        "md5": "9d3598bc4223e5ac99b63d0b1e451faa",
-        "release_id": "2024-09-11_1523",
+        "date_updated": "2025-01-14",
+        "md5": "de5013ea9dbf02e8cea79808f08837c8",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 3056639,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-11_1523/celeste.zip"
+        "size": 3056593,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/celeste.zip"
       },
       "version": 3
     },
@@ -13123,12 +13196,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-12-27",
-        "md5": "669b378b797cd25bf29ee87ce31a04f0",
-        "release_id": "2024-12-27_1725",
+        "date_updated": "2025-01-14",
+        "md5": "f53ee5fef0938dcbf02925720bff6078",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 15280041,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/descent.zip"
+        "size": 15279786,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/descent.zip"
       },
       "version": 3
     },
@@ -13202,12 +13275,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2024-12-27",
-        "md5": "3bd4ea68134b93fba4709baf03664d84",
-        "release_id": "2024-12-27_1725",
+        "date_updated": "2025-01-14",
+        "md5": "15a3dd466766ea164bc704b2cf2ae7e9",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 14954212,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/descent2.zip"
+        "size": 14953957,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/descent2.zip"
       },
       "version": 3
     },
@@ -14532,12 +14605,12 @@
       "name": "downwell.zip",
       "source": {
         "date_added": "2024-08-01",
-        "date_updated": "2024-08-01",
-        "md5": "b1804ca406f2fd4a9b60f66ae2adba8c",
-        "release_id": "2024-08-01_1058",
+        "date_updated": "2025-01-14",
+        "md5": "e37c88b1c59e6afbdc337ebe604d5410",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 14627183,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/downwell.zip"
+        "size": 12526410,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/downwell.zip"
       },
       "version": 3
     },
@@ -15067,6 +15140,80 @@
         "repo": "main",
         "size": 5914766,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/duke3dawo.zip"
+      },
+      "version": 3
+    },
+    "dumpyandbumpy.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Experience a clever take on retro Japanese puzzle games. Bite, blow up, and break through 80 charming but challenging levels. Crack each level's code and crush the evil Ghostlord. Be sure to make haste, though, or the Ghost minions will make a waste ... of you!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://programancer.itch.io/dumpy) or Steam (https://store.steampowered.com/app/1631500/Dumpy_and_Bumpy). First, extract the .zip (if itch.io version), then copy the game files to this port's gamedata folder.",
+        "inst_md": "Purchase the game on [itch.io](https://programancer.itch.io/dumpy) or [Steam](https://store.steampowered.com/app/1631500/Dumpy_and_Bumpy). First, extract the *.zip* (if itch.io version), then copy the game files to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Dumpy & Bumpy"
+      },
+      "items": [
+        "Dumpy and Bumpy.sh",
+        "dumpyandbumpy"
+      ],
+      "items_opt": null,
+      "name": "dumpyandbumpy.zip",
+      "source": {
+        "date_added": "2025-01-14",
+        "date_updated": "2025-01-14",
+        "md5": "fc4a487f3382716291a172705ef93041",
+        "release_id": "2025-01-14_1009",
+        "repo": "main",
+        "size": 12669215,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/dumpyandbumpy.zip"
       },
       "version": 3
     },
@@ -16393,12 +16540,12 @@
       "name": "exhumed.zip",
       "source": {
         "date_added": "2021-09-13",
-        "date_updated": "2024-05-21",
-        "md5": "b1867492d12c36115c64c719c0c22a3f",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2025-01-14",
+        "md5": "faf45292c0d41ffba619485e24d988f7",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 953843,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/exhumed.zip"
+        "size": 1050685,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/exhumed.zip"
       },
       "version": 3
     },
@@ -17845,45 +17992,48 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": " Fire Arrow is a time attack (or 'Caravan', what used to be an important tradition in Japanese STGs in 90s) style shooter with a heavy emphasis on scoring, also known as \"coffee break shmups\"",
+        "desc": "Fire Arrow and Fire Arrow X are time attack (or 'Caravan', what used to be an important tradition in Japanese STGs in the 90s) style shooters with a heavy emphasis on scoring, also known as \"coffee break shmups\"",
         "desc_md": null,
         "exp": false,
         "genres": [
+          "action",
           "arcade"
         ],
         "image": {
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.png",
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Just copy data.win and ogg files inside gamedata. This version is NOT compatible with the one in the folder FAX,but the one you can find in the folder FA1.",
-        "inst_md": null,
+        "inst": "Purchase from Steam https://store.steampowered.com/app/509780/Fire_Arrow_Plus/ and copy the FA1 and FAX folders into the port folder (/ports/firearrow/).  The itch.io version's two zip files can be copied directly into the port folder - v2.7.17 has been tested working.  Additionally, you can copy the data.win and all .ogg files from each of these folders into the respective gamedata folders (/ports/firearrow/firearrow/gamedata/ & /ports/firearrow/firearrowx/gamedata/).",
+        "inst_md": "Purchase at [Steam](https://store.steampowered.com/app/509780/Fire_Arrow_Plus/) and copy the FA1 and FAX folders into the port folder (/ports/firearrow/).  The itch.io version's two zip files can be copied directly into the port folder - v2.7.17 has been tested working.  Additionally, you can copy the data.win and all .ogg files from each of these folders into the respective gamedata folders (/ports/firearrow/firearrow/gamedata/ & /ports/firearrow/firearrowx/gamedata/).",
         "min_glibc": "",
         "porter": [
-          "Tekkenfede"
+          "Tekkenfede",
+          "Slayer366",
+          "MadShmupper"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": null,
-        "title": "Fire Arrow (Remastered)"
+        "title": "Fire Arrow Plus"
       },
       "items": [
-        "Firearrow.sh",
+        "Fire Arrow Plus.sh",
         "firearrow/"
       ],
       "items_opt": null,
       "name": "firearrow.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2024-07-18",
-        "md5": "4aafa0352d8bda2e626750147f41818b",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-01-14",
+        "md5": "7ef169bf988684dcce402d7f9a22981d",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 13724214,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/firearrow.zip"
+        "size": 15652466,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/firearrow.zip"
       },
       "version": 3
     },
@@ -18186,6 +18336,82 @@
       },
       "version": 3
     },
+    "flinthook.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Live the life of space captain Flinthook! Armed with your mighty hookshot, your uncanny slow-motion powers and your trusty blasma pistol, plunder and fight your way through an infinite variety of randomly-assembled spaceships for treasure, loot and fame!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install portfiles. Buy the game on Steam Copy Flinthook.exe and all surrounding files and folders to ports/flinthook/gamedata. Run the port!",
+        "inst_md": "1. Install portfiles.\n2. Buy the game on [Steam](https://store.steampowered.com/app/401710/Flinthook/?curator_clanid=32938474)\n3. Copy Flinthook.exe and all surrounding files to `ports/flinthook/gamedata`\n4. Run the port!",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "Flinthook"
+      },
+      "items": [
+        "Flinthook.sh",
+        "flinthook"
+      ],
+      "items_opt": null,
+      "name": "flinthook.zip",
+      "source": {
+        "date_added": "2025-01-14",
+        "date_updated": "2025-01-14",
+        "md5": "716d84ab9a140a1879aa35f63bb4ed08",
+        "release_id": "2025-01-14_1009",
+        "repo": "main",
+        "size": 3314946,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/flinthook.zip"
+      },
+      "version": 3
+    },
     "flywrench.zip": {
       "attr": {
         "arch": [
@@ -18338,15 +18564,21 @@
           "armhf"
         ],
         "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
           "rg503:ALL",
           "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
           "rgb30:ALL",
+          "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
-          "ogs:ALL",
           "ace:ALL"
         ],
-        "desc": "Forager is a 2D open world game inspired by exploration, farming and crafting games such as Stardew Valley, Terraria & Zelda!\n\nNote: Only the Steam Version works. The Linux version is 2.0.4 which is not as up to date as the Windows version.",
+        "desc": "Forager is a 2D open world game inspired by exploration, farming and crafting games such as Stardew Valley, Terraria & Zelda!\n\nNote: Only the Steam Version works. The Linux version is 2.0.4 is not as up to date as the Windows version. Small text makes it hard to read descriptions on devices with small screens.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -18360,14 +18592,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase Forager from steam: https://store.steampowered.com/app/751780/Forager/\n\nDownload the linux version:\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 751780 751783 3324194938480079153 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/forager/gamedata",
+        "inst": "Purchase Forager from steam: https://store.steampowered.com/app/751780/Forager/\n\nDownload the linux version:\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 751780 751783 3324194938480079153 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/forager/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
         ],
         "reqs": [
-          "hires"
+          "power"
         ],
         "rtr": false,
         "runtime": null,
@@ -18381,12 +18613,12 @@
       "name": "forager.zip",
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2024-07-18",
-        "md5": "c12c47cc3c605d71fa27eab1f30bd19a",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-01-14",
+        "md5": "e7c2974c71ba8f4a117fea48b7bf615a",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 5749680,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/forager.zip"
+        "size": 50008232,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/forager.zip"
       },
       "version": 3
     },
@@ -23561,12 +23793,12 @@
       "name": "hexen2.zip",
       "source": {
         "date_added": "2022-11-17",
-        "date_updated": "2024-08-06",
-        "md5": "b4168119f6607f47f32ea8ca2c06ded3",
-        "release_id": "2024-08-06_0203",
+        "date_updated": "2025-01-14",
+        "md5": "13fa506d6206b6cb2225ad9ffa2788b3",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 45384407,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/hexen2.zip"
+        "size": 45384196,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/hexen2.zip"
       },
       "version": 3
     },
@@ -25697,12 +25929,12 @@
       "name": "ioawn4t.zip",
       "source": {
         "date_added": "2024-04-20",
-        "date_updated": "2024-04-22",
-        "md5": "555ebe909a70fe29e4a928923051257e",
-        "release_id": "2024-04-22_2125",
+        "date_updated": "2025-01-14",
+        "md5": "10258c6b56e244763477064f48e88c1c",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 2749975,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-22_2125/ioawn4t.zip"
+        "size": 2749979,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/ioawn4t.zip"
       },
       "version": 3
     },
@@ -30104,12 +30336,12 @@
       "name": "love3.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-07-18",
-        "md5": "ca10fe383f2ebb515cd594184ee078f7",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-01-14",
+        "md5": "66c3dea3e6036b7d72897e9262d5663f",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 8384470,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/love3.zip"
+        "size": 8384599,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/love3.zip"
       },
       "version": 3
     },
@@ -30328,12 +30560,12 @@
       "name": "lunarlux.zip",
       "source": {
         "date_added": "2024-12-13",
-        "date_updated": "2024-12-16",
-        "md5": "0d35f4e5691a7872ff9592cc14f95a52",
-        "release_id": "2024-12-16_1130",
+        "date_updated": "2025-01-14",
+        "md5": "86dab81ce3503ee799f92b8decff00bc",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 46719702,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/lunarlux.zip"
+        "size": 46690199,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/lunarlux.zip"
       },
       "version": 3
     },
@@ -33771,12 +34003,12 @@
       "name": "nam.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-05-21",
-        "md5": "3a82dc307ed4cb297f9002356083bc7b",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2025-01-14",
+        "md5": "f9049fbe5f759811a6122e83902b702d",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 1209744,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/nam.zip"
+        "size": 1306532,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/nam.zip"
       },
       "version": 3
     },
@@ -34285,6 +34517,77 @@
         "repo": "main",
         "size": 2806936,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-20_0908/ner.zip"
+      },
+      "version": 3
+    },
+    "netouchezpas5.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Navigate 100 levels with six unique characters, each with distinct controls. Dodge deadly fans, evade lasers, hit switches, collect bits, and leap into the void to progress.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the full game at itch.io (https://ci.itch.io/ne-touchez-pas-5). Download and extract the .zip, and copy the game files to this port's gamedata folder.",
+        "inst_md": "Purchase the full game at [itch.io](https://ci.itch.io/ne-touchez-pas-5). Download and extract the *.zip*, and copy the game files to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Ne Touchez Pas 5"
+      },
+      "items": [
+        "Ne Touchez Pas 5.sh",
+        "netouchezpas5"
+      ],
+      "items_opt": null,
+      "name": "netouchezpas5.zip",
+      "source": {
+        "date_added": "2025-01-14",
+        "date_updated": "2025-01-14",
+        "md5": "e73a1824bd3394d3a9d131da34569c9b",
+        "release_id": "2025-01-14_1009",
+        "repo": "main",
+        "size": 10300531,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/netouchezpas5.zip"
       },
       "version": 3
     },
@@ -37995,12 +38298,12 @@
       "name": "oxytone.zip",
       "source": {
         "date_added": "2025-01-02",
-        "date_updated": "2025-01-02",
-        "md5": "1ff920b8704d1aa33e530760f824c123",
-        "release_id": "2025-01-02_1923",
+        "date_updated": "2025-01-14",
+        "md5": "97a015b509212e206508061ba5949096",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 26815236,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/oxytone.zip"
+        "size": 26992592,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/oxytone.zip"
       },
       "version": 3
     },
@@ -38967,6 +39270,80 @@
         "repo": "main",
         "size": 15472339,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-10_1313/pingus.zip"
+      },
+      "version": 3
+    },
+    "pippubaublequest.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Take Pippu on an epic platforming adventure to defeat the nefarious Obkins and retrieve the stolen Baubles! Run, climb and swim your way through 14 worlds to bash the baddies and save your planet.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the full game at itch.io (https://ci.itch.io/pippu-bauble-quest). Download the Pippu (Zipped Folder) version and extract the .zip, and copy the game files to this port's gamedata folder.",
+        "inst_md": "Purchase the full game at [itch.io](https://ci.itch.io/pippu-bauble-quest). Download the *Pippu (Zipped Folder)* version and extract the *.zip*, and copy the game files to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Pippu - Bauble Quest"
+      },
+      "items": [
+        "Pippu - Bauble Quest.sh",
+        "pippubaublequest"
+      ],
+      "items_opt": null,
+      "name": "pippubaublequest.zip",
+      "source": {
+        "date_added": "2025-01-14",
+        "date_updated": "2025-01-14",
+        "md5": "598a33069be6257523bbca830b5789b7",
+        "release_id": "2025-01-14_1009",
+        "repo": "main",
+        "size": 15242565,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/pippubaublequest.zip"
       },
       "version": 3
     },
@@ -40362,6 +40739,80 @@
         "repo": "main",
         "size": 648585,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/prehistorik.2.zip"
+      },
+      "version": 3
+    },
+    "prisnhax.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A puzzle game where you hack light-based prison locks. Use mirrors, splitters, and prisms to guide light, unlocking cells across 50 levels. Relaxing yet challenging!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the full game at itch.io (https://ci.itch.io/prisnhax). Download and extract the .zip, and copy the game files to this port's gamedata folder.",
+        "inst_md": "Purchase the full game at [itch.io](https://ci.itch.io/prisnhax). Download and extract the *.zip*, and copy the game files to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Prisnhax"
+      },
+      "items": [
+        "Prisnhax.sh",
+        "prisnhax"
+      ],
+      "items_opt": null,
+      "name": "prisnhax.zip",
+      "source": {
+        "date_added": "2025-01-14",
+        "date_updated": "2025-01-14",
+        "md5": "c48d2b939d99c634d1b1a6ce340f6e3b",
+        "release_id": "2025-01-14_1009",
+        "repo": "main",
+        "size": 22153858,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/prisnhax.zip"
       },
       "version": 3
     },
@@ -42521,12 +42972,12 @@
       "name": "redneck.rampage.rides.again.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-12-27",
-        "md5": "b4779adfa57067bf842775ca44af8723",
-        "release_id": "2024-12-27_2043",
+        "date_updated": "2025-01-14",
+        "md5": "78d910ccf7c53a2f63f1fdda3b06a269",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 1309408,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_2043/redneck.rampage.rides.again.zip"
+        "size": 1309353,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/redneck.rampage.rides.again.zip"
       },
       "version": 3
     },
@@ -42597,12 +43048,12 @@
       "name": "redneck.rampage.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-12-27",
-        "md5": "da7d8a134dd3cda76f058c8bbf593469",
-        "release_id": "2024-12-27_2043",
+        "date_updated": "2025-01-14",
+        "md5": "6a18b525ad3ac6670619c8f119a9280f",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 1327694,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_2043/redneck.rampage.zip"
+        "size": 1327639,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/redneck.rampage.zip"
       },
       "version": 3
     },
@@ -46497,12 +46948,12 @@
       "name": "shadowwrangler.zip",
       "source": {
         "date_added": "2025-01-08",
-        "date_updated": "2025-01-08",
-        "md5": "ddacf8e327136b711fb69dfe3fd1970a",
-        "release_id": "2025-01-08_1341",
+        "date_updated": "2025-01-14",
+        "md5": "2d404ad934b1e6edf4a53eebdc67f305",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 11612972,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/shadowwrangler.zip"
+        "size": 11613030,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/shadowwrangler.zip"
       },
       "version": 3
     },
@@ -46917,7 +47368,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from steam. Use `download_depot 1184760 1184761 5529913677570552716` with Steam Console to download the game and add the data to shovelknightpocketdungeon/gamedata",
+        "inst": "Purchase the game from steam. Use `download_depot 1184760 1184761 5529913677570552716` with Steam Console to download the game and add the game data to shovelknightpocketdungeon/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -46936,12 +47387,12 @@
       "name": "shovelknightpocketdungeon.zip",
       "source": {
         "date_added": "2025-01-02",
-        "date_updated": "2025-01-08",
-        "md5": "f2b65ce65f63fcb9b527d30df19dc1cf",
-        "release_id": "2025-01-08_1341",
+        "date_updated": "2025-01-14",
+        "md5": "751875eb84794a8902da9c0a02e980bc",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
         "size": 20761818,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/shovelknightpocketdungeon.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/shovelknightpocketdungeon.zip"
       },
       "version": 3
     },
@@ -47022,7 +47473,7 @@
     "siegeofosaka.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -47041,10 +47492,13 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -47068,7 +47522,8 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "mattyj513"
+          "mattyj513",
+          "tabreturn"
         ],
         "reqs": [],
         "rtr": true,
@@ -47083,12 +47538,12 @@
       "name": "siegeofosaka.zip",
       "source": {
         "date_added": "2023-11-04",
-        "date_updated": "2024-07-18",
-        "md5": "ad6406b33e0ff5b128a46e9e4292fc82",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-01-14",
+        "md5": "9606670548e01bf808e03787b2f62479",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 14270216,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/siegeofosaka.zip"
+        "size": 21025598,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/siegeofosaka.zip"
       },
       "version": 3
     },
@@ -49890,10 +50345,10 @@
       },
       "version": 3
     },
-    "spelunky.zip": {
+    "spellworm.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -49912,16 +50367,93 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Spelunky Classic HD.  A modified version of Derek Yu's game Spelunky Classic. Based on the source code published in Humble Weekly Bundle: Play and Create with GameMaker (not original 1.1 release).",
+        "desc": "Help Spellworm to eat his way through over 100-word search puzzles, chomping through different themes, including shapes, colours, countries, planets and much more.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the full game at itch.io (https://ci.itch.io/spellworm). Download and extract the .zip, and copy the game files to this port's gamedata folder.",
+        "inst_md": "Purchase the full game at [itch.io](https://ci.itch.io/spellworm). Download and extract the *.zip*, and copy the game files to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Spellworm"
+      },
+      "items": [
+        "Spellworm.sh",
+        "spellworm"
+      ],
+      "items_opt": null,
+      "name": "spellworm.zip",
+      "source": {
+        "date_added": "2025-01-14",
+        "date_updated": "2025-01-14",
+        "md5": "4562bf30d4459d7d1d01bdab1c150ec2",
+        "release_id": "2025-01-14_1009",
+        "repo": "main",
+        "size": 13927210,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/spellworm.zip"
+      },
+      "version": 3
+    },
+    "spelunky.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Spelunky Classic HD.  A modified version of Derek Yu's game Spelunky Classic. Based on the source code published in Humble Weekly Bundle: Play and Create with GameMaker (not original 1.1 release).\" ",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -49931,15 +50463,16 @@
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.jpg",
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to run.",
+        "inst": "Ready to Run!",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Christian_Haitian"
+          "Christian_Haitian",
+          "JanTrueno"
         ],
         "reqs": [],
         "rtr": true,
@@ -49947,19 +50480,19 @@
         "title": "Spelunky"
       },
       "items": [
-        "spelunky/",
-        "Spelunky.sh"
+        "Spelunky.sh",
+        "spelunky"
       ],
       "items_opt": null,
       "name": "spelunky.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-09-26",
-        "md5": "93896e98a1f4d184a0fe2c264e255d7b",
-        "release_id": "2024-09-26_1748",
+        "date_updated": "2025-01-14",
+        "md5": "cd81eb56f62f1ea040f99b1f0f696f44",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 8888319,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/spelunky.zip"
+        "size": 17407438,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/spelunky.zip"
       },
       "version": 3
     },
@@ -54509,6 +55042,80 @@
       },
       "version": 3
     },
+    "ticoban.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A Sobokan clone make with Pyxel",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Alfonso Saavedra 'Son Link'"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "pyxel_2.2.8_python_3.11.squashfs",
+        "title": "Ticoban"
+      },
+      "items": [
+        "Ticoban.sh",
+        "ticoban"
+      ],
+      "items_opt": null,
+      "name": "ticoban.zip",
+      "source": {
+        "date_added": "2025-01-14",
+        "date_updated": "2025-01-14",
+        "md5": "4e2b505825e066e5384e51c430133690",
+        "release_id": "2025-01-14_1009",
+        "repo": "main",
+        "size": 84125,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/ticoban.zip"
+      },
+      "version": 3
+    },
     "tileworld.zip": {
       "attr": {
         "arch": [
@@ -54808,6 +55415,80 @@
         "repo": "main",
         "size": 89711,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/tinystg.zip"
+      },
+      "version": 3
+    },
+    "tinyworldracing.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Blast your way through a variety of environments in 20 tracks across 5 different tournaments. From crumbling castles to volcanic islands, you'll need to master all kinds of terrain to become the world's best racer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the full game at itch.io (https://ci.itch.io/tiny-world-racing). Download and extract the 'Tiny World Racing - as a compressed ZIP' version, and copy the game files to this port's gamedata folder.",
+        "inst_md": "Purchase the full game at [itch.io](https://ci.itch.io/tiny-world-racing). Download and extract the *Tiny World Racing - as a compressed ZIP* version, and copy the game files to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Tiny World Racing"
+      },
+      "items": [
+        "Tiny World Racing.sh",
+        "tinyworldracing"
+      ],
+      "items_opt": null,
+      "name": "tinyworldracing.zip",
+      "source": {
+        "date_added": "2025-01-14",
+        "date_updated": "2025-01-14",
+        "md5": "36e33d7c99ea441cfcbade314f396e71",
+        "release_id": "2025-01-14_1009",
+        "repo": "main",
+        "size": 13961997,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/tinyworldracing.zip"
       },
       "version": 3
     },
@@ -57850,12 +58531,12 @@
       "name": "utyellow.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2024-11-13",
-        "md5": "54f2910b354c0c579a4b5b522b6bb66e",
-        "release_id": "2024-11-13_0956",
+        "date_updated": "2025-01-14",
+        "md5": "3672c30f1d1996bbecaf9f2c43e84f50",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 60678006,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_0956/utyellow.zip"
+        "size": 60633612,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/utyellow.zip"
       },
       "version": 3
     },
@@ -59022,7 +59703,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "The free Make and Play Edition data.zip file is already included.  You can also add your own purchased copy of the data.zip from your VVVVVV into the ports/VVVVVV folder if you prefer that version instead.",
+        "inst": "This port is Ready to Run, and includes all retail levels.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -59041,12 +59722,12 @@
       "name": "vvvvvv.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-12-27",
-        "md5": "1328849093e8ce8d6cbe75f88171b88f",
-        "release_id": "2024-12-27_1725",
+        "date_updated": "2025-01-14",
+        "md5": "b9a622e58f78b65e9cccd36d312d3fbe",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 62112646,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/vvvvvv.zip"
+        "size": 62112697,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/vvvvvv.zip"
       },
       "version": 3
     },
@@ -60085,12 +60766,12 @@
       "name": "world.war.ii.gi.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-05-21",
-        "md5": "b5480bf46ab5ffe68a3d63c0b389d9ad",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2025-01-14",
+        "md5": "e7aec8cd531b0dd68506563233c6811c",
+        "release_id": "2025-01-14_1009",
         "repo": "main",
-        "size": 1190488,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/world.war.ii.gi.zip"
+        "size": 1287279,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/world.war.ii.gi.zip"
       },
       "version": 3
     },
