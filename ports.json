@@ -12256,6 +12256,80 @@
       },
       "version": 3
     },
+    "deathroids.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Relive the golden age of arcades playing a game with all the classic 80's/90's space-shooting features. See how far you can get by destroying all enemy robots that are ready to attack planet Earth.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "The game is available for purchase on Steam (https://store.steampowered.com/app/1389010/Deathroids). Use depot_download or DepotDownloader to retrieve a specific manifest: -app 1389010 -depot 1389013 -manifest 3629779867370273043 -- then place the Deathroids.app file in this port's gamedata folder",
+        "inst_md": "The game is available for purchase on [Steam](https://store.steampowered.com/app/1389010/Deathroids). Use `depot_download` or `DepotDownloader` to retrieve a specific manifest: `-app 1389010 -depot 1389013 -manifest 3629779867370273043` -- then place the *Deathroids.app* file in this port's *gamedata* folder",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Deathroids"
+      },
+      "items": [
+        "Deathroids.sh",
+        "deathroids"
+      ],
+      "items_opt": null,
+      "name": "deathroids.zip",
+      "source": {
+        "date_added": "2025-01-15",
+        "date_updated": "2025-01-15",
+        "md5": "0c66b475e7aff5d7b93f62169f839535",
+        "release_id": "2025-01-15_1237",
+        "repo": "main",
+        "size": 9293549,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/deathroids.zip"
+      },
+      "version": 3
+    },
     "deep_sleep.zip": {
       "attr": {
         "arch": [],
@@ -16540,12 +16614,12 @@
       "name": "exhumed.zip",
       "source": {
         "date_added": "2021-09-13",
-        "date_updated": "2025-01-14",
-        "md5": "faf45292c0d41ffba619485e24d988f7",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-01-15",
+        "md5": "122823741560b42c6184a1bff6f8e2be",
+        "release_id": "2025-01-15_1237",
         "repo": "main",
-        "size": 1050685,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/exhumed.zip"
+        "size": 1050631,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/exhumed.zip"
       },
       "version": 3
     },
@@ -21431,6 +21505,77 @@
       },
       "version": 3
     },
+    "gooptygoo.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A game inspired by *The Floor is Lava* and squishing enemies in Mario games. After you stomp the first goo square in each room, you can't touch the floor until you have squished all the goo in that level.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the GooptyGooGame.zip version for free at itch.io (https://dylanbrowngames.itch.io/gooptygoo). Extract the .zip, and copy the game files to this port's gamedata folder.",
+        "inst_md": "Download the *GooptyGooGame.zip* version for free at [itch.io](https://dylanbrowngames.itch.io/gooptygoo). Extract the *.zip*, and copy the game files to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Goopty Goo"
+      },
+      "items": [
+        "Goopty Goo.sh",
+        "gooptygoo"
+      ],
+      "items_opt": null,
+      "name": "gooptygoo.zip",
+      "source": {
+        "date_added": "2025-01-15",
+        "date_updated": "2025-01-15",
+        "md5": "244cc639965e3d01325f29180a085598",
+        "release_id": "2025-01-15_1237",
+        "repo": "main",
+        "size": 11252610,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/gooptygoo.zip"
+      },
+      "version": 3
+    },
     "grafx2.zip": {
       "attr": {
         "arch": [
@@ -24814,12 +24959,12 @@
       "name": "hurrican.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2024-04-01",
-        "md5": "fcd1609508029107b3577ecdf2c8cf46",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-01-15",
+        "md5": "c656e8757e460753c104c941574fdeef",
+        "release_id": "2025-01-15_1237",
         "repo": "main",
-        "size": 2430640,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hurrican.zip"
+        "size": 2631455,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/hurrican.zip"
       },
       "version": 3
     },
@@ -25414,6 +25559,77 @@
         "repo": "main",
         "size": 6674569,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-10_1313/icytower.zip"
+      },
+      "version": 3
+    },
+    "igachahead.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A puzzle game where the top of your head falls off when you walk into low platforms.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the IGachaHeadBuild5.zip (Newest Version) version for free at itch.io (https://dylanbrowngames.itch.io/i-gacha-head). Extract the .zip, and copy the game files to this port's gamedata folder.",
+        "inst_md": "Download the *IGachaHeadBuild5.zip (Newest Version)* version for free at [itch.io](https://dylanbrowngames.itch.io/i-gacha-head). Extract the *.zip*, and copy the game files file to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "I Gacha Head"
+      },
+      "items": [
+        "I Gacha Head.sh",
+        "igachahead"
+      ],
+      "items_opt": null,
+      "name": "igachahead.zip",
+      "source": {
+        "date_added": "2025-01-15",
+        "date_updated": "2025-01-15",
+        "md5": "af0e3b854a6f038014bb9f01ee05ab37",
+        "release_id": "2025-01-15_1237",
+        "repo": "main",
+        "size": 12565286,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/igachahead.zip"
       },
       "version": 3
     },
@@ -26073,12 +26289,12 @@
       "name": "iortcw.zip",
       "source": {
         "date_added": "2021-10-01",
-        "date_updated": "2025-01-01",
-        "md5": "766add40c365eebff7f60a78b7d6adab",
-        "release_id": "2025-01-01_2019",
+        "date_updated": "2025-01-15",
+        "md5": "03a2aa40e2bc1283802c550a39c32157",
+        "release_id": "2025-01-15_1237",
         "repo": "main",
-        "size": 2699380,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-01_2019/iortcw.zip"
+        "size": 2699334,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/iortcw.zip"
       },
       "version": 3
     },
@@ -27685,6 +27901,77 @@
         "repo": "main",
         "size": 20945729,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/kingofmachines.zip"
+      },
+      "version": 3
+    },
+    "kleebuucravesfruitsalad.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Eat fruit, jump around, and escape the nightmares!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the KleebuuCravesFruitSalad(v1.03).zip version for free at itch.io (https://dylanbrowngames.itch.io/kleebuu-craves-fruit-salad). Extract the .zip, and copy the game files to this port's gamedata folder.",
+        "inst_md": "Download the *KleebuuCravesFruitSalad(v1.03).zip* version for free at [itch.io](https://dylanbrowngames.itch.io/kleebuu-craves-fruit-salad). Extract the *.zip*, and copy the game files to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Kleebuu Craves Fruit Salad"
+      },
+      "items": [
+        "Kleebuu Craves Fruit Salad.sh",
+        "kleebuucravesfruitsalad"
+      ],
+      "items_opt": null,
+      "name": "kleebuucravesfruitsalad.zip",
+      "source": {
+        "date_added": "2025-01-15",
+        "date_updated": "2025-01-15",
+        "md5": "51b1d37afc5f31dbd7e1c76a7bab57a4",
+        "release_id": "2025-01-15_1237",
+        "repo": "main",
+        "size": 9987112,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/kleebuucravesfruitsalad.zip"
       },
       "version": 3
     },
@@ -39273,6 +39560,78 @@
       },
       "version": 3
     },
+    "pinky.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This game tells the story of the adventures of a small slime from a famous game. The next time you kill Pinky in the Terraria, think about what path he had to go through.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Pinky.zip version for free at itch.io (https://omich.itch.io/pinky). Extract the .zip, and copy the game files to this port's gamedata folder.",
+        "inst_md": "Download the *Pinky.zip* version for free at [itch.io](https://omich.itch.io/pinky). Extract the *.zip*, and copy the game files to this port's *gamedata* folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Pinky"
+      },
+      "items": [
+        "Pinky.sh",
+        "pinky"
+      ],
+      "items_opt": null,
+      "name": "pinky.zip",
+      "source": {
+        "date_added": "2025-01-15",
+        "date_updated": "2025-01-15",
+        "md5": "d5677509eec066fb7cbae32514e65eff",
+        "release_id": "2025-01-15_1237",
+        "repo": "main",
+        "size": 10568413,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/pinky.zip"
+      },
+      "version": 3
+    },
     "pippubaublequest.zip": {
       "attr": {
         "arch": [
@@ -42001,12 +42360,12 @@
       "name": "quake3.zip",
       "source": {
         "date_added": "2022-01-18",
-        "date_updated": "2024-05-09",
-        "md5": "671e1d0578742452891ff0b1e6cfe001",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2025-01-15",
+        "md5": "8299e48dd60a34ede82cc1989203d0e1",
+        "release_id": "2025-01-15_1237",
         "repo": "main",
-        "size": 2246858,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/quake3.zip"
+        "size": 2262155,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/quake3.zip"
       },
       "version": 3
     },
@@ -49039,12 +49398,12 @@
       "name": "sonic.2.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-01-07",
-        "md5": "a180e6eabd846818eec39042bf1f3878",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2025-01-15",
+        "md5": "ce692324a95babf78c37a9002675e553",
+        "release_id": "2025-01-15_1237",
         "repo": "main",
-        "size": 917960,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/sonic.2.zip"
+        "size": 917964,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/sonic.2.zip"
       },
       "version": 3
     },
@@ -49415,12 +49774,12 @@
       "name": "sonic3air.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2025-01-07",
-        "md5": "980a8f857df42e93365a30775bd76cf5",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2025-01-15",
+        "md5": "172d5ee0061e9e5e36275e2faad42aac",
+        "release_id": "2025-01-15_1237",
         "repo": "main",
-        "size": 138366100,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/sonic3air.zip"
+        "size": 138366019,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/sonic3air.zip"
       },
       "version": 3
     },
@@ -54535,6 +54894,82 @@
       },
       "version": 3
     },
+    "therush.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The Rush is a horizontally scrolling shoot 'em up with graphics inspired by classic space shooters of the MSX. Buckle up and see if you have what it takes to master the highly adaptive Chameleon Quartz space fighter and single-handedly obliterate the alien invaders!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "The Rush"
+      },
+      "items": [
+        "The Rush.sh",
+        "therush"
+      ],
+      "items_opt": null,
+      "name": "therush.zip",
+      "source": {
+        "date_added": "2025-01-15",
+        "date_updated": "2025-01-15",
+        "md5": "2324fc42a0f1c5480af138c21a8a0245",
+        "release_id": "2025-01-15_1237",
+        "repo": "main",
+        "size": 23399554,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/therush.zip"
+      },
+      "version": 3
+    },
     "thestarlitescape.zip": {
       "attr": {
         "arch": [
@@ -55848,12 +56283,12 @@
       "name": "tomb.raider.1.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "2987880f083ee92df990e0379c9621fa",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-01-15",
+        "md5": "06ce3c8138ce05a23525b22a2031835b",
+        "release_id": "2025-01-15_1237",
         "repo": "main",
-        "size": 688674,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/tomb.raider.1.zip"
+        "size": 688675,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/tomb.raider.1.zip"
       },
       "version": 3
     },
