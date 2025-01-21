@@ -3803,12 +3803,12 @@
       "name": "billyfrontier.zip",
       "source": {
         "date_added": "2022-11-23",
-        "date_updated": "2024-05-15",
-        "md5": "dd388301844439fdf71948a49bc81b65",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2025-01-20",
+        "md5": "82129b0b9b6acc537c0c1f3e33c4481d",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
-        "size": 84821451,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/billyfrontier.zip"
+        "size": 84831328,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/billyfrontier.zip"
       },
       "version": 3
     },
@@ -6509,12 +6509,12 @@
       "name": "bstone-aog.zip",
       "source": {
         "date_added": "2021-11-05",
-        "date_updated": "2024-08-01",
-        "md5": "7d29b86e7e28d620d385b9d8aa137d6b",
-        "release_id": "2024-08-01_1058",
+        "date_updated": "2025-01-20",
+        "md5": "cc9bb6b8b6b0d7d014bd9e7059c8b882",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
-        "size": 7662877,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-01_1058/bstone-aog.zip"
+        "size": 7662925,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/bstone-aog.zip"
       },
       "version": 3
     },
@@ -10983,7 +10983,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Match three of the same type of monster to defeat them. Their weird and wobbly shapes mean you'll have to think hard about where to connect each piece, lest you find yourself backed into a corner...",
+        "desc": "Match three of the same type of monster to defeat them. Their weird and wobbly shapes mean you'll have to think hard about where to connect each piece, lest you find yourself backed into a corner ...",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -11014,12 +11014,12 @@
       "name": "cryptrio.zip",
       "source": {
         "date_added": "2025-01-08",
-        "date_updated": "2025-01-08",
-        "md5": "0577fb5f1b61fa745975f9a4b5d08f23",
-        "release_id": "2025-01-08_1341",
+        "date_updated": "2025-01-20",
+        "md5": "ef88080ec34f35946b12880c72b8ebfe",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
-        "size": 22092422,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/cryptrio.zip"
+        "size": 22092426,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/cryptrio.zip"
       },
       "version": 3
     },
@@ -11243,6 +11243,80 @@
         "repo": "main",
         "size": 25061610,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/crystalsamalgam.zip"
+      },
+      "version": 3
+    },
+    "ctp2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Call to Power II is a 4X turn-based strategy game where players guide a civilization from ancient times through to the far future, building cities, researching technologies, and competing with rival nations",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You need to copy the \"ctp2_data\", \"ctp2_program\", and \"Scenarios\" folders from either your original Call to Power 2 installation directory or extract them from the GoG version's setup file (setup_call_to_power2_2.0.0.13.exe) using innoextract. You can purchase Call to Power 2 from GOG at https://www.gog.com/en/game/call_to_power_2",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Call to Power 2"
+      },
+      "items": [
+        "Call to Power 2.sh",
+        "ctp2"
+      ],
+      "items_opt": null,
+      "name": "ctp2.zip",
+      "source": {
+        "date_added": "2025-01-20",
+        "date_updated": "2025-01-20",
+        "md5": "f13eab6e104de1b123950ba73f25a07c",
+        "release_id": "2025-01-20_2237",
+        "repo": "main",
+        "size": 22097889,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/ctp2.zip"
       },
       "version": 3
     },
@@ -12302,8 +12376,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "The game is available for purchase on Steam (https://store.steampowered.com/app/1389010/Deathroids). Use depot_download or DepotDownloader to retrieve a specific manifest: -app 1389010 -depot 1389013 -manifest 3629779867370273043 -- then place the Deathroids.app file in this port's gamedata folder",
-        "inst_md": "The game is available for purchase on [Steam](https://store.steampowered.com/app/1389010/Deathroids). Use `depot_download` or `DepotDownloader` to retrieve a specific manifest: `-app 1389010 -depot 1389013 -manifest 3629779867370273043` -- then place the *Deathroids.app* file in this port's *gamedata* folder",
+        "inst": "The game is available for purchase on Steam (https://store.steampowered.com/app/1389010/Deathroids). Use depot_download or DepotDownloader to retrieve a specific manifest: -app 1389010 -depot 1389013 -manifest 3629779867370273043 -- then place Deathroids.app in this port's gamedata folder",
+        "inst_md": "The game is available for purchase on [Steam](https://store.steampowered.com/app/1389010/Deathroids). Use `depot_download` or `DepotDownloader` to retrieve a specific manifest: `-app 1389010 -depot 1389013 -manifest 3629779867370273043` -- then place *Deathroids.app* in this port's *gamedata* folder",
         "min_glibc": "",
         "porter": [
           "tabreturn"
@@ -12321,12 +12395,12 @@
       "name": "deathroids.zip",
       "source": {
         "date_added": "2025-01-15",
-        "date_updated": "2025-01-15",
-        "md5": "0c66b475e7aff5d7b93f62169f839535",
-        "release_id": "2025-01-15_1237",
+        "date_updated": "2025-01-20",
+        "md5": "306493dc84552e371719937676796fc6",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
-        "size": 9293549,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/deathroids.zip"
+        "size": 9293544,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/deathroids.zip"
       },
       "version": 3
     },
@@ -15063,6 +15137,81 @@
       },
       "version": 3
     },
+    "ducklingsmaze.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Embark on a feathered adventure in Ducklings Maze, where you play as a courageous duck on a mission to rescue your adorable ducklings and lead them safely back home through a challenging maze. Inspired by the fairy tale \"Den grimme aelling\" by Hans Christian Andersen, the game is a medium/high difficulty maze with all the elements that an 80s arcade game requires.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Junix",
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Ducklings Maze"
+      },
+      "items": [
+        "Ducklings Maze.sh",
+        "ducklingsmaze"
+      ],
+      "items_opt": null,
+      "name": "ducklingsmaze.zip",
+      "source": {
+        "date_added": "2025-01-20",
+        "date_updated": "2025-01-21",
+        "md5": "01f9c74619c8870a03649a1895da00eb",
+        "release_id": "2025-01-21_0240",
+        "repo": "main",
+        "size": 18003565,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-21_0240/ducklingsmaze.zip"
+      },
+      "version": 3
+    },
     "duke.nukem.3d.zip": {
       "attr": {
         "arch": [
@@ -15251,7 +15400,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Experience a clever take on retro Japanese puzzle games. Bite, blow up, and break through 80 charming but challenging levels. Crack each level's code and crush the evil Ghostlord. Be sure to make haste, though, or the Ghost minions will make a waste ... of you!",
+        "desc": "Experience a clever take on retro Japanese puzzle games. Bite, blow up, and break through 80 charming but challenging levels. Crack each level's code and crush the evil Ghostlord. Be sure to make haste, though, or the Ghost minions will make waste ... of you!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -15282,12 +15431,12 @@
       "name": "dumpyandbumpy.zip",
       "source": {
         "date_added": "2025-01-14",
-        "date_updated": "2025-01-14",
-        "md5": "fc4a487f3382716291a172705ef93041",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-01-20",
+        "md5": "ec44a4cca5c8ec2de5baf0815f108cdc",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
-        "size": 12669215,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/dumpyandbumpy.zip"
+        "size": 12669212,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/dumpyandbumpy.zip"
       },
       "version": 3
     },
@@ -18477,12 +18626,12 @@
       "name": "flinthook.zip",
       "source": {
         "date_added": "2025-01-14",
-        "date_updated": "2025-01-14",
-        "md5": "716d84ab9a140a1879aa35f63bb4ed08",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-01-20",
+        "md5": "833ec20b4d48d98a634205e4535c67ba",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
         "size": 3314946,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/flinthook.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/flinthook.zip"
       },
       "version": 3
     },
@@ -19805,12 +19954,12 @@
       "name": "fridaynightfunkin.zip",
       "source": {
         "date_added": "2024-12-27",
-        "date_updated": "2024-12-27",
-        "md5": "43d2bffd59c0029d0b27f6d3dd7c7398",
-        "release_id": "2024-12-27_2043",
+        "date_updated": "2025-01-20",
+        "md5": "9b66433cb2d76c19a31e69d4284bd8fc",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
-        "size": 307127182,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_2043/fridaynightfunkin.zip"
+        "size": 307127190,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/fridaynightfunkin.zip"
       },
       "version": 3
     },
@@ -24392,6 +24541,80 @@
       },
       "version": 3
     },
+    "hopowl.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Hop Owl is a precision platformer featuring a little cute owl. Hop around obstacles while collecting ancient dust!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Hop Owl"
+      },
+      "items": [
+        "Hop Owl.sh",
+        "hopowl"
+      ],
+      "items_opt": null,
+      "name": "hopowl.zip",
+      "source": {
+        "date_added": "2025-01-20",
+        "date_updated": "2025-01-20",
+        "md5": "a01eab007b302ce51b468b6c119b799b",
+        "release_id": "2025-01-20_2237",
+        "repo": "main",
+        "size": 14320506,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/hopowl.zip"
+      },
+      "version": 3
+    },
     "hordes.zip": {
       "attr": {
         "arch": [
@@ -25926,6 +26149,77 @@
         "repo": "main",
         "size": 126162,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/inertiablast.zip"
+      },
+      "version": 3
+    },
+    "infested.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A point-and-click game where you must find your way through an infested space ship and discover a way to escape using the resources and environment around you.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Thanks to Grahf Metal (https://grahfmetal.itch.io) for permitting PortMaster to include the game files.",
+        "inst_md": "Ready to run. Thanks to [Grahf Metal](https://grahfmetal.itch.io) for permitting PortMaster to include the game files.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Infested"
+      },
+      "items": [
+        "Infested.sh",
+        "infested"
+      ],
+      "items_opt": null,
+      "name": "infested.zip",
+      "source": {
+        "date_added": "2025-01-20",
+        "date_updated": "2025-01-20",
+        "md5": "bd364626a00edb1b506d2eb9fc777dcf",
+        "release_id": "2025-01-20_2237",
+        "repo": "main",
+        "size": 56010668,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/infested.zip"
       },
       "version": 3
     },
@@ -39591,7 +39885,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "This game tells the story of the adventures of a small slime from a famous game. The next time you kill Pinky in the Terraria, think about what path he had to go through.",
+        "desc": "This game chronicles the journey of a small slime from a well-known game. The next time you kill Pinky in Terraria, take a moment to consider the trials and adventures that shaped his path.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -39623,12 +39917,12 @@
       "name": "pinky.zip",
       "source": {
         "date_added": "2025-01-15",
-        "date_updated": "2025-01-15",
-        "md5": "d5677509eec066fb7cbae32514e65eff",
-        "release_id": "2025-01-15_1237",
+        "date_updated": "2025-01-20",
+        "md5": "ad1051f0fc6e9cea08f4223600da36f6",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
-        "size": 10568413,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/pinky.zip"
+        "size": 10568439,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/pinky.zip"
       },
       "version": 3
     },
@@ -43823,8 +44117,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You will need the original files of the PC version copied to ports/reminiscence/gamedata folder.",
-        "inst_md": null,
+        "inst": "You will need the original files of the PC/DOS/Amiga version copied to ports/reminiscence/gamedata folder.",
+        "inst_md": "You will need the original files of the PC/DOS/Amiga version copied to ports/reminiscence/gamedata folder.\n\n- Steam or GOG data files can be found in `Flashback_Data/StreamingAssets/data`, copy these files into the `ports/reminiscence/gamedata` folder.\n- Amiga audio files (optional) can be copied into the `ports/reminiscence/music` folder, but the files must be named `filename.mod` format. Some sources come with files named `mod.flashback-filename`, which will need to be renamed. e.g. `mod.flashback-chute -> chute.mod`\n- voice.vce file (optional) for voice acting in cutscenes should be placed in `ports/reminiscence/gamedata` folder.",
         "min_glibc": "",
         "porter": [
           "Jetup",
@@ -43843,12 +44137,12 @@
       "name": "reminiscence.zip",
       "source": {
         "date_added": "2021-12-02",
-        "date_updated": "2024-04-01",
-        "md5": "c26945f3973eb50d45cd04a8d841c829",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-01-20",
+        "md5": "00dabd8a553ade25e8f3336ca0570761",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
-        "size": 614231,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/reminiscence.zip"
+        "size": 614489,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/reminiscence.zip"
       },
       "version": 3
     },
@@ -55693,12 +55987,12 @@
       "name": "timespinner.zip",
       "source": {
         "date_added": "2022-03-20",
-        "date_updated": "2024-04-01",
-        "md5": "80e54bea9352821b93b28ccab70254c3",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-01-20",
+        "md5": "50e358b6bc78ebbff0cac58f00dad634",
+        "release_id": "2025-01-20_2237",
         "repo": "main",
-        "size": 5304032,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/timespinner.zip"
+        "size": 5304046,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/timespinner.zip"
       },
       "version": 3
     },
