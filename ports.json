@@ -6428,12 +6428,12 @@
       "name": "brotato.zip",
       "source": {
         "date_added": "2024-12-11",
-        "date_updated": "2024-12-11",
-        "md5": "c0a6b73c8bcce1cc6739c254ef0825f4",
-        "release_id": "2024-12-11_1336",
+        "date_updated": "2025-01-22",
+        "md5": "47b17467d6b7802f573510d4b44e6631",
+        "release_id": "2025-01-22_1104",
         "repo": "main",
-        "size": 295995,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-11_1336/brotato.zip"
+        "size": 324792,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-22_1104/brotato.zip"
       },
       "version": 3
     },
@@ -13344,12 +13344,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2025-01-14",
-        "md5": "f53ee5fef0938dcbf02925720bff6078",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-01-22",
+        "md5": "c13706fdbd25b1935dc8482347aa1061",
+        "release_id": "2025-01-22_1104",
         "repo": "main",
-        "size": 15279786,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/descent.zip"
+        "size": 15279796,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-22_1104/descent.zip"
       },
       "version": 3
     },
@@ -13423,12 +13423,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2025-01-14",
-        "md5": "15a3dd466766ea164bc704b2cf2ae7e9",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-01-22",
+        "md5": "204e91ea0fa4eb6e8fd4c19cf8e716d5",
+        "release_id": "2025-01-22_1104",
         "repo": "main",
-        "size": 14953957,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/descent2.zip"
+        "size": 14953966,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-22_1104/descent2.zip"
       },
       "version": 3
     },
@@ -26202,7 +26202,7 @@
           "tabreturn"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "Infested"
       },
@@ -26214,12 +26214,12 @@
       "name": "infested.zip",
       "source": {
         "date_added": "2025-01-20",
-        "date_updated": "2025-01-20",
-        "md5": "bd364626a00edb1b506d2eb9fc777dcf",
-        "release_id": "2025-01-20_2237",
+        "date_updated": "2025-01-22",
+        "md5": "65c72284ee79e77e3ac935fc67eede08",
+        "release_id": "2025-01-22_1104",
         "repo": "main",
-        "size": 56010668,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/infested.zip"
+        "size": 56010671,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-22_1104/infested.zip"
       },
       "version": 3
     },
