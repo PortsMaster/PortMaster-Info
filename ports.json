@@ -6417,7 +6417,7 @@
           "ultra"
         ],
         "rtr": false,
-        "runtime": "frt_3.5.2.squashfs",
+        "runtime": "frt_3.6.squashfs",
         "title": "Brotato"
       },
       "items": [
@@ -6429,11 +6429,11 @@
       "source": {
         "date_added": "2024-12-11",
         "date_updated": "2025-01-22",
-        "md5": "47b17467d6b7802f573510d4b44e6631",
-        "release_id": "2025-01-22_1104",
+        "md5": "9a23b7f43ec9f4ba34fa0c81e971023d",
+        "release_id": "2025-01-22_2214",
         "repo": "main",
-        "size": 324792,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-22_1104/brotato.zip"
+        "size": 324790,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-22_2214/brotato.zip"
       },
       "version": 3
     },
