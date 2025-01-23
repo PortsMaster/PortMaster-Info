@@ -14742,7 +14742,7 @@
         "reqs": [
           "!lowres"
         ],
-        "rtr": true,
+        "rtr": false,
         "runtime": null,
         "title": "Doukutsu-rs"
       },
@@ -14755,11 +14755,11 @@
       "source": {
         "date_added": "2025-01-23",
         "date_updated": "2025-01-23",
-        "md5": "08abe4b849288645a0ab56c6c3318f2e",
-        "release_id": "2025-01-23_1422",
+        "md5": "0f1eb3c26490fd0abbfc3b6e8773132e",
+        "release_id": "2025-01-23_1658",
         "repo": "main",
-        "size": 3206587,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-23_1422/doukutsu-rs.zip"
+        "size": 3206584,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-23_1658/doukutsu-rs.zip"
       },
       "version": 3
     },
