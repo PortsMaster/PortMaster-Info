@@ -12228,8 +12228,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Grab the game at itch.io (https://backterria.itch.io/dead-knight). Download it (an .exe file) and copy to this port's gamedata folder. Tested with Dead Knight - Pocket Edition v0.1",
-        "inst_md": "Grab the game at [itch.io](https://backterria.itch.io/dead-knight). Download it (an .exe file) and copy to this port's *gamedata* folder. Tested with *Dead Knight - Pocket Edition v0.1*",
+        "inst": "Grab the game at itch.io (https://backterria.itch.io/dead-knight). Download it (an .exe file) and copy to this port's gamedata folder. Tested with Dead Knight v0-1.exe",
+        "inst_md": "Grab the game at [itch.io](https://backterria.itch.io/dead-knight). Download it (an .exe file) and copy to this port's *gamedata* folder. Tested with *Dead Knight v0-1.exe*",
         "min_glibc": "",
         "porter": [
           "tabreturn"
@@ -12247,12 +12247,12 @@
       "name": "deadknight.zip",
       "source": {
         "date_added": "2025-01-07",
-        "date_updated": "2025-01-07",
-        "md5": "5f603bab97d006ecacd7b4b4866bd529",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2025-01-23",
+        "md5": "896b2b4eb2b1ad1a33102a96706db091",
+        "release_id": "2025-01-23_1422",
         "repo": "main",
-        "size": 10939133,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/deadknight.zip"
+        "size": 10939117,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-23_1422/deadknight.zip"
       },
       "version": 3
     },
@@ -14682,6 +14682,84 @@
         "repo": "main",
         "size": 4218470,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/doomrpg.zip"
+      },
+      "version": 3
+    },
+    "doukutsu-rs.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A fully playable re-implementation of the Cave Story (Doukutsu Monogatari) engine written in Rust.",
+        "desc_md": "A fully playable re-implementation of the Cave Story (Doukutsu Monogatari) engine written in Rust.\n\nThis port is a build of doukutsu-rs, see:\n\n[https://github.com/doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs)\n\nYou can play either the original freeware game, or the Cave Story+, with \nenhanced graphics, sound and other features.",
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the game files into your ports/doukutsu-rs folder. You can use the original freeware Cave Story files, which can be found here: https://www.cavestory.org/download/cave-story.php\n\nOr, you can buy Cave Story+ on Steam. This has higher-resolution graphics, remastered music and other enhancements.\n\nThe game uses the SDL controller by default, but controls can be reconfigured in the game.",
+        "inst_md": "Copy the game files into your `ports/doukutsu-rs` folder. You can use the original freeware Cave Story files, which can be found here: [https://www.cavestory.org/download/cave-story.php](https://www.cavestory.org/download/cave-story.php)\n\nOr, you can buy Cave Story+ on Steam. This has higher-resolution graphics, remastered music and other enhancements.\n\nThe game uses the SDL controller by default, but controls can be reconfigured in the game.",
+        "min_glibc": "",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "Doukutsu-rs"
+      },
+      "items": [
+        "Doukutsu-rs.sh",
+        "doukutsu-rs"
+      ],
+      "items_opt": null,
+      "name": "doukutsu-rs.zip",
+      "source": {
+        "date_added": "2025-01-23",
+        "date_updated": "2025-01-23",
+        "md5": "08abe4b849288645a0ab56c6c3318f2e",
+        "release_id": "2025-01-23_1422",
+        "repo": "main",
+        "size": 3206587,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-23_1422/doukutsu-rs.zip"
       },
       "version": 3
     },
@@ -51875,6 +51953,82 @@
         "repo": "main",
         "size": 3930588,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/stardewvalley.zip"
+      },
+      "version": 3
+    },
+    "starfighter.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Project: Starfighter is a space shoot 'em up game originally developed\nby Parallel Realities in 2002, and released in 2003. You assume the role\nof Chris Bainfield in his quest to put an end to WEAPCO, the weapons\ncorporation which has enslaved the galaxy.",
+        "desc_md": null,
+        "exp": true,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "ready to run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "Project: Starfighter"
+      },
+      "items": [
+        "Project Starfighter.sh",
+        "starfighter"
+      ],
+      "items_opt": null,
+      "name": "starfighter.zip",
+      "source": {
+        "date_added": "2025-01-23",
+        "date_updated": "2025-01-23",
+        "md5": "13bea862b3702b374a7e91055af7440a",
+        "release_id": "2025-01-23_1422",
+        "repo": "main",
+        "size": 37524645,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-23_1422/starfighter.zip"
       },
       "version": 3
     },
