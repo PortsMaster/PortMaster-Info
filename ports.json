@@ -42434,6 +42434,83 @@
       },
       "version": 3
     },
+    "q2pro.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Enhanced Quake 2 engine with work-in-progress support for the Nightdive remaster.  Includes support for mods/mission packs The Reckoning, Ground Zero, Zaero, and the Nightdive remaster.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the files from your Quake 2 installation to the matching folders in ports/q2pro.  For example, copy the contents of Quake 2/baseq2 into ports/q2pro/baseq2.  If you have the Nightdive remaster, copy the contents of its baseq2 folder (Quake 2/rerelease/baseq2) into ports/q2pro/rerelease, and copy Q2Game.kpf to ports/q2pro.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "EvilJagaGenius",
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Q2Pro"
+      },
+      "items": [
+        "Q2Pro.sh",
+        "q2pro"
+      ],
+      "items_opt": null,
+      "name": "q2pro.zip",
+      "source": {
+        "date_added": "2025-01-23",
+        "date_updated": "2025-01-23",
+        "md5": "6f63aacbbeb142e00adafe61501934fb",
+        "release_id": "2025-01-23_1604",
+        "repo": "main",
+        "size": 43434531,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-23_1604/q2pro.zip"
+      },
+      "version": 3
+    },
     "quadrupleback.zip": {
       "attr": {
         "arch": [
