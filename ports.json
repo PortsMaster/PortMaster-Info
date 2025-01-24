@@ -15290,6 +15290,79 @@
       },
       "version": 3
     },
+    "dudelingsarcadesportsball.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A video game that crosses the tried-and-true gameplay of Pong with the competitive frenzy of foosball. Billed as the world's first 'sportslike', tongue firmly planted in cheek.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "sports"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game at https://heavy-element.itch.io/dudelings -- download the Android version, place the apk in dudelingsarcadesportsball/gamedata",
+        "inst_md": "Purchase the game at [https://heavy-element.itch.io/dudelings](https://heavy-element.itch.io/dudelings) -- download the Android version, place the apk in `dudelingsarcadesportsball/gamedata`",
+        "min_glibc": "",
+        "porter": [
+          "moocow1452",
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Dudelings: Arcade Sportsball"
+      },
+      "items": [
+        "Dudelings - Arcade Sportsball.sh",
+        "dudelingsarcadesportsball"
+      ],
+      "items_opt": null,
+      "name": "dudelingsarcadesportsball.zip",
+      "source": {
+        "date_added": "2025-01-24",
+        "date_updated": "2025-01-24",
+        "md5": "404379f19abd775576d4bb4588b156bd",
+        "release_id": "2025-01-24_2219",
+        "repo": "main",
+        "size": 27101,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2219/dudelingsarcadesportsball.zip"
+      },
+      "version": 3
+    },
     "duke.nukem.3d.zip": {
       "attr": {
         "arch": [
@@ -30860,6 +30933,80 @@
       },
       "version": 3
     },
+    "lostinsideact1.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "LOST INSIDE is a non-traditional, character-focused, action-adventure RPG about a human child who stumbles their way into the Spirit World. On their way home, the child comes to learn that this Spirit World is the home of countless friendly monsters who have been waiting for a prophesized hero to come and rescue them from a mysterious curse.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Lost Inside Act 1.zip from Itch.io and extract all game files into assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "LOST INSIDE Act 1"
+      },
+      "items": [
+        "LOST INSIDE Act 1.sh",
+        "lostinsideact1"
+      ],
+      "items_opt": null,
+      "name": "lostinsideact1.zip",
+      "source": {
+        "date_added": "2025-01-24",
+        "date_updated": "2025-01-24",
+        "md5": "026869c9755269698dd9862c705ed5a3",
+        "release_id": "2025-01-24_2219",
+        "repo": "main",
+        "size": 17811818,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2219/lostinsideact1.zip"
+      },
+      "version": 3
+    },
     "love.zip": {
       "attr": {
         "arch": [
@@ -32744,6 +32891,84 @@
         "repo": "main",
         "size": 17326106,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-22_2125/mimisdeliverydash.zip"
+      },
+      "version": 3
+    },
+    "mindustry.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Mindustry is a open-source sandbox tower-defense game focused on resource management and automation. Players design factories, build supply chains, and defend against waves of enemies using strategic planning and custom defenses. It offers campaign, multiplayer, and creative modes for diverse gameplay.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "The port is ready to run for version 146 (latest release build). Just start the game. If you want to update the game to a different version, replace Mindustry.jar in the game directory. Your milage may vary, newer versions might not be compatible.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "BinaryCounter",
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "zulu17.54.21-ca-jre17.0.13-linux.aarch64.squashfs",
+        "title": "Mindustry"
+      },
+      "items": [
+        "Mindustry.sh",
+        "mindustry"
+      ],
+      "items_opt": null,
+      "name": "mindustry.zip",
+      "source": {
+        "date_added": "2025-01-24",
+        "date_updated": "2025-01-24",
+        "md5": "7587b42d85d97b9a38cf35d09144b636",
+        "release_id": "2025-01-24_2219",
+        "repo": "main",
+        "size": 74325029,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2219/mindustry.zip"
       },
       "version": 3
     },
@@ -47756,12 +47981,12 @@
       "name": "shadowwrangler.zip",
       "source": {
         "date_added": "2025-01-08",
-        "date_updated": "2025-01-14",
-        "md5": "2d404ad934b1e6edf4a53eebdc67f305",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-01-24",
+        "md5": "dce127f32636ad70188138425ba133e7",
+        "release_id": "2025-01-24_2219",
         "repo": "main",
-        "size": 11613030,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/shadowwrangler.zip"
+        "size": 11613089,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2219/shadowwrangler.zip"
       },
       "version": 3
     },
@@ -60237,6 +60462,80 @@
         "repo": "main",
         "size": 17793329,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/vitasnake.zip"
+      },
+      "version": 3
+    },
+    "vnds-love.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "VNDS-LOVE allows you to play such famous games as Tsukihime, Fate \\ Stay night, Ever 17, Saya no Uta and many others.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Check VNDS Wiki \"https://github.com/BASLQC/vnds/wiki\" to find VNDS ready novels. Place your novel folder into ./vnds-love/conf/love/VNDS-LOVE/novels/  \nMore info in README.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "ddrsoul"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "VNDS Novel Reader"
+      },
+      "items": [
+        "VNDS.sh",
+        "vnds-love"
+      ],
+      "items_opt": null,
+      "name": "vnds-love.zip",
+      "source": {
+        "date_added": "2025-01-24",
+        "date_updated": "2025-01-24",
+        "md5": "78ee15f6c32c121176d8c0cd8b939aba",
+        "release_id": "2025-01-24_2219",
+        "repo": "main",
+        "size": 345420,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2219/vnds-love.zip"
       },
       "version": 3
     },
