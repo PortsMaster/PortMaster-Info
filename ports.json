@@ -32952,7 +32952,7 @@
         ],
         "reqs": [],
         "rtr": true,
-        "runtime": "zulu17.54.21-ca-jre17.0.13-linux.aarch64.squashfs",
+        "runtime": "zulu17.54.21-ca-jre17.0.13-linux.squashfs",
         "title": "Mindustry"
       },
       "items": [
@@ -32964,11 +32964,11 @@
       "source": {
         "date_added": "2025-01-24",
         "date_updated": "2025-01-24",
-        "md5": "7587b42d85d97b9a38cf35d09144b636",
-        "release_id": "2025-01-24_2219",
+        "md5": "a3738668c758eb7d9bdcf7da103a1aa2",
+        "release_id": "2025-01-24_2309",
         "repo": "main",
-        "size": 74325029,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2219/mindustry.zip"
+        "size": 74325028,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2309/mindustry.zip"
       },
       "version": 3
     },
@@ -52325,12 +52325,12 @@
       "name": "starfighter.zip",
       "source": {
         "date_added": "2025-01-23",
-        "date_updated": "2025-01-23",
-        "md5": "13bea862b3702b374a7e91055af7440a",
-        "release_id": "2025-01-23_1422",
+        "date_updated": "2025-01-24",
+        "md5": "49ef2920eaf62fc2603342469af88e83",
+        "release_id": "2025-01-24_2309",
         "repo": "main",
-        "size": 37524645,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-23_1422/starfighter.zip"
+        "size": 37524642,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2309/starfighter.zip"
       },
       "version": 3
     },
