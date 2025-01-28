@@ -14811,7 +14811,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase and download the game from: https://store.steampowered.com/app/360740/Downwell/ OR  https://www.gog.com/en/game/downwell.\nLocate your gamefolder and copy all the files from the folder to /ports/downwell/gamedata.",
+        "inst": "Purchase and download the game from: https://store.steampowered.com/app/360740/Downwell/ OR  https://www.gog.com/en/game/downwell.\nLocate your gamefolder and copy all the files from the folder to /ports/downwell/assets.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -14831,12 +14831,12 @@
       "name": "downwell.zip",
       "source": {
         "date_added": "2024-08-01",
-        "date_updated": "2025-01-14",
-        "md5": "e37c88b1c59e6afbdc337ebe604d5410",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-01-28",
+        "md5": "c31318060aa10a59c2bfb695405c54f4",
+        "release_id": "2025-01-28_0936",
         "repo": "main",
-        "size": 12526410,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/downwell.zip"
+        "size": 12526411,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_0936/downwell.zip"
       },
       "version": 3
     },
@@ -42727,12 +42727,12 @@
       "name": "q2pro.zip",
       "source": {
         "date_added": "2025-01-23",
-        "date_updated": "2025-01-23",
-        "md5": "6f63aacbbeb142e00adafe61501934fb",
-        "release_id": "2025-01-23_1604",
+        "date_updated": "2025-01-28",
+        "md5": "76cff6a8ec4b57f955623dda049f5e93",
+        "release_id": "2025-01-28_0936",
         "repo": "main",
-        "size": 43434531,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-23_1604/q2pro.zip"
+        "size": 43434536,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_0936/q2pro.zip"
       },
       "version": 3
     },
@@ -59041,12 +59041,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-01-01",
-        "md5": "bca3bfcd204ce0c1ee7ce9681586d952",
-        "release_id": "2025-01-01_2019",
+        "date_updated": "2025-01-28",
+        "md5": "d401b815ae33b08a705901ec4cfb7982",
+        "release_id": "2025-01-28_0936",
         "repo": "main",
-        "size": 32949753,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-01_2019/ufo50.zip"
+        "size": 32315526,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_0936/ufo50.zip"
       },
       "version": 3
     },
