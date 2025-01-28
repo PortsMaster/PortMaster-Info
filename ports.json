@@ -3366,6 +3366,77 @@
       },
       "version": 3
     },
+    "beardblade.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Run and jump through tropical 16-bit locales as you fend off foes with the power of Branson's shapeshifting beard. Visit the barber to toughen your scruff with new abilities and confront the thieving Smuglins.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and install Beard Blade on Steam (https://store.steampowered.com/app/1546940/Beard_Blade/) and copy the data.win file (and possibly the options.ini file) into ports/beardblade/gamedata.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jareth247"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Beard Blade"
+      },
+      "items": [
+        "Beard Blade.sh",
+        "beardblade"
+      ],
+      "items_opt": null,
+      "name": "beardblade.zip",
+      "source": {
+        "date_added": "2025-01-28",
+        "date_updated": "2025-01-28",
+        "md5": "7c7e08d8c3d90035c2f8f145643d1dc8",
+        "release_id": "2025-01-28_1951",
+        "repo": "main",
+        "size": 12184706,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/beardblade.zip"
+      },
+      "version": 3
+    },
     "beat2x.zip": {
       "attr": {
         "arch": [
@@ -14908,12 +14979,12 @@
       "name": "drally.zip",
       "source": {
         "date_added": "2023-11-27",
-        "date_updated": "2024-10-17",
-        "md5": "352c576bce2c8323924ff43347142aa1",
-        "release_id": "2024-10-17_0726",
+        "date_updated": "2025-01-28",
+        "md5": "eeee714e65b61a571cc60820acb5ff39",
+        "release_id": "2025-01-28_1951",
         "repo": "main",
-        "size": 2244499,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/drally.zip"
+        "size": 2244393,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/drally.zip"
       },
       "version": 3
     },
@@ -32905,11 +32976,8 @@
           "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
           "rg351p:ALL",
-          "rg351v:ALL",
           "rgb10:ALL",
           "rgb20s:ALL",
           "rgb30:ALL",
@@ -32917,14 +32985,12 @@
           "x55:ALL",
           "rgb10max3:ALL",
           "rgb10max3pro:ALL",
-          "oga:ALL",
           "ogs:ALL",
           "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
           "trimui-smart-pro:ALL",
           "xu10:ALL",
-          "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
@@ -32950,7 +33016,9 @@
           "BinaryCounter",
           "kotzebuedog"
         ],
-        "reqs": [],
+        "reqs": [
+          "analog_2"
+        ],
         "rtr": true,
         "runtime": "zulu17.54.21-ca-jre17.0.13-linux.squashfs",
         "title": "Mindustry"
@@ -32963,12 +33031,12 @@
       "name": "mindustry.zip",
       "source": {
         "date_added": "2025-01-24",
-        "date_updated": "2025-01-24",
-        "md5": "a3738668c758eb7d9bdcf7da103a1aa2",
-        "release_id": "2025-01-24_2309",
+        "date_updated": "2025-01-28",
+        "md5": "a8e9ef393d7a29272d681a3d31064abc",
+        "release_id": "2025-01-28_1951",
         "repo": "main",
-        "size": 74325028,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2309/mindustry.zip"
+        "size": 74325033,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/mindustry.zip"
       },
       "version": 3
     },
@@ -39862,6 +39930,82 @@
       },
       "version": 3
     },
+    "perfectdark.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A corporation is planning a conspiracy against mankind. A single woman dares to face the threat. That woman is Joanna Dark!",
+        "desc_md": "A corporation is planning a conspiracy against mankind. A single woman dares to face the threat. That woman is Joanna Dark!\n\nThis is a build of the decompilation and port to modern platforms of the\nNintendo 64 - [https://github.com/fgsfdsfgs/perfect_dark](https://github.com/fgsfdsfgs/perfect_dark)",
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your original N64 Perfect Dark ROM to roms/perfectdark. It must be version ntsc-final/US V1.1/US Rev 1, with md5sum e03b088b6ac9e0080440efed07c1e40f. Other versions will not work. You can check the md5sum using online tools.",
+        "inst_md": "Copy your original N64 Perfect Dark ROM to `roms/perfectdark`. It must be version `ntsc-final/US V1.1/US Rev 1`, with md5sum `e03b088b6ac9e0080440efed07c1e40f`. Other versions will not work. You can check the md5sum using online tools.",
+        "min_glibc": "2.32",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Perfect Dark"
+      },
+      "items": [
+        "Perfect Dark.sh",
+        "perfectdark"
+      ],
+      "items_opt": null,
+      "name": "perfectdark.zip",
+      "source": {
+        "date_added": "2025-01-28",
+        "date_updated": "2025-01-28",
+        "md5": "695c545573327ef9b21771b3e7ff6804",
+        "release_id": "2025-01-28_1951",
+        "repo": "main",
+        "size": 8430011,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/perfectdark.zip"
+      },
+      "version": 3
+    },
     "pigeon.zip": {
       "attr": {
         "arch": [],
@@ -45961,7 +46105,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download game from https://managore.itch.io/roguelight. The .exe download is actually a compressed archive; open it 7-zip or some other archiver to extract the files. Copy data.win and .mp3 files to /ports/roguelight/gamedata",
+        "inst": "Download Roguelight (windows) from https://managore.itch.io/roguelight. Place Roguelight.exe into ports/roguelight.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -45980,12 +46124,12 @@
       "name": "roguelight.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2024-07-18",
-        "md5": "263c3ce12e589bb32332bab7e26055fa",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-01-28",
+        "md5": "29197b68da2dccf69c6bb9bfc3fd6b82",
+        "release_id": "2025-01-28_1951",
         "repo": "main",
-        "size": 10984916,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/roguelight.zip"
+        "size": 9950818,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/roguelight.zip"
       },
       "version": 3
     },
@@ -54607,6 +54751,80 @@
       },
       "version": 3
     },
+    "syasokoban.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Still Yet Another Sokoban, a clone of the popular puzzle game in which the goal is to push the crates onto the designated squares",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Still Yet Another Sokoban"
+      },
+      "items": [
+        "Still Yet Another Sokoban.sh",
+        "syasokoban"
+      ],
+      "items_opt": null,
+      "name": "syasokoban.zip",
+      "source": {
+        "date_added": "2025-01-28",
+        "date_updated": "2025-01-28",
+        "md5": "5d73dde757dfb0445839c613749e010c",
+        "release_id": "2025-01-28_1951",
+        "repo": "main",
+        "size": 551252,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/syasokoban.zip"
+      },
+      "version": 3
+    },
     "tabletanks.zip": {
       "attr": {
         "arch": [
@@ -61801,12 +62019,12 @@
       "name": "wolf3d.zip",
       "source": {
         "date_added": "2024-09-27",
-        "date_updated": "2024-12-16",
-        "md5": "4bf104748a109c1232dc41850d84e0bf",
-        "release_id": "2024-12-16_1130",
+        "date_updated": "2025-01-28",
+        "md5": "5571a95233fd928fe450a435953ea5f3",
+        "release_id": "2025-01-28_1951",
         "repo": "main",
-        "size": 7196083,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/wolf3d.zip"
+        "size": 7153502,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/wolf3d.zip"
       },
       "version": 3
     },
