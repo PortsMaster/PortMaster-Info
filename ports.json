@@ -1790,6 +1790,82 @@
       },
       "version": 3
     },
+    "antonballclassic.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "After a long night on the town, Anton's struggling to find his way back home. You'll have to help Anton out by using your balls to break the bricks!\n\nYou'll also run into pesky Ballbusters during your adventure together. Get rid of them by smacking them with your balls, or hitting them from behind!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game on itch.io https://summitsphere.itch.io/antonball and unzip all game data to antonballclassic/assets.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "regularcharacter"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Antonball Classic"
+      },
+      "items": [
+        "Antonball Classic.sh",
+        "antonballclassic"
+      ],
+      "items_opt": null,
+      "name": "antonballclassic.zip",
+      "source": {
+        "date_added": "2025-01-30",
+        "date_updated": "2025-01-30",
+        "md5": "1587fd335d15e503fecf42cf68b77699",
+        "release_id": "2025-01-30_2311",
+        "repo": "main",
+        "size": 6472996,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/antonballclassic.zip"
+      },
+      "version": 3
+    },
     "apocrunner.zip": {
       "attr": {
         "arch": [
@@ -1866,6 +1942,82 @@
         "repo": "main",
         "size": 24780440,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/apocrunner.zip"
+      },
+      "version": 3
+    },
+    "apondbeyond.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A short puzzle platformer where you play as a tiny frog who must make their way to a pond beyond and avoid many dangers along the way.\nThere are many flies to eat during your adventure, pause the game at any time to view how many you've got. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download A Pond Beyond.zip (August 16, 2024) from https://npjarcade.itch.io/a-pond-beyond. Copy the data.win from the zip over to apondbeyond/assets.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "A Pond Beyond"
+      },
+      "items": [
+        "A Pond Beyond.sh",
+        "apondbeyond"
+      ],
+      "items_opt": null,
+      "name": "apondbeyond.zip",
+      "source": {
+        "date_added": "2025-01-30",
+        "date_updated": "2025-01-30",
+        "md5": "d50866f719fd2880d1e73b70dd5b4902",
+        "release_id": "2025-01-30_2311",
+        "repo": "main",
+        "size": 13234875,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/apondbeyond.zip"
       },
       "version": 3
     },
@@ -10341,6 +10493,78 @@
       },
       "version": 3
     },
+    "coincrypt.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A roguelite deckbuilding adventure game about magical coins. You play as a lootmancer, who can unlock the hidden power inside of coins and use them in magical duels. The loots you take from chests and enemies also become your next moves, so plan carefully!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam or humble. Download the game and place the game files in coincrypt/gamedata",
+        "inst_md": "Purchase the game from [steam](https://store.steampowered.com/app/264690/Coin_Crypt/) or [humble](https://www.humblebundle.com/store/coin-crypt). Download the game and place the game files in coincrypt/gamedata",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "analog_1"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Coin Crypt"
+      },
+      "items": [
+        "Coin Crypt.sh",
+        "coincrypt"
+      ],
+      "items_opt": null,
+      "name": "coincrypt.zip",
+      "source": {
+        "date_added": "2025-01-30",
+        "date_updated": "2025-01-30",
+        "md5": "15bededa52e7a9cc5a16783f267050dc",
+        "release_id": "2025-01-30_2311",
+        "repo": "main",
+        "size": 5434183,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/coincrypt.zip"
+      },
+      "version": 3
+    },
     "colorlines.zip": {
       "attr": {
         "arch": [
@@ -14789,7 +15013,7 @@
           "r36s:ALL"
         ],
         "desc": "A fully playable re-implementation of the Cave Story (Doukutsu Monogatari) engine written in Rust.",
-        "desc_md": "A fully playable re-implementation of the Cave Story (Doukutsu Monogatari) engine written in Rust.\n\nThis port is a build of doukutsu-rs, see:\n\n[https://github.com/doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs)\n\nYou can play either the original freeware game, or the Cave Story+, with \nenhanced graphics, sound and other features.",
+        "desc_md": "A fully playable re-implementation of the Cave Story (Doukutsu Monogatari) engine written in Rust.\n\nThis port is a build of doukutsu-rs, see:\n\n[https://github.com/doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs)\n\nYou can play the original freeware game, or Cave Story+, with enhanced graphics, sound, challenges and co-op play.",
         "exp": false,
         "genres": [
           "action",
@@ -14825,12 +15049,12 @@
       "name": "doukutsu-rs.zip",
       "source": {
         "date_added": "2025-01-23",
-        "date_updated": "2025-01-23",
-        "md5": "0f1eb3c26490fd0abbfc3b6e8773132e",
-        "release_id": "2025-01-23_1658",
+        "date_updated": "2025-01-30",
+        "md5": "3364aefab530940610dec5870dd50d3c",
+        "release_id": "2025-01-30_2311",
         "repo": "main",
-        "size": 3206584,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-23_1658/doukutsu-rs.zip"
+        "size": 3206545,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/doukutsu-rs.zip"
       },
       "version": 3
     },
@@ -24008,6 +24232,80 @@
         "repo": "main",
         "size": 12040518,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/heboris-sdl.zip"
+      },
+      "version": 3
+    },
+    "hellfire.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "In hellFIRE you play as the BESTEST THIEF EVER TO EXIST. Jump across a dangerous landscape and help him steal all the fire from Hell.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "hellFIRE"
+      },
+      "items": [
+        "hellFIRE.sh",
+        "hellfire"
+      ],
+      "items_opt": null,
+      "name": "hellfire.zip",
+      "source": {
+        "date_added": "2025-01-30",
+        "date_updated": "2025-01-30",
+        "md5": "fcf806308acc2ba13553d4a3e1282b9a",
+        "release_id": "2025-01-30_2311",
+        "repo": "main",
+        "size": 44805171,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/hellfire.zip"
       },
       "version": 3
     },
@@ -39965,7 +40263,7 @@
           "r36s:ALL"
         ],
         "desc": "A corporation is planning a conspiracy against mankind. A single woman dares to face the threat. That woman is Joanna Dark!",
-        "desc_md": "A corporation is planning a conspiracy against mankind. A single woman dares to face the threat. That woman is Joanna Dark!\n\nThis is a build of the decompilation and port to modern platforms of the\nNintendo 64 - [https://github.com/fgsfdsfgs/perfect_dark](https://github.com/fgsfdsfgs/perfect_dark)",
+        "desc_md": "A corporation is planning a conspiracy against mankind. A single woman dares to face the threat. That woman is Joanna Dark!\n\nThis is a build of the decompilation and port to modern platforms of the Nintendo 64 classic - [https://github.com/fgsfdsfgs/perfect_dark](https://github.com/fgsfdsfgs/perfect_dark)",
         "exp": false,
         "genres": [
           "fps"
@@ -39978,8 +40276,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy your original N64 Perfect Dark ROM to roms/perfectdark. It must be version ntsc-final/US V1.1/US Rev 1, with md5sum e03b088b6ac9e0080440efed07c1e40f. Other versions will not work. You can check the md5sum using online tools.",
-        "inst_md": "Copy your original N64 Perfect Dark ROM to `roms/perfectdark`. It must be version `ntsc-final/US V1.1/US Rev 1`, with md5sum `e03b088b6ac9e0080440efed07c1e40f`. Other versions will not work. You can check the md5sum using online tools.",
+        "inst": "Copy your original N64 Perfect Dark ROM to ports/perfectdark. It must be version ntsc-final/US V1.1/US Rev 1, with md5sum e03b088b6ac9e0080440efed07c1e40f. Other versions will not work. You can check the md5sum using online tools.",
+        "inst_md": "Copy your original N64 Perfect Dark ROM to `ports/perfectdark`. It must be version `ntsc-final/US V1.1/US Rev 1`, with md5sum `e03b088b6ac9e0080440efed07c1e40f`. Other versions will not work. You can check the md5sum using online tools.",
         "min_glibc": "2.32",
         "porter": [
           "beniamino"
@@ -39997,12 +40295,12 @@
       "name": "perfectdark.zip",
       "source": {
         "date_added": "2025-01-28",
-        "date_updated": "2025-01-28",
-        "md5": "695c545573327ef9b21771b3e7ff6804",
-        "release_id": "2025-01-28_1951",
+        "date_updated": "2025-01-30",
+        "md5": "0904e0f6faf251edd76aa312c0468e1a",
+        "release_id": "2025-01-30_2311",
         "repo": "main",
-        "size": 8430011,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/perfectdark.zip"
+        "size": 8430152,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/perfectdark.zip"
       },
       "version": 3
     },
@@ -48564,12 +48862,12 @@
       "name": "shovelknightpocketdungeon.zip",
       "source": {
         "date_added": "2025-01-02",
-        "date_updated": "2025-01-14",
-        "md5": "751875eb84794a8902da9c0a02e980bc",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-01-30",
+        "md5": "442bab642fc1a934eacde28bc6198ebb",
+        "release_id": "2025-01-30_2311",
         "repo": "main",
-        "size": 20761818,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/shovelknightpocketdungeon.zip"
+        "size": 20761871,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/shovelknightpocketdungeon.zip"
       },
       "version": 3
     },
@@ -49143,8 +49441,8 @@
         ],
         "image": {
           "covers": [
-            "cover.sm.png",
-            "cover.smredux.png"
+            "cover.smredux.png",
+            "cover.sm.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -49835,12 +50133,12 @@
       "name": "soh.zip",
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2025-01-05",
-        "md5": "fc12302e04d002d40f89ed89246c532a",
-        "release_id": "2025-01-05_0052",
+        "date_updated": "2025-01-30",
+        "md5": "0d702cc014a0ef22f8a92eb7c6a023f0",
+        "release_id": "2025-01-30_2227",
         "repo": "multiverse",
-        "size": 14032284,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-01-05_0052/soh.zip"
+        "size": 14127108,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-01-30_2227/soh.zip"
       },
       "version": 3
     },
@@ -49912,12 +50210,12 @@
       "name": "soh2.zip",
       "source": {
         "date_added": "2024-06-10",
-        "date_updated": "2025-01-05",
-        "md5": "c99bed33112d6f04703fe6e0937e2cde",
-        "release_id": "2025-01-05_0052",
+        "date_updated": "2025-01-30",
+        "md5": "35e8b79eb94068080396c9f017defacd",
+        "release_id": "2025-01-30_2227",
         "repo": "multiverse",
-        "size": 11550219,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-01-05_0052/soh2.zip"
+        "size": 11645045,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-01-30_2227/soh2.zip"
       },
       "version": 3
     },
@@ -56818,6 +57116,79 @@
         "repo": "main",
         "size": 89711,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/tinystg.zip"
+      },
+      "version": 3
+    },
+    "tinytowndefense.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Follow the command of mayor L.T. and defend your tiny town from the hordes of imps.\n\nAddicting gameplay with meta progression and upgrades will make sure you will have a great time!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Claim the game for free on Itch: \nhttps://zefrost.itch.io/tiny-town-defense\nDownload the linux version of the game and place \"Tiny Town Defense.x86_64\" in the gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin",
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Tiny Town Defense"
+      },
+      "items": [
+        "Tiny Town Defense.sh",
+        "tinytowndefense"
+      ],
+      "items_opt": null,
+      "name": "tinytowndefense.zip",
+      "source": {
+        "date_added": "2025-01-30",
+        "date_updated": "2025-01-30",
+        "md5": "bb30412b967b50b40e1c3228bb62eb4e",
+        "release_id": "2025-01-30_2311",
+        "repo": "main",
+        "size": 17742,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/tinytowndefense.zip"
       },
       "version": 3
     },
