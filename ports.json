@@ -13279,6 +13279,81 @@
       },
       "version": 3
     },
+    "demonslayer.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A tough as nails game in the spirit of such titles like Castlevania or Faxanadu. Demon Slayer is an     action packed retro pixel art platformer adventure game, with elements of survival strategy, problem solving,      and resource management. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase at itch.io https://zenteku.itch.io/demon-slayer  Place data.win into assets folder ",
+        "inst_md": "Purchase at [itch.io](https://zenteku.itch.io/demon-slayer)  Place data.win into assets folder ",
+        "min_glibc": "",
+        "porter": [
+          "Slayer366",
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Demon Slayer "
+      },
+      "items": [
+        "Demon Slayer",
+        "demonslayer "
+      ],
+      "items_opt": null,
+      "name": "demonslayer.zip",
+      "source": {
+        "date_added": "2025-02-04",
+        "date_updated": "2025-02-04",
+        "md5": "1c84b668a3f0f235ba8b635da000b3bc",
+        "release_id": "2025-02-04_1954",
+        "repo": "main",
+        "size": 5398722,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/demonslayer.zip"
+      },
+      "version": 3
+    },
     "demonstone64.zip": {
       "attr": {
         "arch": [],
@@ -13639,12 +13714,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2025-01-22",
-        "md5": "c13706fdbd25b1935dc8482347aa1061",
-        "release_id": "2025-01-22_1104",
+        "date_updated": "2025-02-04",
+        "md5": "ba38cf880e496b04da3807249018e3d1",
+        "release_id": "2025-02-04_1954",
         "repo": "main",
-        "size": 15279796,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-22_1104/descent.zip"
+        "size": 15279821,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/descent.zip"
       },
       "version": 3
     },
@@ -13718,12 +13793,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2025-01-22",
-        "md5": "204e91ea0fa4eb6e8fd4c19cf8e716d5",
-        "release_id": "2025-01-22_1104",
+        "date_updated": "2025-02-04",
+        "md5": "c91a60718b9a12e900726821e2ff7bcf",
+        "release_id": "2025-02-04_1954",
         "repo": "main",
-        "size": 14953966,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-22_1104/descent2.zip"
+        "size": 14953992,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/descent2.zip"
       },
       "version": 3
     },
@@ -14829,6 +14904,85 @@
         "repo": "main",
         "size": 41866152,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/doom3.zip"
+      },
+      "version": 3
+    },
+    "doomengines.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Doom engines! A Love2D launcher makes selecting games and mods easy. See the readme for instructions and details.\n\nIncludes shareware demo files and freedoom.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Comes with shareware files for Doom and freedoom bundle for mod use. Add your full game files to their respective folders to play.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slayer366",
+          "DDRSoul",
+          "Jeod",
+          "Speedrun"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Doom Engines"
+      },
+      "items": [
+        "Doom Engines.sh",
+        "doomengines"
+      ],
+      "items_opt": null,
+      "name": "doomengines.zip",
+      "source": {
+        "date_added": "2025-02-04",
+        "date_updated": "2025-02-04",
+        "md5": "785929962178388b92c6976720d1d692",
+        "release_id": "2025-02-04_1954",
+        "repo": "main",
+        "size": 57899102,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/doomengines.zip"
       },
       "version": 3
     },
@@ -31593,6 +31747,83 @@
       },
       "version": 3
     },
+    "lugaruhd.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Follow Turner, a rebel bunny rabbit with impressive combat skills in his quest to find those responsible for slaughtering his village. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is Ready to Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": null,
+        "title": "Lugaru HD"
+      },
+      "items": [
+        "Lugaru HD.sh",
+        "lugaruhd"
+      ],
+      "items_opt": null,
+      "name": "lugaruhd.zip",
+      "source": {
+        "date_added": "2025-02-04",
+        "date_updated": "2025-02-04",
+        "md5": "922109c2f3984197097562708731b102",
+        "release_id": "2025-02-04_1954",
+        "repo": "main",
+        "size": 41488794,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/lugaruhd.zip"
+      },
+      "version": 3
+    },
     "luminousslash.zip": {
       "attr": {
         "arch": [
@@ -32860,6 +33091,81 @@
       },
       "version": 3
     },
+    "mercenarykings.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Craft your arsenal to avenge your fallen comrades and save the world from the fearsome forces of CLAW!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or GOG. Download the Linux version of the game. If you're on Windows and the Steam version use the Steam Depot with the following command: `download_depot 218820 218823 5041255923054087555`. Copy all the assets to roms/ports/mercenarykings/gamedata.",
+        "inst_md": "- Purchase the game on Steam or GOG. \n- Download the Linux version of the game. If you're on Windows and the Steam version use the Steam Depot with the following command: `download_depot 218820 218823 5041255923054087555`\n- Copy all the assets to roms/ports/mercenarykings/gamedata, structured as below.\n\n## Filetree\nmercenarykings  \n\u251c\u2500\u2500 gamedata  \n\u2502   \u251c\u2500\u2500 Content  \n\u2502   \u251c\u2500\u2500 FNA.dll.config  \n\u2502   \u251c\u2500\u2500 Ionic.Zlib.dll  \n\u2502   \u251c\u2500\u2500 MercenaryKings  \n\u2502   \u251c\u2500\u2500 MercenaryKings.exe  \n\u2502   \u251c\u2500\u2500 NBug.dll  \n\u2502   \u251c\u2500\u2500 NLog.Retail.config  \n\u2502   \u251c\u2500\u2500 NLog.common.config  \n\u2502   \u251c\u2500\u2500 NLog.dll  \n\u2502   \u251c\u2500\u2500 NVorbis.dll  \n\u2502   \u251c\u2500\u2500 Newtonsoft.Json.dll  \n\u2502   \u251c\u2500\u2500 ParisEngine.dll  \n\u2502   \u251c\u2500\u2500 lib64  \n\u2502   \u251c\u2500\u2500 log.txt  \n\u2502   \u251c\u2500\u2500 monoconfig  \n\u2502   \u251c\u2500\u2500 monomachineconfig  \n\u2502   \u251c\u2500\u2500 run.sh  \n\u2502   \u2514\u2500\u2500 uninstall.sh  \n\n",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "mono-6.12.0.122-aarch64.squashfs",
+        "title": "Mercenary Kings"
+      },
+      "items": [
+        "Mercenary Kings.sh",
+        "mercenarykings"
+      ],
+      "items_opt": null,
+      "name": "mercenarykings.zip",
+      "source": {
+        "date_added": "2025-02-04",
+        "date_updated": "2025-02-04",
+        "md5": "d512c76b453d5448ad26650e2d49511f",
+        "release_id": "2025-02-04_1954",
+        "repo": "main",
+        "size": 2676148,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/mercenarykings.zip"
+      },
+      "version": 3
+    },
     "meritous.zip": {
       "attr": {
         "arch": [
@@ -33081,6 +33387,78 @@
         "repo": "main",
         "size": 11792813,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/mezzer.zip"
+      },
+      "version": 3
+    },
+    "microplatformer.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A minimalistic platformer with a 1x1 tileset. No enemies, no bullets, no lasers. Just sheer platforming.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.1.2.squashfs",
+        "title": "Micro Platformer"
+      },
+      "items": [
+        "Micro Platformer.sh",
+        "microplatformer"
+      ],
+      "items_opt": null,
+      "name": "microplatformer.zip",
+      "source": {
+        "date_added": "2025-02-04",
+        "date_updated": "2025-02-04",
+        "md5": "617136416f4560f1b49d0547d281a6ef",
+        "release_id": "2025-02-04_1954",
+        "repo": "main",
+        "size": 467426,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/microplatformer.zip"
       },
       "version": 3
     },
@@ -47024,6 +47402,78 @@
         "repo": "main",
         "size": 11544199,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/rwatch.zip"
+      },
+      "version": 3
+    },
+    "salvagette.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Turn-based bullet-hell class warfare!\nSwipe to move in each of the four directions. Ram into things to destroy them, but avoid the dangerous projectiles.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.2.3.squashfs",
+        "title": "Salvagette"
+      },
+      "items": [
+        "Salvagette.sh",
+        "salvagette"
+      ],
+      "items_opt": null,
+      "name": "salvagette.zip",
+      "source": {
+        "date_added": "2025-02-04",
+        "date_updated": "2025-02-04",
+        "md5": "3902ba0f7295504199c1092e51eadfc6",
+        "release_id": "2025-02-04_1954",
+        "repo": "main",
+        "size": 36201286,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/salvagette.zip"
       },
       "version": 3
     },
