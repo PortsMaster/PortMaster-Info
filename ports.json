@@ -295,12 +295,12 @@
       "name": "abes_adventure.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2024-04-01",
-        "md5": "ab3497a351c9b005b7c1c60e5f0ab9e1",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-02-06",
+        "md5": "7f582345384ba2ba2cb920db59fde504",
+        "release_id": "2025-02-06_1211",
         "repo": "main",
-        "size": 5399630,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/abes_adventure.zip"
+        "size": 5773859,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_1211/abes_adventure.zip"
       },
       "version": 3
     },
@@ -8004,12 +8004,12 @@
       "name": "carmageddon.zip",
       "source": {
         "date_added": "2023-10-09",
-        "date_updated": "2024-05-22",
-        "md5": "f148355e7e52f35fc5b828b2680471b1",
-        "release_id": "2024-05-22_2326",
+        "date_updated": "2025-02-06",
+        "md5": "755a27b69ee577248df6daa0c880842d",
+        "release_id": "2025-02-06_1211",
         "repo": "main",
-        "size": 1413918,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-22_2326/carmageddon.zip"
+        "size": 1413878,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_1211/carmageddon.zip"
       },
       "version": 3
     },
@@ -38879,12 +38879,12 @@
       "name": "openrct2.zip",
       "source": {
         "date_added": "2023-02-23",
-        "date_updated": "2024-04-01",
-        "md5": "d641f41728f460106d084bbd447e38c1",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-02-06",
+        "md5": "6f829faa8eede02ef5fa95cc9bc0fbaf",
+        "release_id": "2025-02-06_1211",
         "repo": "main",
-        "size": 69849431,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/openrct2.zip"
+        "size": 69849359,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_1211/openrct2.zip"
       },
       "version": 3
     },
@@ -64017,7 +64017,7 @@
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": "frt_3.5.2.squashfs",
+        "runtime": "frt_3.6.squashfs",
         "title": "Yolk Heroes: A Long Tamago"
       },
       "items": [
@@ -64028,12 +64028,12 @@
       "name": "yolkheroes.zip",
       "source": {
         "date_added": "2024-10-15",
-        "date_updated": "2024-10-22",
-        "md5": "bf4221b8661f651898d53c1efce0bfb3",
-        "release_id": "2024-10-22_1301",
+        "date_updated": "2025-02-06",
+        "md5": "42e403d7e248d75ecb78b859ab850d1c",
+        "release_id": "2025-02-06_1211",
         "repo": "main",
-        "size": 278819,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_1301/yolkheroes.zip"
+        "size": 278870,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_1211/yolkheroes.zip"
       },
       "version": 3
     },
