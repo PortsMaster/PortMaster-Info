@@ -2691,6 +2691,78 @@
       },
       "version": 3
     },
+    "atomic_automaton.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The player must face endless waves of enemies, as long as possible in a challenging, action-packed environment. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Barata_Software"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": "frt_3.5.2.squashfs",
+        "title": "Atomic Automaton"
+      },
+      "items": [
+        "Atomic Automaton.sh",
+        "atomic_automaton/"
+      ],
+      "items_opt": null,
+      "name": "atomic_automaton.zip",
+      "source": {
+        "date_added": "2025-02-08",
+        "date_updated": "2025-02-08",
+        "md5": "449e33f98ed9f12b002054fc6cb413c2",
+        "release_id": "2025-02-08_2253",
+        "repo": "main",
+        "size": 3900290,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-08_2253/atomic_automaton.zip"
+      },
+      "version": 3
+    },
     "augustus.zip": {
       "attr": {
         "arch": [
