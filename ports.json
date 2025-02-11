@@ -56320,6 +56320,80 @@
       },
       "version": 3
     },
+    "tantibus.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A neon lit world filled with nightmare creatures and bizarre situations exists by the name of Tantibus. Journey from your very normal and totally boring home where nothing weird ever happens of Cobble's Key to whatever exists past the first boss.\n\nBe there man eating clocks?\n\nBe there vomiting gardeners?\n\nBe there depressed lamps?\n\nBe there faceless men?\n\nYup!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game for free here:\nhttps://benal.itch.io/tantibus\nextract and add all game files to the gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Tantibus"
+      },
+      "items": [
+        "Tantibus.sh",
+        "tantibus"
+      ],
+      "items_opt": null,
+      "name": "tantibus.zip",
+      "source": {
+        "date_added": "2025-02-11",
+        "date_updated": "2025-02-11",
+        "md5": "e1e6bba576e766509542d0bb371faa94",
+        "release_id": "2025-02-11_0956",
+        "repo": "main",
+        "size": 81153833,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-11_0956/tantibus.zip"
+      },
+      "version": 3
+    },
     "techmaniac.zip": {
       "attr": {
         "arch": [],
@@ -60451,12 +60525,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-01-28",
-        "md5": "d401b815ae33b08a705901ec4cfb7982",
-        "release_id": "2025-01-28_0936",
+        "date_updated": "2025-02-11",
+        "md5": "d517e196951d424f1f927595df32cc3c",
+        "release_id": "2025-02-11_0956",
         "repo": "main",
-        "size": 32315526,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_0936/ufo50.zip"
+        "size": 11055107,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-11_0956/ufo50.zip"
       },
       "version": 3
     },
