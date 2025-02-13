@@ -11903,12 +11903,12 @@
       "name": "curseofthearrow.zip",
       "source": {
         "date_added": "2024-07-08",
-        "date_updated": "2024-07-08",
-        "md5": "b0ffb9ff3a2d0f33e0c668a0813413c6",
-        "release_id": "2024-07-08_2057",
+        "date_updated": "2025-02-13",
+        "md5": "69c050cbdc52428eadc37732f2705cfb",
+        "release_id": "2025-02-13_2342",
         "repo": "main",
-        "size": 26862949,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-08_2057/curseofthearrow.zip"
+        "size": 26862960,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/curseofthearrow.zip"
       },
       "version": 3
     },
@@ -15125,12 +15125,12 @@
       "name": "doomengines.zip",
       "source": {
         "date_added": "2025-02-04",
-        "date_updated": "2025-02-06",
-        "md5": "69dd7d4db8164157f1e988e2f1b32cc9",
-        "release_id": "2025-02-06_0046",
+        "date_updated": "2025-02-13",
+        "md5": "bacab138977a57abbbfa8b323a87f867",
+        "release_id": "2025-02-13_2342",
         "repo": "main",
-        "size": 57899105,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_0046/doomengines.zip"
+        "size": 57899097,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/doomengines.zip"
       },
       "version": 3
     },
@@ -16185,6 +16185,83 @@
         "repo": "main",
         "size": 12669212,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/dumpyandbumpy.zip"
+      },
+      "version": 3
+    },
+    "dunelegacy.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Dune II: The Building of a Dynasty (aka Dune II: Battle for Arrakis) is the first-ever real-time strategy game. The player takes the role of the commander of one of the three interplanetary houses, the Atreides, the Harkonnen or the Ordos, with the objective of wresting control of Arrakis from the other two houses. This port is a build of Dune Legacy, which is an effort by a handful of developers to revitalize the game. It is as similar as possible to the original gameplay but integrates modern UI features like selecting multiple units.",
+        "desc_md": "Dune II: The Building of a Dynasty (aka Dune II: Battle for Arrakis) is the first-ever real-time strategy game. The player takes the role of the commander of one of the three interplanetary houses, the Atreides, the Harkonnen or the Ordos, with the objective of wresting control of Arrakis from the other two houses. This port is a build of [Dune Legacy](https://dunelegacy.sourceforge.net/website/), which is an effort by a handful of developers to revitalize the game. It is as similar as possible to the original gameplay but integrates modern UI features like selecting multiple units.",
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You need to copy the original game's .PAK files (e.g. from the PC release) to ports/dunelegacy/.",
+        "inst_md": "You need to copy the original game's `.PAK` files (e.g. from the PC release) to `ports/dunelegacy/`.",
+        "min_glibc": "",
+        "porter": [
+          "beniamino",
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Dune Legacy"
+      },
+      "items": [
+        "Dune Legacy.sh",
+        "dunelegacy"
+      ],
+      "items_opt": null,
+      "name": "dunelegacy.zip",
+      "source": {
+        "date_added": "2025-02-13",
+        "date_updated": "2025-02-13",
+        "md5": "5f548439b4731da6f08916841e0c56b1",
+        "release_id": "2025-02-13_2342",
+        "repo": "main",
+        "size": 4909529,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/dunelegacy.zip"
       },
       "version": 3
     },
@@ -26310,6 +26387,70 @@
       },
       "version": 3
     },
+    "hyperlightdrifter.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "ace:ALL"
+        ],
+        "desc": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16\u00adbit classics, with modernized mechanics and designs on a much grander scale.\n\nNote: Only the Steam version works! 1gb ram devices will crash occasionally due to running out of ram when transitioning between maps due to external textures!",
+        "desc_md": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16 bit classics, with modernized mechanics and designs on a much grander scale.\n\n**Note: Only the Steam version works!  \nVideos have been patched out as they are currently not compatible with gmloader.next.  \n1gb ram devices will crash occasionally due to running out of ram when transitioning between maps due to external textures!  \n Not recommended for 1gb ram devices with ArkOSas it will crash very frequently!**",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam. Use steam console to download download_depot 257850 257851 2557763276340557312. Place all game files in /ports/hyperlightdrifter/assets",
+        "inst_md": "Purchase the game from steam.\nRun steam console via Windows+R: Type: steam://open/console, download the game by typing: `download_depot 257850 257851 2557763276340557312` in the console, when the download is complete, it will tell you the location of the folder, copy all folders and game files to /ports/hyperlightdrifter/assets",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Hyper Light Drifter"
+      },
+      "items": [
+        "Hyper Light Drifter.sh",
+        "hyperlightdrifter"
+      ],
+      "items_opt": null,
+      "name": "hyperlightdrifter.zip",
+      "source": {
+        "date_added": "2025-02-13",
+        "date_updated": "2025-02-13",
+        "md5": "d1bebaebe591ee42d1dd49a7ebbcad83",
+        "release_id": "2025-02-13_2342",
+        "repo": "main",
+        "size": 219060816,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/hyperlightdrifter.zip"
+      },
+      "version": 3
+    },
     "hyperprincesspitch.zip": {
       "attr": {
         "arch": [
@@ -27117,6 +27258,79 @@
         "repo": "main",
         "size": 43806835,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/infra_arcana.zip"
+      },
+      "version": 3
+    },
+    "interstatedrifter.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Drift between the states, collect bits, beat rivals and get a high score.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game for free on Steam or Itch. Right click game in steam library, browse local files. Copy \"Interstate Drifter 1999.exe\" or \"Interstate Drifter 1999 itch.exe\" to \"roms/ports/interstatedrifter/assets\"",
+        "inst_md": "- Download the game for free on [Steam](https://store.steampowered.com/app/1383770/Interstate_Drifter_1999/) or [Itch](https://ultimogames.itch.io/id1999)\n- Right click game in steam library, browse local files.\n- Copy \"Interstate Drifter 1999.exe\" or \"Interstate Drifter 1999 itch.exe\" to `roms/ports/interstatedrifter/assets`",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": null,
+        "title": "Interstate Drifter 1999"
+      },
+      "items": [
+        "Interstate Drifter 1999.sh",
+        "interstatedrifter.zip"
+      ],
+      "items_opt": null,
+      "name": "interstatedrifter.zip",
+      "source": {
+        "date_added": "2025-02-13",
+        "date_updated": "2025-02-13",
+        "md5": "4e2135c17b12755900f01941ae1d04dd",
+        "release_id": "2025-02-13_2342",
+        "repo": "main",
+        "size": 6056949,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/interstatedrifter.zip"
       },
       "version": 3
     },
@@ -41456,7 +41670,9 @@
           "rpg"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -41482,12 +41698,12 @@
       "name": "pixeldescent.zip",
       "source": {
         "date_added": "2024-12-05",
-        "date_updated": "2024-12-09",
-        "md5": "249d38cad6bd53e9bc3de61aae0c4100",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-02-13",
+        "md5": "eeb385357eeec72ab69d28f1b74fb2ef",
+        "release_id": "2025-02-13_2342",
         "repo": "main",
-        "size": 8722640,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/pixeldescent.zip"
+        "size": 9046527,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/pixeldescent.zip"
       },
       "version": 3
     },
@@ -49771,6 +49987,83 @@
         "repo": "main",
         "size": 21025598,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/siegeofosaka.zip"
+      },
+      "version": 3
+    },
+    "signus.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Classic turn-based strategy war game similar to the old Battle Isle series. Commercially released in 1998, open-sourced by the original authors in 2002.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "beniamino",
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Signus - The Artefact Wars"
+      },
+      "items": [
+        "Signus - The Artefact Wars.sh",
+        "signus"
+      ],
+      "items_opt": null,
+      "name": "signus.zip",
+      "source": {
+        "date_added": "2025-02-13",
+        "date_updated": "2025-02-13",
+        "md5": "e690fb1191eb1b7e9d07783d13d7c8a0",
+        "release_id": "2025-02-13_2342",
+        "repo": "main",
+        "size": 708398369,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/signus.zip"
       },
       "version": 3
     },
@@ -60525,12 +60818,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-02-11",
-        "md5": "d517e196951d424f1f927595df32cc3c",
-        "release_id": "2025-02-11_0956",
+        "date_updated": "2025-02-13",
+        "md5": "da9113b1ee2939861a553784814558c9",
+        "release_id": "2025-02-13_2342",
         "repo": "main",
-        "size": 11055107,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-11_0956/ufo50.zip"
+        "size": 11053670,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/ufo50.zip"
       },
       "version": 3
     },
