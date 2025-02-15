@@ -1,9 +1,6 @@
 {
   "ace": {
     "cfw": {
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -25,6 +22,16 @@
     "manufacturer": "Gameforce",
     "name": "Gameforce Chi"
   },
+  "gkd-bubble": {
+    "cfw": {
+      "emuelec": {
+        "name": "EMUELEC"
+      }
+    },
+    "device": "gkd-bubble",
+    "manufacturer": "Game Kiddy",
+    "name": "GKD Bubble"
+  },
   "oga": {
     "cfw": {
       "amberelec": {
@@ -35,9 +42,6 @@
       },
       "emuelec": {
         "name": "EmuELEC"
-      },
-      "jelos": {
-        "name": "JELOS"
       },
       "rocknix": {
         "name": "ROCKNIX"
@@ -58,9 +62,6 @@
       "emuelec": {
         "name": "EmuELEC"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -80,9 +81,6 @@
       "emuelec": {
         "name": "EmuELEC"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -98,9 +96,6 @@
       },
       "arkos": {
         "name": "ArkOS"
-      },
-      "jelos": {
-        "name": "JELOS"
       },
       "rocknix": {
         "name": "ROCKNIX"
@@ -118,9 +113,6 @@
       "arkos": {
         "name": "ArkOS"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -137,9 +129,6 @@
       "arkos": {
         "name": "ArkOS"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -148,6 +137,38 @@
     "manufacturer": "Game Console",
     "name": "R36S Retro Handheld"
   },
+  "rg28xx": {
+    "cfw": {
+      "knulli": {
+        "name": "Knulli"
+      },
+      "muos": {
+        "name": "muOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rg28xx",
+    "manufacturer": "Anbernic",
+    "name": "Anbernic RG28XX"
+  },
+  "rg34xx-h": {
+    "cfw": {
+      "knulli": {
+        "name": "Knulli"
+      },
+      "muos": {
+        "name": "muOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rg34xx-h",
+    "manufacturer": "Anbernic",
+    "name": "Anbernic RG34XX"
+  },
   "rg351mp": {
     "cfw": {
       "amberelec": {
@@ -155,9 +176,6 @@
       },
       "arkos": {
         "name": "ArkOS"
-      },
-      "jelos": {
-        "name": "JELOS"
       },
       "thera": {
         "name": "TheRA"
@@ -175,9 +193,6 @@
       "arkos (wummle)": {
         "name": "ArkOS (Wummle)"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -194,9 +209,6 @@
       "arkos": {
         "name": "ArkOS"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -209,9 +221,6 @@
     "cfw": {
       "arkos": {
         "name": "ArkOS"
-      },
-      "jelos": {
-        "name": "JELOS"
       }
     },
     "device": "rg353m",
@@ -223,9 +232,6 @@
       "arkos": {
         "name": "ArkOS"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -236,11 +242,14 @@
   },
   "rg35xx-h": {
     "cfw": {
-      "batocera": {
-        "name": "Batocera"
+      "knulli": {
+        "name": "Knulli"
       },
       "muos": {
         "name": "muOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
       }
     },
     "device": "rg35xx-h",
@@ -249,11 +258,14 @@
   },
   "rg35xx-plus": {
     "cfw": {
-      "batocera": {
-        "name": "Batocera"
+      "knulli": {
+        "name": "Knulli"
       },
       "muos": {
         "name": "muOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
       }
     },
     "device": "rg35xx-plus",
@@ -262,24 +274,56 @@
   },
   "rg35xx-sp": {
     "cfw": {
-      "batocera": {
-        "name": "Batocera"
+      "knulli": {
+        "name": "Knulli"
       },
       "muos": {
         "name": "muOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
       }
     },
     "device": "rg35xx-sp",
     "manufacturer": "Anbernic",
     "name": "Anbernic RG35XX SP"
   },
+  "rg40xx-h": {
+    "cfw": {
+      "knulli": {
+        "name": "Knulli"
+      },
+      "muos": {
+        "name": "muOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rg40xx-h",
+    "manufacturer": "Anbernic",
+    "name": "Anbernic RG40XX H"
+  },
+  "rg40xx-v": {
+    "cfw": {
+      "knulli": {
+        "name": "Knulli"
+      },
+      "muos": {
+        "name": "muOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rg40xx-v",
+    "manufacturer": "Anbernic",
+    "name": "Anbernic RG40XX V"
+  },
   "rg503": {
     "cfw": {
       "arkos": {
         "name": "ArkOS"
-      },
-      "jelos": {
-        "name": "JELOS"
       },
       "rocknix": {
         "name": "ROCKNIX"
@@ -294,9 +338,6 @@
       "amberelec": {
         "name": "AmberELEC"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -310,9 +351,6 @@
       "arkos": {
         "name": "ArkOS"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -323,9 +361,6 @@
   },
   "rgb10max3": {
     "cfw": {
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -336,9 +371,6 @@
   },
   "rgb10max3pro": {
     "cfw": {
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -362,9 +394,6 @@
       "arkos": {
         "name": "ArkOS"
       },
-      "jelos": {
-        "name": "JELOS"
-      },
       "rocknix": {
         "name": "ROCKNIX"
       }
@@ -373,13 +402,26 @@
     "manufacturer": "Powkiddy",
     "name": "Powkiddy RGB30"
   },
+  "rgcubexx": {
+    "cfw": {
+      "knulli": {
+        "name": "Knulli"
+      },
+      "muos": {
+        "name": "muOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rgcubexx",
+    "manufacturer": "Anbernic",
+    "name": "Anbernic RGCUBEXX"
+  },
   "rk2023": {
     "cfw": {
       "arkos": {
         "name": "ArkOS"
-      },
-      "jelos": {
-        "name": "JELOS"
       },
       "rocknix": {
         "name": "ROCKNIX"
@@ -389,8 +431,63 @@
     "manufacturer": "Powkiddy",
     "name": "Powkiddy RK2023"
   },
+  "rp5": {
+    "cfw": {
+      "batocera": {
+        "name": "Batocera"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rp5",
+    "manufacturer": "Retroid Pocket",
+    "name": "Retroid Pocket 5"
+  },
+  "rpmini": {
+    "cfw": {
+      "batocera": {
+        "name": "Batocera"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rpmini",
+    "manufacturer": "Retroid Pocket",
+    "name": "Retroid Pocket Mini"
+  },
+  "steamdeck": {
+    "cfw": {
+      "batocera": {
+        "name": "Batocera"
+      },
+      "retrodeck": {
+        "name": "RetroDECK"
+      }
+    },
+    "device": "steamdeck",
+    "manufacturer": "Valve",
+    "name": "SteamDeck"
+  },
+  "trimui-brick": {
+    "cfw": {
+      "knulli": {
+        "name": "KNULLI"
+      },
+      "trimui": {
+        "name": "TrimUI"
+      }
+    },
+    "device": "trimui-brick",
+    "manufacturer": "TrimUI",
+    "name": "TrimUI Brick"
+  },
   "trimui-smart-pro": {
     "cfw": {
+      "knulli": {
+        "name": "KNULLI"
+      },
       "trimui": {
         "name": "TrimUI"
       }
@@ -401,8 +498,8 @@
   },
   "x55": {
     "cfw": {
-      "jelos": {
-        "name": "JELOS"
+      "rocknix": {
+        "name": "ROCKNIX"
       }
     },
     "device": "x55",
@@ -416,9 +513,6 @@
       },
       "arkos": {
         "name": "ArkOS"
-      },
-      "jelos": {
-        "name": "JELOS"
       },
       "rocknix": {
         "name": "ROCKNIX"
