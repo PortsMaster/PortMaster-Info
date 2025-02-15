@@ -17317,12 +17317,12 @@
       "name": "drally.zip",
       "source": {
         "date_added": "2023-11-27",
-        "date_updated": "2025-01-28",
-        "md5": "eeee714e65b61a571cc60820acb5ff39",
-        "release_id": "2025-01-28_1951",
+        "date_updated": "2025-02-15",
+        "md5": "9b6de727aa2e68c2441869358dc9d2d7",
+        "release_id": "2025-02-15_1456",
         "repo": "main",
         "size": 2244393,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/drally.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-15_1456/drally.zip"
       },
       "version": 3
     },
@@ -35708,14 +35708,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the Lost Inside Act 1.zip from Itch.io and extract all game files into assets folder.",
+        "inst": "Ready to run.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "Ganimoth"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "LOST INSIDE Act 1"
       },
@@ -35727,12 +35727,12 @@
       "name": "lostinsideact1.zip",
       "source": {
         "date_added": "2025-01-24",
-        "date_updated": "2025-01-24",
-        "md5": "026869c9755269698dd9862c705ed5a3",
-        "release_id": "2025-01-24_2219",
+        "date_updated": "2025-02-15",
+        "md5": "0442474ad24f388920abeb611ed86ede",
+        "release_id": "2025-02-15_1456",
         "repo": "main",
-        "size": 17811818,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-24_2219/lostinsideact1.zip"
+        "size": 34432055,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-15_1456/lostinsideact1.zip"
       },
       "version": 3
     },
@@ -41424,6 +41424,93 @@
         "repo": "main",
         "size": 11807206,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nidhogg.zip"
+      },
+      "version": 3
+    },
+    "nightofelchupacabra.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "\"Night of El Chupacabra\" is a retro-style arcade shooter set in 1995, where players defend their family from the legendary creature wreaking havoc in the countryside. Featuring 8-bit pixel art and fast-paced gameplay, the game challenges you to survive waves of attacks using quick reflexes and strategic movement. With browser-based and downloadable options, it\u2019s a nostalgic thrill for fans of classic arcade games.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is Ready To Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper",
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "Night Of El Chupacabra"
+      },
+      "items": [
+        "Night Of El Chupacabra.sh",
+        "nightofelchupacabra"
+      ],
+      "items_opt": null,
+      "name": "nightofelchupacabra.zip",
+      "source": {
+        "date_added": "2025-02-15",
+        "date_updated": "2025-02-15",
+        "md5": "3c65458ec449bc0a00addf1b732e48b1",
+        "release_id": "2025-02-15_1456",
+        "repo": "main",
+        "size": 9195716,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-15_1456/nightofelchupacabra.zip"
       },
       "version": 3
     },
@@ -52090,12 +52177,12 @@
       "name": "rite.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2024-07-18",
-        "md5": "16fa66d9be2e02dc9da8c7806b3991b3",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-02-15",
+        "md5": "116d0e9d34581c29b7202aadd7fd7c91",
+        "release_id": "2025-02-15_1456",
         "repo": "main",
-        "size": 4220698,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/rite.zip"
+        "size": 6392141,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-15_1456/rite.zip"
       },
       "version": 3
     },
@@ -61646,6 +61733,91 @@
       },
       "version": 3
     },
+    "superhexagon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Super Hexagon is a fast-paced, minimalistic arcade game where you control a tiny triangle orbiting a central hexagon, dodging an onslaught of spinning walls. With intense music, rapid movement, and a constantly shifting geometric world, it\u2019s a game of pure reflexes and precision. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is compatible with the Linux Itch, GOG and Steam release of the game.\n\nInstalling Itch: \n- Download the Linux version, put the \"superhexagon-xxxxx-bin\" file into the folder superhexagon/gamefiles/itch/\nInstalling GOG:\n- Download the Linux version, put the \"gog_super_hexagon_xxxxx.sh\" file into the folder superhexagon/gamefiles/gog/\nInstalling Steam:\n - Open the Steam console and type in the following command to download the Linux version: \ndownload_depot 221640 221643 7186315654381968499\n - Put the gamefiles (without any surrounding folders) into superhexagon/gamefiles/steam/",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "BinaryCounter"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": "weston_pkg_0.2",
+        "title": "Super Hexagon"
+      },
+      "items": [
+        "Super Hexagon.sh",
+        "superhexagon"
+      ],
+      "items_opt": null,
+      "name": "superhexagon.zip",
+      "source": {
+        "date_added": "2025-02-15",
+        "date_updated": "2025-02-15",
+        "md5": "bb817dc0ee39e1eedad4056ae4035e03",
+        "release_id": "2025-02-15_2011",
+        "repo": "main",
+        "size": 9638916,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-15_2011/superhexagon.zip"
+      },
+      "version": 3
+    },
     "supermeatboy.zip": {
       "attr": {
         "arch": [
@@ -63857,6 +64029,90 @@
         "repo": "main",
         "size": 12576231,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thecurseofissyos.zip"
+      },
+      "version": 3
+    },
+    "thefoundersofredacted.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "The founders of [redacted] is a pixel-art point & click adventure. It's the fourth installment in a series, following Uncle Lee strikes again, Once upon a M\u00f6bius strip, and Not enough time. Knowledge of the previous games is not required, as it is a standalone story.",
+        "desc_md": "**The founders of [redacted]** is a pixel-art point & click adventure. It's the fourth installment in a series, following [Uncle Lee strikes again](https://apicici.itch.io/uncle-lee-strikes-again), [Once upon a M\u00f6bius strip](https://apicici.itch.io/once-upon-a-mobius-strip), and [Not enough time](https://apicici.itch.io/ines-in-not-enough-time). Knowledge of the previous games is not required, as it is a standalone story.",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is Ready To Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": null,
+        "title": "The founders of [redacted]"
+      },
+      "items": [
+        "The founders of [redacted].sh",
+        "thefoundersofredacted"
+      ],
+      "items_opt": null,
+      "name": "thefoundersofredacted.zip",
+      "source": {
+        "date_added": "2025-02-15",
+        "date_updated": "2025-02-15",
+        "md5": "6b8002fde411095d8cadb24c2d403f73",
+        "release_id": "2025-02-15_1456",
+        "repo": "main",
+        "size": 19575147,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-15_1456/thefoundersofredacted.zip"
       },
       "version": 3
     },
