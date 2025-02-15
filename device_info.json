@@ -325,10 +325,10 @@
             "analogsticks": 2,
             "cpu": "unknown",
             "capabilities": [
-                "power",
                 "armhf",
-                "opengl",
+                "power",
                 "aarch64",
+                "opengl",
                 "restore",
                 "4:3",
                 "640x480",
@@ -354,10 +354,10 @@
             "analogsticks": 2,
             "cpu": "unknown",
             "capabilities": [
-                "power",
                 "armhf",
-                "opengl",
+                "power",
                 "aarch64",
+                "opengl",
                 "restore",
                 "4:3",
                 "640x480",
@@ -383,10 +383,10 @@
             "analogsticks": 2,
             "cpu": "unknown",
             "capabilities": [
-                "opengl",
                 "armhf",
-                "power",
                 "aarch64",
+                "opengl",
+                "power",
                 "restore",
                 "4:3",
                 "640x480",
@@ -1082,8 +1082,8 @@
             "cpu": "rk3326",
             "capabilities": [
                 "armhf",
-                "opengl",
                 "aarch64",
+                "opengl",
                 "restore",
                 "3:2",
                 "480x320",
@@ -1168,8 +1168,8 @@
             "cpu": "rk3326",
             "capabilities": [
                 "armhf",
-                "opengl",
                 "aarch64",
+                "opengl",
                 "restore",
                 "4:3",
                 "640x480",
@@ -1197,10 +1197,10 @@
             "analogsticks": 2,
             "cpu": "unknown",
             "capabilities": [
-                "power",
                 "armhf",
-                "opengl",
+                "power",
                 "aarch64",
+                "opengl",
                 "restore",
                 "4:3",
                 "640x480",
@@ -1226,10 +1226,10 @@
             "analogsticks": 2,
             "cpu": "unknown",
             "capabilities": [
-                "opengl",
                 "armhf",
-                "power",
                 "aarch64",
+                "opengl",
+                "power",
                 "restore",
                 "4:3",
                 "640x480",
@@ -1596,8 +1596,8 @@
             "cpu": "rk3326",
             "capabilities": [
                 "armhf",
-                "opengl",
                 "aarch64",
+                "opengl",
                 "restore",
                 "3:2",
                 "480x320",
@@ -1717,8 +1717,8 @@
             "cpu": "rk3326",
             "capabilities": [
                 "armhf",
-                "opengl",
                 "aarch64",
+                "opengl",
                 "restore",
                 "427:240",
                 "854x480",
@@ -1876,11 +1876,11 @@
             "analogsticks": 2,
             "cpu": "rk3588",
             "capabilities": [
-                "ultra",
-                "opengl",
                 "armhf",
-                "power",
                 "aarch64",
+                "opengl",
+                "power",
+                "ultra",
                 "restore",
                 "16:9",
                 "1920x1080",
@@ -2092,8 +2092,10 @@
             "analogsticks": 2,
             "cpu": "sd865",
             "capabilities": [
-                "power",
+                "armhf",
+                "aarch64",
                 "opengl",
+                "power",
                 "ultra",
                 "restore",
                 "16:9",
@@ -2111,6 +2113,7 @@
                 "8gb"
             ],
             "ram": 8192,
+            "primary_arch": "aarch64",
             "glibc": "2.40"
         },
         "Batocera": {
@@ -2125,7 +2128,9 @@
             "analogsticks": 2,
             "cpu": "sd865",
             "capabilities": [
+                "armhf",
                 "power",
+                "aarch64",
                 "ultra",
                 "restore",
                 "16:9",
@@ -2143,6 +2148,7 @@
                 "8gb"
             ],
             "ram": 8192,
+            "primary_arch": "aarch64",
             "glibc": "2.30"
         }
     },
@@ -2159,8 +2165,10 @@
             "analogsticks": 2,
             "cpu": "sd865",
             "capabilities": [
-                "power",
+                "armhf",
+                "aarch64",
                 "opengl",
+                "power",
                 "ultra",
                 "restore",
                 "4:3",
@@ -2177,6 +2185,7 @@
                 "4gb"
             ],
             "ram": 6144,
+            "primary_arch": "aarch64",
             "glibc": "2.40"
         },
         "Batocera": {
@@ -2191,7 +2200,9 @@
             "analogsticks": 2,
             "cpu": "sd865",
             "capabilities": [
+                "armhf",
                 "power",
+                "aarch64",
                 "ultra",
                 "restore",
                 "4:3",
@@ -2208,6 +2219,7 @@
                 "4gb"
             ],
             "ram": 6144,
+            "primary_arch": "aarch64",
             "glibc": "2.30"
         }
     },
@@ -2256,9 +2268,9 @@
             "cpu": "x86_64",
             "capabilities": [
                 "power",
-                "x86_64",
                 "opengl",
                 "ultra",
+                "x86_64",
                 "16:9",
                 "restore",
                 "16:10",
@@ -2293,9 +2305,9 @@
             "cpu": "x86_64",
             "capabilities": [
                 "power",
-                "x86_64",
                 "opengl",
                 "ultra",
+                "x86_64",
                 "16:9",
                 "restore",
                 "16:10",
@@ -2388,8 +2400,8 @@
             "cpu": "rk3326",
             "capabilities": [
                 "armhf",
-                "opengl",
                 "aarch64",
+                "opengl",
                 "restore",
                 "4:3",
                 "640x480",
@@ -2471,8 +2483,8 @@
             "cpu": "rk3326",
             "capabilities": [
                 "armhf",
-                "opengl",
                 "aarch64",
+                "opengl",
                 "restore",
                 "4:3",
                 "640x480",
@@ -2556,8 +2568,8 @@
             "cpu": "rk3326",
             "capabilities": [
                 "armhf",
-                "opengl",
                 "aarch64",
+                "opengl",
                 "restore",
                 "4:3",
                 "640x480",
@@ -2643,8 +2655,8 @@
             "cpu": "rk3326",
             "capabilities": [
                 "armhf",
-                "opengl",
                 "aarch64",
+                "opengl",
                 "restore",
                 "4:3",
                 "640x480",
