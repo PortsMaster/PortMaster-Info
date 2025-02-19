@@ -669,12 +669,12 @@
       "name": "aerofoil.zip",
       "source": {
         "date_added": "2025-02-06",
-        "date_updated": "2025-02-06",
-        "md5": "1cc644d59c9497b55a3e43cf0c1688ad",
-        "release_id": "2025-02-06_0046",
+        "date_updated": "2025-02-18",
+        "md5": "6084bf3b137fcac7ed2f05b2db8a38bb",
+        "release_id": "2025-02-18_2120",
         "repo": "main",
-        "size": 10098120,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_0046/aerofoil.zip"
+        "size": 9842002,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/aerofoil.zip"
       },
       "version": 3
     },
@@ -2513,6 +2513,87 @@
         "repo": "main",
         "size": 1540654,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/apricots.zip"
+      },
+      "version": 3
+    },
+    "aquaria.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-h:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A massive ocean world, teeming with life and filled with ancient secrets. Join Naija, a lone underwater dweller in search of her family, as she explores the depths of Aquaria. She'll travel from hidden caves, shrouded in darkness, to beautiful, sunlit oases, all lovingly handcrafted by its two creators.",
+        "desc_md": "A massive ocean world, teeming with life and filled with ancient secrets. Join Naija, a lone underwater dweller in search of her family, as she explores the depths of [Aquaria](https://www.bit-blot.com/aquaria/). She'll travel from hidden caves, shrouded in darkness, to beautiful, sunlit oases, all lovingly handcrafted by its two creators.",
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install the port. Buy the game on Steam or GoG and copy the game files (data/ and surrounding files) into your ports/aquaria folder.",
+        "inst_md": "Install the port. Buy the game on Steam or GoG and copy the game files (`data/` and surrounding files) into your `ports/aquaria` folder.",
+        "min_glibc": "",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [
+          "!lowres",
+          "analog_1"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "Aquaria"
+      },
+      "items": [
+        "Aquaria.sh",
+        "aquaria"
+      ],
+      "items_opt": null,
+      "name": "aquaria.zip",
+      "source": {
+        "date_added": "2025-02-18",
+        "date_updated": "2025-02-18",
+        "md5": "2d1aab4c8f8a497faccc05ce6eb29218",
+        "release_id": "2025-02-18_2120",
+        "repo": "main",
+        "size": 5824679,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/aquaria.zip"
       },
       "version": 3
     },
@@ -6670,7 +6751,7 @@
         "size": 12679,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/boni.zip"
       },
-      "version": 2
+      "version": 3
     },
     "bootlegbox.zip": {
       "attr": {
@@ -16892,12 +16973,12 @@
       "name": "doomengines.zip",
       "source": {
         "date_added": "2025-02-04",
-        "date_updated": "2025-02-13",
-        "md5": "bacab138977a57abbbfa8b323a87f867",
-        "release_id": "2025-02-13_2342",
+        "date_updated": "2025-02-18",
+        "md5": "c27c4f6fda92e554039df0c3a77998a7",
+        "release_id": "2025-02-18_2120",
         "repo": "main",
-        "size": 57899097,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/doomengines.zip"
+        "size": 57898897,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/doomengines.zip"
       },
       "version": 3
     },
@@ -17145,12 +17226,12 @@
       "name": "doukutsu-rs.zip",
       "source": {
         "date_added": "2025-01-23",
-        "date_updated": "2025-01-30",
-        "md5": "3364aefab530940610dec5870dd50d3c",
-        "release_id": "2025-01-30_2311",
+        "date_updated": "2025-02-18",
+        "md5": "714ae58d87284888e39cb68d942bd991",
+        "release_id": "2025-02-18_2120",
         "repo": "main",
-        "size": 3206545,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/doukutsu-rs.zip"
+        "size": 3125401,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/doukutsu-rs.zip"
       },
       "version": 3
     },
@@ -18158,12 +18239,12 @@
       "name": "dunelegacy.zip",
       "source": {
         "date_added": "2025-02-13",
-        "date_updated": "2025-02-13",
-        "md5": "5f548439b4731da6f08916841e0c56b1",
-        "release_id": "2025-02-13_2342",
+        "date_updated": "2025-02-18",
+        "md5": "3ef40605703b1ae62e29114898580ce7",
+        "release_id": "2025-02-18_2120",
         "repo": "main",
-        "size": 4909529,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/dunelegacy.zip"
+        "size": 4311098,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/dunelegacy.zip"
       },
       "version": 3
     },
@@ -28993,7 +29074,7 @@
         "size": 21867,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/humming.out.zip"
       },
-      "version": 2
+      "version": 3
     },
     "hunters.zip": {
       "attr": {
@@ -29522,7 +29603,7 @@
           "gkd-bubble:ALL"
         ],
         "desc": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16\u00adbit classics, with modernized mechanics and designs on a much grander scale.\n\nNote: Only the Steam version works! 1gb ram devices will crash occasionally due to running out of ram when transitioning between maps due to external textures!",
-        "desc_md": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16 bit classics, with modernized mechanics and designs on a much grander scale.\n\n**Note: Only the Steam version works!  \nVideos have been patched out as they are currently not compatible with gmloader.next.  \n1gb ram devices will crash occasionally due to running out of ram when transitioning between maps due to external textures!  \n Not recommended for 1gb ram devices with ArkOSas it will crash very frequently!**",
+        "desc_md": "Echoes of a dark and violent past resonate throughout a savage land, steeped in treasure and blood. Hyper Light Drifter is an action adventure RPG in the vein of the best 16 bit classics, with modernized mechanics and designs on a much grander scale.\n\n**Note: Only the Steam version works!  \nVideos have been patched out as they are currently not compatible with gmloader.next.  \n1gb ram devices will crash occasionally due to running out of ram when transitioning between maps due to external textures!  \n Not recommended for 1gb ram devices with ArkOS as it will crash very frequently!**",
         "exp": false,
         "genres": [
           "adventure"
@@ -29556,12 +29637,12 @@
       "name": "hyperlightdrifter.zip",
       "source": {
         "date_added": "2025-02-13",
-        "date_updated": "2025-02-13",
-        "md5": "d1bebaebe591ee42d1dd49a7ebbcad83",
-        "release_id": "2025-02-13_2342",
+        "date_updated": "2025-02-18",
+        "md5": "2d52e87bf9443b8a3ff434d3019dd4b8",
+        "release_id": "2025-02-18_2120",
         "repo": "main",
         "size": 219060816,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/hyperlightdrifter.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/hyperlightdrifter.zip"
       },
       "version": 3
     },
@@ -46077,12 +46158,12 @@
       "name": "perfectdark.zip",
       "source": {
         "date_added": "2025-01-28",
-        "date_updated": "2025-01-30",
-        "md5": "0904e0f6faf251edd76aa312c0468e1a",
-        "release_id": "2025-01-30_2311",
+        "date_updated": "2025-02-18",
+        "md5": "34027021400050833fbb70f77c2ecca1",
+        "release_id": "2025-02-18_2120",
         "repo": "main",
-        "size": 8430152,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-30_2311/perfectdark.zip"
+        "size": 8327305,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/perfectdark.zip"
       },
       "version": 3
     },
@@ -48400,7 +48481,7 @@
         "size": 23363409,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/prototype.zip"
       },
-      "version": 2
+      "version": 3
     },
     "psebay.zip": {
       "attr": {
@@ -55998,12 +56079,12 @@
       "name": "signus.zip",
       "source": {
         "date_added": "2025-02-13",
-        "date_updated": "2025-02-13",
-        "md5": "e690fb1191eb1b7e9d07783d13d7c8a0",
-        "release_id": "2025-02-13_2342",
+        "date_updated": "2025-02-18",
+        "md5": "bca4741de1f3ba515b91e4968da9d789",
+        "release_id": "2025-02-18_2120",
         "repo": "main",
-        "size": 708398369,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/signus.zip"
+        "size": 707838165,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/signus.zip"
       },
       "version": 3
     },
@@ -61482,7 +61563,7 @@
         "size": 24018,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/superdrome.bugs.zip"
       },
-      "version": 2
+      "version": 3
     },
     "superdungeonmuncher.zip": {
       "attr": {
@@ -62630,7 +62711,7 @@
         "size": 130271707,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/supertuxkart.zip"
       },
-      "version": 2
+      "version": 3
     },
     "superxyx.zip": {
       "attr": {
@@ -68181,12 +68262,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-02-13",
-        "md5": "da9113b1ee2939861a553784814558c9",
-        "release_id": "2025-02-13_2342",
+        "date_updated": "2025-02-18",
+        "md5": "b0b587ac789d9ed093f6fe7624407497",
+        "release_id": "2025-02-18_2120",
         "repo": "main",
-        "size": 11053670,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/ufo50.zip"
+        "size": 11054664,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/ufo50.zip"
       },
       "version": 3
     },
@@ -71754,8 +71835,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Install portfiles. Buy Wuppo on Steam. Right-click on Wuppo, select Properties, go to Betas, select 'Revert' (For MacOS version, make 'Revert' thick). Right-click on Wuppo again, go to Manage, then 'Browse Local Files.' Copy everything except the Funpack and Soundtrack folders. Go to your ROMs SD card, locate the 'ports/wuppo/assets' folder, and paste it there.",
-        "inst_md": "1. Install portfiles. Buy Wuppo on Steam.\n2. Right-click on Wuppo and select **Properties**.\n3. Go to **Betas**, select **Beta Participation**, and choose **Revert** (For MacOS version, make **Revert** thick).\n4. Right-click on Wuppo again, go to **Manage**, and select **Browse Local Files**.\n5. Copy everything except for the **Funpack** and **Soundtrack** folders.\n6. Go to your **ROMs SD card**, locate the `ports/wuppo/assets` folder, and paste the files there.",
+        "inst": "Install portfiles. Buy Wuppo on Steam. Open the Steam console and enter 'download_depot 400630 400631 7979843440656313703'. Once the download completes, navigate to the downloaded files. Copy everything except the Funpack and Soundtrack folders. Go to your ROMs SD card, locate the 'ports/wuppo/assets' folder, and paste it there.",
+        "inst_md": "1. Install portfiles. Buy Wuppo on Steam.\n2. Open the Steam console and enter `download_depot 400630 400631 7979843440656313703`.\n3. Once the download completes, navigate to the downloaded files.\n4. Copy everything except for the **Funpack** and **Soundtrack** folders.\n5. Go to your **ROMs SD card**, locate the `ports/wuppo/assets` folder, and paste the files there.",
         "min_glibc": "",
         "porter": [
           "Techbane",
@@ -71776,12 +71857,12 @@
       "name": "wuppo.zip",
       "source": {
         "date_added": "2024-12-27",
-        "date_updated": "2024-12-27",
-        "md5": "126b284def35d83f013c4d874c100c68",
-        "release_id": "2024-12-27_1725",
+        "date_updated": "2025-02-18",
+        "md5": "a1c3c74307f003a385fd06fae1f3a9c4",
+        "release_id": "2025-02-18_2120",
         "repo": "main",
-        "size": 57120522,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/wuppo.zip"
+        "size": 54200694,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/wuppo.zip"
       },
       "version": 3
     },
