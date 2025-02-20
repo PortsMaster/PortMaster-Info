@@ -47731,12 +47731,12 @@
       "name": "pocketcrystalleague.zip",
       "source": {
         "date_added": "2024-08-18",
-        "date_updated": "2024-09-07",
-        "md5": "8dbd959e140f310ba5e4b69df8b19306",
-        "release_id": "2024-09-07_0119",
+        "date_updated": "2025-02-20",
+        "md5": "c8d1e12c642d8a9edbeec9fadc7662f6",
+        "release_id": "2025-02-20_1316",
         "repo": "multiverse",
-        "size": 22236749,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-09-07_0119/pocketcrystalleague.zip"
+        "size": 22292161,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-20_1316/pocketcrystalleague.zip"
       },
       "version": 3
     },
@@ -57478,7 +57478,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Follow the guide at https://www.shipofharkinian.com/setup-guide for your desired platform to create your oot.otr and/or oot-mq.otr files. Once created put in the ports/soh folder.",
+        "inst": "You need to provide your own roms. See the [Shipwright](https://github.com/HarbourMasters/Shipwright/blob/develop/docs/supportedHashes.json) repository for a list of supported rom hashes. Gather your roms and put them in the `ports/soh` folder. Start the port, and on first run, your .otr files will be generated from the roms you provide. Note that only one `oot.otr` and `oot-mq.otr` will be made--if you provide more than one rom per game, strange things may occur. You *can* use pregenerated `.otr` files from elsewhere, but you may experience crashes.",
         "inst_md": null,
         "min_glibc": 2.36,
         "porter": [
@@ -57497,12 +57497,12 @@
       "name": "soh.zip",
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2025-02-01",
-        "md5": "c9367309de8d4c83e96c2cbcd214359b",
-        "release_id": "2025-02-01_1319",
+        "date_updated": "2025-02-20",
+        "md5": "59b6168fe885afef93488a8b7d2dbaca",
+        "release_id": "2025-02-20_1316",
         "repo": "multiverse",
-        "size": 14127132,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-01_1319/soh.zip"
+        "size": 14127320,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-20_1316/soh.zip"
       },
       "version": 3
     },
@@ -57583,12 +57583,12 @@
       "name": "soh2.zip",
       "source": {
         "date_added": "2024-06-10",
-        "date_updated": "2025-02-01",
-        "md5": "f993e39e3772470fb8d08dbca9ec6fb4",
-        "release_id": "2025-02-01_1319",
+        "date_updated": "2025-02-20",
+        "md5": "b54e15d2682fd203b75694d56232d8d6",
+        "release_id": "2025-02-20_1316",
         "repo": "multiverse",
-        "size": 11645204,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-01_1319/soh2.zip"
+        "size": 11645203,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-20_1316/soh2.zip"
       },
       "version": 3
     },
