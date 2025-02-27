@@ -15564,12 +15564,12 @@
       "name": "descent.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2025-02-04",
-        "md5": "ba38cf880e496b04da3807249018e3d1",
-        "release_id": "2025-02-04_1954",
+        "date_updated": "2025-02-27",
+        "md5": "e2eaca5841a18026b8360442080d6696",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 15279821,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/descent.zip"
+        "size": 15253726,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/descent.zip"
       },
       "version": 3
     },
@@ -15649,12 +15649,12 @@
       "name": "descent2.zip",
       "source": {
         "date_added": "2023-11-28",
-        "date_updated": "2025-02-04",
-        "md5": "c91a60718b9a12e900726821e2ff7bcf",
-        "release_id": "2025-02-04_1954",
+        "date_updated": "2025-02-27",
+        "md5": "a62aca3a139e9327ae57647aedbad0a8",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 14953992,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/descent2.zip"
+        "size": 14954002,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/descent2.zip"
       },
       "version": 3
     },
@@ -15731,12 +15731,12 @@
       "name": "descent3.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2025-01-08",
-        "md5": "a6b64033bb59e102c7fbcd67cb51b4ee",
-        "release_id": "2025-01-08_1341",
+        "date_updated": "2025-02-27",
+        "md5": "9de9337b34643536684d929bdf2a6551",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 7292189,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/descent3.zip"
+        "size": 7251891,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/descent3.zip"
       },
       "version": 3
     },
@@ -16227,6 +16227,84 @@
         "repo": "main",
         "size": 170709,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/digger.zip"
+      },
+      "version": 3
+    },
+    "digitaltamersreborn.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Train, fight, evolve! Digital Tamers: ReBorn is a casual fighting game for all Digimon fans. Your mission is to take care of your partner, keep it strong, healthy in order to evolve and win battles and several prizes! Excel and win the 12 Championships that will take place throughout the year in order to become a true Digimon Tamer! Live this experience and welcome, to the Digital World!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Windows executable from https://dragonrod342.itch.io/digital-tamers-reborn and put in the `ports/digitamersreborn/assets` folder..",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [
+          "analog_1|analog_2"
+        ],
+        "rtr": false,
+        "runtime": null,
+        "title": "DigitalTamers Reborn"
+      },
+      "items": [
+        "DigitalTamers Reborn.sh",
+        "digitamersreborn"
+      ],
+      "items_opt": null,
+      "name": "digitaltamersreborn.zip",
+      "source": {
+        "date_added": "2025-02-27",
+        "date_updated": "2025-02-27",
+        "md5": "bb12e5643f2816b25bda779ee2b6ab3d",
+        "release_id": "2025-02-27_2241",
+        "repo": "main",
+        "size": 221088465,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/digitaltamersreborn.zip"
       },
       "version": 3
     },
@@ -17189,8 +17267,8 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A fully playable re-implementation of the Cave Story (Doukutsu Monogatari) engine written in Rust.",
-        "desc_md": "A fully playable re-implementation of the Cave Story (Doukutsu Monogatari) engine written in Rust.\n\nThis port is a build of doukutsu-rs, see:\n\n[https://github.com/doukutsu-rs/doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs)\n\nYou can play the original freeware game, or Cave Story+, with enhanced graphics, sound, challenges and co-op play.",
+        "desc": "Arguably the most well-known indie game of all time, Cave Story (Doukutsu Monogatari) features a completely original storyline wrapped with personality, mystery and hours of fast-paced fun.\n\nThis port is a build of doukutsu-rs, a fully playable re-implementation of the Cave Story engine written in Rust. You can play the original freeware game (bundled with the port), or Cave Story+ which has enhanced graphics, sound, challenges and co-op play.",
+        "desc_md": "Arguably the most well-known indie game of all time, Cave Story (Doukutsu Monogatari) features a completely original storyline wrapped with personality, mystery and hours of fast-paced fun.\n\nThis port is a build of [doukutsu-rs](https://github.com/doukutsu-rs/doukutsu-rs), a fully playable re-implementation of the Cave Story engine written in Rust. You can play the original freeware game (bundled with the port), or Cave Story+ which has enhanced graphics, sound, challenges and co-op play.",
         "exp": false,
         "genres": [
           "action",
@@ -17205,8 +17283,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy the game files into your ports/doukutsu-rs folder. You can use the original freeware Cave Story files, which can be found here: https://www.cavestory.org/download/cave-story.php\n\nOr, you can buy Cave Story+ on Steam. This has higher-resolution graphics, remastered music and other enhancements.\n\nThe game uses the SDL controller by default, but controls can be reconfigured in the game.",
-        "inst_md": "Copy the game files into your `ports/doukutsu-rs` folder. You can use the original freeware Cave Story files, which can be found here: [https://www.cavestory.org/download/cave-story.php](https://www.cavestory.org/download/cave-story.php)\n\nOr, you can buy Cave Story+ on Steam. This has higher-resolution graphics, remastered music and other enhancements.\n\nThe game uses the SDL controller by default, but controls can be reconfigured in the game.",
+        "inst": "The original freeware game is included, and will be used automatically if you don't provide any files. You can download one of the translations from https://www.cavestory.org/download/cave-story.php , or buy Cave Story+ on Steam or elsewhere. Put the files from either version (`data` and surrounding files) in ports/doukutsu-rs.",
+        "inst_md": "The original freeware game is included, and will be used automatically if you don't provide any files. You can download one of the translations from [here](https://www.cavestory.org/download/cave-story.php), or buy Cave Story+ on Steam or elsewhere. Put the files from either version (`data` and surrounding files) in `ports/doukutsu-rs`.",
         "min_glibc": "",
         "porter": [
           "beniamino"
@@ -17214,7 +17292,7 @@
         "reqs": [
           "!lowres"
         ],
-        "rtr": false,
+        "rtr": true,
         "runtime": null,
         "title": "Doukutsu-rs"
       },
@@ -17226,12 +17304,12 @@
       "name": "doukutsu-rs.zip",
       "source": {
         "date_added": "2025-01-23",
-        "date_updated": "2025-02-18",
-        "md5": "714ae58d87284888e39cb68d942bd991",
-        "release_id": "2025-02-18_2120",
+        "date_updated": "2025-02-27",
+        "md5": "d2707b5ee63aa952bb134b7bfcd7208f",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 3125401,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/doukutsu-rs.zip"
+        "size": 4233610,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/doukutsu-rs.zip"
       },
       "version": 3
     },
@@ -19399,12 +19477,12 @@
       "name": "entwined.zip",
       "source": {
         "date_added": "2024-10-14",
-        "date_updated": "2024-10-15",
-        "md5": "0f5eafb7a6b65246ccdaf2de32c15c9a",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2025-02-27",
+        "md5": "568a6ef9e6c63a8019b1eb2648c2e793",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 64700147,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/entwined.zip"
+        "size": 64763380,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/entwined.zip"
       },
       "version": 3
     },
@@ -23946,7 +24024,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Install port. Download the game on Steam. Copy all gamefiles to the gamedata folder.",
+        "inst": "Install port. Purchase and download the game on Steam or Epic games. Copy all gamefiles to 'roms/ports/gardenstory/assets' folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -23967,12 +24045,12 @@
       "name": "gardenstory.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-10-21",
-        "md5": "82fd6e2a6a42b7f2ce6000a25278e00d",
-        "release_id": "2024-10-21_0653",
+        "date_updated": "2025-02-27",
+        "md5": "728bf65e979cefebf00984b9d544c671",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 18331100,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/gardenstory.zip"
+        "size": 25819043,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/gardenstory.zip"
       },
       "version": 3
     },
@@ -30637,7 +30715,7 @@
     "interstatedrifter.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -30661,10 +30739,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -30706,12 +30788,12 @@
       "name": "interstatedrifter.zip",
       "source": {
         "date_added": "2025-02-13",
-        "date_updated": "2025-02-13",
-        "md5": "4e2135c17b12755900f01941ae1d04dd",
-        "release_id": "2025-02-13_2342",
+        "date_updated": "2025-02-27",
+        "md5": "606ae16cf96d020ff3509897919f8cb8",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 6056949,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/interstatedrifter.zip"
+        "size": 8074299,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/interstatedrifter.zip"
       },
       "version": 3
     },
@@ -45659,12 +45741,12 @@
       "name": "paintedheart.zip",
       "source": {
         "date_added": "2025-02-19",
-        "date_updated": "2025-02-19",
-        "md5": "18d67484ae5c9cc1cb361d574fb43426",
-        "release_id": "2025-02-19_1252",
+        "date_updated": "2025-02-27",
+        "md5": "5762429bd509b54afceeb7e01ff98bfb",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 5728909,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-19_1252/paintedheart.zip"
+        "size": 5784035,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/paintedheart.zip"
       },
       "version": 3
     },
@@ -63734,7 +63816,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game for free here:\nhttps://benal.itch.io/tantibus\nextract and add all game files to the gamedata folder.",
+        "inst": "Download the game for free here:\nhttps://benal.itch.io/tantibus\n",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -63753,12 +63835,12 @@
       "name": "tantibus.zip",
       "source": {
         "date_added": "2025-02-11",
-        "date_updated": "2025-02-11",
-        "md5": "e1e6bba576e766509542d0bb371faa94",
-        "release_id": "2025-02-11_0956",
+        "date_updated": "2025-02-27",
+        "md5": "e1125396bb4779ee8e9506adf329fa5f",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 81153833,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-11_0956/tantibus.zip"
+        "size": 81209002,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/tantibus.zip"
       },
       "version": 3
     },
@@ -65405,12 +65487,12 @@
       "name": "tileworld.zip",
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2025-01-02",
-        "md5": "12f58f66f8d4410e2294a510fc86b16d",
-        "release_id": "2025-01-02_1923",
+        "date_updated": "2025-02-27",
+        "md5": "93a7aca78a11e843fae0923feae0e04e",
+        "release_id": "2025-02-27_2241",
         "repo": "main",
-        "size": 30847661,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/tileworld.zip"
+        "size": 30778907,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/tileworld.zip"
       },
       "version": 3
     },
