@@ -47731,12 +47731,12 @@
       "name": "pocketcrystalleague.zip",
       "source": {
         "date_added": "2024-08-18",
-        "date_updated": "2025-02-20",
-        "md5": "c8d1e12c642d8a9edbeec9fadc7662f6",
-        "release_id": "2025-02-20_1316",
+        "date_updated": "2025-02-27",
+        "md5": "9aec23b0499d5238395203c1d2ab1ba8",
+        "release_id": "2025-02-27_0256",
         "repo": "multiverse",
-        "size": 22292161,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-20_1316/pocketcrystalleague.zip"
+        "size": 22292188,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-27_0256/pocketcrystalleague.zip"
       },
       "version": 3
     },
@@ -47900,6 +47900,61 @@
         "repo": "main",
         "size": 19721515,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/pocketwondersport.zip"
+      },
+      "version": 3
+    },
+    "pokewilds.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "ace:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "steamdeck:ALL"
+        ],
+        "desc": "Pok\u00e9Wilds is an open-world Pok\u00e9mon fan game with survival and exploration elements. Built on Gen 2-style graphics, it features procedurally generated worlds, base-building, and freeform gameplay. Catch, train, and battle Pok\u00e9mon while exploring diverse biomes, crafting shelters, and uncovering hidden secrets.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "After installing the port, download the Windows game from https://github.com/SheerSt/pokewilds/releases and extract the `mods` and `app` folders, as well as `settings.txt`, into `ports/pokewilds`.",
+        "inst_md": null,
+        "porter": [
+          "Jeod",
+          "JanTrueno"
+        ],
+        "reqs": [
+          "ultra"
+        ],
+        "rtr": false,
+        "runtime": "zulu17.54.21-ca-jre17.0.13-linux.aarch64.squashfs",
+        "title": "Pok\u00e9wilds"
+      },
+      "items": [
+        "Pokewilds.sh",
+        "pokewilds"
+      ],
+      "items_opt": null,
+      "name": "pokewilds.zip",
+      "source": {
+        "date_added": "2025-02-27",
+        "date_updated": "2025-02-27",
+        "md5": "1600cc848486f900e6eae986bf41f69d",
+        "release_id": "2025-02-27_0256",
+        "repo": "multiverse",
+        "size": 2176856,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-27_0256/pokewilds.zip"
       },
       "version": 3
     },
@@ -56726,8 +56781,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smredux.png",
-            "cover.sm.png"
+            "cover.sm.png",
+            "cover.smredux.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -56892,8 +56947,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smbll.png",
-            "cover.smb1.png"
+            "cover.smb1.png",
+            "cover.smbll.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
