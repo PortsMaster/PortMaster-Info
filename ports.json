@@ -47928,7 +47928,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "After installing the port, download the Windows game from https://github.com/SheerSt/pokewilds/releases and extract the `mods` and `app` folders, as well as `settings.txt`, into `ports/pokewilds`.",
+        "inst": "After installing the port, download the Windows game from https://github.com/SheerSt/pokewilds/releases and extract the `mods` and `app` folders, as well as `settings.txt`, into `ports/pokewilds/bin`.",
         "inst_md": null,
         "porter": [
           "Jeod",
@@ -47950,11 +47950,11 @@
       "source": {
         "date_added": "2025-02-27",
         "date_updated": "2025-02-27",
-        "md5": "1600cc848486f900e6eae986bf41f69d",
-        "release_id": "2025-02-27_0256",
+        "md5": "97dd92be866f9213192eebcdf383a78b",
+        "release_id": "2025-02-27_1304",
         "repo": "multiverse",
-        "size": 2176856,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-27_0256/pokewilds.zip"
+        "size": 2176859,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-27_1304/pokewilds.zip"
       },
       "version": 3
     },
