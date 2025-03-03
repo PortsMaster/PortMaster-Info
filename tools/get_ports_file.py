@@ -15,10 +15,14 @@ def build_requirements(port_info, runtimes_info):
     runtime = port_info.get('attr', {}).get('runtime', None)
 
     if runtime is not None:
-        if not runtime.endswith('.squashfs'):
-            runtime += '.squashfs'
+        if isinstance(runtime, str):
+            runtime = [runtime]
 
-        requirements.append('|'.join(runtimes_info.get(runtime, [])))
+        for _runtime in runtime:
+            if not _runtime.endswith('.squashfs'):
+                _runtime += '.squashfs'
+
+            requirements.append('|'.join(runtimes_info.get(_runtime, [])))
 
     else:
         arch = port_info.get('attr', {}).get('arch', [])
