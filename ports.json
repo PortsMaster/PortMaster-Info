@@ -20128,6 +20128,92 @@
       },
       "version": 2
     },
+    "entropipes.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "EntroPipes is a puzzle type game. Simply connect all pipes. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Alfonso Saavedra 'Son Link'"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "pyxel_2.2.8_python_3.11.squashfs"
+        ],
+        "title": "EntroPipes"
+      },
+      "items": [
+        "EntroPipes.sh",
+        "entropipes"
+      ],
+      "items_opt": null,
+      "name": "entropipes.zip",
+      "source": {
+        "date_added": "2025-03-06",
+        "date_updated": "2025-03-06",
+        "md5": "2d86c073aa5ccbdb4d70116266228c29",
+        "release_id": "2025-03-06_1114",
+        "repo": "main",
+        "size": 70776,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/entropipes.zip"
+      },
+      "version": 4
+    },
     "entwined.zip": {
       "attr": {
         "arch": [],
@@ -28290,7 +28376,7 @@
         "rtr": false,
         "runtime": [
           "weston_pkg_0.2.squashfs",
-          "mono-6.12.0.122.squashfs"
+          "mono-6.12.0.122-aarch64.squashfs"
         ],
         "title": "Hammerwatch"
       },
@@ -28302,12 +28388,12 @@
       "name": "hammerwatch.zip",
       "source": {
         "date_added": "2025-02-19",
-        "date_updated": "2025-02-19",
-        "md5": "1236a1cdadb6c49476f74bdeeaf91fd0",
-        "release_id": "2025-02-19_1252",
+        "date_updated": "2025-03-06",
+        "md5": "94b9b617d8dfaf31b3e785fda4f2b730",
+        "release_id": "2025-03-06_1114",
         "repo": "main",
-        "size": 6177098,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-19_1252/hammerwatch.zip"
+        "size": 6177100,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/hammerwatch.zip"
       },
       "version": 4
     },
@@ -39409,6 +39495,94 @@
       },
       "version": 4
     },
+    "megazeux.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "MegaZeux is a game engine that features hundreds of user-created games, mostly in a retro, tile-based style. The games cover various genres, including RPGs, platformers, puzzles ans shoot 'm ups. They often use the engine\u2019s scripting system for unique mechanics and gameplay. With its simple graphics and creative possibilities, MegaZeux offers a wide variety of games to explore, all created by its community.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "1. Download over 500 games from DigitalMZX. 2. Place extracted game folders to roms/ports/megazeux/gamedata. 3. Run the games by selecting the mzx files in the built-in browser.",
+        "inst_md": "- Install testing zip.\n- Download over **500 games** from [DigitalMZX](https://www.digitalmzx.com/).\n- Place extracted game folders to `roms/ports/megazeux/gamedata`.\n- Run the games by selecting the mzx files in the built-in browser.",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Megazeux"
+      },
+      "items": [
+        "Megazeux.sh",
+        "megazeux"
+      ],
+      "items_opt": null,
+      "name": "megazeux.zip",
+      "source": {
+        "date_added": "2025-03-06",
+        "date_updated": "2025-03-06",
+        "md5": "9378949d06a9709c8c1df17bade3557d",
+        "release_id": "2025-03-06_1114",
+        "repo": "main",
+        "size": 2085897,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/megazeux.zip"
+      },
+      "version": 4
+    },
     "mercenarykings.zip": {
       "attr": {
         "arch": [],
@@ -40011,12 +40185,12 @@
       "name": "milkinside.zip",
       "source": {
         "date_added": "2025-02-27",
-        "date_updated": "2025-02-27",
-        "md5": "86f885e8229a488f297924fb30dbba82",
-        "release_id": "2025-02-27_2241",
+        "date_updated": "2025-03-06",
+        "md5": "d3a3a54fede5c9c746c8539252f8d34e",
+        "release_id": "2025-03-06_1114",
         "repo": "main",
-        "size": 49781,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/milkinside.zip"
+        "size": 579974,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/milkinside.zip"
       },
       "version": 4
     },
@@ -58738,6 +58912,99 @@
       },
       "version": 2
     },
+    "simutrans.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Simutrans is a freeware and open-source transportation simulator. Your goal is to establish a successful transport company. Transport passengers, mail and goods by rail, road, ship, and even air. Interconnect districts, cities, public buildings, industries and tourist attractions by building a transport network you always dreamed of.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is Ready To Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/434520/Simutrans/"
+          }
+        ],
+        "title": "Simutrans"
+      },
+      "items": [
+        "Simutrans.sh",
+        "simutrans"
+      ],
+      "items_opt": null,
+      "name": "simutrans.zip",
+      "source": {
+        "date_added": "2025-03-06",
+        "date_updated": "2025-03-06",
+        "md5": "d75ac30d8c0b7f6e2d837af1ec23b438",
+        "release_id": "2025-03-06_1114",
+        "repo": "main",
+        "size": 13749516,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/simutrans.zip"
+      },
+      "version": 4
+    },
     "skeletonboomerang.zip": {
       "attr": {
         "arch": [
@@ -59938,6 +60205,97 @@
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-20_1316/soh2.zip"
       },
       "version": 3
+    },
+    "sokobos.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Sokoban meets Greek tragedy! Sokobos is a minimalistic & challenging puzzle game that expands on the classic block-pushing formula.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy the Sokobos.pck into the gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.3.4.squashfs"
+        ],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/1655890/Sokobos"
+          }
+        ],
+        "title": "Sokobos"
+      },
+      "items": [
+        "Sokobos.sh",
+        "sokobos"
+      ],
+      "items_opt": null,
+      "name": "sokobos.zip",
+      "source": {
+        "date_added": "2025-03-06",
+        "date_updated": "2025-03-06",
+        "md5": "07f380632f197423ef8037611edd1470",
+        "release_id": "2025-03-06_1114",
+        "repo": "main",
+        "size": 6843,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/sokobos.zip"
+      },
+      "version": 4
     },
     "sokobrawn.zip": {
       "attr": {
@@ -71448,7 +71806,7 @@
     "undertale.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -71489,7 +71847,8 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Undertale loader.",
+        "availability": "paid",
+        "desc": "UNDERTALE! The RPG game where you don't have to destroy anyone.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -71503,34 +71862,42 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy the contents of your Steam or GOG installation to ports/undertale/gamedata.",
+        "inst": "Copy the contents of your Steam or GOG installation to ports/undertale/assets.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "krishenriksen",
-          "Jeod"
+          "Jeod",
+          "Ganimoth",
+          "curious_idiot"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/391540/Undertale/"
+          }
+        ],
         "title": "Undertale"
       },
       "items": [
-        "undertale/",
-        "Undertale.sh"
+        "Undertale.sh",
+        "undertale"
       ],
       "items_opt": null,
       "name": "undertale.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-07-28",
-        "md5": "d2a8d61a0f17a5b3ffac9d1034b8a45d",
-        "release_id": "2024-07-28_0519",
+        "date_updated": "2025-03-06",
+        "md5": "b5a15feb680bfceed6f1004646861e91",
+        "release_id": "2025-03-06_1114",
         "repo": "main",
-        "size": 4032483,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-28_0519/undertale.zip"
+        "size": 20591044,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/undertale.zip"
       },
-      "version": 2
+      "version": 4
     },
     "ungratefulbirdsngd.zip": {
       "attr": {
