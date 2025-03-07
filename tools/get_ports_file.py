@@ -14,6 +14,12 @@ def build_requirements(port_info, runtimes_info):
 
     runtime = port_info.get('attr', {}).get('runtime', None)
 
+    if isinstance(runtime, list) and len(runtime) > 0:
+        runtime = None
+
+    elif isinstance(runtime, str) and runtime not in ("blank", ""):
+        runtime = None
+
     if runtime is not None:
         if isinstance(runtime, str):
             runtime = [runtime]
