@@ -59426,11 +59426,12 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You need to provide your own roms. See the [Shipwright](https://github.com/HarbourMasters/Shipwright/blob/develop/docs/supportedHashes.json) repository for a list of supported rom hashes. Gather your roms and put them in the `ports/soh` folder. Start the port, and on first run, your .otr files will be generated from the roms you provide. Note that only one `oot.otr` and `oot-mq.otr` will be made--if you provide more than one rom per game, strange things may occur. You *can* use pregenerated `.otr` files from elsewhere, but you may experience crashes.",
+        "inst": "Follow the guide at https://www.shipofharkinian.com/setup-guide for your desired platform to create your oot.otr and/or oot-mq.otr files. Once created put in the ports/soh folder.",
         "inst_md": null,
-        "min_glibc": 2.36,
+        "min_glibc": "",
         "porter": [
-          "Jeod"
+          "Jeod",
+          "beniamino"
         ],
         "reqs": [],
         "rtr": false,
@@ -59445,12 +59446,12 @@
       "name": "soh.zip",
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2025-02-20",
-        "md5": "59b6168fe885afef93488a8b7d2dbaca",
-        "release_id": "2025-02-20_1316",
+        "date_updated": "2025-03-12",
+        "md5": "d2a6e213187fe1201575a3d12e10af94",
+        "release_id": "2025-03-12_0013",
         "repo": "multiverse",
-        "size": 14127320,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-20_1316/soh.zip"
+        "size": 16892573,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-03-12_0013/soh.zip"
       },
       "version": 2
     },
@@ -59514,9 +59515,10 @@
         },
         "inst": "Follow the guide in the readme to generate your mm.o2r file.",
         "inst_md": null,
-        "min_glibc": "2.38",
+        "min_glibc": "",
         "porter": [
-          "Jeod"
+          "Jeod",
+          "beniamino"
         ],
         "reqs": [],
         "rtr": false,
@@ -59531,12 +59533,12 @@
       "name": "soh2.zip",
       "source": {
         "date_added": "2024-06-10",
-        "date_updated": "2025-02-20",
-        "md5": "b54e15d2682fd203b75694d56232d8d6",
-        "release_id": "2025-02-20_1316",
+        "date_updated": "2025-03-12",
+        "md5": "8f4ab63f49983f838ad7242398c733a4",
+        "release_id": "2025-03-12_0013",
         "repo": "multiverse",
-        "size": 11645203,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-20_1316/soh2.zip"
+        "size": 10372350,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-03-12_0013/soh2.zip"
       },
       "version": 2
     },
