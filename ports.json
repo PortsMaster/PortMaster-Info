@@ -16726,12 +16726,12 @@
       "name": "digitaltamersreborn.zip",
       "source": {
         "date_added": "2025-02-27",
-        "date_updated": "2025-02-27",
-        "md5": "bb12e5643f2816b25bda779ee2b6ab3d",
-        "release_id": "2025-02-27_2241",
+        "date_updated": "2025-03-13",
+        "md5": "c627817f861cd4d97700078071fe6f4b",
+        "release_id": "2025-03-13_0928",
         "repo": "main",
-        "size": 221088465,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/digitaltamersreborn.zip"
+        "size": 221088410,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-13_0928/digitaltamersreborn.zip"
       },
       "version": 4
     },
@@ -55026,6 +55026,102 @@
       },
       "version": 2
     },
+    "roguesentry.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Rogue Sentry is a difficult twin-stick adventure shoot-em-up about a sentry droid who turns rogue to save humanity.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from itch.io or steam.\nDownload the game. Place all the game files into ports/roguesentry/assets",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://mdev.itch.io/rogue-sentry"
+          },
+          {
+            "name": "steam",
+            "url": "https://store.steampowered.com/app/1555770/Rogue_Sentry/"
+          }
+        ],
+        "title": "Rogue Sentry"
+      },
+      "items": [
+        "Rogue Sentry.sh",
+        "roguesentry"
+      ],
+      "items_opt": null,
+      "name": "roguesentry.zip",
+      "source": {
+        "date_added": "2025-03-13",
+        "date_updated": "2025-03-13",
+        "md5": "6d3aca0074c493b751133f5e03d095a5",
+        "release_id": "2025-03-13_0928",
+        "repo": "main",
+        "size": 12105139,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-13_0928/roguesentry.zip"
+      },
+      "version": 4
+    },
     "roswyn.zip": {
       "attr": {
         "arch": [
@@ -67505,12 +67601,12 @@
       "name": "tileworld.zip",
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2025-02-27",
-        "md5": "93a7aca78a11e843fae0923feae0e04e",
-        "release_id": "2025-02-27_2241",
+        "date_updated": "2025-03-13",
+        "md5": "ee50b63352c97bd450c52410dd70a6d9",
+        "release_id": "2025-03-13_0928",
         "repo": "main",
-        "size": 30778907,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/tileworld.zip"
+        "size": 30791836,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-13_0928/tileworld.zip"
       },
       "version": 4
     },
