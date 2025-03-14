@@ -3693,12 +3693,12 @@
       "name": "balatro.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-10-22",
-        "md5": "484e0e887f7ed62ffa394466cbd295db",
-        "release_id": "2024-10-22_1301",
+        "date_updated": "2025-03-14",
+        "md5": "afe9d6b95fabb2d25fa63a2bb102b4dd",
+        "release_id": "2025-03-14_1451",
         "repo": "main",
-        "size": 6005064,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_1301/balatro.zip"
+        "size": 6005093,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/balatro.zip"
       },
       "version": 2
     },
@@ -22462,6 +22462,96 @@
       },
       "version": 4
     },
+    "firework.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Follow Yan the Defective One through his fight against the Fire Troops and let him unveil the Facility's mystery in this action platformer. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and place game files into the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/974870/FIREWORK/"
+          }
+        ],
+        "title": "FIREWORK"
+      },
+      "items": [
+        "FIREWORK.sh",
+        "firework"
+      ],
+      "items_opt": null,
+      "name": "firework.zip",
+      "source": {
+        "date_added": "2025-03-14",
+        "date_updated": "2025-03-14",
+        "md5": "44ebfdbcf4078c3510c7dbb127e0f7e1",
+        "release_id": "2025-03-14_1451",
+        "repo": "main",
+        "size": 14099850,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/firework.zip"
+      },
+      "version": 4
+    },
     "fishfillets.zip": {
       "attr": {
         "arch": [
@@ -23609,6 +23699,92 @@
         "repo": "main",
         "size": 46086775,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/freeciv.zip"
+      },
+      "version": 4
+    },
+    "freecol.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "FreeCol is a 4X video game, a clone of Sid Meier's Colonization. FreeCol features redesigned graphics. Moreover, in addition to the classical Colonization rules, it features an additional ruleset that incorporates ideas that didn't make it to the final version of Meier's game,",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! \n",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [],
+        "title": "FreeCol"
+      },
+      "items": [
+        "FreeCol.sh",
+        "freecol"
+      ],
+      "items_opt": null,
+      "name": "freecol.zip",
+      "source": {
+        "date_added": "2025-03-14",
+        "date_updated": "2025-03-14",
+        "md5": "6e582304193fb38020c00fcd357b139a",
+        "release_id": "2025-03-14_1451",
+        "repo": "main",
+        "size": 211827226,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/freecol.zip"
       },
       "version": 4
     },
@@ -26308,14 +26484,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the GooptyGooGame.zip version for free at itch.io (https://dylanbrowngames.itch.io/gooptygoo). Extract the .zip, and copy the game files to this port's gamedata folder.",
-        "inst_md": "Download the *GooptyGooGame.zip* version for free at [itch.io](https://dylanbrowngames.itch.io/gooptygoo). Extract the *.zip*, and copy the game files to this port's *gamedata* folder.",
+        "inst": "Ready to run. Thanks to Dylan Brown (https://dylanbrowngames.itch.io) for permitting PortMaster to include the game files.",
+        "inst_md": "Ready to run. Thanks to [Dylan Brown](https://dylanbrowngames.itch.io) for permitting PortMaster to include the game files.",
         "min_glibc": "",
         "porter": [
           "tabreturn"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [],
         "title": "Goopty Goo"
       },
@@ -26327,12 +26503,12 @@
       "name": "gooptygoo.zip",
       "source": {
         "date_added": "2025-01-15",
-        "date_updated": "2025-01-15",
-        "md5": "244cc639965e3d01325f29180a085598",
-        "release_id": "2025-01-15_1237",
+        "date_updated": "2025-03-14",
+        "md5": "7382e84bdfc481865c33e83891710737",
+        "release_id": "2025-03-14_1451",
         "repo": "main",
-        "size": 11252610,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/gooptygoo.zip"
+        "size": 14676099,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/gooptygoo.zip"
       },
       "version": 4
     },
@@ -26916,6 +27092,96 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/grimstorm.zip"
       },
       "version": 2
+    },
+    "grizzland.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Exploration is King. Swing your sword, jump, slash the Dinos, break the game, shrink and enlarge, jump again, explode and recombine yourself in order to learn more about the Grizzled Planet! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy game files into the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/603110/Grizzland"
+          }
+        ],
+        "title": "Grizzland"
+      },
+      "items": [
+        "Grizzland.sh",
+        "grizzland"
+      ],
+      "items_opt": null,
+      "name": "grizzland.zip",
+      "source": {
+        "date_added": "2025-03-14",
+        "date_updated": "2025-03-14",
+        "md5": "ddc29dcd28ba0deaaf2139f88cce20da",
+        "release_id": "2025-03-14_1451",
+        "repo": "main",
+        "size": 20478637,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/grizzland.zip"
+      },
+      "version": 4
     },
     "gta3.zip": {
       "attr": {
@@ -31372,14 +31638,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the IGachaHeadBuild5.zip (Newest Version) version for free at itch.io (https://dylanbrowngames.itch.io/i-gacha-head). Extract the .zip, and copy the game files to this port's gamedata folder.",
-        "inst_md": "Download the *IGachaHeadBuild5.zip (Newest Version)* version for free at [itch.io](https://dylanbrowngames.itch.io/i-gacha-head). Extract the *.zip*, and copy the game files file to this port's *gamedata* folder.",
+        "inst": "Ready to run. Thanks to  Dylan Brown (https://dylanbrowngames.itch.io) for permitting PortMaster to include the game files.",
+        "inst_md": "Ready to run. Thanks to [Dylan Brown](https://dylanbrowngames.itch.io) for permitting PortMaster to include the game files.",
         "min_glibc": "",
         "porter": [
           "tabreturn"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [],
         "title": "I Gacha Head"
       },
@@ -31391,12 +31657,12 @@
       "name": "igachahead.zip",
       "source": {
         "date_added": "2025-01-15",
-        "date_updated": "2025-01-15",
-        "md5": "af0e3b854a6f038014bb9f01ee05ab37",
-        "release_id": "2025-01-15_1237",
+        "date_updated": "2025-03-14",
+        "md5": "23132abb295d3093c3c4c167e1752b0c",
+        "release_id": "2025-03-14_1451",
         "repo": "main",
-        "size": 12565286,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/igachahead.zip"
+        "size": 28054690,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/igachahead.zip"
       },
       "version": 4
     },
@@ -34154,14 +34420,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the KleebuuCravesFruitSalad(v1.03).zip version for free at itch.io (https://dylanbrowngames.itch.io/kleebuu-craves-fruit-salad). Extract the .zip, and copy the game files to this port's gamedata folder.",
-        "inst_md": "Download the *KleebuuCravesFruitSalad(v1.03).zip* version for free at [itch.io](https://dylanbrowngames.itch.io/kleebuu-craves-fruit-salad). Extract the *.zip*, and copy the game files to this port's *gamedata* folder.",
+        "inst": "Ready to run. Thanks to Dylan Brown (https://dylanbrowngames.itch.io) for permitting PortMaster to include the game files.",
+        "inst_md": "Ready to run. Thanks to [Dylan Brown](https://dylanbrowngames.itch.io) for permitting PortMaster to include the game files.",
         "min_glibc": "",
         "porter": [
           "tabreturn"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [],
         "title": "Kleebuu Craves Fruit Salad"
       },
@@ -34173,12 +34439,12 @@
       "name": "kleebuucravesfruitsalad.zip",
       "source": {
         "date_added": "2025-01-15",
-        "date_updated": "2025-01-15",
-        "md5": "51b1d37afc5f31dbd7e1c76a7bab57a4",
-        "release_id": "2025-01-15_1237",
+        "date_updated": "2025-03-14",
+        "md5": "877f5456c26e484f3599e622698c6bea",
+        "release_id": "2025-03-14_1451",
         "repo": "main",
-        "size": 9987112,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/kleebuucravesfruitsalad.zip"
+        "size": 102548495,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/kleebuucravesfruitsalad.zip"
       },
       "version": 4
     },
@@ -45319,6 +45585,85 @@
       },
       "version": 2
     },
+    "openenroth.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Might and Magic VII: For Blood and Honor is a role-playing game for Windows published in 1999 by 3DO and developed by New World Computing as part of the science fantasy series Might and Magic. OpenEnroth is a reimplementation which allows you to play MMVII on modern platforms.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase Might and Magic VII on gog.com, or extract the game files from an original Windows CD-ROM. Place the GoG offline installer (setup...exe) or extracted files (DATA etc) in ports/openenroth/gamedata/. If you use the GoG installer, the patcher will extract the files the first time you run the game.",
+        "inst_md": "Purchase Might and Magic VII on `gog.com`, or extract the game files from an original Windows CD-ROM. Place the GoG offline installer (`setup...exe`) or extracted files (`DATA` etc) in `ports/openenroth/gamedata/`. If you use the GoG installer, the patcher will extract the files the first time you run the game.",
+        "min_glibc": "2.32",
+        "porter": [
+          "beniamino",
+          "Cebion"
+        ],
+        "reqs": [
+          "analog_2",
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "title": "OpenEnroth"
+      },
+      "items": [
+        "OpenEnroth.sh",
+        "openenroth"
+      ],
+      "items_opt": null,
+      "name": "openenroth.zip",
+      "source": {
+        "date_added": "2025-03-14",
+        "date_updated": "2025-03-14",
+        "md5": "8b2ee1ed5100eef8b6fb2e2fb68e5a3e",
+        "release_id": "2025-03-14_1451",
+        "repo": "main",
+        "size": 54530660,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/openenroth.zip"
+      },
+      "version": 4
+    },
     "openfodder.zip": {
       "attr": {
         "arch": [
@@ -45655,6 +46000,87 @@
       },
       "version": 2
     },
+    "opennotrium.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "You have crash-landed on Notrium. Your food supplies are running low, and a pack of predatory aliens have your scent. You're out of bullets for your pistol, your only weapon a handful of rocks. A freezing night is setting in, and you are desperately looking for firewood. Can you survive?",
+        "desc_md": null,
+        "exp": false,
+        "free": true,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [
+          "!lowres",
+          "analog_2"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "OpenNotrium"
+      },
+      "items": [
+        "OpenNotrium.sh",
+        "opennotrium"
+      ],
+      "items_opt": null,
+      "name": "opennotrium.zip",
+      "source": {
+        "date_added": "2025-03-14",
+        "date_updated": "2025-03-14",
+        "md5": "7475077eac0e53c5df90a67bc059f771",
+        "release_id": "2025-03-14_1451",
+        "repo": "main",
+        "size": 15136249,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/opennotrium.zip"
+      },
+      "version": 4
+    },
     "openomf.zip": {
       "attr": {
         "arch": [
@@ -45814,12 +46240,12 @@
       "name": "openrct2.zip",
       "source": {
         "date_added": "2023-02-23",
-        "date_updated": "2025-02-06",
-        "md5": "6f829faa8eede02ef5fa95cc9bc0fbaf",
-        "release_id": "2025-02-06_1211",
+        "date_updated": "2025-03-14",
+        "md5": "7f5b3d803b0a81d1da31d05a8c4939f5",
+        "release_id": "2025-03-14_1451",
         "repo": "main",
-        "size": 69849359,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_1211/openrct2.zip"
+        "size": 69849360,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/openrct2.zip"
       },
       "version": 2
     },
@@ -55875,6 +56301,97 @@
       },
       "version": 4
     },
+    "samuraibrothers.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Samurai Brothers is a fast paced shared-screen multiplayer game. In addition to the solo mode, two modes are available for multiplayer games. Do you want to fight against your friends ? Or work as a team against the multitude of enemies ?",
+        "desc_md": null,
+        "exp": false,
+        "free": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download for FREE and install \"Samurai Brothers\" from STEAM.\n\nhttps://store.steampowered.com/app/3403860/Samurai_Brothers/\n\nOnce installed, in your library, right click \"Manage-Browse Local Files\" COPY the Samurai-Brothers-v1-2.pck into the GameData Folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/3403860/Samurai_Brothers/"
+          }
+        ],
+        "title": "Samurai Brothers"
+      },
+      "items": [
+        "Samurai Brothers.sh",
+        "samuraibrothers"
+      ],
+      "items_opt": null,
+      "name": "samuraibrothers.zip",
+      "source": {
+        "date_added": "2025-03-14",
+        "date_updated": "2025-03-14",
+        "md5": "fc691c30c07ffcb6442a17aa238cb4c6",
+        "release_id": "2025-03-14_1451",
+        "repo": "main",
+        "size": 142058,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/samuraibrothers.zip"
+      },
+      "version": 4
+    },
     "santassurprise.zip": {
       "attr": {
         "arch": [
@@ -60743,12 +61260,12 @@
       "name": "sonictt16b.zip",
       "source": {
         "date_added": "2024-07-28",
-        "date_updated": "2024-12-16",
-        "md5": "61c6ae43ead9f68c2ee6bf8bfbcbe85e",
-        "release_id": "2024-12-16_1130",
+        "date_updated": "2025-03-14",
+        "md5": "38ca1a60582c6ace8d83379b2e45c800",
+        "release_id": "2025-03-14_1451",
         "repo": "main",
-        "size": 21024323,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/sonictt16b.zip"
+        "size": 19484892,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/sonictt16b.zip"
       },
       "version": 2
     },
@@ -67601,12 +68118,12 @@
       "name": "tileworld.zip",
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2025-03-13",
-        "md5": "ee50b63352c97bd450c52410dd70a6d9",
-        "release_id": "2025-03-13_0928",
+        "date_updated": "2025-03-14",
+        "md5": "9ca5f52ac2c02cfda5f8e49639ad18f1",
+        "release_id": "2025-03-14_1451",
         "repo": "main",
-        "size": 30791836,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-13_0928/tileworld.zip"
+        "size": 30792035,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/tileworld.zip"
       },
       "version": 4
     },
