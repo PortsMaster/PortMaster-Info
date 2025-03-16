@@ -3317,6 +3317,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "The three most ferocious species in the universe in a bloodthirsty battle for the ultimate prize: survival. Take your pick: be a Colonial Marine, a Predator or an Alien. Fight through suspense-filled environments: from starships and space stations to colonial bases and eerie planetscapes. One wrong move turns you from hunter to prey.",
         "desc_md": null,
         "exp": false,
@@ -3328,12 +3329,12 @@
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.jpg",
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "You will need the original files of the PC release copied to the ports/avp folder.",
-        "inst_md": null,
+        "inst": "You will need the original files of the 1999 PC release copied to the ports/avp folder.",
+        "inst_md": "You will need the original files of the 1999 PC release copied to the `ports/avp` folder.",
         "min_glibc": "",
         "porter": [
           "Cebion"
@@ -3341,24 +3342,25 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
-        "title": "Alien vs Predator"
+        "store": [],
+        "title": "Aliens versus Predator"
       },
       "items": [
         "Alien vs Predator.sh",
-        "avp/"
+        "avp"
       ],
       "items_opt": null,
       "name": "avp.zip",
       "source": {
         "date_added": "2022-11-06",
-        "date_updated": "2025-01-07",
-        "md5": "dedc55dbe298d5b32e7f3acfa2507018",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2025-03-16",
+        "md5": "c19ef0b85b14d8dae34ad7e17ca3f36b",
+        "release_id": "2025-03-16_2008",
         "repo": "main",
-        "size": 1257120,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/avp.zip"
+        "size": 1545088,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-16_2008/avp.zip"
       },
-      "version": 2
+      "version": 4
     },
     "axecop.zip": {
       "attr": {
@@ -8829,6 +8831,98 @@
       },
       "version": 4
     },
+    "cairn.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "In Cairn, you play as Daisy, an intrepid adventurer bound for the top of a seemingly endless tower. Along the way, you're aided by mysterious wildlife that allow you to shift parts of the ground, writing your name into the path before you. Will you create advantages for yourself to reach the Heaven?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download cairn_win_1_1_2.zip file for free from Itch, extract it and in folder 220912win_1_1_2_shiny find cairn.pck file.\nPlace cairn.pck file into cairn/gamedata folder in your ports.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.6.squashfs"
+        ],
+        "store": [
+          {
+            "name": "Itch",
+            "url": "https://rubic.itch.io/cairn"
+          }
+        ],
+        "title": "Cairn"
+      },
+      "items": [
+        "Cairn.sh",
+        "cairn"
+      ],
+      "items_opt": null,
+      "name": "cairn.zip",
+      "source": {
+        "date_added": "2025-03-16",
+        "date_updated": "2025-03-16",
+        "md5": "b9cf7f15a2e149283ce8c9b151978316",
+        "release_id": "2025-03-16_2008",
+        "repo": "main",
+        "size": 117921,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-16_2008/cairn.zip"
+      },
+      "version": 4
+    },
     "callystrials.zip": {
       "attr": {
         "arch": [
@@ -13706,12 +13800,12 @@
       "name": "curseofthearrow.zip",
       "source": {
         "date_added": "2024-07-08",
-        "date_updated": "2025-02-13",
-        "md5": "69c050cbdc52428eadc37732f2705cfb",
-        "release_id": "2025-02-13_2342",
+        "date_updated": "2025-03-16",
+        "md5": "46c1592cf913f3f7470cc3c58ce159bb",
+        "release_id": "2025-03-16_2008",
         "repo": "main",
         "size": 26862960,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-13_2342/curseofthearrow.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-16_2008/curseofthearrow.zip"
       },
       "version": 4
     },
@@ -26842,6 +26936,91 @@
         "repo": "main",
         "size": 1521781,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/gravitydefied.zip"
+      },
+      "version": 4
+    },
+    "grazecountergm.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "A refreshing and highly re-playable bullet hell style shooter that WANTS you to play dangerously! Ride the razor's edge of life and death in this high-risk high-reward danger oriented arcade style shooting game.",
+        "desc_md": "*\"A refreshing and highly re-playable bullet hell style shooter that WANTS you to play dangerously! Ride the razor's edge of life and death in this high-risk high-reward danger oriented arcade style shooting game.\"*",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam. Add the assets to the gamedata folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1486440/Graze_Counter_GM/). Add the assets to the gamedata folder.",
+        "min_glibc": "",
+        "porter": [
+          "KeineDX4"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "title": "Graze Counter GM"
+      },
+      "items": [
+        "Graze Counter GM.sh",
+        "grazecountergm"
+      ],
+      "items_opt": null,
+      "name": "grazecountergm.zip",
+      "source": {
+        "date_added": "2025-03-16",
+        "date_updated": "2025-03-16",
+        "md5": "ab47232e7ebb0411ebdcbe250d6c5e41",
+        "release_id": "2025-03-16_2008",
+        "repo": "main",
+        "size": 8773019,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-16_2008/grazecountergm.zip"
       },
       "version": 4
     },
