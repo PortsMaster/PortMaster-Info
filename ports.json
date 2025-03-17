@@ -2015,6 +2015,96 @@
       },
       "version": 2
     },
+    "annulus.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Afraid of the dark? Turning the lights on just might be more dangerous...\n\nYou have arrived on the the Annulus, a space station here to reap all of your home world's power. You can channel this power freely through you, but strange and twisted machines are here to take it. Navigate the dark corridors and Fight against the darkness in this epic descent into the Annulus and control the vessel from within.  Reroute power to light the way and  solve puzzles. Pick up abilities along the way and become strong enough to traverse the deepest parts of the ship. Can you uncover the true purpose of the Annulus?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download Annulus 2.31.exe from here - https://toq-games.itch.io/annulus - and place it inside the ports/annulus/gamedata folder. Launch the game and Enjoy!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Itch.io",
+            "url": "https://toq-games.itch.io/annulus"
+          }
+        ],
+        "title": "annulus"
+      },
+      "items": [
+        "Annulus.sh",
+        "Annulus"
+      ],
+      "items_opt": null,
+      "name": "annulus.zip",
+      "source": {
+        "date_added": "2025-03-17",
+        "date_updated": "2025-03-17",
+        "md5": "42b8170560abf8cbc610a0e57ac927bc",
+        "release_id": "2025-03-17_1708",
+        "repo": "main",
+        "size": 9862363,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/annulus.zip"
+      },
+      "version": 4
+    },
     "anodyne.zip": {
       "attr": {
         "arch": [],
@@ -28110,6 +28200,101 @@
       },
       "version": 4
     },
+    "hackgrid.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Hack Grid is a hacking-themed puzzle game and love letter to the retro charm of DOS gaming, both in visuals and audio! Dive back into the 80's and become a hacker!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch and copy the HackGrid.pck into the gamedata folder. The DLC is not supported.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.3.4.squashfs"
+        ],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/1543290/Hack_Grid"
+          },
+          {
+            "name": "Itch.io",
+            "url": "https://daisy-games.itch.io/hackgrid"
+          }
+        ],
+        "title": "Hack Grid"
+      },
+      "items": [
+        "Hack Grid.sh",
+        "hackgrid"
+      ],
+      "items_opt": null,
+      "name": "hackgrid.zip",
+      "source": {
+        "date_added": "2025-03-17",
+        "date_updated": "2025-03-17",
+        "md5": "4ff6f8a88246ef46cf69754620fcd317",
+        "release_id": "2025-03-17_1708",
+        "repo": "main",
+        "size": 889831,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/hackgrid.zip"
+      },
+      "version": 4
+    },
     "hakopalace.zip": {
       "attr": {
         "arch": [
@@ -39216,6 +39401,95 @@
       },
       "version": 2
     },
+    "meanderland.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "In a world torn by war, it's up to cartographer Corylus Flint to chart out what remains. When he crash lands on a mysterious island, however, he finds himself smack-dab in the middle of mafia territory! \nAlong the way, Corylus meets a variety of strange characters, both friend and foe. Can he escape the island and continue his life's work? ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper",
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Meander Land"
+      },
+      "items": [
+        "Meander Land.sh",
+        "meanderland"
+      ],
+      "items_opt": null,
+      "name": "meanderland.zip",
+      "source": {
+        "date_added": "2025-03-17",
+        "date_updated": "2025-03-17",
+        "md5": "38f105879651c202d8a3a5acf00b89b4",
+        "release_id": "2025-03-17_1708",
+        "repo": "main",
+        "size": 99213316,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/meanderland.zip"
+      },
+      "version": 4
+    },
     "meandmyshadow.zip": {
       "attr": {
         "arch": [
@@ -42140,6 +42414,98 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/murtop.zip"
       },
       "version": 2
+    },
+    "must-have-been-the-wind.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A survival game, but you're the environment\n\nDoes it feel like the world is against you? Not today!\nToday you're the world, and you're  against an unsuspecting player.\n\nPuzzle yourself through nature-filled islands to become the ultimate survival environment - as harsh as possible!\n\nMade in 48 hours for the GMTK-Jam 2023\n\n\nMechanic explanation (if you're confused):\nThe sound from different events (trees falling, fire spreading) alerts the player to run away\nif it's on the same grid line horizontally or vertically, whether there's an obstacle in the way or not.\nAnother way to imagine it is a + shape.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! \n",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.0.4.squashfs"
+        ],
+        "store": [
+          {
+            "name": "itch io",
+            "url": "https://untamed-arcade.itch.io/must-have-been-the-wind"
+          }
+        ],
+        "title": "Must have been the wind"
+      },
+      "items": [
+        "Must have been the wind.sh",
+        "must-have-been-the-wind"
+      ],
+      "items_opt": null,
+      "name": "must-have-been-the-wind.zip",
+      "source": {
+        "date_added": "2025-03-17",
+        "date_updated": "2025-03-17",
+        "md5": "aadb68bd01d3a1558c322ae45db45ada",
+        "release_id": "2025-03-17_1708",
+        "repo": "main",
+        "size": 1229855,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/must-have-been-the-wind.zip"
+      },
+      "version": 4
     },
     "mutant_tank_knights.zip": {
       "attr": {
@@ -45834,12 +46200,12 @@
       "name": "openenroth.zip",
       "source": {
         "date_added": "2025-03-14",
-        "date_updated": "2025-03-14",
-        "md5": "8b2ee1ed5100eef8b6fb2e2fb68e5a3e",
-        "release_id": "2025-03-14_1451",
+        "date_updated": "2025-03-17",
+        "md5": "4c26d9b5b25ba5a46e6b432f53cb33e8",
+        "release_id": "2025-03-17_1708",
         "repo": "main",
-        "size": 54530660,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/openenroth.zip"
+        "size": 54530680,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/openenroth.zip"
       },
       "version": 4
     },
@@ -46010,6 +46376,112 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/openggs.zip"
       },
       "version": 2
+    },
+    "openhexagon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Open Hexagon is an open-source arcade game developed by Vittorio Romeo, inspired by Terry Cavanagh's Super Hexagon. Players control a triangle, rotating it to avoid incoming walls and survive as long as possible. The game introduces mechanics like a 180\u00b0 swap move and curving walls, enhancing the original concept. Its powerful Lua scripting system enables players to create and share custom levels, fostering a community of user-generated content. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game on Steam (Paid) or Itch.io (Paid), or the game files on Github (Free) and copy the \"Packs\" and \"Assets\" folders into the \"openhexagon\" directory.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "BinaryCounter"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/1358090/Open_Hexagon/"
+          },
+          {
+            "name": "Itch.io",
+            "url": "https://vittorioromeo.itch.io/open-hexagon"
+          },
+          {
+            "name": "Github (Source)",
+            "url": "https://github.com/vittorioromeo/SSVOpenHexagon"
+          },
+          {
+            "name": "Github (Assets)",
+            "url": "https://github.com/vittorioromeo/SSVOpenHexagonAssets"
+          }
+        ],
+        "title": "Open Hexagon"
+      },
+      "items": [
+        "Open Hexagon.sh",
+        "openhexagon"
+      ],
+      "items_opt": null,
+      "name": "openhexagon.zip",
+      "source": {
+        "date_added": "2025-03-17",
+        "date_updated": "2025-03-17",
+        "md5": "9bb078a4619489c817c586e3481fd75c",
+        "release_id": "2025-03-17_1708",
+        "repo": "main",
+        "size": 5831877,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/openhexagon.zip"
+      },
+      "version": 4
     },
     "openjazz.zip": {
       "attr": {
@@ -71574,12 +72046,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-02-18",
-        "md5": "b0b587ac789d9ed093f6fe7624407497",
-        "release_id": "2025-02-18_2120",
+        "date_updated": "2025-03-17",
+        "md5": "03b401acca95d5b8e2db14ad2b25110a",
+        "release_id": "2025-03-17_1708",
         "repo": "main",
-        "size": 11054664,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/ufo50.zip"
+        "size": 11048255,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/ufo50.zip"
       },
       "version": 4
     },
@@ -73911,8 +74383,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from https://super-walrus-games.itch.io/walthros-renewal and download the Windows version (Linux should work fine, too). Copy the game files named walthrosrenewal.rpg and BurpinBros.rpg to the port directory. Alternatively, you could play the DEMO version (also on the itch page) -- but rename the walthrosDEMO.rpg file to walthrosrenewal.rpg",
-        "inst_md": "Purchase the game from [https://super-walrus-games.itch.io/walthros-renewal](https://super-walrus-games.itch.io/walthros-renewal) and download the Windows version (Linux should work fine, too). Copy the game files named *walthrosrenewal.rpg* and *BurpinBros.rpg* to the port directory. Alternatively, you could play the DEMO version (also on the itch page) -- but rename the *walthrosDEMO.rpg* file to *walthrosrenewal.rpg*",
+        "inst": "Purchase the game from https://store.steampowered.com/app/1317270/Walthros_Renewal and download using the following download_depot/DepotDownload details: -app 1317270 -depot 1317271 -manifest 6884196317892834424. Copy the game files walthrosrenewal.rpg and BurpinBros.rpg to the port directory.",
+        "inst_md": "Purchase the game from [https://store.steampowered.com/app/1317270/Walthros_Renewal](https://store.steampowered.com/app/1317270/Walthros_Renewal) and download using the following download_depot/DepotDownload details: `-app 1317270 -depot 1317271 -manifest 6884196317892834424`. Copy the game files `walthrosrenewal.rpg` and `BurpinBros.rpg` to the port directory.",
         "min_glibc": "",
         "porter": [
           "tabreturn"
@@ -73930,12 +74402,12 @@
       "name": "walthrosrenewal.zip",
       "source": {
         "date_added": "2024-09-29",
-        "date_updated": "2024-10-17",
-        "md5": "e8fea9ae54543c31d6461275af109fc0",
-        "release_id": "2024-10-17_0726",
+        "date_updated": "2025-03-17",
+        "md5": "10e48c2380ca02d73bb4f75d8b0fe9db",
+        "release_id": "2025-03-17_1708",
         "repo": "main",
-        "size": 2707052,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/walthrosrenewal.zip"
+        "size": 2707134,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/walthrosrenewal.zip"
       },
       "version": 4
     },
