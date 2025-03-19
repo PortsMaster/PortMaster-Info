@@ -59936,8 +59936,8 @@
         ],
         "image": {
           "covers": [
-            "cover.sm.png",
-            "cover.smredux.png"
+            "cover.smredux.png",
+            "cover.sm.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -60712,12 +60712,12 @@
       "name": "soh.zip",
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2025-03-12",
-        "md5": "d2a6e213187fe1201575a3d12e10af94",
-        "release_id": "2025-03-12_0013",
+        "date_updated": "2025-03-19",
+        "md5": "a79477e19daf274530cbfdf31dfce9aa",
+        "release_id": "2025-03-19_2119",
         "repo": "multiverse",
-        "size": 16892573,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-03-12_0013/soh.zip"
+        "size": 13869616,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-03-19_2119/soh.zip"
       },
       "version": 2
     },
