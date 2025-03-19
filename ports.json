@@ -14257,7 +14257,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy all game assets to `darkdeity/assets`.",
+        "inst": "Buy the game on gog or steam. Copy all game assets to `darkdeity/assets`.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -14278,12 +14278,12 @@
       "name": "darkdeity.zip",
       "source": {
         "date_added": "2024-12-07",
-        "date_updated": "2024-12-16",
-        "md5": "796db8663927aacb6237cb6152fa9e26",
-        "release_id": "2024-12-16_1130",
+        "date_updated": "2025-03-19",
+        "md5": "664f47e94a7e4857d30ea5bd2049d75a",
+        "release_id": "2025-03-19_1507",
         "repo": "main",
-        "size": 1077052405,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/darkdeity.zip"
+        "size": 12598677,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-19_1507/darkdeity.zip"
       },
       "version": 4
     },
@@ -21597,7 +21597,8 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Battle off an onslaught of angry demons by using your firepower, holy water, and helpful upgrades in this thrillingly retro top-down shooter. ",
+        "availability": "full",
+        "desc": "Starting with nothing, you enter the grove and fend off demons. After each wave, a shop will open where you can upgrade your stats or buy items that modify your attacks and defense. ",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -21608,35 +21609,36 @@
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.png",
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
-        "inst": "-Download from CrackedGhostGames https://crackedghostgames.itch.io/faith-demon-siege -Locate data.win and place inside gamedata folder. ",
-        "inst_md": "-Download from [CrackedGhostGames](https://crackedghostgames.itch.io/faith-demon-siege) \n-Locate data.win and place inside gamedata folder. ",
+        "inst": "Ready to Run",
+        "inst_md": null,
         "min_glibc": "",
         "porter": [
           "MadShmupper"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [],
-        "title": "FAITH: Demon Siege"
+        "store": [],
+        "title": "FAITH Demon Siege"
       },
       "items": [
         "FAITH Demon Siege.sh",
-        "faithdemonsiege/"
+        "faithdemonsiege "
       ],
       "items_opt": null,
       "name": "faithdemonsiege.zip",
       "source": {
         "date_added": "2024-05-29",
-        "date_updated": "2024-07-18",
-        "md5": "202b1eb71db0306bdcd60e26011d93a4",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-03-19",
+        "md5": "5e48ac66432eed8f7e036763354ee830",
+        "release_id": "2025-03-19_1507",
         "repo": "main",
-        "size": 6381950,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/faithdemonsiege.zip"
+        "size": 42893925,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-19_1507/faithdemonsiege.zip"
       },
       "version": 4
     },
@@ -58449,12 +58451,12 @@
       "name": "sevenkingdoms.zip",
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-05-09",
-        "md5": "b4dcbccc0e9a716f53c3c0131a554d81",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2025-03-19",
+        "md5": "dc9b833885632d043d800a1ff81b8169",
+        "release_id": "2025-03-19_1507",
         "repo": "main",
-        "size": 49706365,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/sevenkingdoms.zip"
+        "size": 52772878,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-19_1507/sevenkingdoms.zip"
       },
       "version": 2
     },
@@ -72046,12 +72048,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-03-17",
-        "md5": "03b401acca95d5b8e2db14ad2b25110a",
-        "release_id": "2025-03-17_1708",
+        "date_updated": "2025-03-19",
+        "md5": "079924e2f4799f60ba85175e837b36bc",
+        "release_id": "2025-03-19_1507",
         "repo": "main",
-        "size": 11048255,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/ufo50.zip"
+        "size": 11049334,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-19_1507/ufo50.zip"
       },
       "version": 4
     },
@@ -74384,7 +74386,7 @@
           "video": null
         },
         "inst": "Purchase the game from https://store.steampowered.com/app/1317270/Walthros_Renewal and download using the following download_depot/DepotDownload details: -app 1317270 -depot 1317271 -manifest 6884196317892834424. Copy the game files walthrosrenewal.rpg and BurpinBros.rpg to the port directory.",
-        "inst_md": "Purchase the game from [https://store.steampowered.com/app/1317270/Walthros_Renewal](https://store.steampowered.com/app/1317270/Walthros_Renewal) and download using the following download_depot/DepotDownload details: `-app 1317270 -depot 1317271 -manifest 6884196317892834424`. Copy the game files `walthrosrenewal.rpg` and `BurpinBros.rpg` to the port directory.",
+        "inst_md": "Purchase the game from [https://store.steampowered.com/app/1317270/Walthros\\_Renewal](https://store.steampowered.com/app/1317270/Walthros_Renewal) and download using the following download\\_depot/DepotDownload details: `-app 1317270 -depot 1317271 -manifest 6884196317892834424`. Copy the game files `walthrosrenewal.rpg` and `BurpinBros.rpg` to the port directory.",
         "min_glibc": "",
         "porter": [
           "tabreturn"
@@ -74402,12 +74404,12 @@
       "name": "walthrosrenewal.zip",
       "source": {
         "date_added": "2024-09-29",
-        "date_updated": "2025-03-17",
-        "md5": "10e48c2380ca02d73bb4f75d8b0fe9db",
-        "release_id": "2025-03-17_1708",
+        "date_updated": "2025-03-19",
+        "md5": "edfcb106eb6bebef1b6ac73b9c14f28b",
+        "release_id": "2025-03-19_1507",
         "repo": "main",
-        "size": 2707134,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/walthrosrenewal.zip"
+        "size": 2707143,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-19_1507/walthrosrenewal.zip"
       },
       "version": 4
     },
