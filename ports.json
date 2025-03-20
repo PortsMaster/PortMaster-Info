@@ -72048,12 +72048,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-03-19",
-        "md5": "079924e2f4799f60ba85175e837b36bc",
-        "release_id": "2025-03-19_1507",
+        "date_updated": "2025-03-20",
+        "md5": "9e6db088ea1380971f8b0d4537a2c10c",
+        "release_id": "2025-03-20_0025",
         "repo": "main",
-        "size": 11049334,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-19_1507/ufo50.zip"
+        "size": 11056085,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-20_0025/ufo50.zip"
       },
       "version": 4
     },
