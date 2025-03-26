@@ -7912,6 +7912,96 @@
       },
       "version": 4
     },
+    "brotherbrother.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "You awake in a small world, in the small house that you share with your brother. His bed is cold and empty, and there\u2019s no sign of his whereabouts. Something doesn\u2019t feel right. Explore the land and gear up, finding your brother is going to be no walk in the park.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from steam for FREE here: https://store.steampowered.com/app/1147850/Brother_Brother/\nOnce Dowloaded and Installed, In your Library, Right click on it and choose \"Manage-Browse Local Files\". Copy everything to assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/1147850/Brother_Brother/"
+          }
+        ],
+        "title": "Brother Brother "
+      },
+      "items": [
+        "Brother Brother.zip",
+        "brotherbrother"
+      ],
+      "items_opt": null,
+      "name": "brotherbrother.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "283969d0fc664e32f67ed187dc720f05",
+        "release_id": "2025-03-26_1111",
+        "repo": "main",
+        "size": 18999017,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/brotherbrother.zip"
+      },
+      "version": 4
+    },
     "bstone-aog.zip": {
       "attr": {
         "arch": [
@@ -9493,14 +9583,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game for FREE on Steam and add the \"CantoI.exe\" into the gamedata folder.",
+        "inst": "This game is Ready To Run! Thank You LudosGD!!! ",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "NotYourAveragePaladin"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [
           "frt_3.5.2.squashfs"
         ],
@@ -9520,12 +9610,12 @@
       "name": "cantoi.zip",
       "source": {
         "date_added": "2025-03-22",
-        "date_updated": "2025-03-22",
-        "md5": "2bbc57479b5fca559dbcbc17d3b27ba4",
-        "release_id": "2025-03-22_2007",
+        "date_updated": "2025-03-26",
+        "md5": "ca3483d0f640b78c2784e4e24d24b6b6",
+        "release_id": "2025-03-26_1111",
         "repo": "main",
-        "size": 15412195,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-22_2007/cantoi.zip"
+        "size": 15412186,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/cantoi.zip"
       },
       "version": 4
     },
@@ -27290,12 +27380,12 @@
       "name": "grazecountergm.zip",
       "source": {
         "date_added": "2025-03-16",
-        "date_updated": "2025-03-16",
-        "md5": "ab47232e7ebb0411ebdcbe250d6c5e41",
-        "release_id": "2025-03-16_2008",
+        "date_updated": "2025-03-26",
+        "md5": "6f6cf8cc4f6701a75a666064845b6b5f",
+        "release_id": "2025-03-26_1111",
         "repo": "main",
-        "size": 8773019,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-16_2008/grazecountergm.zip"
+        "size": 8773020,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/grazecountergm.zip"
       },
       "version": 4
     },
@@ -35335,7 +35425,7 @@
     "la-mulana.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "armhf"
         ],
         "avail": [
           "rg353m:ALL",
@@ -35358,13 +35448,9 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
           "ogs:ALL",
-          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -35416,12 +35502,12 @@
       "name": "la-mulana.zip",
       "source": {
         "date_added": "2025-03-22",
-        "date_updated": "2025-03-22",
-        "md5": "cd6e6b048e38a93d660f990e67be898e",
-        "release_id": "2025-03-22_2007",
+        "date_updated": "2025-03-26",
+        "md5": "f7b2da5c4ea9ae54522e8c86fa8aec75",
+        "release_id": "2025-03-26_1111",
         "repo": "main",
-        "size": 4024673,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-22_2007/la-mulana.zip"
+        "size": 9285791,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/la-mulana.zip"
       },
       "version": 4
     },
@@ -36016,6 +36102,95 @@
         "repo": "main",
         "size": 8674924,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-09_0212/leapyear.zip"
+      },
+      "version": 4
+    },
+    "leftdeadspace.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "You are the last survivor on a space ship invaded by a mysterious alien life-form that has taken over the dead corpses of fellow spacemen... All your surviving comrades have escaped via escape pods, leaving you behind.  The only hope is to fight the aliens head on...",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper",
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.2.3.squashfs"
+        ],
+        "store": [],
+        "title": "Left Among Dead In Space"
+      },
+      "items": [
+        "Left Among Dead In Space.sh",
+        "leftdeadspace"
+      ],
+      "items_opt": null,
+      "name": "leftdeadspace.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "de8e35d4d5b00da802257fa403d26907",
+        "release_id": "2025-03-26_1111",
+        "repo": "main",
+        "size": 486640,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/leftdeadspace.zip"
       },
       "version": 4
     },
@@ -42033,6 +42208,190 @@
         "repo": "main",
         "size": 11832379,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/monolith.zip"
+      },
+      "version": 4
+    },
+    "monsterbattlegrounds.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Welcome to Monster Battlegrounds (MBG)! Pick your Monster and defeat your foes in battle!\nMBG is a 1 versus 1 fighting game with simple controls and deep mind-games.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready To Run!!!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://weentermakesgames.itch.io/monster-battlegrounds"
+          }
+        ],
+        "title": "Monster Battlegrounds"
+      },
+      "items": [
+        "Monster Battlegrounds.sh",
+        "monsterbattlegrounds"
+      ],
+      "items_opt": null,
+      "name": "monsterbattlegrounds.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "aabe94a3d319a7b32b8563da814d40ec",
+        "release_id": "2025-03-26_1111",
+        "repo": "main",
+        "size": 90818029,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/monsterbattlegrounds.zip"
+      },
+      "version": 4
+    },
+    "moonleap.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Explore a world full of mysteries that transform with each jump! Moonleap is a game about a moon boy on his journey to recover shooting stars. Change day to night with your jump and catch all the stars in this challenging puzzle-platformer!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam.\nDownload the game and place all the game files in ports/moonleap/assets",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/2166050/Moonleap/"
+          }
+        ],
+        "title": "Moonleap"
+      },
+      "items": [
+        "Moonleap.sh",
+        "moonleap"
+      ],
+      "items_opt": null,
+      "name": "moonleap.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "f651a28e1fb312859d8f8c4f731ada1a",
+        "release_id": "2025-03-26_1111",
+        "repo": "main",
+        "size": 10549197,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/moonleap.zip"
       },
       "version": 4
     },
@@ -53170,12 +53529,12 @@
       "name": "quake.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-10-24",
-        "md5": "91422e4ad10fa78dabd982cd59203a32",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2025-03-26",
+        "md5": "030b9c33a566252356311528d82fe8b3",
+        "release_id": "2025-03-26_1111",
         "repo": "main",
-        "size": 9020224,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/quake.zip"
+        "size": 9020240,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/quake.zip"
       },
       "version": 2
     },
@@ -62176,7 +62535,8 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "spec58"
+          "spec58",
+          "Jeod"
         ],
         "reqs": [],
         "rtr": false,
@@ -62191,12 +62551,12 @@
       "name": "sonic3air.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2025-01-15",
-        "md5": "172d5ee0061e9e5e36275e2faad42aac",
-        "release_id": "2025-01-15_1237",
+        "date_updated": "2025-03-26",
+        "md5": "ab6ff8d283837833d498294a837604ee",
+        "release_id": "2025-03-26_1111",
         "repo": "main",
-        "size": 138366019,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/sonic3air.zip"
+        "size": 138229108,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/sonic3air.zip"
       },
       "version": 4
     },
