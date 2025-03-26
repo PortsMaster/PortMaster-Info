@@ -11236,12 +11236,12 @@
       "name": "celeste.zip",
       "source": {
         "date_added": "2024-09-11",
-        "date_updated": "2025-01-14",
-        "md5": "de5013ea9dbf02e8cea79808f08837c8",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-03-26",
+        "md5": "01b480b2dfcacbff99ca7c453e0fcd39",
+        "release_id": "2025-03-26_2027",
         "repo": "main",
-        "size": 3056593,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/celeste.zip"
+        "size": 3056651,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/celeste.zip"
       },
       "version": 4
     },
@@ -14086,6 +14086,101 @@
       },
       "version": 4
     },
+    "cursedgem.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Help Oliver in this retro-pixel and challenging platformer. Explore a cursed cave, full of traps, secrets and diamonds. Complete all levels, get the biggest diamond for your girlfriend and break the curse that is dooming you.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready To Run!\n",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Sacredev"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.3.4.squashfs"
+        ],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/1194480/Cursed_Gem/"
+          }
+        ],
+        "title": "Cursed Gem"
+      },
+      "items": [
+        "Cursed Gem.sh",
+        "cursedgem"
+      ],
+      "items_opt": null,
+      "name": "cursedgem.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "9750ae07c9971b9c5d076e0cdfcad74b",
+        "release_id": "2025-03-26_2027",
+        "repo": "main",
+        "size": 48156313,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/cursedgem.zip"
+      },
+      "version": 4
+    },
     "curseofthearrow.zip": {
       "attr": {
         "arch": [
@@ -15220,6 +15315,102 @@
         "repo": "main",
         "size": 136125,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/deathchase3d.zip"
+      },
+      "version": 4
+    },
+    "deathroad.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Control a car full of jerks as they explore cities, recruit weird people, rescue dogs, argue with each other, and face gigantic swarms of slow zombies. Randomly generated for a new story and rare events every time you play!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Take the Windows/Linux game files from your game folder, then dump them straight into /ports/deathroad/. From there, just go launch the game via your console",
+        "inst_md": "Take the Windows/Linux game files from your game folder, then dump them straight into /ports/deathroad/.",
+        "min_glibc": "",
+        "porter": [
+          "Rehex"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/252610/Death_Road_to_Canada/"
+          },
+          {
+            "name": "GOG",
+            "url": "https://www.gog.com/en/game/death_road_to_canada"
+          }
+        ],
+        "title": "Death Road to Canada"
+      },
+      "items": [
+        "Death Road to Canada.sh",
+        "deathroad"
+      ],
+      "items_opt": null,
+      "name": "deathroad.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "6fd4cfbdf847ebd4f17018ef32fe7804",
+        "release_id": "2025-03-26_2027",
+        "repo": "main",
+        "size": 6018214,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/deathroad.zip"
       },
       "version": 4
     },
@@ -19559,12 +19750,12 @@
       "name": "dunelegacy.zip",
       "source": {
         "date_added": "2025-02-13",
-        "date_updated": "2025-02-18",
-        "md5": "3ef40605703b1ae62e29114898580ce7",
-        "release_id": "2025-02-18_2120",
+        "date_updated": "2025-03-26",
+        "md5": "61d7399561011227e9cda7382fb0abb8",
+        "release_id": "2025-03-26_2027",
         "repo": "main",
-        "size": 4311098,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/dunelegacy.zip"
+        "size": 4322803,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/dunelegacy.zip"
       },
       "version": 4
     },
@@ -22918,6 +23109,100 @@
         "repo": "main",
         "size": 15652466,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/firearrow.zip"
+      },
+      "version": 4
+    },
+    "fireboy.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "This is bob, Bob says you will like this game. Bob was captured by a group of scientists, Now he's trying to escape!\n\nSubmit your runs! https://www.speedrun.com/Fire_Boy\n\nFEATURES:\n\u2666 3 Chapters  \n\u2666 A ton of scientist \n\u2666 Bob",
+        "desc_md": "This is bob!\n\n![bob](https://img.itch.zone/aW1nLzE3ODgwNjU1LnBuZw==/original/J0gOKH.png)\n\n\"Bob says you will like this game\"\nBob was captured by a group of scientists\nNow he's trying to escape\n\n[Submit your runs!](https://www.speedrun.com/Fire_Boy)\n\nFEATURES:\n*  3 Chapters  \n*  A ton of scientist \n*  Bob",
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install the game from https://dtrgames.itch.io/fire-boy and place the Fire Boy.pck in the gamedata dir.",
+        "inst_md": "Install the game from [itch.io](https://dtrgames.itch.io/fire-boy) and place the Fire Boy.pck in the gamedata dir.",
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.3.squashfs"
+        ],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://dtrgames.itch.io/fire-boy"
+          }
+        ],
+        "title": "Fire Boy"
+      },
+      "items": [
+        "Fire Boy.sh",
+        "fireboy"
+      ],
+      "items_opt": null,
+      "name": "fireboy.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "beba2bbeae8595a0ad01cb38cfcc1597",
+        "release_id": "2025-03-26_2027",
+        "repo": "main",
+        "size": 100592,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/fireboy.zip"
       },
       "version": 4
     },
@@ -28472,6 +28757,100 @@
         "repo": "main",
         "size": 14344242,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gunsandguns.zip"
+      },
+      "version": 4
+    },
+    "gyrobossdx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Your home planet is under siege from a band of intergalactic pirates led by the fiendish Gyro Boss! Dodge an endless assault of weapons as you orbit around the boss on a fixed circle, it's not as easy as it looks. Can you secure bragging rights as the best space pilot to bite the dust against the alien menace?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch.io and place all game files into the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/971610/Gyro_Boss_DX/"
+          },
+          {
+            "name": "Itch.io",
+            "url": "https://ci.itch.io/gyro-boss-dx"
+          }
+        ],
+        "title": "Gyro Boss DX"
+      },
+      "items": [
+        "Gyro Boss DX.sh",
+        "gyrobossdx"
+      ],
+      "items_opt": null,
+      "name": "gyrobossdx.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "c02367af70807df04ab16c9e22c7786e",
+        "release_id": "2025-03-26_2027",
+        "repo": "main",
+        "size": 6586661,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/gyrobossdx.zip"
       },
       "version": 4
     },
@@ -45111,6 +45490,91 @@
       },
       "version": 2
     },
+    "noiz2sa.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Abstract shootem up game, 'Noiz2sa'.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Noiz2sa"
+      },
+      "items": [
+        "Noiz2sa.sh",
+        "noiz2sa"
+      ],
+      "items_opt": null,
+      "name": "noiz2sa.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "bd6eacaca68b5663d3a594c251af6139",
+        "release_id": "2025-03-26_2027",
+        "repo": "main",
+        "size": 10115513,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/noiz2sa.zip"
+      },
+      "version": 4
+    },
     "nonny.zip": {
       "attr": {
         "arch": [
@@ -47293,6 +47757,95 @@
       },
       "version": 2
     },
+    "openmohaa.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Medal of Honor: Allied Assault War Chest is a treasure trove of historical battles presented as a gritty World War II action FPS. Call in artillery and air strikes against the opposing forces and keep your squad away from the jaws of defeat and despair. Drive various assault vehicles, always charging onwards to victory. Uncle Sam wants YOU!\n\nOpenMoHAA is an open-source version of MoHAA that is fully compatible with both the original game and the Spearhead and Breakthrough expansions, which are all included in the War Chest release.",
+        "desc_md": "Medal of Honor: Allied Assault War Chest is a treasure trove of historical battles presented as a gritty World War II action FPS. Call in artillery and air strikes against the opposing forces and keep your squad away from the jaws of defeat and despair. Drive various assault vehicles, always charging onwards to victory. Uncle Sam wants YOU!\n\n[OpenMoHAA](https://github.com/openmoh/openmohaa) is an open-source version of MoHAA that is fully compatible with both the original game and the Spearhead and Breakthrough expansions, which are all included in the War Chest release.",
+        "exp": false,
+        "genres": [
+          "action",
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the Medal of Honor: Allied Assault War Chest on gog.com. Download all three offline installer files (setup...exe, setup...1.bin, setup...2.bin) and put them in ports/openmohaa/. The first time you run the game, the patcher will be used to extract the game files.",
+        "inst_md": "Purchase the Medal of Honor: Allied Assault War Chest on [gog.com](https://www.gog.com/en/game/medal_of_honor_allied_assault_war_chest). Download all three offline installer files (`setup...exe`, `setup...1.bin`, `setup...2.bin`) and put them in `ports/openmohaa/`. The first time you run the game, the patcher will be used to extract the game files.",
+        "min_glibc": "",
+        "porter": [
+          "beniamino",
+          "Jeod"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "GoG",
+            "url": "https://www.gog.com/en/game/medal_of_honor_allied_assault_war_chest"
+          },
+          {
+            "name": "",
+            "url": ""
+          }
+        ],
+        "title": "Medal of Honor: Allied Assault"
+      },
+      "items": [
+        "OpenMoHAA.sh",
+        "openmohaa"
+      ],
+      "items_opt": null,
+      "name": "openmohaa.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "56bd63f9307dbdddcf4a89711d5a5656",
+        "release_id": "2025-03-26_2027",
+        "repo": "main",
+        "size": 9333399,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/openmohaa.zip"
+      },
+      "version": 4
+    },
     "openmrac.zip": {
       "attr": {
         "arch": [
@@ -49130,12 +49683,12 @@
       "name": "pacman.zip",
       "source": {
         "date_added": "2024-05-15",
-        "date_updated": "2024-12-13",
-        "md5": "db6d351470b9874ce895851310c75b83",
-        "release_id": "2024-12-13_1501",
+        "date_updated": "2025-03-26",
+        "md5": "fa7c91721eff5189fab5d65727369353",
+        "release_id": "2025-03-26_2027",
         "repo": "main",
-        "size": 10260415,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/pacman.zip"
+        "size": 9897957,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/pacman.zip"
       },
       "version": 4
     },
@@ -59527,6 +60080,114 @@
       },
       "version": 4
     },
+    "shatteredpixeldungeon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "\u200bShattered Pixel Dungeon is a traditional roguelike dungeon crawler featuring six unique heroes, procedurally generated levels, and hundreds of items. Each playthrough offers a distinct challenge, emphasizing strategic gameplay and replayability. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, version 3.02! Replace the jar file if you want to update the game.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "BinaryCounter"
+        ],
+        "reqs": [
+          "analog_1|analog_2"
+        ],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/"
+          },
+          {
+            "name": "GOG",
+            "url": "https://www.gog.com/de/game/shattered_pixel_dungeon"
+          },
+          {
+            "name": "Itch.io",
+            "url": "https://shattered-pixel.itch.io/shattered-pixel-dungeon"
+          },
+          {
+            "name": "Play Store",
+            "url": "https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon"
+          },
+          {
+            "name": "App Store",
+            "url": "https://apps.apple.com/us/app/shattered-pixel-dungeon/id1563121109"
+          }
+        ],
+        "title": "Shattered Pixel Dungeon"
+      },
+      "items": [
+        "Shattered Pixel Dungeon.sh",
+        "shatteredpixeldungeon"
+      ],
+      "items_opt": null,
+      "name": "shatteredpixeldungeon.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "4e94830fe9958664988e05330deaa010",
+        "release_id": "2025-03-26_2027",
+        "repo": "main",
+        "size": 50916816,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/shatteredpixeldungeon.zip"
+      },
+      "version": 4
+    },
     "sheepo.zip": {
       "attr": {
         "arch": [
@@ -69343,6 +70004,98 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/threecoins.zip"
       },
       "version": 2
+    },
+    "thunderpunch.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Evil alien creatures have invaded!  It's up to you to unleash your THUNDER powers and PUNCH them back to the abyss!\n\nAND REMEMBER: more POWER = more PUNCH!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install port. Then download Thunder Punch.zip file from Itch.io, extract it and place files into the ports/thunderpunch/assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Itch",
+            "url": "https://npjarcade.itch.io/thunder-punch"
+          }
+        ],
+        "title": "Thunder Punch"
+      },
+      "items": [
+        "Thunder Punch.sh",
+        "thunderpunch"
+      ],
+      "items_opt": null,
+      "name": "thunderpunch.zip",
+      "source": {
+        "date_added": "2025-03-26",
+        "date_updated": "2025-03-26",
+        "md5": "09abf6a36a3fce774bd4b25290ac80f9",
+        "release_id": "2025-03-26_2027",
+        "repo": "main",
+        "size": 22076361,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/thunderpunch.zip"
+      },
+      "version": 4
     },
     "thwack.zip": {
       "attr": {
