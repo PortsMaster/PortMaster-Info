@@ -17810,11 +17810,11 @@
       "source": {
         "date_added": "2025-03-28",
         "date_updated": "2025-03-28",
-        "md5": "95d5c92394b79e76b12b59e58c21eab4",
-        "release_id": "2025-03-28_1021",
+        "md5": "8fc8c9abe0057d2608c3fc5408d7236c",
+        "release_id": "2025-03-28_2023",
         "repo": "main",
-        "size": 55449670,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_1021/dokimon.zip"
+        "size": 55449739,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_2023/dokimon.zip"
       },
       "version": 4
     },
@@ -49962,6 +49962,97 @@
         "repo": "main",
         "size": 3400126,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/pachi.zip"
+      },
+      "version": 4
+    },
+    "pachycefalosaurus.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "HIT. EVERYTHING.\n\nIn this parody of Dinosaur Game (or Chrome Dino), you are a Pachycefalosaurus (one of those dinosaurs with the super-tough skulls) and, instead of dodging the obstacles, you have to hit them all! Headbutt your way through this comical endless runner!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready To Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://ludosgd.itch.io/pachycephalosaurus-game"
+          }
+        ],
+        "title": "Pachycefalosaurus"
+      },
+      "items": [
+        "Pachycefalosaurus.sh",
+        "pachycefalosaurus"
+      ],
+      "items_opt": null,
+      "name": "pachycefalosaurus.zip",
+      "source": {
+        "date_added": "2025-03-28",
+        "date_updated": "2025-03-28",
+        "md5": "56ad88f93000c3d39b9492591a364d64",
+        "release_id": "2025-03-28_2023",
+        "repo": "main",
+        "size": 839968,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_2023/pachycefalosaurus.zip"
       },
       "version": 4
     },
