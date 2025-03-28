@@ -4457,6 +4457,93 @@
       },
       "version": 2
     },
+    "beatblock.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "SPIN TO WIN: Move your paddle around to hit blocks to the beat! Taps and different block types- like mines and sides- keep things fresh.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rhythm"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Linux version of the game from https://bubbletabby.itch.io/beatblock and extract its .zip after that copy the Beatblock file from the bin/ directory into the beatblock/gamedata/ directory on your device",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Beatblock"
+      },
+      "items": [
+        "Beatblock.sh",
+        "beatblock"
+      ],
+      "items_opt": null,
+      "name": "beatblock.zip",
+      "source": {
+        "date_added": "2025-03-28",
+        "date_updated": "2025-03-28",
+        "md5": "9f1e20dcd8e69f76b9283bc299096889",
+        "release_id": "2025-03-28_1021",
+        "repo": "main",
+        "size": 199672,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_1021/beatblock.zip"
+      },
+      "version": 4
+    },
     "beemisthecurseofgod.zip": {
       "attr": {
         "arch": [
@@ -17634,6 +17721,103 @@
       },
       "version": 2
     },
+    "dokimon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Dokimon: Quest is a game where you capture monsters to battle alongside and push through the dangerous open world. In advances to uncover the the mystery about your missing friend, you must become stronger, allowing you to venture on into increasingly dangerous areas. Battle against fellow Dokimon battlers who are also on the quest to get stronger, and take down evil corporations that stand in your way and disrupt the peace.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Includes the demo! To use the full game, buy it on Steam or Itch.io and copy all the data to `ports/dokimon/assets`. The patcher will run whenever it finds new files in the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod",
+          "Yano"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/2019300"
+          },
+          {
+            "name": "Itch.io",
+            "url": "https://yanako-rpgs.itch.io/dokimon-quest"
+          }
+        ],
+        "title": "Dokimon: Quest"
+      },
+      "items": [
+        "Dokimon Quest.sh",
+        "dokimon"
+      ],
+      "items_opt": null,
+      "name": "dokimon.zip",
+      "source": {
+        "date_added": "2025-03-28",
+        "date_updated": "2025-03-28",
+        "md5": "95d5c92394b79e76b12b59e58c21eab4",
+        "release_id": "2025-03-28_1021",
+        "repo": "main",
+        "size": 55449670,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_1021/dokimon.zip"
+      },
+      "version": 4
+    },
     "domeromantik.zip": {
       "attr": {
         "arch": [],
@@ -22604,6 +22788,98 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/feather.park.zip"
       },
       "version": 2
+    },
+    "fell.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Fell is a short precision platformer about a kid who Fell down a hole. Play through 30 one-screen levels to get to the crown and then try to beat it backward!\n\nThe game features a toggleable speedrun timer and death counter!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install port. Then download Fell.zip file from Itch.io, extract it and place files into the ports/fell/assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Itch.io",
+            "url": "https://dakota-vaughan.itch.io/fell"
+          }
+        ],
+        "title": "Fell"
+      },
+      "items": [
+        "Fell.sh",
+        "fell"
+      ],
+      "items_opt": null,
+      "name": "fell.zip",
+      "source": {
+        "date_added": "2025-03-28",
+        "date_updated": "2025-03-28",
+        "md5": "5a87b423856086faef89ed82299c4f42",
+        "release_id": "2025-03-28_1021",
+        "repo": "main",
+        "size": 7843768,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_1021/fell.zip"
+      },
+      "version": 4
     },
     "fheroes2.zip": {
       "attr": {
@@ -47148,6 +47424,91 @@
         "repo": "main",
         "size": 3405890,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-11_0117/onceuponamobiusstrip.zip"
+      },
+      "version": 4
+    },
+    "onenighthotsprings.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "haru ( a transwoman) is invited by her old friend manami to spend a night at the hot springs. all haru wants to do is enjoy the hot springs like everyone else, but she doesn't want to cause any trouble...",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the one-night-hot-springs-win-linux.zip from https://npckc.itch.io/one-night-hot-springs and copy the game/ directory out of the zip into ports/onenighthotsprings/",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "renpy_8.3.4.squashfs"
+        ],
+        "store": [],
+        "title": "one night, hot springs"
+      },
+      "items": [
+        "one night, hot springs.sh",
+        "onenighthotsprings"
+      ],
+      "items_opt": null,
+      "name": "onenighthotsprings.zip",
+      "source": {
+        "date_added": "2025-03-28",
+        "date_updated": "2025-03-28",
+        "md5": "5c367aaf13d4b423b837fb670f18cf69",
+        "release_id": "2025-03-28_1021",
+        "repo": "main",
+        "size": 578297,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_1021/onenighthotsprings.zip"
       },
       "version": 4
     },
