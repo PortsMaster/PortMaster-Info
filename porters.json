@@ -310,5 +310,13 @@
     "support": "",
     "webpage": "https://github.com/Doronimmo",
     "image": "https://avatars.githubusercontent.com/u/186748971?v=4"
+  },
+  "BinaryCounter": {
+    "name": "BinaryCounter",
+    "bio": "Sleep is for the week (as in 'once a week')",
+    "social": "https://bsky.app/profile/binarycounter.net",
+    "support": "https://ko-fi.com/binarycounter",
+    "webpage": "https://binarycounter.net/",
+    "image": "https://avatars.githubusercontent.com/u/5167445?v=4"
   }
 }
