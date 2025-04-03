@@ -3785,12 +3785,12 @@
       "name": "balatro.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2025-03-14",
-        "md5": "afe9d6b95fabb2d25fa63a2bb102b4dd",
-        "release_id": "2025-03-14_1451",
+        "date_updated": "2025-04-03",
+        "md5": "cef01c4cc7a9083c175f22303be9da58",
+        "release_id": "2025-04-03_1456",
         "repo": "main",
-        "size": 6005093,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/balatro.zip"
+        "size": 6005067,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/balatro.zip"
       },
       "version": 2
     },
@@ -5454,6 +5454,91 @@
         "repo": "main",
         "size": 850058,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/blackout.zip"
+      },
+      "version": 4
+    },
+    "blarglike.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Blarglike is a small dungeon-crawling roguelike where you play as a tiny robot on a mission to restore life to a dying ecosystem. Venture deep into procedurally generated dungeons, plant flowers, and guide nutrients to help the environment thrive. Each day offers a fresh challenge with new dungeon layouts!.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Blarglike"
+      },
+      "items": [
+        "Blarglike.sh",
+        "blarglike"
+      ],
+      "items_opt": null,
+      "name": "blarglike.zip",
+      "source": {
+        "date_added": "2025-04-03",
+        "date_updated": "2025-04-03",
+        "md5": "3598db2fec93bb3bd712314a2ae19a34",
+        "release_id": "2025-04-03_1456",
+        "repo": "main",
+        "size": 9325109,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/blarglike.zip"
       },
       "version": 4
     },
@@ -25641,12 +25726,12 @@
       "name": "frogfall.zip",
       "source": {
         "date_added": "2024-09-27",
-        "date_updated": "2024-09-27",
-        "md5": "72e573f660aa6ede5af0fb04f4e786de",
-        "release_id": "2024-09-27_1324",
+        "date_updated": "2025-04-03",
+        "md5": "ab3e3fb3c46cb7975c9e39d7b00e6962",
+        "release_id": "2025-04-03_1456",
         "repo": "main",
-        "size": 28557302,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-27_1324/frogfall.zip"
+        "size": 28557309,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/frogfall.zip"
       },
       "version": 4
     },
@@ -35177,6 +35262,91 @@
       },
       "version": 4
     },
+    "justkisshimalready.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Just Kiss Him Already! is a fluffy high school boys love story about two idiots who need a gentle push in the right direction to get together- and you're here to help with that!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "READY TO RUN ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "renpy_8.3.4.squashfs"
+        ],
+        "store": [],
+        "title": "Just Kiss Him Already"
+      },
+      "items": [
+        "Just Kiss Him Already.sh",
+        "justkisshimalready"
+      ],
+      "items_opt": null,
+      "name": "justkisshimalready.zip",
+      "source": {
+        "date_added": "2025-04-03",
+        "date_updated": "2025-04-03",
+        "md5": "fa5bb1f3fbf0fedf215e4398d6d2c2db",
+        "release_id": "2025-04-03_1456",
+        "repo": "main",
+        "size": 33424145,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/justkisshimalready.zip"
+      },
+      "version": 4
+    },
     "kaijubigbattel.zip": {
       "attr": {
         "arch": [
@@ -38676,6 +38846,89 @@
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-04-09_1309/loderunneronline.zip"
       },
       "version": 2
+    },
+    "loguploader.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This tool is for uploading your logs from a broken game to easily get support on the Portmaster Discord",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Open the Tool, select your Broken game and either send the Link that you will see or make a picture of it. If you dont get a Link grab the logs.zip from the ports/loguploader/ folder",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "title": "LOG Uploader"
+      },
+      "items": [
+        "LOG Uploader.sh",
+        "loguploader"
+      ],
+      "items_opt": null,
+      "name": "loguploader.zip",
+      "source": {
+        "date_added": "2025-04-03",
+        "date_updated": "2025-04-03",
+        "md5": "1c059c3adaf9f5482d89135e0958e3f2",
+        "release_id": "2025-04-03_1456",
+        "repo": "main",
+        "size": 7694104,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/loguploader.zip"
+      },
+      "version": 4
     },
     "loopcat.zip": {
       "attr": {
@@ -49298,6 +49551,97 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/oquonie.zip"
       },
       "version": 2
+    },
+    "orthodon.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Journey throughout the abandoned human earth to get back home! Play as Otto, a magician sent on a challenge under the threat of losing his powers.\n\nUse the power of gravity to affect your surroundings and manipulate the world so you can reach the portal in 30+ stages, but be careful, Otto's powers can be as life saving as they can be dangerous!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready To Run!!!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.3.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://jitsauce.itch.io/orthodon"
+          }
+        ],
+        "title": "Orthodon"
+      },
+      "items": [
+        "Orthodon.sh",
+        "orthodon"
+      ],
+      "items_opt": null,
+      "name": "orthodon.zip",
+      "source": {
+        "date_added": "2025-04-03",
+        "date_updated": "2025-04-03",
+        "md5": "dbcf27a7a7bb441b742cbf4e3cb81baf",
+        "release_id": "2025-04-03_1456",
+        "repo": "main",
+        "size": 47139328,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/orthodon.zip"
+      },
+      "version": 4
     },
     "osanasrevenge.zip": {
       "attr": {
