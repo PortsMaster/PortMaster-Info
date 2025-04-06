@@ -4874,6 +4874,92 @@
       },
       "version": 2
     },
+    "beyondtotalloss.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A Dark and Comedic adventure that combines gameplay elements from Lisa and Resident Evil. You play as John Harry after he drives his car off the edge of a cliff. He's now stranded in an old podunk town filled with weirdos. Help John escape the town and best a series of strange ordeals. Thank You Pseudobug for creating this amazing adventure!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "1) Open the Steam Console\n2) Open Download.txt\n3) Copy the text from Download.txt into the Steam Console and press ENTER\n4) Patiently wait for the game to Download\n5) Open Game Location (You can Copy and Paste the file location from the Steam Console after the game is successfully downloaded)\n6) Copy and Paste files into the gamedata folder\n7) Enjoy the Game! ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Pridetoons"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Beyond a Total Loss",
+            "url": "https://store.steampowered.com/app/1058470/Beyond_a_Total_Loss/"
+          }
+        ],
+        "title": "Beyond a Total Loss"
+      },
+      "items": [
+        "Beyond a Total Loss.sh",
+        "beyondtotalloss"
+      ],
+      "items_opt": null,
+      "name": "beyondtotalloss.zip",
+      "source": {
+        "date_added": "2025-04-06",
+        "date_updated": "2025-04-06",
+        "md5": "d403cb884edb4e32cc0495926662f062",
+        "release_id": "2025-04-06_2309",
+        "repo": "main",
+        "size": 12051063,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-06_2309/beyondtotalloss.zip"
+      },
+      "version": 4
+    },
     "billyfrontier.zip": {
       "attr": {
         "arch": [
@@ -25132,12 +25218,12 @@
       "name": "freedroid.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-05-09",
-        "md5": "10112b2811acecab93622de23b335fdc",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2025-04-06",
+        "md5": "b98b942965bbcaada39fcaf74199a99b",
+        "release_id": "2025-04-06_2309",
         "repo": "main",
-        "size": 245347693,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/freedroid.zip"
+        "size": 245480443,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-06_2309/freedroid.zip"
       },
       "version": 2
     },
@@ -26288,7 +26374,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Install port. Download the windows version of game on Steam or GOG. Copy all gamefiles to the gamedata folder.",
+        "inst": "Install port. Download the windows version of game on Steam, GOG or Amazon. Copy all gamefiles to the gamedata folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -26307,12 +26393,12 @@
       "name": "gatoroboto.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-12-07",
-        "md5": "7bc4a2bf9be1ff57bbf966c4ecab3944",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2025-04-06",
+        "md5": "8907ef13c5f9ef1e01aec4896cadb4df",
+        "release_id": "2025-04-06_2309",
         "repo": "main",
-        "size": 20424082,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/gatoroboto.zip"
+        "size": 31088129,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-06_2309/gatoroboto.zip"
       },
       "version": 4
     },
@@ -34850,6 +34936,98 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/jetsetwilly.zip"
       },
       "version": 2
+    },
+    "jubilee.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Challenging precision platformer based on tight, fluid movement. Open map layout with multiple routes. Collect gems and save animals.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam. Download the game and place all the game files in ports/jubilee/assets",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/1774220/Jubilee/"
+          }
+        ],
+        "title": "Jubilee"
+      },
+      "items": [
+        "Jubilee.sh",
+        "jubilee"
+      ],
+      "items_opt": null,
+      "name": "jubilee.zip",
+      "source": {
+        "date_added": "2025-04-06",
+        "date_updated": "2025-04-06",
+        "md5": "9285fa3a72607783a610a8e11d2405d0",
+        "release_id": "2025-04-06_2309",
+        "repo": "main",
+        "size": 10642528,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-06_2309/jubilee.zip"
+      },
+      "version": 4
     },
     "jugglrx.zip": {
       "attr": {
@@ -77035,6 +77213,95 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/waternet.zip"
       },
       "version": 2
+    },
+    "wesnoth.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Explore the world of Wesnoth and take part in its many adventures! Embark on a desperate quest to reclaim your rightful throne... Flee the Lich Lords to a new home across the sea... Delve into the darkest depths of the earth to craft a jewel of fire itself... Defend your kingdom against the ravaging hordes of a foul necromancer... Or lead a straggly band of survivors across the blazing sands to confront an unseen evil.\n\nThe Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.",
+        "desc_md": "Explore the world of [Wesnoth](https://www.wesnoth.org) and take part in its many adventures! Embark on a desperate quest to reclaim your rightful throne... Flee the Lich Lords to a new home across the sea... Delve into the darkest depths of the earth to craft a jewel of fire itself... Defend your kingdom against the ravaging hordes of a foul necromancer... Or lead a straggly band of survivors across the blazing sands to confront an unseen evil.\n\nThe Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.",
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! Note that the port is about 670MB in size, but will consume over 1.5GB of space on non-ext4 volumes.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "beniamino",
+          "bmdhacks",
+          "Cebion"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Battle for Wesnoth"
+      },
+      "items": [
+        "Battle for Wesnoth.sh",
+        "wesnoth"
+      ],
+      "items_opt": null,
+      "name": "wesnoth.zip",
+      "source": {
+        "date_added": "2025-04-06",
+        "date_updated": "2025-04-06",
+        "md5": "366ff301efb7b859040702aee4509be4",
+        "release_id": "2025-04-06_2309",
+        "repo": "main",
+        "size": 473831409,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-06_2309/wesnoth.zip"
+      },
+      "version": 4
     },
     "wetspot2.zip": {
       "attr": {
