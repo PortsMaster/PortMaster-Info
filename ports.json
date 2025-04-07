@@ -4515,7 +4515,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the Linux version of the game from https://bubbletabby.itch.io/beatblock and extract its .zip after that copy the Beatblock file from the bin/ directory into the beatblock/gamedata/ directory on your device",
+        "inst": "Download the Linux version of the game from https://bubbletabby.itch.io/beatblock and place Beatblock-linux.zip into the beatblock/gamedata/ directory on your device",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -4535,12 +4535,12 @@
       "name": "beatblock.zip",
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2025-03-28",
-        "md5": "9f1e20dcd8e69f76b9283bc299096889",
-        "release_id": "2025-03-28_1021",
+        "date_updated": "2025-04-07",
+        "md5": "2d8c30b525ce53ce4c1c96f81db72476",
+        "release_id": "2025-04-07_1957",
         "repo": "main",
-        "size": 199672,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_1021/beatblock.zip"
+        "size": 199507,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-07_1957/beatblock.zip"
       },
       "version": 4
     },
@@ -13589,6 +13589,97 @@
       },
       "version": 4
     },
+    "crashlands.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Crash land and craft, battle, and quest your way through this story-driven Crafting ARPG overflowing with sass!\nBecome Flux Dabes, a galactic trucker whose latest shipment gets derailed by a chin-strapped alien menace named Hewgodooko, leaving you stranded on an alien planet. As you hustle to retrieve your packages you\u2019ll become enmeshed in a nefarious plot of world domination, which will require all of your wits and both of your glutes to overcome. Learn recipes from the local sentient life, make new friends, uncover ancient secrets and deadly bosses, tame everything and build yourself a home-away-from-home as you learn to thrive after crash landing on planet Woanope.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "To download the game, open the Steam console and paste the folowing text to download a compatible version: *download_depot 391730 391732 5160663558593528303*\n\nPlace all game files from the Resouces folder into port's Assets folder. ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/391730/Crashlands/"
+          }
+        ],
+        "title": "Crashlands"
+      },
+      "items": [
+        "Crashlands.sh",
+        "crashlands"
+      ],
+      "items_opt": null,
+      "name": "crashlands.zip",
+      "source": {
+        "date_added": "2025-04-07",
+        "date_updated": "2025-04-07",
+        "md5": "0d4f84c66c94243e16bbaf81f038edb0",
+        "release_id": "2025-04-07_1957",
+        "repo": "main",
+        "size": 6690526,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-07_1957/crashlands.zip"
+      },
+      "version": 4
+    },
     "cromagrally.zip": {
       "attr": {
         "arch": [
@@ -17477,6 +17568,99 @@
       },
       "version": 2
     },
+    "diceheck.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "TIME TO GO TO DICEHECK\nWHO KNOWS WHAT YOU'LL ROLL",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download Dicehckwin.zip from https://sirmilkman.itch.io/diceheck and put the game files in ports/diceheck/assets",
+        "inst_md": "Download Dicehckwin.zip from [itch.io](https://sirmilkman.itch.io/diceheck) and put the game files in ports/diceheck/assets",
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://sirmilkman.itch.io/diceheck"
+          }
+        ],
+        "title": "Diceheck"
+      },
+      "items": [
+        "Diceheck.sh",
+        "diceheck"
+      ],
+      "items_opt": null,
+      "name": "diceheck.zip",
+      "source": {
+        "date_added": "2025-04-07",
+        "date_updated": "2025-04-07",
+        "md5": "8a6edb7d44f0c4b93d08ba395645051d",
+        "release_id": "2025-04-07_1957",
+        "repo": "main",
+        "size": 8050050,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-07_1957/diceheck.zip"
+      },
+      "version": 4
+    },
     "digger.zip": {
       "attr": {
         "arch": [
@@ -17980,12 +18164,12 @@
       "name": "dokimon.zip",
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2025-03-28",
-        "md5": "8fc8c9abe0057d2608c3fc5408d7236c",
-        "release_id": "2025-03-28_2023",
+        "date_updated": "2025-04-07",
+        "md5": "5bb63cf7aa25a15c2a41cd5f2f6c06a7",
+        "release_id": "2025-04-07_1957",
         "repo": "main",
-        "size": 55449739,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_2023/dokimon.zip"
+        "size": 55392118,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-07_1957/dokimon.zip"
       },
       "version": 4
     },
