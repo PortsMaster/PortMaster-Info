@@ -18073,6 +18073,96 @@
       },
       "version": 2
     },
+    "donkeykongredux.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "With this project I am willing to replicate the behaviour of the original Donkey Kong by Nintendo.\nI tried to simulate the game logic and timing spending multiple hours watching videos of the original game.\nGame programming is now completed with four brand new levels added on the top of the 4 original ones.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go here, https://80s-arcade-games.itch.io/donkey-kong-redux and download the\nDonkeyKongRedux_200.zip\nuse 7zip or whatever to extract the contents, and copy them all into the assets folder.\nLaunch and Enjoy! ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://80s-arcade-games.itch.io/donkey-kong-redux"
+          }
+        ],
+        "title": "Donkey Kong Redux"
+      },
+      "items": [
+        "Donkey Kong Redux.sh",
+        "donkeykongredux"
+      ],
+      "items_opt": null,
+      "name": "donkeykongredux.zip",
+      "source": {
+        "date_added": "2025-04-07",
+        "date_updated": "2025-04-07",
+        "md5": "74d1f6bdd0dfde2d65cebd679b34ae75",
+        "release_id": "2025-04-07_0852",
+        "repo": "multiverse",
+        "size": 15058126,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-07_0852/donkeykongredux.zip"
+      },
+      "version": 4
+    },
     "donottakethiscathome.zip": {
       "attr": {
         "arch": [],
@@ -65928,6 +66018,75 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/srb2kart.zip"
       },
       "version": 2
+    },
+    "starbound.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg552:ALL",
+          "x55:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "rp5:ALL",
+          "rpmini:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Starbound is an extraterrestrial sandbox adventure game! You\u2019ve fled your home, only to find yourself lost in space with a damaged ship. Your only option is to beam down to the planet below and gather the resources you need to repair your ship and set off to explore the vast, infinite universe\u2026",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the game assets packed.pak from your normal Starbound\ninstall to the starbound/assets directory before playing.\n",
+        "inst_md": "### Install\n\nCopy the game assets **`packed.pak`** from your normal Starbound\ninstall to the **`starbound/assets`** directory before playing.\n\n## High-End Systems\n\nIf you are running on high-end aarch64 systems such as the Retroid\nPocket 5 or the Odin 2, you can delete the mods/speedup folder in\norder to gain extra rendering quality at the expense of cpu.\n",
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [
+          "!lowres",
+          "2gb"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Starbound on Steam",
+            "url": "https://store.steampowered.com/app/211820/Starbound/"
+          }
+        ],
+        "title": "Starbound"
+      },
+      "items": [
+        "Starbound.sh",
+        "starbound"
+      ],
+      "items_opt": null,
+      "name": "starbound.zip",
+      "source": {
+        "date_added": "2025-04-07",
+        "date_updated": "2025-04-07",
+        "md5": "4bad39c915959b40038b23f8be590582",
+        "release_id": "2025-04-07_0852",
+        "repo": "multiverse",
+        "size": 20955348,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-07_0852/starbound.zip"
+      },
+      "version": 4
     },
     "starboy.zip": {
       "attr": {
