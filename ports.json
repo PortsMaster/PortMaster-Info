@@ -75,12 +75,12 @@
       "name": "2048.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-10-24",
-        "md5": "4941b846afabf38d6142ac2e9db0cdf8",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2025-04-08",
+        "md5": "2d7a2e16739e0e45705247015815a8ff",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 62969,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/2048.zip"
+        "size": 63001,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/2048.zip"
       },
       "version": 2
     },
@@ -9694,12 +9694,12 @@
       "name": "cannonball-lr.zip",
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-10-24",
-        "md5": "ea14acc214f0d8cd7ed8e303eec6a96b",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2025-04-08",
+        "md5": "1be3568699d013576b1897ac6d95dd5d",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 335109,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/cannonball-lr.zip"
+        "size": 335137,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/cannonball-lr.zip"
       },
       "version": 2
     },
@@ -10883,12 +10883,12 @@
       "name": "cave.story.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-10-24",
-        "md5": "c9843655293214ed489b925d8b738f5c",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2025-04-08",
+        "md5": "2307ec5478ecdf6a8e874b576a53cefa",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 1615547,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/cave.story.zip"
+        "size": 1615579,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/cave.story.zip"
       },
       "version": 2
     },
@@ -13078,6 +13078,98 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-13_0956/colorlines.zip"
       },
       "version": 2
+    },
+    "comeback.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "In a cold and empty world, only you and your peculiar light weapon can help you survive. Use it to trap enemies, kill them and return home.\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "download the zip from https://guselect.itch.io/comeback and put the game files in ports/comeback/assets",
+        "inst_md": "download the zip from [itch.io](https://guselect.itch.io/comeback) and put the game files in ports/comeback/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://guselect.itch.io/comeback"
+          }
+        ],
+        "title": "COMEBACK"
+      },
+      "items": [
+        "COMEBACK.sh",
+        "comeback"
+      ],
+      "items_opt": null,
+      "name": "comeback.zip",
+      "source": {
+        "date_added": "2025-04-08",
+        "date_updated": "2025-04-08",
+        "md5": "3b185cfe5d919047dc1aace3d7ef0ea6",
+        "release_id": "2025-04-08_2119",
+        "repo": "main",
+        "size": 7452414,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/comeback.zip"
+      },
+      "version": 4
     },
     "commander.genius.zip": {
       "attr": {
@@ -17652,12 +17744,12 @@
       "name": "diceheck.zip",
       "source": {
         "date_added": "2025-04-07",
-        "date_updated": "2025-04-07",
-        "md5": "8a6edb7d44f0c4b93d08ba395645051d",
-        "release_id": "2025-04-07_1957",
+        "date_updated": "2025-04-08",
+        "md5": "74932f38aff42f5b0ad57e49cd23864a",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 8050050,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-07_1957/diceheck.zip"
+        "size": 8050177,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/diceheck.zip"
       },
       "version": 4
     },
@@ -17900,12 +17992,12 @@
       "name": "dinothawr.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-10-24",
-        "md5": "037c30c8a0d0b94401af846b16cb7b62",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2025-04-08",
+        "md5": "3b1a8194ec37909aa455b785c381f2e4",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 7740790,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/dinothawr.zip"
+        "size": 7740821,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/dinothawr.zip"
       },
       "version": 2
     },
@@ -43984,12 +44076,12 @@
       "name": "mr.boom.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-10-24",
-        "md5": "f84f361339c8e50dfd1bedc41484149d",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2025-04-08",
+        "md5": "6821bfaa610cc236416683545c48e1e9",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 3356746,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/mr.boom.zip"
+        "size": 3356776,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/mr.boom.zip"
       },
       "version": 2
     },
@@ -44073,6 +44165,98 @@
         "repo": "main",
         "size": 4799444,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-09_0405/mreader.zip"
+      },
+      "version": 4
+    },
+    "mrplatformer.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Run! Jump? Swim?! Mr. Platformer can do it all!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Thanks to Terry Cavanagh (https://terrycavanagh.itch.io) for permitting PortMaster to include the game files.",
+        "inst_md": "Ready to run. Thanks to [Terry Cavanagh](https://terrycavanagh.itch.io) for permitting PortMaster to include the game files.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn",
+          "ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.2.2.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://terrycavanagh.itch.io/mr-platformer"
+          }
+        ],
+        "title": "Mr. Platformer"
+      },
+      "items": [
+        "Mr. Platformer.sh",
+        "mrplatformer"
+      ],
+      "items_opt": null,
+      "name": "mrplatformer.zip",
+      "source": {
+        "date_added": "2025-04-08",
+        "date_updated": "2025-04-08",
+        "md5": "d5b3f042351d4ac6420ef62cf4c0d4b6",
+        "release_id": "2025-04-08_2119",
+        "repo": "main",
+        "size": 1341194,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/mrplatformer.zip"
       },
       "version": 4
     },
@@ -55330,12 +55514,12 @@
       "name": "quake.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-03-26",
-        "md5": "030b9c33a566252356311528d82fe8b3",
-        "release_id": "2025-03-26_1111",
+        "date_updated": "2025-04-08",
+        "md5": "f3e2844cc652e51a2e5bb7d411ddb5cd",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 9020240,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/quake.zip"
+        "size": 9020263,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/quake.zip"
       },
       "version": 2
     },
@@ -57712,12 +57896,12 @@
       "name": "rick.dangerous.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-01-02",
-        "md5": "571116a1c73fa48042d1ececfce654e2",
-        "release_id": "2025-01-02_1923",
+        "date_updated": "2025-04-08",
+        "md5": "cef57bbe42648ca1fd836ba0ec7588b3",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 3106790,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/rick.dangerous.zip"
+        "size": 3106811,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/rick.dangerous.zip"
       },
       "version": 2
     },
@@ -64460,12 +64644,12 @@
       "name": "sonic3air.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2025-03-26",
-        "md5": "ab6ff8d283837833d498294a837604ee",
-        "release_id": "2025-03-26_1111",
+        "date_updated": "2025-04-08",
+        "md5": "4dc90d3e016c3fcd24824b96f167eebf",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 138229108,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/sonic3air.zip"
+        "size": 137611733,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/sonic3air.zip"
       },
       "version": 4
     },
@@ -75109,12 +75293,12 @@
       "name": "ufo50.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-03-20",
-        "md5": "9e6db088ea1380971f8b0d4537a2c10c",
-        "release_id": "2025-03-20_0025",
+        "date_updated": "2025-04-08",
+        "md5": "f753a0fdcc3f6f7bedfcfa40ea18aa16",
+        "release_id": "2025-04-08_2119",
         "repo": "main",
-        "size": 11056085,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-20_0025/ufo50.zip"
+        "size": 11051467,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/ufo50.zip"
       },
       "version": 4
     },
