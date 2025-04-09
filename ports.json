@@ -44227,7 +44227,7 @@
         "min_glibc": "",
         "porter": [
           "tabreturn",
-          "ganimoth"
+          "Ganimoth"
         ],
         "reqs": [],
         "rtr": true,
@@ -44251,12 +44251,12 @@
       "name": "mrplatformer.zip",
       "source": {
         "date_added": "2025-04-08",
-        "date_updated": "2025-04-08",
-        "md5": "d5b3f042351d4ac6420ef62cf4c0d4b6",
-        "release_id": "2025-04-08_2119",
+        "date_updated": "2025-04-09",
+        "md5": "186d6dcfe0541d308c7dd0e93125eb61",
+        "release_id": "2025-04-09_0654",
         "repo": "main",
-        "size": 1341194,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/mrplatformer.zip"
+        "size": 1341195,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-09_0654/mrplatformer.zip"
       },
       "version": 4
     },
