@@ -6,6 +6,8 @@ repos = {
     "multiverse": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/latest/download/ports.json",
     }
 
+ratings_url = "https://suggestions.portmaster.games/port-ratings"
+
 def build_requirements(port_info, runtimes_info):
     """
     Matches hardware capabilities to port requirements.
@@ -109,6 +111,9 @@ def main():
     ports = {"ports":{}}
     runtimes_info = {}
 
+    ratings = requests.get(ratings_url)
+    ratings = ratings.json()
+
     with open('device_info.json', 'r') as fh:
         device_info = json.load(fh)
 
@@ -140,6 +145,8 @@ def main():
         for port in portsJson["ports"]:
             port_info = portsJson["ports"][port]
             port_info["source"]["repo"] = repo
+            if port in ratings:
+                port_info["rating"] = ratings[port]
 
             device_cfw_tag(port_info, device_info, runtimes_info)
 
