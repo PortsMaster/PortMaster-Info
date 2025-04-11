@@ -3276,6 +3276,98 @@
       },
       "version": 2
     },
+    "atowerintheforest.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "\"Today is the day\"- to finally climb the tower in the forest. Turn windmills to activate platforms, open doors or create shortcuts and make your way to the top in this short, atmospheric platformer about reaching your goals.",
+        "desc_md": "\n",
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://michael-grieshofer.itch.io/a-tower-in-the-forest"
+          }
+        ],
+        "title": "A Tower in the Forest"
+      },
+      "items": [
+        "A Tower in the Forest.sh",
+        "atowerintheforest"
+      ],
+      "items_opt": null,
+      "name": "atowerintheforest.zip",
+      "source": {
+        "date_added": "2025-04-11",
+        "date_updated": "2025-04-11",
+        "md5": "c3e915ac22811525316ddb0f2dc7beab",
+        "release_id": "2025-04-11_0650",
+        "repo": "main",
+        "size": 53708,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-11_0650/atowerintheforest.zip"
+      },
+      "version": 4
+    },
     "augustus.zip": {
       "attr": {
         "arch": [
@@ -11060,6 +11152,97 @@
         "repo": "main",
         "size": 12369840,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-17_1453/cavecrawler.zip"
+      },
+      "version": 4
+    },
+    "cavecrawler2.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Cave Crawler 2 is a retro-inspired 2D side-scroller. Escape a series of winding caves full of strange creatures and treacherous platforming challenges.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready To Run!!!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "godot_4.3.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/3000490/Cave_Crawler_2/"
+          }
+        ],
+        "title": "Cave Crawler 2"
+      },
+      "items": [
+        "Cave Crawler 2.sh",
+        "cavecrawler2"
+      ],
+      "items_opt": null,
+      "name": "cavecrawler2.zip",
+      "source": {
+        "date_added": "2025-04-11",
+        "date_updated": "2025-04-11",
+        "md5": "1cfb6840bd2af4e14fe018d26b1ff8ed",
+        "release_id": "2025-04-11_0650",
+        "repo": "main",
+        "size": 10214972,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-11_0650/cavecrawler2.zip"
       },
       "version": 4
     },
@@ -33414,12 +33597,12 @@
       "name": "iconoclasts.zip",
       "source": {
         "date_added": "2021-11-16",
-        "date_updated": "2024-07-17",
-        "md5": "533aee30af6d2908266cccbb794ce7bf",
-        "release_id": "2024-07-17_1729",
+        "date_updated": "2025-04-11",
+        "md5": "bb4fe30022f5ee38879fe47e61feb05c",
+        "release_id": "2025-04-11_0650",
         "repo": "main",
-        "size": 4533295,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-17_1729/iconoclasts.zip"
+        "size": 4533514,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-11_0650/iconoclasts.zip"
       },
       "version": 2
     },
@@ -57905,6 +58088,96 @@
       },
       "version": 2
     },
+    "riddledcorpses.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Frenetic arcade style twin-stick shooter. Fight your way through hordes of enemies alone or with a friend!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase at Steam https://store.steampowered.com/app/369890/Riddled_Corpses/ place the data.win and all .ogg files into the assets folder.",
+        "inst_md": "Purchase at [Steam](https://store.steampowered.com/app/369890/Riddled_Corpses/) place the data.win and all .ogg files into the assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/369890/Riddled_Corpses/"
+          }
+        ],
+        "title": "Riddled Corpses"
+      },
+      "items": [
+        "Riddled Corpses.sh",
+        "riddledcorpses"
+      ],
+      "items_opt": null,
+      "name": "riddledcorpses.zip",
+      "source": {
+        "date_added": "2025-04-11",
+        "date_updated": "2025-04-11",
+        "md5": "d14997052167b9c3346961812280f32b",
+        "release_id": "2025-04-11_0650",
+        "repo": "main",
+        "size": 6539548,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-11_0650/riddledcorpses.zip"
+      },
+      "version": 4
+    },
     "rigelengine.zip": {
       "attr": {
         "arch": [
@@ -77789,7 +78062,7 @@
         "desc_md": "Explore the world of [Wesnoth](https://www.wesnoth.org) and take part in its many adventures! Embark on a desperate quest to reclaim your rightful throne... Flee the Lich Lords to a new home across the sea... Delve into the darkest depths of the earth to craft a jewel of fire itself... Defend your kingdom against the ravaging hordes of a foul necromancer... Or lead a straggly band of survivors across the blazing sands to confront an unseen evil.\n\nThe Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.",
         "exp": false,
         "genres": [
-          "other"
+          "strategy"
         ],
         "image": {
           "covers": [
@@ -77823,12 +78096,12 @@
       "name": "wesnoth.zip",
       "source": {
         "date_added": "2025-04-06",
-        "date_updated": "2025-04-06",
-        "md5": "366ff301efb7b859040702aee4509be4",
-        "release_id": "2025-04-06_2309",
+        "date_updated": "2025-04-11",
+        "md5": "240d6d152dd4104992140d36ffb762ec",
+        "release_id": "2025-04-11_0650",
         "repo": "main",
-        "size": 473831409,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-06_2309/wesnoth.zip"
+        "size": 473831407,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-11_0650/wesnoth.zip"
       },
       "version": 4
     },
