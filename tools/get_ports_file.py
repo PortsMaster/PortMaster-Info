@@ -145,12 +145,16 @@ def main():
         for port in portsJson["ports"]:
             port_info = portsJson["ports"][port]
             port_info["source"]["repo"] = repo
-            if port in ratings:
-                port_info["rating"] = ratings[port]
+            if port in ratings["ports"]:
+                port_info["rating"] = ratings["ports"][port]
 
             device_cfw_tag(port_info, device_info, runtimes_info)
 
             ports["ports"][port] = port_info
+        ports["ratings"] = {}
+        ports["ratings"]['min_range'] = ratings["min_range"]
+        ports["ratings"]['max_range'] = ratings["max_range"]
+        ports["ratings"]['total_ratings'] = ratings["total_ratings"]
 
     with open("devices.json", "w", encoding="utf8") as outfile:
         outfile.write(json.dumps(devices, indent=2, sort_keys=True))
