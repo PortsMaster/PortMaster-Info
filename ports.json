@@ -73,6 +73,12 @@
       ],
       "items_opt": null,
       "name": "2048.zip",
+      "rating": {
+        "average_rating": 2.0,
+        "max_rating": "2",
+        "min_rating": "2",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-04-08",
@@ -330,6 +336,12 @@
       ],
       "items_opt": null,
       "name": "abes_adventure.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2022-10-25",
         "date_updated": "2025-02-06",
@@ -2521,6 +2533,12 @@
       ],
       "items_opt": null,
       "name": "apotris.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-02-05",
         "date_updated": "2024-10-15",
@@ -3357,6 +3375,12 @@
       ],
       "items_opt": null,
       "name": "atowerintheforest.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-11",
         "date_updated": "2025-04-11",
@@ -3875,6 +3899,12 @@
       ],
       "items_opt": null,
       "name": "balatro.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-04-01",
         "date_updated": "2025-04-03",
@@ -4046,6 +4076,12 @@
       ],
       "items_opt": null,
       "name": "bananaguy2.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-03-23",
         "date_updated": "2024-11-12",
@@ -5375,6 +5411,12 @@
       ],
       "items_opt": null,
       "name": "biomassgrowth.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-14",
         "date_updated": "2024-10-17",
@@ -5962,6 +6004,12 @@
       ],
       "items_opt": null,
       "name": "bleed2.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-11-02",
         "date_updated": "2025-01-07",
@@ -10886,6 +10934,12 @@
       ],
       "items_opt": null,
       "name": "cave.story-evo.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2024-12-19",
@@ -11235,6 +11289,12 @@
       ],
       "items_opt": null,
       "name": "cavecrawler2.zip",
+      "rating": {
+        "average_rating": 4.5,
+        "max_rating": "5",
+        "min_rating": "4",
+        "total_ratings": 2
+      },
       "source": {
         "date_added": "2025-04-11",
         "date_updated": "2025-04-11",
@@ -14794,6 +14854,12 @@
       ],
       "items_opt": null,
       "name": "cursedgem.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-26",
         "date_updated": "2025-03-26",
@@ -14879,6 +14945,12 @@
       ],
       "items_opt": null,
       "name": "curseofthearrow.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-07-08",
         "date_updated": "2025-03-16",
@@ -17925,6 +17997,12 @@
       ],
       "items_opt": null,
       "name": "diceheck.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-07",
         "date_updated": "2025-04-08",
@@ -19123,6 +19201,12 @@
       ],
       "items_opt": null,
       "name": "doomengines.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-02-04",
         "date_updated": "2025-02-18",
@@ -19376,6 +19460,12 @@
       ],
       "items_opt": null,
       "name": "doukutsu-rs.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 2
+      },
       "source": {
         "date_added": "2025-01-23",
         "date_updated": "2025-02-27",
@@ -19462,6 +19552,12 @@
       ],
       "items_opt": null,
       "name": "downwell.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-08-01",
         "date_updated": "2025-01-28",
@@ -24191,6 +24287,12 @@
       ],
       "items_opt": null,
       "name": "fireboy.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-26",
         "date_updated": "2025-03-26",
@@ -24705,6 +24807,12 @@
       ],
       "items_opt": null,
       "name": "flinthook.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-01-14",
         "date_updated": "2025-01-20",
@@ -25682,6 +25790,12 @@
       ],
       "items_opt": null,
       "name": "freedom.planet.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2024-10-27",
@@ -26854,6 +26968,12 @@
       ],
       "items_opt": null,
       "name": "gardenstory.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-21",
         "date_updated": "2025-02-27",
@@ -28079,6 +28199,12 @@
       ],
       "items_opt": null,
       "name": "goldenhornet.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-14",
         "date_updated": "2024-12-17",
@@ -28490,6 +28616,12 @@
       ],
       "items_opt": null,
       "name": "gravitycircuit.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-04-25",
         "date_updated": "2024-04-25",
@@ -31876,6 +32008,12 @@
       ],
       "items_opt": null,
       "name": "hikoban.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 2
+      },
       "source": {
         "date_added": "2025-03-22",
         "date_updated": "2025-03-22",
@@ -34753,6 +34891,12 @@
       ],
       "items_opt": null,
       "name": "iosas.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-04",
         "date_updated": "2025-03-11",
@@ -36229,6 +36373,12 @@
       ],
       "items_opt": null,
       "name": "kaima.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-04",
         "date_updated": "2025-01-02",
@@ -36556,6 +36706,12 @@
       ],
       "items_opt": null,
       "name": "kikai.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-08-30",
         "date_updated": "2024-08-30",
@@ -39235,6 +39391,12 @@
       ],
       "items_opt": null,
       "name": "lividmeadow.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-12",
         "date_updated": "2024-12-09",
@@ -43106,6 +43268,12 @@
       ],
       "items_opt": null,
       "name": "minidoom.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-10",
         "date_updated": "2024-10-04",
@@ -44019,6 +44187,12 @@
       ],
       "items_opt": null,
       "name": "moonleap.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 2
+      },
       "source": {
         "date_added": "2025-03-26",
         "date_updated": "2025-03-26",
@@ -44432,6 +44606,12 @@
       ],
       "items_opt": null,
       "name": "mrplatformer.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-08",
         "date_updated": "2025-04-09",
@@ -49094,6 +49274,12 @@
       ],
       "items_opt": null,
       "name": "openhexagon.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-17",
         "date_updated": "2025-03-17",
@@ -51208,6 +51394,12 @@
       ],
       "items_opt": null,
       "name": "pachycefalosaurus.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-28",
         "date_updated": "2025-03-28",
@@ -54775,6 +54967,12 @@
       ],
       "items_opt": null,
       "name": "pullywog.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-17",
         "date_updated": "2024-10-17",
@@ -57621,6 +57819,12 @@
       ],
       "items_opt": null,
       "name": "render96ex.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-07-01",
         "date_updated": "2025-03-09",
@@ -63978,6 +64182,12 @@
       ],
       "items_opt": null,
       "name": "soh.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-04-10",
         "date_updated": "2025-04-10",
@@ -64065,6 +64275,12 @@
       ],
       "items_opt": null,
       "name": "soh2.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-06-10",
         "date_updated": "2025-04-10",
@@ -64323,6 +64539,12 @@
       ],
       "items_opt": null,
       "name": "somnokid.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-22",
         "date_updated": "2024-10-22",
@@ -66091,6 +66313,12 @@
       ],
       "items_opt": null,
       "name": "spelunky.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "5",
+        "min_rating": "3",
+        "total_ratings": 2
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-01-14",
@@ -66399,6 +66627,12 @@
       ],
       "items_opt": null,
       "name": "spookynakki.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-14",
         "date_updated": "2024-10-09",
@@ -66718,6 +66952,12 @@
       ],
       "items_opt": null,
       "name": "starbound.zip",
+      "rating": {
+        "average_rating": 4.5,
+        "max_rating": "5",
+        "min_rating": "4",
+        "total_ratings": 2
+      },
       "source": {
         "date_added": "2025-04-07",
         "date_updated": "2025-04-07",
@@ -66806,6 +67046,12 @@
       ],
       "items_opt": null,
       "name": "starboy.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-09-10",
         "date_updated": "2024-10-01",
@@ -67146,6 +67392,12 @@
       ],
       "items_opt": null,
       "name": "stargrovescramble.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-03-09",
         "date_updated": "2024-07-18",
@@ -67308,6 +67560,12 @@
       ],
       "items_opt": null,
       "name": "static.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-08",
         "date_updated": "2024-09-08",
@@ -68629,6 +68887,12 @@
       ],
       "items_opt": null,
       "name": "supergaelicdodgeball.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-08-22",
         "date_updated": "2024-08-22",
@@ -68799,6 +69063,12 @@
       ],
       "items_opt": null,
       "name": "superhexagon.zip",
+      "rating": {
+        "average_rating": 4.33,
+        "max_rating": "5",
+        "min_rating": "4",
+        "total_ratings": 3
+      },
       "source": {
         "date_added": "2025-02-15",
         "date_updated": "2025-02-15",
@@ -69776,6 +70046,12 @@
       ],
       "items_opt": null,
       "name": "swapwoodquestr.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-05-08",
         "date_updated": "2024-07-18",
@@ -69944,6 +70220,12 @@
       ],
       "items_opt": null,
       "name": "tabletanks.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-24",
         "date_updated": "2024-10-24",
@@ -70105,6 +70387,12 @@
       ],
       "items_opt": null,
       "name": "tailspin.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-09",
         "date_updated": "2024-10-15",
@@ -70272,6 +70560,12 @@
       ],
       "items_opt": null,
       "name": "tamatool.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-03-21",
         "date_updated": "2024-04-01",
@@ -71860,6 +72154,12 @@
       ],
       "items_opt": null,
       "name": "thunderpunch.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-26",
         "date_updated": "2025-03-26",
@@ -75564,6 +75864,12 @@
       ],
       "items_opt": null,
       "name": "ufo50.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-06",
         "date_updated": "2025-04-08",
@@ -75910,6 +76216,12 @@
       ],
       "items_opt": null,
       "name": "undertale.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-03-11",
@@ -75993,6 +76305,12 @@
       ],
       "items_opt": null,
       "name": "ungratefulbirdsngd.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-11-13",
         "date_updated": "2024-11-15",
@@ -76841,6 +77159,12 @@
       ],
       "items_opt": null,
       "name": "verticaldropheroeshd.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-13",
         "date_updated": "2024-09-13",
@@ -77757,6 +78081,12 @@
       ],
       "items_opt": null,
       "name": "vvvvvv.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-01-14",
@@ -78092,6 +78422,12 @@
       ],
       "items_opt": null,
       "name": "wesnoth.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-06",
         "date_updated": "2025-04-11",
@@ -78936,6 +79272,12 @@
       ],
       "items_opt": null,
       "name": "wordswithfreds.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-06-05",
         "date_updated": "2024-07-18",
@@ -79104,6 +79446,12 @@
       ],
       "items_opt": null,
       "name": "worldofgoo.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-02-03",
         "date_updated": "2024-12-14",
@@ -79524,6 +79872,12 @@
       ],
       "items_opt": null,
       "name": "xmoto.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-03",
         "date_updated": "2025-03-03",
@@ -81935,5 +82289,10 @@
       },
       "version": 2
     }
+  },
+  "ratings": {
+    "max_range": 5,
+    "min_range": 1,
+    "total_ratings": 68
   }
 }
