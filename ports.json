@@ -12139,10 +12139,10 @@
       "items_opt": null,
       "name": "chipndale.zip",
       "rating": {
-        "average_rating": 2.0,
-        "max_rating": "2",
+        "average_rating": 3.5,
+        "max_rating": "5",
         "min_rating": "2",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-01-28",
@@ -18284,10 +18284,10 @@
       "items_opt": null,
       "name": "digger.zip",
       "rating": {
-        "average_rating": 2.0,
-        "max_rating": "2",
+        "average_rating": 3.5,
+        "max_rating": "5",
         "min_rating": "2",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-12-07",
@@ -49556,10 +49556,10 @@
       "items_opt": null,
       "name": "openggs.zip",
       "rating": {
-        "average_rating": 2.0,
-        "max_rating": "2",
+        "average_rating": 3.5,
+        "max_rating": "5",
         "min_rating": "2",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2023-05-14",
@@ -50348,6 +50348,12 @@
       ],
       "items_opt": null,
       "name": "opensyobon.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-07-06",
         "date_updated": "2024-07-27",
@@ -58240,7 +58246,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2024-07-01",
@@ -60574,7 +60580,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2021-11-19",
@@ -70260,10 +70266,10 @@
       "items_opt": null,
       "name": "supertux.zip",
       "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
+        "average_rating": 4.5,
+        "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-11-03",
@@ -82788,6 +82794,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 166
+    "total_ratings": 173
   }
 }
