@@ -19784,10 +19784,10 @@
       "items_opt": null,
       "name": "downwell.zip",
       "rating": {
-        "average_rating": 4.67,
+        "average_rating": 4.5,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2024-08-01",
@@ -25296,6 +25296,12 @@
       ],
       "items_opt": null,
       "name": "forager.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-03-30",
         "date_updated": "2025-01-14",
@@ -27230,10 +27236,10 @@
       "items_opt": null,
       "name": "gardenstory.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.5,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "4",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-10-21",
@@ -67647,7 +67653,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2022-07-03",
@@ -82770,6 +82776,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 157
+    "total_ratings": 161
   }
 }
