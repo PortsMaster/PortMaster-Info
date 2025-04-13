@@ -13908,6 +13908,12 @@
       ],
       "items_opt": null,
       "name": "cosmo-engine.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-04-12",
         "date_updated": "2024-12-03",
@@ -30553,7 +30559,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2023-01-07",
@@ -72965,10 +72971,10 @@
       "items_opt": null,
       "name": "tileworld.zip",
       "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
+        "average_rating": 4.5,
+        "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2022-06-03",
@@ -82782,6 +82788,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 163
+    "total_ratings": 166
   }
 }
