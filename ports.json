@@ -2281,6 +2281,12 @@
       ],
       "items_opt": null,
       "name": "antonballclassic.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-01-30",
         "date_updated": "2025-01-30",
@@ -2369,6 +2375,12 @@
       ],
       "items_opt": null,
       "name": "apocrunner.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-10-19",
         "date_updated": "2024-12-03",
@@ -2454,6 +2466,12 @@
       ],
       "items_opt": null,
       "name": "apondbeyond.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-01-30",
         "date_updated": "2025-01-30",
@@ -2540,10 +2558,10 @@
       "items_opt": null,
       "name": "apotris.zip",
       "rating": {
-        "average_rating": 4.67,
+        "average_rating": 4.5,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2024-02-05",
@@ -8735,6 +8753,12 @@
       ],
       "items_opt": null,
       "name": "bugscraper.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-03-23",
         "date_updated": "2024-07-18",
@@ -17845,6 +17869,12 @@
       ],
       "items_opt": null,
       "name": "devilutionx.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2024-07-18",
@@ -20182,6 +20212,12 @@
       ],
       "items_opt": null,
       "name": "ducklingsmaze.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-01-20",
         "date_updated": "2025-01-21",
@@ -27102,6 +27138,12 @@
       ],
       "items_opt": null,
       "name": "gatoroboto.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-21",
         "date_updated": "2025-04-06",
@@ -29256,6 +29298,12 @@
       ],
       "items_opt": null,
       "name": "gta3.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-10-28",
         "date_updated": "2024-04-10",
@@ -29345,7 +29393,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2023-10-28",
@@ -30288,6 +30336,12 @@
         "Half-Life Opposing Force.sh"
       ],
       "name": "half-life.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-01-07",
         "date_updated": "2024-04-17",
@@ -39359,6 +39413,12 @@
       ],
       "items_opt": null,
       "name": "littlerunmo.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-11-06",
         "date_updated": "2024-04-01",
@@ -39440,10 +39500,10 @@
       "items_opt": null,
       "name": "lividmeadow.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.0,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "3",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-10-12",
@@ -40021,6 +40081,12 @@
       ],
       "items_opt": null,
       "name": "lose95.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-21",
         "date_updated": "2024-10-21",
@@ -44748,6 +44814,12 @@
       ],
       "items_opt": null,
       "name": "mrrescue.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-04-01",
         "date_updated": "2024-04-01",
@@ -50177,6 +50249,12 @@
       ],
       "items_opt": null,
       "name": "opentyrian.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2024-12-27",
@@ -57883,7 +57961,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-07-01",
@@ -58341,6 +58419,12 @@
       ],
       "items_opt": null,
       "name": "rick.dangerous.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-04-08",
@@ -60207,6 +60291,12 @@
       ],
       "items_opt": null,
       "name": "rvgl.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-11-19",
         "date_updated": "2024-04-01",
@@ -67296,7 +67386,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 2
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2022-07-03",
@@ -69396,6 +69486,12 @@
       ],
       "items_opt": null,
       "name": "supermethanebros.zip",
+      "rating": {
+        "average_rating": 2.0,
+        "max_rating": "2",
+        "min_rating": "2",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-22",
         "date_updated": "2024-10-22",
@@ -82377,6 +82473,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 95
+    "total_ratings": 117
   }
 }
