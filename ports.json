@@ -78730,6 +78730,12 @@
       ],
       "items_opt": null,
       "name": "willyousnail.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-12-14",
         "date_updated": "2024-12-14",
@@ -82341,6 +82347,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 87
+    "total_ratings": 88
   }
 }
