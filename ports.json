@@ -2534,10 +2534,10 @@
       "items_opt": null,
       "name": "apotris.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.67,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2024-02-05",
@@ -26409,10 +26409,10 @@
       "items_opt": null,
       "name": "fridaynightfunkin.zip",
       "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
+        "average_rating": 4.5,
+        "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-12-27",
@@ -82341,6 +82341,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 85
+    "total_ratings": 87
   }
 }
