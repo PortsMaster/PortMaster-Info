@@ -11735,6 +11735,12 @@
       ],
       "items_opt": null,
       "name": "celeste.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-11",
         "date_updated": "2025-03-26",
@@ -14008,7 +14014,7 @@
         "average_rating": 4.0,
         "max_rating": "4",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-04-07",
@@ -26396,6 +26402,12 @@
       ],
       "items_opt": null,
       "name": "fridaynightfunkin.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-12-27",
         "date_updated": "2025-01-20",
@@ -28626,7 +28638,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-04-25",
@@ -51147,6 +51159,12 @@
       ],
       "items_opt": null,
       "name": "owlboy.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2022-03-18",
         "date_updated": "2024-12-27",
@@ -51401,10 +51419,10 @@
       "items_opt": null,
       "name": "pachycefalosaurus.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.0,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "3",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-03-28",
@@ -66320,9 +66338,9 @@
       "items_opt": null,
       "name": "spelunky.zip",
       "rating": {
-        "average_rating": 4.0,
+        "average_rating": 3.5,
         "max_rating": "5",
-        "min_rating": "3",
+        "min_rating": "2",
         "total_ratings": 2
       },
       "source": {
@@ -67232,6 +67250,12 @@
       ],
       "items_opt": null,
       "name": "stardewvalley.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2022-07-03",
         "date_updated": "2024-11-28",
@@ -67317,6 +67341,12 @@
       ],
       "items_opt": null,
       "name": "starfighter.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-01-23",
         "date_updated": "2025-01-24",
@@ -78432,7 +78462,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-04-06",
@@ -82299,6 +82329,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 71
+    "total_ratings": 80
   }
 }
