@@ -679,6 +679,12 @@
       ],
       "items_opt": null,
       "name": "aerofoil.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-02-06",
         "date_updated": "2025-02-18",
@@ -18016,10 +18022,10 @@
       "items_opt": null,
       "name": "diceheck.zip",
       "rating": {
-        "average_rating": 4.0,
+        "average_rating": 3.5,
         "max_rating": "4",
-        "min_rating": "4",
-        "total_ratings": 1
+        "min_rating": "3",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-04-07",
@@ -18106,6 +18112,12 @@
       ],
       "items_opt": null,
       "name": "digger.zip",
+      "rating": {
+        "average_rating": 2.0,
+        "max_rating": "2",
+        "min_rating": "2",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-12-07",
         "date_updated": "2024-12-07",
@@ -18707,6 +18719,12 @@
       ],
       "items_opt": null,
       "name": "donkeykongredux.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-07",
         "date_updated": "2025-04-07",
@@ -46705,6 +46723,12 @@
       ],
       "items_opt": null,
       "name": "nightofelchupacabra.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-02-15",
         "date_updated": "2025-02-15",
@@ -51431,10 +51455,10 @@
       "items_opt": null,
       "name": "pachycefalosaurus.zip",
       "rating": {
-        "average_rating": 4.0,
+        "average_rating": 3.67,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2025-03-28",
@@ -59157,6 +59181,12 @@
       ],
       "items_opt": null,
       "name": "rockbot.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-12-16",
         "date_updated": "2024-12-16",
@@ -82347,6 +82377,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 88
+    "total_ratings": 95
   }
 }
