@@ -2534,10 +2534,10 @@
       "items_opt": null,
       "name": "apotris.zip",
       "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
+        "average_rating": 4.5,
+        "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-02-05",
@@ -11547,6 +11547,12 @@
       ],
       "items_opt": null,
       "name": "cceleste.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-05-11",
         "date_updated": "2024-07-18",
@@ -29317,6 +29323,12 @@
       ],
       "items_opt": null,
       "name": "gtavc.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-10-28",
         "date_updated": "2024-04-10",
@@ -67254,7 +67266,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2022-07-03",
@@ -82329,6 +82341,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 80
+    "total_ratings": 84
   }
 }
