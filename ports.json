@@ -1293,6 +1293,94 @@
       },
       "version": 2
     },
+    "alicecliche.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Alice in Clicheland is a game developed for Digital Games Development course, taken during their Computer Science grad school at UFMG. It is an action RPG game, where the action takes place in real time. With its 2D graphics and aerial view, Alice in Clicheland recalls SNES RPG games, like Final Fantasy and Zelda.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [],
+        "title": "Alice In Clicheland"
+      },
+      "items": [
+        "Alice In Clicheland.sh",
+        "alicecliche"
+      ],
+      "items_opt": null,
+      "name": "alicecliche.zip",
+      "source": {
+        "date_added": "2025-04-14",
+        "date_updated": "2025-04-14",
+        "md5": "5d0b9de91b561ccd228816d9bb571c81",
+        "release_id": "2025-04-14_1048",
+        "repo": "main",
+        "size": 29417092,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_1048/alicecliche.zip"
+      },
+      "version": 4
+    },
     "alienblaster.zip": {
       "attr": {
         "arch": [
@@ -32349,12 +32437,12 @@
       },
       "source": {
         "date_added": "2025-03-22",
-        "date_updated": "2025-03-22",
-        "md5": "ce38e4930fe3b6b5ce2f3c6875bd5b62",
-        "release_id": "2025-03-22_2007",
+        "date_updated": "2025-04-14",
+        "md5": "09bfdd4ae14c9d0798b5139f94a70fba",
+        "release_id": "2025-04-14_1048",
         "repo": "main",
-        "size": 22907073,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-22_2007/hikoban.zip"
+        "size": 22907085,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_1048/hikoban.zip"
       },
       "version": 4
     },
@@ -52343,6 +52431,98 @@
       },
       "version": 4
     },
+    "pathofachra.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Path of Achra is a dark fantasy roguelike of the ancient earth, with a focus on streamlined controls and rapid hero customization. A \"broken build sandbox.\" Fight through the deadly lands of Achra to reach the horrors of the Obelisk, and discover what lies beyond...",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Either download the free demo or purchase the game on Steam and place the PathofAchra.pck in the port's Gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/curator/45192389",
+            "gameurl": "https://store.steampowered.com/app/2128270/Path_of_Achra/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Path of Achra"
+      },
+      "items": [
+        "Path of Achra.sh",
+        "pathofachra"
+      ],
+      "items_opt": null,
+      "name": "pathofachra.zip",
+      "source": {
+        "date_added": "2025-04-14",
+        "date_updated": "2025-04-14",
+        "md5": "538663521e4304b0998843246d7f8136",
+        "release_id": "2025-04-14_1048",
+        "repo": "main",
+        "size": 911182,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_1048/pathofachra.zip"
+      },
+      "version": 4
+    },
     "paused.zip": {
       "attr": {
         "arch": [
@@ -53229,7 +53409,8 @@
         "inst_md": "Purchase the game at [https://jc-bailey.itch.io/pixel-descent](https://jc-bailey.itch.io/pixel-descent), download and extract it, and copy the game files to the `pixeldescent/gamedata` folder.",
         "min_glibc": "",
         "porter": [
-          "tabreturn"
+          "tabreturn",
+          "Jeod"
         ],
         "reqs": [
           "power"
@@ -53246,12 +53427,12 @@
       "name": "pixeldescent.zip",
       "source": {
         "date_added": "2024-12-05",
-        "date_updated": "2025-04-13",
-        "md5": "237122dd14c0ea4bad638b30ac7f9260",
-        "release_id": "2025-04-13_1232",
+        "date_updated": "2025-04-14",
+        "md5": "b1741bce12e9a8021ad4e274c0bb119a",
+        "release_id": "2025-04-14_1048",
         "repo": "main",
-        "size": 9146883,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-13_1232/pixeldescent.zip"
+        "size": 9146888,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_1048/pixeldescent.zip"
       },
       "version": 4
     },
@@ -63814,6 +63995,99 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/skijump3.zip"
       },
       "version": 2
+    },
+    "slime3k.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A blob of goo, initially used to nourish artificial humans, has become sentient and risen up against its creator\u2014the Despot, an evil AI and the unfortunate ruler of the world in the year 3000! The future is bleak, and humanity is beyond redemption, but at least you have the power to save yourself. This demake is a mini-version of our game, Slime 3K: Rise Against Despot which will be dropping on October 31, 2024.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready To Run!!!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Konfa%20Games",
+            "gameurl": "https://konfa-games.itch.io/slime-299k",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Slime 3k Demake"
+      },
+      "items": [
+        "Slime 3K Demake.sh",
+        "slime3k"
+      ],
+      "items_opt": null,
+      "name": "slime3k.zip",
+      "source": {
+        "date_added": "2025-04-14",
+        "date_updated": "2025-04-14",
+        "md5": "02c803fc8675c25398f9318c7b474696",
+        "release_id": "2025-04-14_1048",
+        "repo": "main",
+        "size": 42205295,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_1048/slime3k.zip"
+      },
+      "version": 4
     },
     "sm.zip": {
       "attr": {
