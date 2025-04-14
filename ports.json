@@ -162,6 +162,12 @@
       ],
       "items_opt": null,
       "name": "a7xpg.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-04-25",
         "date_updated": "2024-05-15",
@@ -426,6 +432,12 @@
       ],
       "items_opt": null,
       "name": "abombniball.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-08-12",
         "date_updated": "2024-04-01",
@@ -67677,7 +67689,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 5
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2022-07-03",
@@ -82800,6 +82812,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 174
+    "total_ratings": 177
   }
 }
