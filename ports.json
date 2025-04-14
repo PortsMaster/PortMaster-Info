@@ -4024,10 +4024,10 @@
       "items_opt": null,
       "name": "balatro.zip",
       "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
+        "average_rating": 4.5,
+        "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-04-01",
@@ -23562,7 +23562,7 @@
     "fallenleaf.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -23582,7 +23582,11 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
           "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL"
@@ -23601,7 +23605,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy data.win and audiogroup1.dat into the gamedata folder. The game is available on Steam https://store.steampowered.com/app/1459010/Fallen_Leaf/",
+        "inst": "Copy game into the assets folder. The game is available on Steam https://store.steampowered.com/app/1459010/Fallen_Leaf/",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -23623,12 +23627,12 @@
       "name": "fallenleaf.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-09-14",
-        "md5": "f21fc4692220ade095cd78e632d4ce78",
-        "release_id": "2024-09-14_2311",
+        "date_updated": "2025-04-14",
+        "md5": "99ada9aee6c2aba7a8529cd9f886a7dd",
+        "release_id": "2025-04-14_2344",
         "repo": "main",
-        "size": 11741146,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/fallenleaf.zip"
+        "size": 5226173,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_2344/fallenleaf.zip"
       },
       "version": 4
     },
@@ -30398,6 +30402,100 @@
         "repo": "main",
         "size": 14344242,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gunsandguns.zip"
+      },
+      "version": 4
+    },
+    "gunsoffury.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Guns of Fury is a retro-inspired action platformer that combines the run & gun and Metroidvania genres. Explore a vast interconnected world, gain new abilities and weapons, battle epic bosses and stop the plans of an evil corporation before it\u2019s too late!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on Steam and add the data to gunsoffury/assets",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "http://www.gelatogames.com/p/guns-of-fury.html",
+            "gameurl": "https://store.steampowered.com/app/3099000/Guns_of_Fury/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Guns of Fury"
+      },
+      "items": [
+        "Guns of Fury.sh",
+        "gusnoffury"
+      ],
+      "items_opt": null,
+      "name": "gunsoffury.zip",
+      "source": {
+        "date_added": "2025-04-14",
+        "date_updated": "2025-04-14",
+        "md5": "b3f652ed7cf0154368ffed2b8802b024",
+        "release_id": "2025-04-14_2344",
+        "repo": "main",
+        "size": 8329996,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_2344/gunsoffury.zip"
       },
       "version": 4
     },
@@ -83190,6 +83288,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 179
+    "total_ratings": 180
   }
 }
