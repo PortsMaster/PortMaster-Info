@@ -23461,6 +23461,104 @@
       },
       "version": 4
     },
+    "faiththeunholytrinity.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "From the developer, Airdorf Games: \"FAITH is a pixel horror game inspired by the era of classic 8-bit gaming and the Satan Scare of the 1980s. Use your holy crucifix to perform exorcisms, fight back against possessed cultists, and cleanse haunted objects. Discover a world of dread, isolation, and mystery as you explore haunted forests, abandoned churches, and the inner sanctums of a Satanic cult.\"",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or GOG and add the game data to 'ports/faiththeunholytrinity/assets', important files are data.win, audiogroup1.dat through audiogroup18.dat, and UTconfigs.cvs files.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "mikeTheMichael"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/airdorf",
+            "gameurl": "https://store.steampowered.com/app/1179080/FAITH_The_Unholy_Trinity/",
+            "name": "STEAM"
+          },
+          {
+            "developerurl": "https://www.gog.com/en/games?developers=airdorf-games",
+            "gameurl": "https://www.gog.com/en/game/faith_the_unholy_trinity",
+            "name": "GOG"
+          }
+        ],
+        "title": "FAITH: The Unholy Trinity"
+      },
+      "items": [
+        "FAITH The Unholy Trinity.sh",
+        "faiththeunholytrinity"
+      ],
+      "items_opt": null,
+      "name": "faiththeunholytrinity.zip",
+      "source": {
+        "date_added": "2025-04-14",
+        "date_updated": "2025-04-14",
+        "md5": "5a24e753e0f80121c44bf3aa66f1d8ed",
+        "release_id": "2025-04-14_1118",
+        "repo": "main",
+        "size": 117267518,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_1118/faiththeunholytrinity.zip"
+      },
+      "version": 4
+    },
     "fallenleaf.zip": {
       "attr": {
         "arch": [
