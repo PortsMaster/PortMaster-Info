@@ -2658,10 +2658,10 @@
       "items_opt": null,
       "name": "apotris.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.6,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2024-02-05",
@@ -11702,10 +11702,10 @@
       "items_opt": null,
       "name": "cceleste.zip",
       "rating": {
-        "average_rating": 4.0,
+        "average_rating": 4.33,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2023-05-11",
@@ -58707,7 +58707,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2024-07-01",
@@ -78983,6 +78983,12 @@
       ],
       "items_opt": null,
       "name": "voidstranger.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-08-06",
         "date_updated": "2024-08-06",
@@ -83029,6 +83035,12 @@
       ],
       "items_opt": null,
       "name": "zeroranger.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-09-06",
         "date_updated": "2024-07-18",
@@ -83378,6 +83390,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 207
+    "total_ratings": 212
   }
 }
