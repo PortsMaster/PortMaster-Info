@@ -50316,6 +50316,12 @@
       ],
       "items_opt": null,
       "name": "openmrac.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-07-24",
         "date_updated": "2024-04-01",
@@ -83432,6 +83438,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 221
+    "total_ratings": 222
   }
 }
