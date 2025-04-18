@@ -137,6 +137,26 @@
     "manufacturer": "Game Console",
     "name": "R36S Retro Handheld"
   },
+  "rg-arc-d": {
+    "cfw": {
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rg-arc-d",
+    "manufacturer": "Anbernic",
+    "name": "Anbernic RG ARC-D"
+  },
+  "rg-arc-s": {
+    "cfw": {
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rg-arc-s",
+    "manufacturer": "Anbernic",
+    "name": "Anbernic RG ARC-S"
+  },
   "rg28xx": {
     "cfw": {
       "knulli": {

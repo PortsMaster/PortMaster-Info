@@ -7,6 +7,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -96,6 +98,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -185,6 +189,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -274,6 +280,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -366,6 +374,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -455,6 +465,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -538,6 +550,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -623,6 +637,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -714,6 +730,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -799,6 +817,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -873,6 +893,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -960,6 +982,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1044,6 +1068,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1129,6 +1155,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1214,6 +1242,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1299,6 +1329,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1387,6 +1419,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1471,6 +1505,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1554,6 +1590,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1637,6 +1675,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1720,6 +1760,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1801,6 +1843,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1888,6 +1932,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -1972,6 +2018,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2058,6 +2106,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2139,6 +2189,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2227,6 +2279,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2313,6 +2367,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2404,6 +2460,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2498,6 +2556,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2590,6 +2650,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2680,6 +2742,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2844,6 +2908,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -2928,6 +2994,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3007,6 +3075,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3092,6 +3162,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3175,6 +3247,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3257,6 +3331,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3338,6 +3414,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3422,6 +3500,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3523,6 +3603,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3610,6 +3692,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3698,6 +3782,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3779,6 +3865,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3870,6 +3958,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -3954,6 +4044,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4046,6 +4138,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4135,6 +4229,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4227,6 +4323,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4313,6 +4411,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4392,6 +4492,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4474,6 +4576,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4559,6 +4663,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4638,6 +4744,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4721,6 +4829,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4808,6 +4918,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4887,6 +4999,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -4972,6 +5086,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5053,6 +5169,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5138,6 +5256,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5225,6 +5345,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5309,6 +5431,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5394,6 +5518,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5479,6 +5605,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5564,6 +5692,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5649,6 +5779,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5733,6 +5865,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5819,6 +5953,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5904,6 +6040,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -5983,6 +6121,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6069,6 +6209,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6164,6 +6306,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6248,6 +6392,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6332,6 +6478,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6419,6 +6567,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6503,6 +6653,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6587,6 +6739,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6672,6 +6826,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6756,6 +6912,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -6847,6 +7005,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -6924,6 +7084,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7009,6 +7171,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7094,6 +7258,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7173,6 +7339,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7252,6 +7420,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7333,6 +7503,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7421,6 +7593,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7509,6 +7683,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7588,6 +7764,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7671,6 +7849,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7750,6 +7930,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7829,6 +8011,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7908,6 +8092,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -7991,6 +8177,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8072,6 +8260,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8151,6 +8341,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8237,6 +8429,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8321,6 +8515,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8458,6 +8654,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8550,6 +8748,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8641,6 +8841,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8729,6 +8931,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353ps:rocknix",
           "rg503:rocknix",
           "rg552:rocknix",
@@ -8805,6 +9009,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8894,6 +9100,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -8973,6 +9181,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9052,6 +9262,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9133,6 +9345,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9219,6 +9433,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9311,6 +9527,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9394,6 +9612,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9478,6 +9698,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9561,6 +9783,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9652,6 +9876,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9746,6 +9972,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9827,6 +10055,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -9912,6 +10142,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10003,6 +10235,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10090,6 +10324,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10183,6 +10419,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10266,6 +10504,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10351,6 +10591,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10430,6 +10672,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10514,6 +10758,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10599,6 +10845,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10685,6 +10933,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10768,6 +11018,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10852,6 +11104,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -10936,6 +11190,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11024,6 +11280,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11117,6 +11375,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11204,6 +11464,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11287,6 +11549,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11373,6 +11637,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11472,6 +11738,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11556,6 +11824,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11639,6 +11909,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11831,6 +12103,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -11922,6 +12196,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12010,6 +12286,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12099,6 +12377,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12178,6 +12458,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12267,6 +12549,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12348,6 +12632,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12433,6 +12719,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12512,6 +12800,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12595,6 +12885,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12681,6 +12973,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12765,6 +13059,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12851,6 +13147,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -12928,6 +13226,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13014,6 +13314,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13096,6 +13398,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13179,6 +13483,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13265,6 +13571,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13423,6 +13731,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13512,6 +13822,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13604,6 +13916,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13778,6 +14092,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13863,6 +14179,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -13948,6 +14266,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14043,6 +14363,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14126,6 +14448,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14223,6 +14547,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14305,6 +14631,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14410,6 +14738,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14496,6 +14826,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14587,6 +14919,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14670,6 +15004,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14754,6 +15090,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14837,6 +15175,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -14919,6 +15259,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15002,6 +15344,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15081,6 +15425,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15184,6 +15530,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15275,6 +15623,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15356,6 +15706,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15439,6 +15791,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15523,6 +15877,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15663,6 +16019,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15744,6 +16102,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15830,6 +16190,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -15918,6 +16280,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16004,6 +16368,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16086,6 +16452,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16165,6 +16533,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16244,6 +16614,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16327,6 +16699,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16429,6 +16803,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16510,6 +16886,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16598,6 +16976,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -16671,6 +17051,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16759,6 +17141,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16840,6 +17224,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -16923,6 +17309,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -17006,6 +17394,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -17089,6 +17479,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -17168,6 +17560,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -17249,6 +17643,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -17338,6 +17734,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -17412,6 +17810,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -17498,6 +17898,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -17829,6 +18231,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -17910,6 +18314,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -17982,6 +18388,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18065,6 +18473,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18157,6 +18567,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18240,6 +18652,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18339,6 +18753,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18508,6 +18924,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18599,6 +19017,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18678,6 +19098,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18766,6 +19188,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18867,6 +19291,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -18959,6 +19385,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19053,6 +19481,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19143,6 +19573,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19237,6 +19669,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19323,6 +19757,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19414,6 +19850,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -19491,6 +19929,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19585,6 +20025,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19668,6 +20110,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19757,6 +20201,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19850,6 +20296,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -19942,6 +20390,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20025,6 +20475,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20111,6 +20563,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20194,6 +20648,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20277,6 +20733,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20358,6 +20816,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20446,6 +20906,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20534,6 +20996,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20621,6 +21085,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20708,6 +21174,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20794,6 +21262,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20878,6 +21348,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -20969,6 +21441,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21052,6 +21526,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21138,6 +21614,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21221,6 +21699,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21304,6 +21784,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21386,6 +21868,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21467,6 +21951,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21551,6 +22037,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21637,6 +22125,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21723,6 +22213,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21804,6 +22296,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21887,6 +22381,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -21973,6 +22469,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22056,6 +22554,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22139,6 +22639,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22220,6 +22722,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22312,6 +22816,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22396,6 +22902,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22484,6 +22992,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22567,6 +23077,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22650,6 +23162,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22732,6 +23246,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22818,6 +23334,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22901,6 +23419,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -22983,6 +23503,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23069,6 +23591,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23159,6 +23683,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23244,6 +23770,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23327,6 +23855,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23413,6 +23943,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23497,6 +24029,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23601,6 +24135,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -23678,6 +24214,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23761,6 +24299,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23853,6 +24393,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -23937,6 +24479,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24024,6 +24568,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24110,6 +24656,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24208,6 +24756,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24294,6 +24844,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24376,6 +24928,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24462,6 +25016,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24543,6 +25099,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24631,6 +25189,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24713,6 +25273,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24815,6 +25377,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24905,6 +25469,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -24986,6 +25552,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25073,6 +25641,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25160,6 +25730,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25240,6 +25812,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25335,6 +25909,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25416,6 +25992,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25497,6 +26075,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -25651,6 +26231,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25733,6 +26315,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25819,6 +26403,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25900,6 +26486,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -25983,6 +26571,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26065,6 +26655,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26153,6 +26745,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26236,6 +26830,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26324,6 +26920,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26407,6 +27005,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26492,6 +27092,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26579,6 +27181,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26665,6 +27269,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26748,6 +27354,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26832,6 +27440,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -26924,6 +27534,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27007,6 +27619,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27088,6 +27702,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27177,6 +27793,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27260,6 +27878,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27339,6 +27959,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27422,6 +28044,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27514,6 +28138,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27681,6 +28307,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27766,6 +28394,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27845,6 +28475,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -27929,6 +28561,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28012,6 +28646,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28093,6 +28729,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28176,6 +28814,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28259,6 +28899,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28338,6 +28980,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28427,6 +29071,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28512,6 +29158,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28593,6 +29241,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28676,6 +29326,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28763,6 +29415,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28846,6 +29500,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -28925,6 +29581,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29008,6 +29666,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29088,6 +29748,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29180,6 +29842,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29270,6 +29934,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29361,6 +30027,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29445,6 +30113,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29530,6 +30200,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29609,6 +30281,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29699,6 +30373,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29790,6 +30466,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -29881,6 +30559,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -29953,6 +30633,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30032,6 +30714,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30120,6 +30804,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30203,6 +30889,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30295,6 +30983,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30378,6 +31068,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30459,6 +31151,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30559,6 +31253,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30657,6 +31353,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30754,6 +31452,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30837,6 +31537,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -30934,6 +31636,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31017,6 +31721,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31096,6 +31802,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31174,6 +31882,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31262,6 +31972,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31357,6 +32069,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31436,6 +32150,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -31512,6 +32228,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31594,6 +32312,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31677,6 +32397,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31763,6 +32485,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31847,6 +32571,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -31933,6 +32659,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32017,6 +32745,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32098,6 +32828,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32186,6 +32918,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32270,6 +33004,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32357,6 +33093,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32445,6 +33183,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32532,6 +33272,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32618,6 +33360,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32714,6 +33458,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32797,6 +33543,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32883,6 +33631,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -32966,6 +33716,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33049,6 +33801,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33132,6 +33886,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33215,6 +33971,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33302,6 +34060,7 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
           "rg353m:ALL",
           "rg552:ALL",
           "x55:ALL",
@@ -33359,6 +34118,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33444,6 +34205,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33525,6 +34288,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33611,6 +34376,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33690,6 +34457,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33775,6 +34544,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33856,6 +34627,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -33945,6 +34718,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34031,6 +34806,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34119,6 +34896,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -34191,6 +34970,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34272,6 +35053,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34357,6 +35140,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34439,6 +35224,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34528,6 +35315,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34607,6 +35396,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34692,6 +35483,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34772,6 +35565,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34855,6 +35650,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -34938,6 +35735,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35017,6 +35816,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35101,6 +35902,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35192,6 +35995,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35275,6 +36080,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35360,6 +36167,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -35437,6 +36246,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35522,6 +36333,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35615,6 +36428,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35696,6 +36511,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35854,6 +36671,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -35939,6 +36758,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -36015,6 +36836,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -36091,6 +36914,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36172,6 +36997,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36254,6 +37081,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36337,6 +37166,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36435,6 +37266,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36518,6 +37351,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36601,6 +37436,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36682,6 +37519,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36763,6 +37602,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36844,6 +37685,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36931,6 +37774,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37014,6 +37859,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37103,6 +37950,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37179,6 +38028,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37264,6 +38115,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37349,6 +38202,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37436,6 +38291,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37517,6 +38374,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37596,6 +38455,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37675,6 +38536,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37760,6 +38623,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37843,6 +38708,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -37930,6 +38797,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38018,6 +38887,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38104,6 +38975,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38187,6 +39060,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38271,6 +39146,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38354,6 +39231,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38445,6 +39324,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38530,6 +39411,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38619,6 +39502,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38705,6 +39590,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38790,6 +39677,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38875,6 +39764,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -38957,6 +39848,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39036,6 +39929,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39119,6 +40014,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39202,6 +40099,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39285,6 +40184,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39368,6 +40269,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39451,6 +40354,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39534,6 +40439,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39617,6 +40524,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39700,6 +40609,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39786,6 +40697,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39872,6 +40785,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -39953,6 +40868,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40047,6 +40964,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40133,6 +41052,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40212,6 +41133,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40295,6 +41218,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40374,6 +41299,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40461,6 +41388,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40544,6 +41473,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40629,6 +41560,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40721,6 +41654,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40802,6 +41737,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40885,6 +41822,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -40970,6 +41909,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41049,6 +41990,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41130,6 +42073,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41215,6 +42160,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41302,6 +42249,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41388,6 +42337,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41469,6 +42420,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41556,6 +42509,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41636,6 +42591,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41721,6 +42678,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41802,6 +42761,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41883,6 +42844,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -41970,6 +42933,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42052,6 +43017,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42135,6 +43102,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42223,6 +43192,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42307,6 +43278,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42394,6 +43367,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42482,6 +43457,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42571,6 +43548,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42655,6 +43634,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42739,6 +43720,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42824,6 +43807,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42912,6 +43897,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -42997,6 +43984,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -43091,6 +44080,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -43177,6 +44168,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -43260,6 +44253,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -43339,6 +44334,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -43431,6 +44428,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353ps:rocknix",
           "rg351mp:amberelec",
           "rg351mp:thera",
@@ -43527,6 +44526,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -43614,6 +44615,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -43789,6 +44792,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -43874,6 +44879,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -43959,6 +44966,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44046,6 +45055,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44131,6 +45142,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44210,6 +45223,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44290,6 +45305,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44373,6 +45390,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44456,6 +45475,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44536,6 +45557,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44617,6 +45640,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44773,6 +45798,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -44866,6 +45893,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45032,6 +46061,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45117,6 +46148,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45203,6 +46236,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45284,6 +46319,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45384,6 +46421,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45478,6 +46517,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45559,6 +46600,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45645,6 +46688,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45726,6 +46771,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45812,6 +46859,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45906,6 +46955,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -45989,6 +47040,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46071,6 +47124,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46159,6 +47214,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46241,6 +47298,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46326,6 +47385,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46410,6 +47471,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353ps:rocknix",
           "rg503:rocknix",
           "rg552:rocknix",
@@ -46485,6 +47548,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46569,6 +47634,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46654,6 +47721,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46735,6 +47804,7 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
           "rg353m:ALL",
           "rg552:ALL",
           "x55:ALL",
@@ -46792,6 +47862,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46875,6 +47947,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -46954,6 +48028,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47037,6 +48113,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47121,6 +48199,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47206,6 +48286,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47285,6 +48367,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47366,6 +48450,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47459,6 +48545,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47540,6 +48628,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47623,6 +48713,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47706,6 +48798,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47791,6 +48885,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47876,6 +48972,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -47966,6 +49064,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48047,6 +49147,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48128,6 +49230,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48219,6 +49323,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48303,6 +49409,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48384,6 +49492,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48467,6 +49577,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48550,6 +49662,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48706,6 +49820,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48789,6 +49905,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48870,6 +49988,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -48949,6 +50069,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49037,6 +50159,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49123,6 +50247,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49209,6 +50335,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49288,6 +50416,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49367,6 +50497,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49456,6 +50588,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49543,6 +50677,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49626,6 +50762,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49790,6 +50928,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49875,6 +51015,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -49964,6 +51106,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -50076,6 +51220,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -50161,6 +51307,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -50250,6 +51398,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -50420,6 +51570,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -50505,6 +51657,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -50588,6 +51742,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -50672,6 +51828,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -50763,6 +51921,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -50846,6 +52006,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -50937,6 +52099,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51023,6 +52187,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51104,6 +52270,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51193,6 +52361,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51275,6 +52445,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51358,6 +52530,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51449,6 +52623,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51538,6 +52714,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51623,6 +52801,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51705,6 +52885,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51786,6 +52968,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -51867,6 +53051,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52040,6 +53226,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52121,6 +53309,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52222,6 +53412,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52308,6 +53500,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52391,6 +53585,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52468,6 +53664,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52556,6 +53754,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52640,6 +53840,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52721,6 +53923,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52821,6 +54025,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52906,6 +54112,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -52989,6 +54197,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53072,6 +54282,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53161,6 +54373,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53247,6 +54461,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53335,6 +54551,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53416,6 +54634,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53499,6 +54719,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53579,6 +54801,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53662,6 +54886,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -53738,6 +54964,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53824,6 +55052,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53905,6 +55135,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -53990,6 +55222,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54074,6 +55308,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54163,6 +55399,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54247,6 +55485,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54336,6 +55576,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54425,6 +55667,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54508,6 +55752,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54594,6 +55840,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54677,6 +55925,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54763,6 +56013,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -54980,6 +56232,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55063,6 +56317,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55142,6 +56398,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55227,6 +56485,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55309,6 +56569,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55394,6 +56656,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55477,6 +56741,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55563,6 +56829,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55649,6 +56917,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55730,6 +57000,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55813,6 +57085,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55904,6 +57178,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -55983,6 +57259,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56064,6 +57342,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56143,6 +57423,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56229,6 +57511,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56313,6 +57597,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56394,6 +57680,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56480,6 +57768,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56566,6 +57856,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56649,6 +57941,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56745,6 +58039,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56830,6 +58126,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -56917,6 +58215,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57012,6 +58312,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57103,6 +58405,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57187,6 +58491,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57268,6 +58574,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57351,6 +58659,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57433,6 +58743,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57519,6 +58831,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57602,6 +58916,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57685,6 +59001,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57771,6 +59089,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -57847,6 +59167,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -57930,6 +59252,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58012,6 +59336,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58097,6 +59423,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58182,6 +59510,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58261,6 +59591,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58344,6 +59676,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58427,6 +59761,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -58503,6 +59839,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58584,6 +59922,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58671,6 +60011,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58762,6 +60104,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -58881,6 +60225,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -58966,6 +60312,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59047,6 +60395,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59132,6 +60482,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59224,6 +60576,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59314,6 +60668,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59399,6 +60755,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59482,6 +60840,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59571,6 +60931,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59653,6 +61015,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59736,6 +61100,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59820,6 +61186,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59905,6 +61273,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -59984,6 +61354,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60076,6 +61448,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60160,6 +61534,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60247,6 +61623,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60332,6 +61710,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60413,6 +61793,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60509,6 +61891,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60591,6 +61975,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60679,6 +62065,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60758,6 +62146,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60845,6 +62235,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -60929,6 +62321,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61010,6 +62404,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61102,6 +62498,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61182,6 +62580,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61266,6 +62666,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61359,6 +62761,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61442,6 +62846,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61522,6 +62928,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61610,6 +63018,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61689,6 +63099,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61768,6 +63180,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61854,6 +63268,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -61941,6 +63357,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62026,6 +63444,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62110,6 +63530,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62195,6 +63617,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62278,6 +63702,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62361,6 +63787,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62441,6 +63869,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62527,6 +63957,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62609,6 +64041,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62691,6 +64125,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62774,6 +64210,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -62859,6 +64297,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63053,6 +64493,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -63129,6 +64571,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63210,6 +64654,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63297,6 +64743,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63380,6 +64828,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63468,6 +64918,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63553,6 +65005,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63635,6 +65089,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63721,6 +65177,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63813,6 +65271,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63896,6 +65356,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -63979,6 +65441,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64071,6 +65535,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64153,6 +65619,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64239,6 +65707,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64322,6 +65792,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64423,6 +65895,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64510,6 +65984,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64591,6 +66067,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64677,6 +66155,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64758,6 +66238,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64838,6 +66320,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -64925,6 +66409,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65008,6 +66494,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65087,6 +66575,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65173,6 +66663,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65266,6 +66758,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65357,6 +66851,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65450,6 +66946,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65531,6 +67029,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65623,6 +67123,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65709,6 +67211,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65795,6 +67299,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65881,6 +67387,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -65967,6 +67475,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66048,6 +67558,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66129,6 +67641,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66215,6 +67729,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66296,6 +67812,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66378,6 +67896,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353ps:rocknix",
           "rg351mp:amberelec",
           "rg351mp:thera",
@@ -66480,6 +68000,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66561,6 +68083,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66647,6 +68171,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66728,6 +68254,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66811,6 +68339,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66893,6 +68423,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -66973,6 +68505,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67056,6 +68590,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67139,6 +68675,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67222,6 +68760,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67305,6 +68845,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67397,6 +68939,7 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
           "rg353m:ALL",
           "rg552:ALL",
           "x55:ALL",
@@ -67452,6 +68995,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67532,6 +69077,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67620,6 +69167,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67711,6 +69260,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67793,6 +69344,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67878,6 +69431,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -67961,6 +69516,7 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
           "rg353m:ALL",
           "rg552:ALL",
           "x55:ALL",
@@ -68036,6 +69592,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -68128,6 +69686,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -68216,6 +69776,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -68310,6 +69872,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -68401,6 +69965,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -68488,6 +70054,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -68569,6 +70137,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -68656,6 +70226,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353ps:rocknix",
           "rg503:rocknix",
           "rg552:rocknix",
@@ -68734,6 +70306,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -68811,6 +70385,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -68897,6 +70473,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -68981,6 +70559,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69063,6 +70643,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69142,6 +70724,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69227,6 +70811,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69306,6 +70892,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69394,6 +70982,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69477,6 +71067,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69562,6 +71154,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69643,6 +71237,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69729,6 +71325,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69817,6 +71415,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69902,6 +71502,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -69989,6 +71591,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70072,6 +71676,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70165,6 +71771,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70252,6 +71860,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70333,6 +71943,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70501,6 +72113,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70582,6 +72196,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70661,6 +72277,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70740,6 +72358,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70823,6 +72443,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -70914,6 +72536,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71003,6 +72627,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71084,6 +72710,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71172,6 +72800,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71255,6 +72885,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71346,6 +72978,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71431,6 +73065,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -71513,6 +73149,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71595,6 +73233,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71686,6 +73326,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71771,6 +73413,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71852,6 +73496,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -71936,6 +73582,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72024,6 +73672,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72102,6 +73752,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72188,6 +73840,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72267,6 +73921,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72350,6 +74006,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72431,6 +74089,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72515,6 +74175,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72604,6 +74266,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72691,6 +74355,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72776,6 +74442,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72855,6 +74523,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -72934,6 +74604,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73015,6 +74687,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73096,6 +74770,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73182,6 +74858,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73278,6 +74956,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73366,6 +75046,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73445,6 +75127,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73535,6 +75219,8 @@
           "x86_64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73623,6 +75309,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73711,6 +75399,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73796,6 +75486,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73878,6 +75570,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -73965,6 +75659,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74046,6 +75742,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74132,6 +75830,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -74204,6 +75904,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74292,6 +75994,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74377,6 +76081,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74463,6 +76169,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74550,6 +76258,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74635,6 +76345,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74718,6 +76430,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74796,6 +76510,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74880,6 +76596,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -74963,6 +76681,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75048,6 +76768,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75129,6 +76851,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75213,6 +76937,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75301,6 +77027,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75383,6 +77111,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75465,6 +77195,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75552,6 +77284,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75643,6 +77377,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75726,6 +77462,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75812,6 +77550,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75897,6 +77637,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -75981,6 +77723,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76064,6 +77808,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76146,6 +77892,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76232,6 +77980,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76318,6 +78068,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76401,6 +78153,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76485,6 +78239,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76571,6 +78327,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76654,6 +78412,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76735,6 +78495,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76823,6 +78585,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -76917,6 +78681,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77008,6 +78774,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77091,6 +78859,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77176,6 +78946,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77259,6 +79031,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77360,6 +79134,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77447,6 +79223,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77535,6 +79313,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77621,6 +79401,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77706,6 +79488,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77791,6 +79575,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77872,6 +79658,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -77959,6 +79747,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78045,6 +79835,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78131,6 +79923,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78216,6 +80010,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78303,6 +80099,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -78379,6 +80177,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78460,6 +80260,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78546,6 +80348,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78628,6 +80432,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78711,6 +80517,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78794,6 +80602,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78877,6 +80687,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -78961,6 +80773,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79052,6 +80866,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79140,6 +80956,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79231,6 +81049,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79311,6 +81131,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79394,6 +81216,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79477,6 +81301,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79572,6 +81398,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79657,6 +81485,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79741,6 +81571,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79832,6 +81664,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -79915,6 +81749,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80001,6 +81837,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80088,6 +81926,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80171,6 +82011,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80257,6 +82099,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80341,6 +82185,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80428,6 +82274,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80513,6 +82361,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80602,6 +82452,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80685,6 +82537,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80771,6 +82625,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80854,6 +82710,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -80935,6 +82793,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81028,6 +82888,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81112,6 +82974,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81193,6 +83057,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81280,6 +83146,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81369,6 +83237,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81446,6 +83316,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81533,6 +83405,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81615,6 +83489,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81694,6 +83570,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81773,6 +83651,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81857,6 +83737,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -81941,6 +83823,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82027,6 +83911,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82111,6 +83997,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82197,6 +84085,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82283,6 +84173,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82367,6 +84259,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82512,6 +84406,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82596,6 +84492,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82678,6 +84576,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82762,6 +84662,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82846,6 +84748,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -82932,6 +84836,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -83018,6 +84924,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -83106,6 +85014,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -83187,6 +85097,8 @@
       "attr": {
         "arch": [],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -83274,6 +85186,8 @@
           "armhf"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -83357,6 +85271,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
