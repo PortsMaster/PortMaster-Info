@@ -54949,6 +54949,12 @@
       ],
       "items_opt": null,
       "name": "pixeldescent.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-12-05",
         "date_updated": "2025-04-14",
@@ -85354,6 +85360,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 224
+    "total_ratings": 225
   }
 }
