@@ -12176,10 +12176,10 @@
       "items_opt": null,
       "name": "celeste.zip",
       "rating": {
-        "average_rating": 4.33,
+        "average_rating": 4.5,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2024-09-11",
@@ -85354,6 +85354,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 223
+    "total_ratings": 224
   }
 }
