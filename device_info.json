@@ -1,4 +1,65 @@
 {
+    "Anbernic RG ARC-D": {
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rg-arc-d",
+            "manufacturer": "Anbernic",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 0,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "opengl",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "rg-arc-d",
+                "analog_0",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64",
+            "glibc": "2.40"
+        }
+    },
+    "Anbernic RG ARC-S": {
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rg-arc-s",
+            "manufacturer": "Anbernic",
+            "resolution": [
+                640,
+                480
+            ],
+            "analogsticks": 0,
+            "cpu": "rk3566",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "opengl",
+                "restore",
+                "4:3",
+                "640x480",
+                "rocknix",
+                "rg-arc-s",
+                "analog_0",
+                "1gb"
+            ],
+            "ram": 1024,
+            "primary_arch": "aarch64",
+            "glibc": "2.40"
+        }
+    },
     "Anbernic RG353 M/V/P": {
         "ArkOS": {
             "name": "arkos",
