@@ -69505,6 +69505,12 @@
       ],
       "items_opt": null,
       "name": "srb2kart.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-11-21",
         "date_updated": "2024-07-18",
@@ -85360,6 +85366,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 225
+    "total_ratings": 226
   }
 }
