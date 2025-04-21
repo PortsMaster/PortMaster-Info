@@ -2988,6 +2988,12 @@
       ],
       "items_opt": null,
       "name": "aquaria.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-02-18",
         "date_updated": "2025-02-18",
@@ -87163,6 +87169,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 230
+    "total_ratings": 231
   }
 }
