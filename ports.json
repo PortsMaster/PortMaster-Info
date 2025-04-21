@@ -1669,6 +1669,103 @@
       },
       "version": 4
     },
+    "alphaman.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Alphaman is an action platformer with classic, run, jump, dash, and shoot combat about an android taking down some bots gone bad.  The group of hackers known as the Red Bombers have unleashed a virus infecting every day robots.  Even more dangerous are the bots who were formerly modified by their previous owners to enter into android fighting tournaments.  It's up to Alpha to stop the bad bots and take down the Red Bombers!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game from here \"https://yomic.itch.io/alphaman\" and download the Alphaman Steamless Windows 'PortMaster' version. Unzip the file once downloaded and place 'Alphaman.pck' into ports/alphaman/gamedata",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.2.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://yomic.itch.io/",
+            "gameurl": "https://yomic.itch.io/alphaman",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Alphaman"
+      },
+      "items": [
+        "Alphaman.sh",
+        "alphaman"
+      ],
+      "items_opt": null,
+      "name": "alphaman.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "22834a427df141403930cac70f3b4539",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 618306,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/alphaman.zip"
+      },
+      "version": 4
+    },
     "alruna.zip": {
       "attr": {
         "arch": [
@@ -3241,6 +3338,84 @@
       },
       "version": 2
     },
+    "arx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg503:ALL",
+          "rg552:ALL",
+          "rg34xx-h:ALL",
+          "rgb30:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The world of Arx is wrought with turmoil, brought to the brink of destruction by a violent war.  It is set on a world whose sun has failed, forcing the above-ground creatures to take refuge in caverns. Arx Fatalis is an innovative first-person role-playing game, featuring crafting, combat and spell-casting using mouse gestures.\n\nArx Libertatis is an improved, cross-platform and open source engine for Arx Fatalis.",
+        "desc_md": "The world of Arx is wrought with turmoil, brought to the brink of destruction by a violent war.  It is set on a world whose sun has failed, forcing the above-ground creatures to take refuge in caverns. Arx Fatalis is an innovative first-person role-playing game featuring crafting, combat and spell-casting using mouse gestures.\n\n[Arx Libertatis](https://arx-libertatis.org) is an improved, cross-platform and open source engine for Arx Fatalis.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game and copy the GoG offline installer (2 files, setup_arx...exe and setup_arx...bin) to arx/gamedata. They will be extracted on first run. Alternatively, copy Steam or Windows CD-ROM files so that copy them so that data.pak and surrounding files and folders are in arx/gamedata.",
+        "inst_md": "Purchase the game and copy the GoG offline installer (2 files, `setup_arx...exe` and `setup_arx...bin`) to arx/gamedata. They will be extracted on first run. Alternatively, copy Steam or Windows CD-ROM files so that copy them so that `data.pak` and surrounding files and folders are in `arx/gamedata`.",
+        "min_glibc": "",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [
+          "hires"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.arkane-studios.com/en",
+            "gameurl": "https://www.gog.com/en/game/arx_fatalis",
+            "name": "GoG"
+          },
+          {
+            "developerurl": "https://www.arkane-studios.com/en",
+            "gameurl": "https://store.steampowered.com/app/1700/Arx_Fatalis/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Arx"
+      },
+      "items": [
+        "Arx.sh",
+        "arx"
+      ],
+      "items_opt": null,
+      "name": "arx.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "0c2471554aab6269fac23767a6ed95c1",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 16905277,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/arx.zip"
+      },
+      "version": 4
+    },
     "assaultshell.zip": {
       "attr": {
         "arch": [
@@ -3587,12 +3762,12 @@
       },
       "source": {
         "date_added": "2025-04-11",
-        "date_updated": "2025-04-13",
-        "md5": "7f7dcceeb2bc0239ba1a0f7ee8641273",
-        "release_id": "2025-04-13_1232",
+        "date_updated": "2025-04-21",
+        "md5": "cbe874676776a4a80ee1819919389bd8",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 76664431,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-13_1232/atowerintheforest.zip"
+        "size": 53708,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/atowerintheforest.zip"
       },
       "version": 4
     },
@@ -5764,12 +5939,12 @@
       "name": "bitsybox.zip",
       "source": {
         "date_added": "2024-08-25",
-        "date_updated": "2024-08-25",
-        "md5": "341d181e176b67eecb4eb563843d6c1b",
-        "release_id": "2024-08-25_1741",
+        "date_updated": "2025-04-21",
+        "md5": "0ee92fc8bb830eb1b2732667b690627f",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 456448,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-25_1741/bitsybox.zip"
+        "size": 374705,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/bitsybox.zip"
       },
       "version": 4
     },
@@ -8171,6 +8346,109 @@
       },
       "version": 4
     },
+    "braid.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Braid is a puzzle-platformer, drawn in a painterly style, where you can manipulate the flow of time in strange and unusual ways. From a house in the city, journey to a series of worlds and solve puzzles to rescue an abducted princess. In each world, you have a different power to affect the way time behaves, and it is time's strangeness that creates the puzzles.",
+        "desc_md": "Braid is a puzzle-platformer, drawn in a painterly style, where you can manipulate the flow of time in strange and unusual ways. From a house in the city, journey to a series of worlds and solve puzzles to rescue an abducted princess. In each world, you have a different power to affect the way time behaves, and it is time's strangeness that creates the puzzles.",
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the original linux version of the game from GoG or Humble Bundle. Note that this port does not work with the newer Anniversary Edition. Put the installer file (ending in .sh) in ports/braid/gamedata.",
+        "inst_md": "Purchase the original linux version of the game from [GoG](https://www.gog.com/en/game/braid) or [Humble Bundle](https://www.humblebundle.com/store/braid). Note that this port does not work with the newer Anniversary Edition. Put the installer file (ending in `.sh`) in `ports/braid/gamedata`.",
+        "min_glibc": "",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "http://number-none.com/blow/",
+            "gameurl": "https://www.gog.com/en/game/braid",
+            "name": "GoG"
+          },
+          {
+            "developerurl": "http://number-none.com/blow/",
+            "gameurl": "https://www.humblebundle.com/store/braid?hmb_source=search_bar",
+            "name": "Humble Bundle"
+          }
+        ],
+        "title": "Braid"
+      },
+      "items": [
+        "Braid.sh",
+        "braid"
+      ],
+      "items_opt": null,
+      "name": "braid.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "0b4dd369419fd55833e0f24edc1506ca",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 13953184,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/braid.zip"
+      },
+      "version": 4
+    },
     "bravedogsroad.zip": {
       "attr": {
         "arch": [
@@ -10051,6 +10329,100 @@
       },
       "version": 4
     },
+    "candleprick.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "demo",
+        "desc": "Candle Prick is a crunchy pixel adventure about stabbing enemies and using them as extensions of yourself to solve increasingly complex puzzles. Simple mechanics will give way to complicated scenarios as you discover different ways to interact with the environment.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "The demo is included and ready to run. It's a fun preview \u2014 but buy the FULL GAME for the real challenge at:\nhttps://store.steampowered.com/app/1920700/Candle_Prick/\n\nOnce it's in your Steam library: Right-click the game, then 'Manage', 'Browse Local Files' and Copy `Candle Prick.pck` into the gamedata folder. Delete the existing `Candle Prick Patched.pck` demo file \u2014 otherwise, the full game won't load properly. If not fullscreen? From the in-game starting menu, go to: Options > Options > Video > Fullscreen",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://moraguma.itch.io/",
+            "gameurl": "https://store.steampowered.com/app/1920700/Candle_Prick/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Candle Prick"
+      },
+      "items": [
+        "Candle Prick.sh",
+        "candleprick"
+      ],
+      "items_opt": null,
+      "name": "candleprick.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "0933c59fa1a3c98e7f14d511993499a8",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 1274838,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/candleprick.zip"
+      },
+      "version": 4
+    },
     "candybag.zip": {
       "attr": {
         "arch": [],
@@ -10665,6 +11037,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-16_1734/carriesorderup.zip"
       },
       "version": 2
+    },
+    "caseandbot_murder.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Join Detective Case and his quirky sidekick Clown Bot in a comedic investigation filled with mystery, humor, and retro charm. It is a classic point-and-click adventure game featuring engaging puzzles, witty dialogue, and a fun narrative.",
+        "desc_md": "### Description:\nJoin Detective Case and his quirky sidekick Clown Bot in a comedic investigation filled with mystery, humor, and retro charm. It is a classic point-and-click adventure game featuring engaging puzzles, witty dialogue, and a fun narrative.\n\n### Game Details:\n\n* Genre: Comedy / Detective / Point-and-Click Adventure\n* Languages: Portuguese & English\n* Platforms: PC and Consoles\n* Developer: Nerd Monkeys\n\nInspired by classic adventure games, this title combines witty dialogue, intriguing puzzles, and a distinctive visual style to deliver a unique storytelling experience.\n\n### Features:\n\n* Retro pixel art aesthetic\n\n* Witty and humorous storytelling\n\n* Engaging detective mystery plot\n\n* Classic point-and-click gameplay\n\n* Quirky characters and dialogue choices\n\n### About Nerd Monkeys:\nFounded in April 2013, [Nerd Monkeys](https://nerdmonkeys.games) is a Portuguese game development and publishing studio passionate about captivating storytelling, unique visuals, and meaningful gameplay.",
+        "exp": false,
+        "genres": [
+          "adventure",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game and download the Windows version. Copy files into the assets folder.",
+        "inst_md": "* Buy the game and download the Windows version from [itch.io](https://nerdmonkeys.itch.io/detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon)\n* Copy the game files into assets folder",
+        "min_glibc": "",
+        "porter": [
+          "Barata_Software"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://nerdmonkeys.games",
+            "gameurl": "https://nerdmonkeys.itch.io/detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon",
+            "name": "https://nerdmonkeys.itch.io/detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon"
+          }
+        ],
+        "title": "Detective Case and Clown Bot in: Murder in the Hotel Lisbon"
+      },
+      "items": [
+        "Case and bot murder.sh",
+        "caseandbot_murder"
+      ],
+      "items_opt": null,
+      "name": "caseandbot_murder.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "59f04c2d7f5cd309bea7813484f62a56",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 9873960,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/caseandbot_murder.zip"
+      },
+      "version": 4
     },
     "cataclysm-dda.zip": {
       "attr": {
@@ -16788,12 +17256,12 @@
       },
       "source": {
         "date_added": "2025-03-26",
-        "date_updated": "2025-03-26",
-        "md5": "6fd4cfbdf847ebd4f17018ef32fe7804",
-        "release_id": "2025-03-26_2027",
+        "date_updated": "2025-04-21",
+        "md5": "77a3adbe76cc82257be59acdf715f62c",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 6018214,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/deathroad.zip"
+        "size": 6028032,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/deathroad.zip"
       },
       "version": 4
     },
@@ -18747,6 +19215,113 @@
       },
       "version": 4
     },
+    "diceydungeons.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Become a giant walking dice and battle to the end of an ever-changing dungeon! Can you escape the cruel whims of Lady Luck?\n\nIn this fast-paced deckbuilding roguelike from Terry Cavanagh, Chipzel, and Marlowe Dobbe, you'll fight monsters, find better loot, and level up your heroes as you work together to take down the Goddess of Fortune, Lady Luck herself. Balance your carefully planned strategies against the unknown of a dice roll.",
+        "desc_md": "Become a giant walking dice and battle to the end of an ever-changing dungeon! Can you escape the cruel whims of Lady Luck?\n\nIn this fast-paced deckbuilding roguelike from Terry Cavanagh, Chipzel, and Marlowe Dobbe, you'll fight monsters, find better loot, and level up your heroes as you work together to take down the Goddess of Fortune, Lady Luck herself. Balance your carefully planned strategies against the unknown of a dice roll.",
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game and download the linux version. For GoG, place dicey_....sh in ports/diceydungeons/gamedata. For Steam/itch, place game files in ports/diceydungeons/gamedata.",
+        "inst_md": "Purchase the game and download the linux version. For GoG, place `dicey_....sh` in `ports/diceydungeons/gamedata`. For Steam/itch, place game files in `ports/diceydungeons/gamedata`.",
+        "min_glibc": "",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://diceydungeons.com",
+            "gameurl": "https://www.gog.com/en/game/dicey_dungeons",
+            "name": "GoG"
+          },
+          {
+            "developerurl": "https://diceydungeons.com",
+            "gameurl": "https://store.steampowered.com/app/861540/Dicey_Dungeons/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://diceydungeons.com",
+            "gameurl": "https://terrycavanagh.itch.io/dicey-dungeons",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Dicey Dungeons"
+      },
+      "items": [
+        "Dicey Dungeons.sh",
+        "diceydungeons"
+      ],
+      "items_opt": null,
+      "name": "diceydungeons.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "ae9da06b59ae9b741b3b99a50b2d6579",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 23921013,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/diceydungeons.zip"
+      },
+      "version": 4
+    },
     "digger.zip": {
       "attr": {
         "arch": [
@@ -18909,12 +19484,12 @@
       "name": "digitaltamersreborn.zip",
       "source": {
         "date_added": "2025-02-27",
-        "date_updated": "2025-03-13",
-        "md5": "c627817f861cd4d97700078071fe6f4b",
-        "release_id": "2025-03-13_0928",
+        "date_updated": "2025-04-21",
+        "md5": "1f53c0a9d7e889956f585e2b2eb0f1ef",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 221088410,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-13_0928/digitaltamersreborn.zip"
+        "size": 220949081,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/digitaltamersreborn.zip"
       },
       "version": 4
     },
@@ -19181,6 +19756,195 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/diverdown.zip"
       },
       "version": 2
+    },
+    "doddgoestothemuseum.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Explore Dodd's local museum in this short, casual and relaxing adventure! Visit various exhibits within the museum's four wings and talk to various characters along the way!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": "Ready to run!",
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://schwegg.itch.io/",
+            "gameurl": "https://schwegg.itch.io/dodd-goes-to-the-museum",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Schwegg",
+            "gameurl": "https://store.steampowered.com/app/2247050/Dodd_Goes_to_the_Museum/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Dodd Goes to the Museum"
+      },
+      "items": [
+        "Dodd Goes to the Museum.sh",
+        "doddgoestothemuseum"
+      ],
+      "items_opt": null,
+      "name": "doddgoestothemuseum.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "49477d0e0a3ed4ec7634eb6ece50f059",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 134647679,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/doddgoestothemuseum.zip"
+      },
+      "version": 4
+    },
+    "dodgindiamonds2d.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "This is a little shoot\u2019em up arcade game for one or two players. It aims to be an \u2018old school\u2019 arcade game with low resolution graphics, top-down scroll action, energy based gameplay and different weapons with several levels of power.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Dodgin Diamonds 2D"
+      },
+      "items": [
+        "Dodgin Diamonds 2D.sh",
+        "dodgindiamonds2d"
+      ],
+      "items_opt": null,
+      "name": "dodgindiamonds2d.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "6df6cabea7fb475fa3ae2749e7d3a02f",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 538292,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/dodgindiamonds2d.zip"
+      },
+      "version": 4
     },
     "dokimon.zip": {
       "attr": {
@@ -20899,6 +21663,101 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/droid7.zip"
       },
       "version": 2
+    },
+    "duckdodge.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Have you ever wanted to play Duck Hunt, but as the poor defenseless duck? Avoid the hunter's shots and fly away! Be careful, the hunter gets progressively better with each round!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "Cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run! Thanks to the Diego Escalante for providing source code and MIT license on his GitHub.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://diego-escalante.itch.io/",
+            "gameurl": "https://diego-escalante.itch.io/duck-dodge",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Duck Dodge"
+      },
+      "items": [
+        "Duck Dodge.sh",
+        "duckdodge"
+      ],
+      "items_opt": null,
+      "name": "duckdodge.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "8f1ff03f2ab11464947208233e395d7d",
+        "release_id": "2025-04-21_0926",
+        "repo": "multiverse",
+        "size": 454230,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-21_0926/duckdodge.zip"
+      },
+      "version": 4
     },
     "ducklingsmaze.zip": {
       "attr": {
@@ -24829,12 +25688,12 @@
       "name": "fheroes2.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2024-09-24",
-        "md5": "7c27e023dfaf2bd863d0a428a415dc3b",
-        "release_id": "2024-09-24_0718",
+        "date_updated": "2025-04-21",
+        "md5": "4dcad807e8d2180f9a03485be3697744",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 8206955,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-24_0718/fheroes2.zip"
+        "size": 8207033,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/fheroes2.zip"
       },
       "version": 4
     },
@@ -29494,6 +30353,99 @@
       },
       "version": 4
     },
+    "googledinowithagun.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Your familiar dino game, this time with a gun.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download GoogleDinoWithAGun.zip from https://humanisred.itch.io/googledinowithagun and put the game files in ports/googledinowithagun/assets",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://humanisred.itch.io/",
+            "gameurl": "https://humanisred.itch.io/googledinowithagun",
+            "name": "itch.io"
+          }
+        ],
+        "title": "GoogleDinoWithAGun"
+      },
+      "items": [
+        "GoogleDinoWithAGun.sh",
+        "googledinowithagun"
+      ],
+      "items_opt": null,
+      "name": "googledinowithagun.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "dce93d2f0aaf81295bef60f1e4478265",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 9290541,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/googledinowithagun.zip"
+      },
+      "version": 4
+    },
     "gooptygoo.zip": {
       "attr": {
         "arch": [
@@ -30012,12 +30964,12 @@
       },
       "source": {
         "date_added": "2025-03-16",
-        "date_updated": "2025-03-26",
-        "md5": "6f6cf8cc4f6701a75a666064845b6b5f",
-        "release_id": "2025-03-26_1111",
+        "date_updated": "2025-04-21",
+        "md5": "b551c0729ced43ddcf2e9568757088bf",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 8773020,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/grazecountergm.zip"
+        "size": 8633760,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/grazecountergm.zip"
       },
       "version": 4
     },
@@ -30968,12 +31920,12 @@
       "name": "gungungun.zip",
       "source": {
         "date_added": "2025-02-27",
-        "date_updated": "2025-02-27",
-        "md5": "9d3e590ff3e5d66e6d57669daaf5e42e",
-        "release_id": "2025-02-27_2241",
+        "date_updated": "2025-04-21",
+        "md5": "c24e85dcf90fbd186cfed1d67b87921b",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 25615794,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/gungungun.zip"
+        "size": 25476487,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/gungungun.zip"
       },
       "version": 4
     },
@@ -31238,12 +32190,12 @@
       },
       "source": {
         "date_added": "2025-04-14",
-        "date_updated": "2025-04-14",
-        "md5": "b3f652ed7cf0154368ffed2b8802b024",
-        "release_id": "2025-04-14_2344",
+        "date_updated": "2025-04-21",
+        "md5": "bdff0ae663db3271f00444e54f54d867",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 8329996,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_2344/gunsoffury.zip"
+        "size": 8332692,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/gunsoffury.zip"
       },
       "version": 4
     },
@@ -33795,6 +34747,98 @@
       },
       "version": 2
     },
+    "hoopervania.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "COUNT DRACULA CHALLENGES YOU... ARE YOU UP TO THE TASK?\n\nWelcome to HooperVania, a free and non-profit French fan-game celebrating Castlevania, the French videomaker Hooper, his community and video games as a whole! Navigate through various stages using the famous Vampire Killer to defeat numerous enemies, large bosses and ultimately vanquish Dracula himself!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready To Run!!!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://linky439.itch.io/",
+            "gameurl": "https://linky439.itch.io/hoopervania",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Hoopervania"
+      },
+      "items": [
+        "Hoopervania.sh",
+        "hoopervania"
+      ],
+      "items_opt": null,
+      "name": "hoopervania.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "54ed2226d3ea7d3167a326ee74e94f10",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 63298160,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/hoopervania.zip"
+      },
+      "version": 4
+    },
     "hopowl.zip": {
       "attr": {
         "arch": [
@@ -34955,12 +35999,12 @@
       "name": "hyperlightdrifter.zip",
       "source": {
         "date_added": "2025-02-13",
-        "date_updated": "2025-02-18",
-        "md5": "2d52e87bf9443b8a3ff434d3019dd4b8",
-        "release_id": "2025-02-18_2120",
+        "date_updated": "2025-04-21",
+        "md5": "ffcded65528b303363fa8c4f03216182",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 219060816,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/hyperlightdrifter.zip"
+        "size": 218921486,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/hyperlightdrifter.zip"
       },
       "version": 4
     },
@@ -36419,12 +37463,12 @@
       },
       "source": {
         "date_added": "2024-09-04",
-        "date_updated": "2025-03-11",
-        "md5": "ca250ac3e9626302eeda8bc19382cf87",
-        "release_id": "2025-03-11_0117",
+        "date_updated": "2025-04-21",
+        "md5": "329e47f76dc990a2fe6532abe3036e77",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 10398636,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-11_0117/iosas.zip"
+        "size": 10259327,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/iosas.zip"
       },
       "version": 4
     },
@@ -37257,12 +38301,12 @@
       },
       "source": {
         "date_added": "2025-04-06",
-        "date_updated": "2025-04-06",
-        "md5": "9285fa3a72607783a610a8e11d2405d0",
-        "release_id": "2025-04-06_2309",
+        "date_updated": "2025-04-21",
+        "md5": "9a13f599fa63077960c80fd9548594c8",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 10642528,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-06_2309/jubilee.zip"
+        "size": 10503222,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/jubilee.zip"
       },
       "version": 4
     },
@@ -37684,6 +38728,93 @@
         "repo": "main",
         "size": 4009080,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/justanotherpong.zip"
+      },
+      "version": 4
+    },
+    "justkissheralready.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Just Kiss Her Already! is a fluffy girls love story about Nanala (from Just Kiss Him Already!) attempting to get a girlfriend",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "renpy_8.3.4.squashfs"
+        ],
+        "store": [],
+        "title": "Just Kiss her Already"
+      },
+      "items": [
+        "Just Kiss Her Already.sh",
+        "justkissheralready"
+      ],
+      "items_opt": null,
+      "name": "justkissheralready.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "86814165d829d06ed9e5dcc61a262358",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 64134584,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/justkissheralready.zip"
       },
       "version": 4
     },
@@ -41900,12 +43031,12 @@
       "name": "lostpotato.zip",
       "source": {
         "date_added": "2025-02-06",
-        "date_updated": "2025-02-06",
-        "md5": "c9452ccb0c164fbe75d95bdd193850d3",
-        "release_id": "2025-02-06_0046",
+        "date_updated": "2025-04-21",
+        "md5": "720a3fb2faff82c299cb76d09c2b253a",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 13532654,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_0046/lostpotato.zip"
+        "size": 13393342,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/lostpotato.zip"
       },
       "version": 4
     },
@@ -45985,12 +47116,12 @@
       },
       "source": {
         "date_added": "2025-03-26",
-        "date_updated": "2025-03-26",
-        "md5": "f651a28e1fb312859d8f8c4f731ada1a",
-        "release_id": "2025-03-26_1111",
+        "date_updated": "2025-04-21",
+        "md5": "0b5af52f3467d791f49faceed05bde5b",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 10549197,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/moonleap.zip"
+        "size": 10409888,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/moonleap.zip"
       },
       "version": 4
     },
@@ -54801,6 +55932,102 @@
       },
       "version": 4
     },
+    "pipflipparadise.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Flip the floor, roll the dice and be ready to adapt to changing situations as you find your own solution!\n\nCollect bells by flipping floor tiles and dodging hazards. Watch out, however, as flipping six tiles will re-roll them into different forms that may help or hinder your progress!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://team-bugulon.itch.io/",
+            "gameurl": "https://team-bugulon.itch.io/pip-flip-paradise",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Pip Flip Paradise"
+      },
+      "items": [
+        "Pip Flip Paradise.sh",
+        "pipflipparadise"
+      ],
+      "items_opt": null,
+      "name": "pipflipparadise.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "6aa6668ce3fc7154759db6470d6fd572",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 22721350,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/pipflipparadise.zip"
+      },
+      "version": 4
+    },
     "pippubaublequest.zip": {
       "attr": {
         "arch": [
@@ -55057,6 +56284,96 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/pixelheat.zip"
       },
       "version": 2
+    },
+    "pixelskaterdude.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A simple skateboarding game made with Gameboy spec's. Very much a prototype but playable.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "sports"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go to https://jmation.itch.io/pixel-skater-dude and download Pixel_Skater_Dude_v0.6.zip\nun-zip that and put data.win into ports/pixelskaterdude/assets",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://jmation.itch.io/",
+            "gameurl": "https://jmation.itch.io/pixel-skater-dude",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Pixel Skater Dude"
+      },
+      "items": [
+        "Pixel Skater Dude.sh",
+        "pixelskaterdude"
+      ],
+      "items_opt": null,
+      "name": "pixelskaterdude.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "17e68692b9b3a06c538417bac022b020",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 11816687,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/pixelskaterdude.zip"
+      },
+      "version": 4
     },
     "plague.zip": {
       "attr": {
@@ -59597,6 +60914,101 @@
       },
       "version": 4
     },
+    "redronin.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Red Ronin is a Turn-based but fast paced dash 'n slash game where a bloodthirsty ronin and her companion bot search for revenge.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from steam. Download the game. \nPlace all the game files into ports/redronin/assets",
+        "inst_md": "Purchase the game from [steam](https://store.steampowered.com/app/1222570/Red_Ronin/). Download the game. \nPlace all the game files into ports/redronin/assets",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/curator/39964766",
+            "gameurl": "https://store.steampowered.com/app/1222570/Red_Ronin/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Red Ronin"
+      },
+      "items": [
+        "Red Ronin.sh",
+        "redronin"
+      ],
+      "items_opt": null,
+      "name": "redronin.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "a24f189bdcc469e765c146f059fe0f77",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 13022802,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/redronin.zip"
+      },
+      "version": 4
+    },
     "redtrees.zip": {
       "attr": {
         "arch": [
@@ -61790,12 +63202,12 @@
       "name": "roguelight.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2025-01-28",
-        "md5": "29197b68da2dccf69c6bb9bfc3fd6b82",
-        "release_id": "2025-01-28_1951",
+        "date_updated": "2025-04-21",
+        "md5": "adbd310c64d4b8d2399cd7430dbeac41",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 9950818,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_1951/roguelight.zip"
+        "size": 9811503,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/roguelight.zip"
       },
       "version": 2
     },
@@ -61888,12 +63300,12 @@
       "name": "roguesentry.zip",
       "source": {
         "date_added": "2025-03-13",
-        "date_updated": "2025-03-13",
-        "md5": "6d3aca0074c493b751133f5e03d095a5",
-        "release_id": "2025-03-13_0928",
+        "date_updated": "2025-04-21",
+        "md5": "56edc5f1855d065626e199734667bd98",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 12105139,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-13_0928/roguesentry.zip"
+        "size": 11965826,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/roguesentry.zip"
       },
       "version": 4
     },
@@ -65447,6 +66859,101 @@
       },
       "version": 2
     },
+    "simtheory.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Simulation Theory is a game by NimbleBeasts for Github's GameOff 2021 Game Jam. Our interpretation of the theme 'bug' is that the level is not completely cleared due to a bug and you meet your old records again in the form of ghosts.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.4.5.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://nimblebeastscollective.itch.io/",
+            "gameurl": "https://nimblebeastscollective.itch.io/simulation-theory",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Simulation Theory"
+      },
+      "items": [
+        "Simulation Theory.sh",
+        "simtheory"
+      ],
+      "items_opt": null,
+      "name": "simtheory.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "96e672c66e858a6d07a9f42337ff5695",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 12881854,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/simtheory.zip"
+      },
+      "version": 4
+    },
     "simutrans.zip": {
       "attr": {
         "arch": [
@@ -67034,6 +68541,99 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sokobrawn.zip"
       },
       "version": 2
+    },
+    "sokoplan.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Sokoban but you plan your moves ahead of time! The goal is to end up with all of the boxes on a circle. Each level has criteria for getting crowns (maximum number of wall bonks, moves and time). Perfect every level for a bonus!\nDeveloped as an entry to the L\u00d6VE Jam 2025.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://joshperry.itch.io/",
+            "gameurl": "https://joshperry.itch.io/sokoplan",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "SOKOPLAN"
+      },
+      "items": [
+        "SOKOPLAN.sh",
+        "sokoplan"
+      ],
+      "items_opt": null,
+      "name": "sokoplan.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "3b5126551622cec75b2e3addf90b6ec4",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 2853061,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/sokoplan.zip"
+      },
+      "version": 4
     },
     "somnokid.zip": {
       "attr": {
@@ -69595,12 +71195,12 @@
       },
       "source": {
         "date_added": "2025-04-07",
-        "date_updated": "2025-04-07",
-        "md5": "4bad39c915959b40038b23f8be590582",
-        "release_id": "2025-04-07_0852",
+        "date_updated": "2025-04-21",
+        "md5": "28583c7fa3d6c3b0c293ab0ac91c53bc",
+        "release_id": "2025-04-21_0926",
         "repo": "multiverse",
-        "size": 20955348,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-07_0852/starbound.zip"
+        "size": 20958110,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-21_0926/starbound.zip"
       },
       "version": 4
     },
@@ -71688,6 +73288,95 @@
       },
       "version": 4
     },
+    "superhaxagon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "SuperHaxagon is a cross platform, open source Super Hexagon clone. Avoid the falling walls and survive for as long as possible in this fast-paced arcade game!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is Ready to Run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "RedTopper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "SuperHaxagon"
+      },
+      "items": [
+        "SuperHaxagon.sh",
+        "superhaxagon/"
+      ],
+      "items_opt": null,
+      "name": "superhaxagon.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "7f9ea8b8b80878c74ed6512e68abc899",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 20800631,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/superhaxagon.zip"
+      },
+      "version": 4
+    },
     "superhexagon.zip": {
       "attr": {
         "arch": [
@@ -72369,6 +74058,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/superstarpath.zip"
       },
       "version": 2
+    },
+    "superstarpunk.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Some evil robots are causing trouble in your city. Go punch em'!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download  the \"SuperStarPunk_win_1.2.zip\" from https://doctor-succubus.itch.io/super-star-punk.\nExtract that zip file and put all the files into the assets folder. LAUNCH!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://doctor-succubus.itch.io/",
+            "gameurl": "https://doctor-succubus.itch.io/super-star-punk",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Super Star Punk"
+      },
+      "items": [
+        "Super Star Punk.sh",
+        "superstarpunk"
+      ],
+      "items_opt": null,
+      "name": "superstarpunk.zip",
+      "source": {
+        "date_added": "2025-04-21",
+        "date_updated": "2025-04-21",
+        "md5": "e9f2c91ebe9167da6973a8c70184fff2",
+        "release_id": "2025-04-21_1125",
+        "repo": "main",
+        "size": 8779953,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/superstarpunk.zip"
+      },
+      "version": 4
     },
     "supertransball2.zip": {
       "attr": {
@@ -79143,12 +80928,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-03-11",
-        "md5": "1971a66bd0dd8e08d31625c1482d0673",
-        "release_id": "2025-03-11_0117",
+        "date_updated": "2025-04-21",
+        "md5": "1fb7f17459957244bf6e2d990f8f221b",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 20591047,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-11_0117/undertale.zip"
+        "size": 20591048,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/undertale.zip"
       },
       "version": 4
     },
@@ -80186,12 +81971,12 @@
       "name": "vhr.zip",
       "source": {
         "date_added": "2024-11-07",
-        "date_updated": "2025-03-11",
-        "md5": "e5ad138731043396fb9a5d1c2e589d1c",
-        "release_id": "2025-03-11_0117",
+        "date_updated": "2025-04-21",
+        "md5": "41ec189b04fd829398633061c45ac0ed",
+        "release_id": "2025-04-21_1125",
         "repo": "main",
-        "size": 22866228,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-11_0117/vhr.zip"
+        "size": 22908926,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/vhr.zip"
       },
       "version": 4
     },
