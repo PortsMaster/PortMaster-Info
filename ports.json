@@ -4297,10 +4297,10 @@
       "items_opt": null,
       "name": "balatro.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.67,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2024-04-01",
@@ -12650,10 +12650,10 @@
       "items_opt": null,
       "name": "celeste.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.4,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2024-09-11",
@@ -71474,10 +71474,10 @@
       "items_opt": null,
       "name": "stardewvalley.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.86,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 6
+        "min_rating": "4",
+        "total_ratings": 7
       },
       "source": {
         "date_added": "2022-07-03",
@@ -80930,7 +80930,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-09-10",
@@ -87169,6 +87169,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 231
+    "total_ratings": 235
   }
 }
