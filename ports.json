@@ -60020,6 +60020,12 @@
       ],
       "items_opt": null,
       "name": "quester.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-22",
         "date_updated": "2025-03-22",
@@ -87563,6 +87569,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 237
+    "total_ratings": 238
   }
 }
