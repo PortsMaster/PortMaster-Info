@@ -14450,8 +14450,8 @@
         "inst_md": "Includes all of the **officially released** free content for the [**Commander Keen**](https://en.wikipedia.org/wiki/Commander_Keen) series, such as, the **shareware episodes** ([1](https://keenwiki.shikadi.net/wiki/Keen_1:_Marooned_on_Mars), [4](https://keenwiki.shikadi.net/wiki/Keen_4:_Secret_of_the_Oracle)), the **demo episode** ([6](https://keenwiki.shikadi.net/wiki/Keen_6:_Aliens_Ate_My_Baby_Sitter!)), and the **lost episode**: [Keen Dreams](https://keenwiki.shikadi.net/wiki/Keen_Dreams).\n\nYou can add additional content to this port manually (check `gamedata/instructions.txt`) or, if you have an internet connected device, directly through the launcher itself (button is bottom-left).",
         "min_glibc": "",
         "porter": [
-          "t0b10",
-          "Christian_Haitian"
+          "Christian_Haitian",
+          "t0b10"
         ],
         "reqs": [],
         "rtr": true,
@@ -14472,12 +14472,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-11-02",
-        "md5": "335254333750f42fd86086a73c9a1744",
-        "release_id": "2024-11-02_0839",
+        "date_updated": "2025-04-24",
+        "md5": "ff085ce90b091df876d75e4568462bf5",
+        "release_id": "2025-04-24_1015",
         "repo": "main",
-        "size": 3348505,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-02_0839/commander.genius.zip"
+        "size": 3427222,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/commander.genius.zip"
       },
       "version": 4
     },
@@ -26934,6 +26934,101 @@
       },
       "version": 4
     },
+    "foolhutpack.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "These games were developed for April Fools and are tiny re-invented versions of BolHut games. Now you can play them all together in one pack! All three games have gotten extra polish and new stuff like extra levels or new enemies, as well as adding achievements and other settings.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from itch.io. Download FoolHut Pack v1.0.1 (VM compile).zip and extract the contents of the zip to ports/foolhutpack/assets\n",
+        "inst_md": "Purchase the game from [itch.io](https://bolhut.itch.io/foolhut-pack). Download FoolHut Pack v1.0.1 (VM compile).zip and extract the contents of the zip to ports/foolhutpack/assets",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://bolhut.com/",
+            "gameurl": "https://bolhut.itch.io/foolhut-pack",
+            "name": "itch.io"
+          }
+        ],
+        "title": "FoolHut Pack"
+      },
+      "items": [
+        "FoolHut Pack.sh",
+        "foolhutpack"
+      ],
+      "items_opt": null,
+      "name": "foolhutpack.zip",
+      "source": {
+        "date_added": "2025-04-24",
+        "date_updated": "2025-04-24",
+        "md5": "dbebf169de4ef26b46d0516a32b2be0c",
+        "release_id": "2025-04-24_1015",
+        "repo": "main",
+        "size": 14239274,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/foolhutpack.zip"
+      },
+      "version": 4
+    },
     "forager.zip": {
       "attr": {
         "arch": [
@@ -29411,12 +29506,12 @@
       "name": "gemrb.zip",
       "source": {
         "date_added": "2023-02-12",
-        "date_updated": "2024-04-01",
-        "md5": "151a0b9e8e672a13e04271ec87d75f2c",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-04-24",
+        "md5": "2186cf54829c7e26fd90ca3451400b83",
+        "release_id": "2025-04-24_1015",
         "repo": "main",
-        "size": 34677999,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/gemrb.zip"
+        "size": 34679000,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/gemrb.zip"
       },
       "version": 2
     },
@@ -33099,6 +33194,108 @@
         "repo": "main",
         "size": 10882589,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/happyhills.zip"
+      },
+      "version": 4
+    },
+    "haque.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Haque is a glitch fantasy roguelike adventure about cute monsters, low-bit hauntings, and a suspiciously talkative narrator. Choose your character and battle through forests, deserts and dungeons to defeat a mysterious evil. Die often. Try again!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on Steam or Itch.io and copy all the data to `haque/assets`.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod",
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=SuperTry%20Studios",
+            "gameurl": "https://store.steampowered.com/app/662540/Haque/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://supertry.itch.io/",
+            "gameurl": "https://supertry.itch.io/haque",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Haque"
+      },
+      "items": [
+        "Haque.sh",
+        "haque"
+      ],
+      "items_opt": null,
+      "name": "haque.zip",
+      "source": {
+        "date_added": "2025-04-24",
+        "date_updated": "2025-04-24",
+        "md5": "074189180b2436a107c700dcbd55a340",
+        "release_id": "2025-04-24_1015",
+        "repo": "main",
+        "size": 5338061,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/haque.zip"
       },
       "version": 4
     },
@@ -39765,6 +39962,100 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/kobodeluxe.zip"
       },
       "version": 2
+    },
+    "koboldkastilla.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Inspired by La-Mulana, L'Abbaye des Morts and ZX Spectrum games in general, you'll be exploring and learning the history of an abandoned observatory while collecting items to further your progress and solving some puzzles. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "godot_4.2.2.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://michaelwave1997.itch.io/",
+            "gameurl": "https://michaelwave1997.itch.io/kobold-kastilla",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Kobold Kastilla"
+      },
+      "items": [
+        "Kobold Kastilla.sh",
+        "koboldkastilla"
+      ],
+      "items_opt": null,
+      "name": "koboldkastilla.zip",
+      "source": {
+        "date_added": "2025-04-24",
+        "date_updated": "2025-04-24",
+        "md5": "4b4382a40d1fd24277387e8e6209be85",
+        "release_id": "2025-04-24_1015",
+        "repo": "main",
+        "size": 29779489,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/koboldkastilla.zip"
+      },
+      "version": 4
     },
     "kuklomenos.zip": {
       "attr": {
@@ -46609,12 +46900,12 @@
       "name": "missdriller.zip",
       "source": {
         "date_added": "2023-10-08",
-        "date_updated": "2024-07-27",
-        "md5": "e7c305e26912743659562873eed13e96",
-        "release_id": "2024-07-27_0224",
+        "date_updated": "2025-04-24",
+        "md5": "9fb696b2c8d256de14cbbcd255172226",
+        "release_id": "2025-04-24_1015",
         "repo": "main",
-        "size": 1506988,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/missdriller.zip"
+        "size": 1506822,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/missdriller.zip"
       },
       "version": 2
     },
@@ -71932,6 +72223,103 @@
       },
       "version": 4
     },
+    "steamworlddig.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below.",
+        "desc_md": "SteamWorld Dig is a platform mining adventure with strong Metroidvanian influences. Take the role of Rusty, a lone mining steambot, as he arrives at an old mining town in great need. Dig your way through the old earth, gaining riches while uncovering the ancient threat that lurks below.\n*  A rich world of steam-driven robots, inspired by Steampunk and Western themes.\n* Explore an underground world full of secrets, treasure, and terrors.\n* Uncover the remnants of human civilization, a degenerate race of dynamite-wielding troglodytes.\n* Randomized worlds with emergent gameplay.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Weston32 runtime is required to run this port. \nPlace the Linux Version of the GOG installer within /steamworlddig/installer/, then just run the game. This will take longer on first startup.",
+        "inst_md": "Weston32 Runtime is required to run this port! \n* Take the Linux Installer from GOG and place it within /steamworlddig/installer/\n* Run the game via your device\n(First startup will take longer, wait for 1-2 Minutes)",
+        "min_glibc": "",
+        "porter": [
+          "Rehex"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.gog.com/en/games?developers=image-and-form",
+            "gameurl": "https://www.gog.com/en/game/steamworld_dig",
+            "name": "GOG"
+          }
+        ],
+        "title": "Steamworld Dig"
+      },
+      "items": [
+        "Steamworld Dig.sh",
+        "steamworlddig"
+      ],
+      "items_opt": null,
+      "name": "steamworlddig.zip",
+      "source": {
+        "date_added": "2025-04-24",
+        "date_updated": "2025-04-24",
+        "md5": "67753d92e49129aaaa4119263a057b92",
+        "release_id": "2025-04-24_1015",
+        "repo": "main",
+        "size": 3251892,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/steamworlddig.zip"
+      },
+      "version": 4
+    },
     "steelassault.zip": {
       "attr": {
         "arch": [],
@@ -73380,12 +73768,12 @@
       "name": "superhaxagon.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-04-21",
-        "md5": "7f9ea8b8b80878c74ed6512e68abc899",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-04-24",
+        "md5": "1fa9dced0b7067f1b962e0ae142fc3da",
+        "release_id": "2025-04-24_1015",
         "repo": "main",
-        "size": 20800631,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/superhaxagon.zip"
+        "size": 20801097,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/superhaxagon.zip"
       },
       "version": 4
     },
