@@ -31058,10 +31058,10 @@
       "items_opt": null,
       "name": "grazecountergm.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.5,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "4",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-03-16",
@@ -87563,6 +87563,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 236
+    "total_ratings": 237
   }
 }
