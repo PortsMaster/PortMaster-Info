@@ -1908,7 +1908,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You'll need to provide your own am2r android apk into the ports/am2r/gamedata folder.  Make sure it is named am2r.apk.  The name is case sensitive.",
+        "inst": "Copy your own am2r v1.1 zip file into ports/am2r/assets folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -1927,12 +1927,12 @@
       "name": "am2r.zip",
       "source": {
         "date_added": "2021-12-21",
-        "date_updated": "2025-01-16",
-        "md5": "d3b0378c57d1ea68a696d7ead034f7c4",
-        "release_id": "2025-01-16_1454",
+        "date_updated": "2025-04-25",
+        "md5": "1c4ade880575b69678610d71c9707600",
+        "release_id": "2025-04-25_1402",
         "repo": "multiverse",
-        "size": 1474924,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-01-16_1454/am2r.zip"
+        "size": 3997514,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-25_1402/am2r.zip"
       },
       "version": 2
     },
@@ -57544,12 +57544,12 @@
       "name": "pocketcrystalleague.zip",
       "source": {
         "date_added": "2024-08-18",
-        "date_updated": "2025-02-27",
-        "md5": "9aec23b0499d5238395203c1d2ab1ba8",
-        "release_id": "2025-02-27_0256",
+        "date_updated": "2025-04-25",
+        "md5": "6324018d495fc1c9f4daa4e55a577fe8",
+        "release_id": "2025-04-25_1402",
         "repo": "multiverse",
-        "size": 22292188,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-02-27_0256/pocketcrystalleague.zip"
+        "size": 22775629,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-25_1402/pocketcrystalleague.zip"
       },
       "version": 4
     },
@@ -67771,8 +67771,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smredux.png",
-            "cover.sm.png"
+            "cover.sm.png",
+            "cover.smredux.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -67942,8 +67942,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smb1.png",
-            "cover.smbll.png"
+            "cover.smbll.png",
+            "cover.smb1.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
