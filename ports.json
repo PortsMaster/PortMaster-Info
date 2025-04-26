@@ -7248,6 +7248,12 @@
       ],
       "items_opt": null,
       "name": "blossomtales2.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-03-30",
         "date_updated": "2024-04-04",
@@ -27018,6 +27024,12 @@
       ],
       "items_opt": null,
       "name": "foolhutpack.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-24",
         "date_updated": "2025-04-24",
@@ -79581,6 +79593,12 @@
       ],
       "items_opt": null,
       "name": "tripletrouble.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-11",
         "date_updated": "2025-03-11",
@@ -87575,6 +87593,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 240
+    "total_ratings": 243
   }
 }
