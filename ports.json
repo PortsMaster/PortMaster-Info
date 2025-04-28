@@ -2824,12 +2824,12 @@
       },
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2024-10-15",
-        "md5": "ffc0a78a9c4a8135d3f33ece20be33c0",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2025-04-28",
+        "md5": "8fcdfd51c6496181549dc39b9ae79812",
+        "release_id": "2025-04-28_0944",
         "repo": "main",
-        "size": 7217184,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/apotris.zip"
+        "size": 7245986,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/apotris.zip"
       },
       "version": 2
     },
@@ -2996,12 +2996,12 @@
       },
       "source": {
         "date_added": "2025-02-18",
-        "date_updated": "2025-02-18",
-        "md5": "2d1aab4c8f8a497faccc05ce6eb29218",
-        "release_id": "2025-02-18_2120",
+        "date_updated": "2025-04-28",
+        "md5": "5a6248750d253c217033bb6a37d52ba8",
+        "release_id": "2025-04-28_0944",
         "repo": "main",
-        "size": 5824679,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/aquaria.zip"
+        "size": 5824978,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/aquaria.zip"
       },
       "version": 4
     },
@@ -10338,6 +10338,97 @@
         "repo": "main",
         "size": 5624820,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/callystrials.zip"
+      },
+      "version": 4
+    },
+    "canabalt-hf.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Escape the destruction of your city with just one button! Canabalt-hf is a HaxeFlixel port of the game that popularized the infinite runner genre.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "If your device has an internet connection, assets will be downloaded automatically. If not, download https://github.com/ninjamuffin99/canabalt-assets/archive/refs/heads/main.zip and put it in ports/canabalt/gamedata/.",
+        "inst_md": "If your device has an internet connection, assets will be downloaded automatically. If not, download [main.zip](https://github.com/ninjamuffin99/canabalt-assets/archive/refs/heads/main.zip) and put it in `ports/canabalt/gamedata/`.",
+        "min_glibc": "",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [],
+        "title": "Canabalt-hf"
+      },
+      "items": [
+        "Canabalt-hf.sh",
+        "canabalt-hf"
+      ],
+      "items_opt": null,
+      "name": "canabalt-hf.zip",
+      "source": {
+        "date_added": "2025-04-28",
+        "date_updated": "2025-04-28",
+        "md5": "5c2a834326083444565dc45bfdd810ce",
+        "release_id": "2025-04-28_0944",
+        "repo": "main",
+        "size": 24351867,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/canabalt-hf.zip"
       },
       "version": 4
     },
@@ -22732,6 +22823,101 @@
       },
       "version": 2
     },
+    "dustaet.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase Dust: an Elysian Tail on Steam. Open the Steam Console with this Windows+R then paste this: \"steam://open/console\". Run this command to download the Linux version: download_depot 236090 236092 3643140810355546394. Copy all files to ports/dustaet/gamedata.",
+        "inst_md": "- Purchase Dust: an Elysian Tail on [Steam](https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/?curator_clanid=4777282).\n- Open the Steam Console with this Windows+R then paste this: \"steam://open/console\".\n- Run this command to download the Linux version: download_depot 236090 236092 3643140810355546394\n-  Copy all files to ports/dustaet/assets\n- Run Dust: An Elysian Tail.",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Humble%20Hearts%20LLC",
+            "gameurl": "https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/?curator_clanid=4777282",
+            "name": "Steam"
+          }
+        ],
+        "title": "Dust - an Elysian Tail"
+      },
+      "items": [
+        "Dust - an Elysian Tail.sh",
+        "dustaet"
+      ],
+      "items_opt": null,
+      "name": "dustaet.zip",
+      "source": {
+        "date_added": "2025-04-28",
+        "date_updated": "2025-04-28",
+        "md5": "d22659ca47615cafcb7450ece1d2f2a4",
+        "release_id": "2025-04-28_0944",
+        "repo": "main",
+        "size": 3072291,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/dustaet.zip"
+      },
+      "version": 4
+    },
     "dynamate_playdate.zip": {
       "attr": {
         "arch": [
@@ -29443,9 +29629,7 @@
     },
     "gemrb.zip": {
       "attr": {
-        "arch": [
-          "aarch64"
-        ],
+        "arch": [],
         "avail": [
           "rg-arc-d:ALL",
           "rg-arc-s:ALL",
@@ -29505,9 +29689,13 @@
         "porter": [
           "kloptops"
         ],
-        "reqs": [],
+        "reqs": [
+          "aarch64"
+        ],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "pyxel_2.2.8_python_3.11.squashfs"
+        ],
         "title": "GemRB"
       },
       "items": [
@@ -29518,12 +29706,12 @@
       "name": "gemrb.zip",
       "source": {
         "date_added": "2023-02-12",
-        "date_updated": "2025-04-24",
-        "md5": "2186cf54829c7e26fd90ca3451400b83",
-        "release_id": "2025-04-24_1015",
+        "date_updated": "2025-04-28",
+        "md5": "1b65a995fb33823f7cf5416b6d47d5cd",
+        "release_id": "2025-04-28_0944",
         "repo": "main",
-        "size": 34679000,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/gemrb.zip"
+        "size": 34679029,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/gemrb.zip"
       },
       "version": 2
     },
@@ -30204,6 +30392,98 @@
         "repo": "main",
         "size": 10721380,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/goblindungeoneer.zip"
+      },
+      "version": 4
+    },
+    "godstone.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Wield magic and weaponry in this roguelike dungeoncrawler, forge powerful builds and explore a story that evolves based on your actions. The end goal: Claim the Godstone before those who would use it to destroy your kind.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase Godstone on Steam. Copy all files to ports/godstone/assets.",
+        "inst_md": "- Purchase Godstone on [Steam](https://store.steampowered.com/app/1715030/Godstone/).\n- Install testing zip.\n-  Copy all files to ports/godstone/assets\n- Run Godstone.",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Demented%20Plant",
+            "gameurl": "ttps://store.steampowered.com/app/1715030/Godstone/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Godstone"
+      },
+      "items": [
+        "Godstone.sh",
+        "godstone"
+      ],
+      "items_opt": null,
+      "name": "godstone.zip",
+      "source": {
+        "date_added": "2025-04-28",
+        "date_updated": "2025-04-28",
+        "md5": "55e111445189e3a189f2750ce2fecc7d",
+        "release_id": "2025-04-28_0944",
+        "repo": "main",
+        "size": 5722169,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/godstone.zip"
       },
       "version": 4
     },
@@ -31077,12 +31357,12 @@
       },
       "source": {
         "date_added": "2025-03-16",
-        "date_updated": "2025-04-21",
-        "md5": "b551c0729ced43ddcf2e9568757088bf",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-04-28",
+        "md5": "e8ac5fe40cf09dfb6a9ebea84896cf07",
+        "release_id": "2025-04-28_0944",
         "repo": "main",
-        "size": 8633760,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/grazecountergm.zip"
+        "size": 6814087,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/grazecountergm.zip"
       },
       "version": 4
     },
@@ -58473,6 +58753,102 @@
       },
       "version": 2
     },
+    "professorlucifer.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "\"What lurks behind these walls remains untold...\nWandering through the darkness of night with his lantern in hand,\nWhat does Lucifer desire enough to brave the pitch black?\"",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go to RowanFutures itch page here:\nhttps://rowanfuture.itch.io/gbjam12\nDownload 'Professor Lucifer Desktop.zip' then extract the folder and COPY 'ProfessorLucifer.pck' into the root of the portfolder. Launch The Game!",
+        "inst_md": "\n",
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_4.3.0.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://rowanfuture.itch.io",
+            "gameurl": "https://rowanfuture.itch.io/gbjam12",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Professor Lucifer"
+      },
+      "items": [
+        "Professor Lucifer.sh",
+        "professorlucifer"
+      ],
+      "items_opt": null,
+      "name": "professorlucifer.zip",
+      "source": {
+        "date_added": "2025-04-28",
+        "date_updated": "2025-04-28",
+        "md5": "d43b3c4131b7f7957fe73e8918df164f",
+        "release_id": "2025-04-28_0944",
+        "repo": "main",
+        "size": 119290,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/professorlucifer.zip"
+      },
+      "version": 4
+    },
     "prototype.zip": {
       "attr": {
         "arch": [
@@ -68869,6 +69245,101 @@
       },
       "version": 2
     },
+    "sokofrog.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "SokoFrog is a puzzle game about pushing boxes, help your frog friend get to the next level.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Instructions: Purchase the game from steam. Download the game. \nPlace all the game files into ports/sokofrog/assets",
+        "inst_md": "Instructions: Purchase the game from [steam](https://store.steampowered.com/app/2165740/SokoFrog/). Download the game. \nPlace all the game files into ports/sokofrog/assets",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://linktr.ee/solluco",
+            "gameurl": "https://store.steampowered.com/app/2165740/SokoFrog/",
+            "name": "Steam"
+          }
+        ],
+        "title": "SokoFrog"
+      },
+      "items": [
+        "SokoFrog.sh",
+        "sokofrog"
+      ],
+      "items_opt": null,
+      "name": "sokofrog.zip",
+      "source": {
+        "date_added": "2025-04-28",
+        "date_updated": "2025-04-28",
+        "md5": "f94ab6a2582a13950548da097cce6ff1",
+        "release_id": "2025-04-28_0944",
+        "repo": "main",
+        "size": 9626297,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/sokofrog.zip"
+      },
+      "version": 4
+    },
     "sokoplan.zip": {
       "attr": {
         "arch": [
@@ -71184,12 +71655,12 @@
       },
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-10-09",
-        "md5": "25d13e6140aa242313a67b3ede64ab5f",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2025-04-28",
+        "md5": "c6e4e5bfaf8d68353ef2da4cbfa3e8c8",
+        "release_id": "2025-04-28_0944",
         "repo": "main",
-        "size": 21631128,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/spookynakki.zip"
+        "size": 18367104,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/spookynakki.zip"
       },
       "version": 4
     },
@@ -72335,12 +72806,12 @@
       "name": "steamworlddig.zip",
       "source": {
         "date_added": "2025-04-24",
-        "date_updated": "2025-04-24",
-        "md5": "67753d92e49129aaaa4119263a057b92",
-        "release_id": "2025-04-24_1015",
+        "date_updated": "2025-04-28",
+        "md5": "ea476b84a675db1877e7548aa2db0b70",
+        "release_id": "2025-04-28_0944",
         "repo": "main",
         "size": 3251892,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/steamworlddig.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/steamworlddig.zip"
       },
       "version": 4
     },
@@ -76317,6 +76788,104 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thecurseofissyos.zip"
       },
       "version": 2
+    },
+    "theflayedman.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "You are the Flayed Man. Awaking in a decayed, otherworldly house where your every waking moment is agony, you must uncover the sins of the past, pass judgement, and decide your fate in this unsettling, macabre adventure.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game for free at itch.io (https://snoringdoggames.itch.io/the-flayed-man) or Steam (https://store.steampowered.com/app/3471670/The_Flayed_Man). Copy the 'The Flayed Man.ags' file to the 'theflayedman/gamedata' folder.",
+        "inst_md": "Download the game for free at [itch.io](https://snoringdoggames.itch.io/the-flayed-man) or [Steam](https://store.steampowered.com/app/3471670/The_Flayed_Man). Copy the `The Flayed Man.ags` file to the `theflayedman/gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://snoringdoggames.itch.io",
+            "gameurl": "https://snoringdoggames.itch.io/the-flayed-man",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Snoring%20Dog%20Games",
+            "gameurl": "https://store.steampowered.com/app/3471670/The_Flayed_Man",
+            "name": "Steam"
+          }
+        ],
+        "title": "The Flayed Man"
+      },
+      "items": [
+        "The Flayed Man.sh",
+        "theflayedman"
+      ],
+      "items_opt": null,
+      "name": "theflayedman.zip",
+      "source": {
+        "date_added": "2025-04-28",
+        "date_updated": "2025-04-28",
+        "md5": "a11c987b6125b778aa66728288c2a78f",
+        "release_id": "2025-04-28_0944",
+        "repo": "main",
+        "size": 2232952,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/theflayedman.zip"
+      },
+      "version": 4
     },
     "thefoundersofredacted.zip": {
       "attr": {
@@ -85037,6 +85606,100 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/xenonvalkyrie.zip"
       },
       "version": 2
+    },
+    "xess.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Do you like the idea of Chess, but want it to be a bit more and wilder?\\nLike so much it's maybe too much even? XESS features 16 characters/factions to choose from, with unique units and setups. There's online multiplayer, puzzle levels, a short story mode, an endless challenge mode and a mediocre-at-best AI for versus.\"",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.4.5.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://regnsloja.itch.io",
+            "gameurl": "https://regnsloja.itch.io/xess",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Xess"
+      },
+      "items": [
+        "Xess.sh",
+        "xess"
+      ],
+      "items_opt": null,
+      "name": "xess.zip",
+      "source": {
+        "date_added": "2025-04-28",
+        "date_updated": "2025-04-28",
+        "md5": "7e57c3e010f5d314e76a1d49e7c07319",
+        "release_id": "2025-04-28_0944",
+        "repo": "main",
+        "size": 3962893,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/xess.zip"
+      },
+      "version": 4
     },
     "xmoto.zip": {
       "attr": {
