@@ -40514,6 +40514,12 @@
       ],
       "items_opt": null,
       "name": "la-mulana.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-22",
         "date_updated": "2025-03-26",
@@ -72883,6 +72889,12 @@
       ],
       "items_opt": null,
       "name": "steelassault.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2022-03-18",
         "date_updated": "2024-04-01",
@@ -88268,6 +88280,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 246
+    "total_ratings": 248
   }
 }
