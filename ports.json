@@ -3867,6 +3867,74 @@
       },
       "version": 2
     },
+    "aurascope.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "ace:ALL",
+          "rp5:ALL",
+          "rpmini:ALL"
+        ],
+        "availability": "full",
+        "desc": "Aurascope is a 2D action-adventure collectathon platformer with light puzzle and RPG elements. Join our friends Trace and Aurora to uncover the secrets surrounding the Aurascope, a mysterious drive from beyond the stars!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This is a port for the DEMO!! Download the DEMO at https://store.steampowered.com/app/1547880/Aurascope/ or https://nick64.itch.io/aurascope and add all the data to `ports/aurascope/assets`.\n\nIf you enjoy the demo, visit the [Kickstarter Page](https://www.kickstarter.com/projects/aurascope/aurascope) to follow the game and back the developer!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [
+          "ultra"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://aurascope.net",
+            "gameurl": "https://store.steampowered.com/app/1547880/Aurascope",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://aurascope.net",
+            "gameurl": "https://nick64.itch.io/aurascope",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Aurascope Demo"
+      },
+      "items": [
+        "Aurascope.sh",
+        "aurascope"
+      ],
+      "items_opt": null,
+      "name": "aurascope.zip",
+      "source": {
+        "date_added": "2025-05-01",
+        "date_updated": "2025-05-01",
+        "md5": "31592d9490c153057336030dca67384e",
+        "release_id": "2025-05-01_1304",
+        "repo": "main",
+        "size": 5016852,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/aurascope.zip"
+      },
+      "version": 4
+    },
     "avp.zip": {
       "attr": {
         "arch": [
@@ -8452,12 +8520,12 @@
       "name": "braid.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-04-21",
-        "md5": "0b4dd369419fd55833e0f24edc1506ca",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-05-01",
+        "md5": "217237f169726ae409866a6a7f90685e",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 13953184,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/braid.zip"
+        "size": 14069870,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/braid.zip"
       },
       "version": 4
     },
@@ -18787,12 +18855,12 @@
       "name": "descent3.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2025-02-27",
-        "md5": "9de9337b34643536684d929bdf2a6551",
-        "release_id": "2025-02-27_2241",
+        "date_updated": "2025-05-01",
+        "md5": "971db7e7bcef46b5276eea544db106fc",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 7251891,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/descent3.zip"
+        "size": 7111381,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/descent3.zip"
       },
       "version": 2
     },
@@ -21508,6 +21576,101 @@
       },
       "version": 4
     },
+    "driftsurvivor.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Paying Tribute to Classic Arcade Shooting Games. Drift Survivor is an addictive and fast-paced arcade shooting game that combines \"drifting\" with a \"bullet hell\" gameplay style!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Instructions: Purchase the game from steam. Download the game. \nPlace all the game files into ports/driftsurvivor/assets",
+        "inst_md": "Instructions: Purchase the game from [steam](https://store.steampowered.com/app/2598080/Drift_Survivor/). Download the game. \nPlace all the game files into ports/driftsurvivor/assets",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://space.bilibili.com/32978058",
+            "gameurl": "https://store.steampowered.com/app/2598080/Drift_Survivor/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Drift Survivor"
+      },
+      "items": [
+        "Drift Survivor.sh",
+        "driftsurvivor"
+      ],
+      "items_opt": null,
+      "name": "driftsurvivor.zip",
+      "source": {
+        "date_added": "2025-05-01",
+        "date_updated": "2025-05-01",
+        "md5": "0305234c5a6ef5257e73a1cad3be2d8a",
+        "release_id": "2025-05-01_1304",
+        "repo": "main",
+        "size": 10252230,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/driftsurvivor.zip"
+      },
+      "version": 4
+    },
     "drilbertiidiggeredoo.zip": {
       "attr": {
         "arch": [
@@ -22882,7 +23045,7 @@
           "video": null
         },
         "inst": "Purchase Dust: an Elysian Tail on Steam. Open the Steam Console with this Windows+R then paste this: \"steam://open/console\". Run this command to download the Linux version: download_depot 236090 236092 3643140810355546394. Copy all files to ports/dustaet/gamedata.",
-        "inst_md": "- Purchase Dust: an Elysian Tail on [Steam](https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/?curator_clanid=4777282).\n- Open the Steam Console with this Windows+R then paste this: \"steam://open/console\".\n- Run this command to download the Linux version: download_depot 236090 236092 3643140810355546394\n-  Copy all files to ports/dustaet/assets\n- Run Dust: An Elysian Tail.",
+        "inst_md": "- Purchase Dust: an Elysian Tail on [Steam](https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/?curator_clanid=4777282).\n- Open the Steam Console with this Windows+R then paste this: \"steam://open/console\".\n- Run this command to download the Linux version: download_depot 236090 236092 3643140810355546394\n-  Copy all files to ports/dustaet/gamedata\n- Run Dust: An Elysian Tail.",
         "min_glibc": "",
         "porter": [
           "JanTrueno"
@@ -22909,12 +23072,12 @@
       "name": "dustaet.zip",
       "source": {
         "date_added": "2025-04-28",
-        "date_updated": "2025-04-28",
-        "md5": "d22659ca47615cafcb7450ece1d2f2a4",
-        "release_id": "2025-04-28_0944",
+        "date_updated": "2025-05-01",
+        "md5": "33c2d2b030c0c2400bcd476e01ac6486",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 3072291,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/dustaet.zip"
+        "size": 3072412,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/dustaet.zip"
       },
       "version": 4
     },
@@ -60526,44 +60689,9 @@
     "ragingblasters.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "arch64"
         ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
+        "avail": [],
         "desc": "Raging Blasters is a vertical scroll shmup featuring high speed scrolling and the exhilaration of destruction.",
         "desc_md": null,
         "exp": false,
@@ -60597,12 +60725,12 @@
       "name": "ragingblasters.zip",
       "source": {
         "date_added": "2024-08-31",
-        "date_updated": "2024-08-31",
-        "md5": "206c7abbb76830e21a6531fc0017af97",
-        "release_id": "2024-08-31_1142",
+        "date_updated": "2025-05-01",
+        "md5": "9ad156adc2e6d850c2f161304ce37011",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 5956037,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-31_1142/ragingblasters.zip"
+        "size": 8205726,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/ragingblasters.zip"
       },
       "version": 4
     },
@@ -61709,12 +61837,12 @@
       "name": "redronin.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-04-21",
-        "md5": "a24f189bdcc469e765c146f059fe0f77",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-05-01",
+        "md5": "7bc35796ba1260c9ac912aacc81aa65f",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 13022802,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/redronin.zip"
+        "size": 13033656,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/redronin.zip"
       },
       "version": 4
     },
@@ -69612,12 +69740,12 @@
       "name": "sonic.1.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-01-07",
-        "md5": "d69211b614f34f8afdd6f9e90abf84b6",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2025-05-01",
+        "md5": "234f8913830e2fe65b52e5348c37cf70",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 965849,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/sonic.1.zip"
+        "size": 965835,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/sonic.1.zip"
       },
       "version": 4
     },
@@ -69700,12 +69828,12 @@
       "name": "sonic.2.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-01-15",
-        "md5": "ce692324a95babf78c37a9002675e553",
-        "release_id": "2025-01-15_1237",
+        "date_updated": "2025-05-01",
+        "md5": "2f3cefd15b319c0dfbeb44e737e4f4f8",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 917964,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/sonic.2.zip"
+        "size": 917950,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/sonic.2.zip"
       },
       "version": 4
     },
@@ -69788,12 +69916,12 @@
       "name": "sonic.cd.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-03-11",
-        "md5": "2510503e0ddfccd2a98a19b587847557",
-        "release_id": "2025-03-11_0117",
+        "date_updated": "2025-05-01",
+        "md5": "dcde22c47ac0b7a0bfc0879cd6cbb096",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 1617354,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-11_0117/sonic.cd.zip"
+        "size": 1617362,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/sonic.cd.zip"
       },
       "version": 4
     },
@@ -69876,12 +70004,12 @@
       "name": "sonic.mania.zip",
       "source": {
         "date_added": "2022-10-24",
-        "date_updated": "2025-03-22",
-        "md5": "d4c81aeb65e57a81512a8603c983f759",
-        "release_id": "2025-03-22_2007",
+        "date_updated": "2025-05-01",
+        "md5": "d3633f62131cef2fa696960f1e4d8c0b",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 2551016,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-22_2007/sonic.mania.zip"
+        "size": 2550996,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/sonic.mania.zip"
       },
       "version": 4
     },
@@ -76859,8 +76987,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game for free at itch.io (https://snoringdoggames.itch.io/the-flayed-man) or Steam (https://store.steampowered.com/app/3471670/The_Flayed_Man). Copy the 'The Flayed Man.ags' file to the 'theflayedman/gamedata' folder.",
-        "inst_md": "Download the game for free at [itch.io](https://snoringdoggames.itch.io/the-flayed-man) or [Steam](https://store.steampowered.com/app/3471670/The_Flayed_Man). Copy the `The Flayed Man.ags` file to the `theflayedman/gamedata` folder.",
+        "inst": "Download the game for free at Steam (https://store.steampowered.com/app/3471670/The_Flayed_Man). Copy the 'The Flayed Man.ags' file to the 'theflayedman/gamedata' folder.",
+        "inst_md": "Download the game for free at [Steam](https://store.steampowered.com/app/3471670/The_Flayed_Man). Copy the `The Flayed Man.ags` file to the `theflayedman/gamedata` folder.",
         "min_glibc": "",
         "porter": [
           "tabreturn"
@@ -76869,11 +76997,6 @@
         "rtr": false,
         "runtime": [],
         "store": [
-          {
-            "developerurl": "https://snoringdoggames.itch.io",
-            "gameurl": "https://snoringdoggames.itch.io/the-flayed-man",
-            "name": "itch.io"
-          },
           {
             "developerurl": "https://store.steampowered.com/search/?developer=Snoring%20Dog%20Games",
             "gameurl": "https://store.steampowered.com/app/3471670/The_Flayed_Man",
@@ -76890,12 +77013,12 @@
       "name": "theflayedman.zip",
       "source": {
         "date_added": "2025-04-28",
-        "date_updated": "2025-04-28",
-        "md5": "a11c987b6125b778aa66728288c2a78f",
-        "release_id": "2025-04-28_0944",
+        "date_updated": "2025-05-01",
+        "md5": "a9e3e814b4544617701e5d1d8eeb1136",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 2232952,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/theflayedman.zip"
+        "size": 2232829,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/theflayedman.zip"
       },
       "version": 4
     },
@@ -85664,7 +85787,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "Do you like the idea of Chess, but want it to be a bit more and wilder?\\nLike so much it's maybe too much even? XESS features 16 characters/factions to choose from, with unique units and setups. There's online multiplayer, puzzle levels, a short story mode, an endless challenge mode and a mediocre-at-best AI for versus.\"",
+        "desc": "Do you like the idea of Chess, but want it to be a bit more and wilder? Like so much it's maybe too much even? XESS features 16 characters/factions to choose from, with unique units and setups. There's online multiplayer, puzzle levels, a short story mode, an endless challenge mode and a mediocre-at-best AI for versus.\"",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -85704,12 +85827,12 @@
       "name": "xess.zip",
       "source": {
         "date_added": "2025-04-28",
-        "date_updated": "2025-04-28",
-        "md5": "7e57c3e010f5d314e76a1d49e7c07319",
-        "release_id": "2025-04-28_0944",
+        "date_updated": "2025-05-01",
+        "md5": "41f09803e6b773bc7ff134f5c95655a1",
+        "release_id": "2025-05-01_1304",
         "repo": "main",
-        "size": 3962893,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/xess.zip"
+        "size": 3962891,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/xess.zip"
       },
       "version": 4
     },
