@@ -52733,6 +52733,12 @@
       ],
       "items_opt": null,
       "name": "openclaw.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-11-19",
         "date_updated": "2024-11-28",
@@ -88433,6 +88439,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 262
+    "total_ratings": 263
   }
 }
