@@ -28585,6 +28585,12 @@
       ],
       "items_opt": null,
       "name": "freeserf.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-03-07",
         "date_updated": "2024-07-27",
@@ -88640,6 +88646,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 274
+    "total_ratings": 275
   }
 }
