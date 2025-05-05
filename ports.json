@@ -10756,10 +10756,10 @@
       "items_opt": null,
       "name": "cannonball-lr.zip",
       "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
+        "average_rating": 4.5,
+        "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2023-11-21",
@@ -11992,10 +11992,10 @@
       "items_opt": null,
       "name": "cave.story-evo.zip",
       "rating": {
-        "average_rating": 1.0,
-        "max_rating": "1",
+        "average_rating": 3.0,
+        "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-09-10",
@@ -19741,10 +19741,10 @@
       "items_opt": null,
       "name": "dinothawr.zip",
       "rating": {
-        "average_rating": 2.0,
-        "max_rating": "2",
+        "average_rating": 3.5,
+        "max_rating": "5",
         "min_rating": "2",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-09-10",
@@ -60423,7 +60423,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-09-10",
@@ -62939,7 +62939,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-09-10",
@@ -85262,6 +85262,12 @@
       ],
       "items_opt": null,
       "name": "wolf3d.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-27",
         "date_updated": "2025-01-28",
@@ -88634,6 +88640,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 268
+    "total_ratings": 274
   }
 }
