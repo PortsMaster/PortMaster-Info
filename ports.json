@@ -3350,20 +3350,42 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
           "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
           "rgb30:ALL",
+          "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
           "rgb10max3pro:ALL",
           "ogs:ALL",
           "ogu:ALL",
           "ace:ALL",
+          "chi:ALL",
           "trimui-smart-pro:ALL",
           "trimui-brick:ALL",
           "rp5:ALL",
-          "rpmini:ALL"
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
         ],
         "availability": "paid",
         "desc": "The world of Arx is wrought with turmoil, brought to the brink of destruction by a violent war.  It is set on a world whose sun has failed, forcing the above-ground creatures to take refuge in caverns. Arx Fatalis is an innovative first-person role-playing game, featuring crafting, combat and spell-casting using mouse gestures.\n\nArx Libertatis is an improved, cross-platform and open source engine for Arx Fatalis.",
@@ -3387,7 +3409,7 @@
           "beniamino"
         ],
         "reqs": [
-          "hires"
+          "!lowres"
         ],
         "rtr": false,
         "runtime": [],
@@ -3413,12 +3435,12 @@
       "name": "arx.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-04-21",
-        "md5": "0c2471554aab6269fac23767a6ed95c1",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-05-08",
+        "md5": "109254077b338ba219cfae5ea252dc9b",
+        "release_id": "2025-05-08_2151",
         "repo": "main",
-        "size": 16905277,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/arx.zip"
+        "size": 16905243,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/arx.zip"
       },
       "version": 4
     },
@@ -12795,8 +12817,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "- Install the port via PortMaster.\n- Download the Linux DRM-Free version of the game:\n  - https://maddymakesgamesinc.itch.io/celeste\n- Copy the game's data into \"celeste/gamedata\".\n- Run the port, the first time setup will take a few minutes.\n- Enjoy!",
-        "inst_md": "- Install the port via PortMaster.\n- Download the Linux DRM-Free version of the game:\n  - [Itch.io Store: Celeste](https://maddymakesgamesinc.itch.io/celeste)\n- Copy the Celeste Linux files into `celeste/gamedata`.\n- Run the port, the first time setup will take a few minutes.\n- Enjoy!",
+        "inst": "- Install the port via PortMaster.\n- Download the DRM-Free version of the game:\n  - https://maddymakesgamesinc.itch.io/celeste (linux)\n  - https://store.epicgames.com/en-US/p/celeste (windows)\n- Copy the game's data into \"celeste/gamedata\".\n- Run the port, the first time setup will take a few minutes.\n- Enjoy!",
+        "inst_md": "- Install the port via PortMaster.\n- Download the DRM-Free version of the game:\n  - [Itch.io Store: Celeste](https://maddymakesgamesinc.itch.io/celeste) (linux)\n  - [EGS Store: Celeste](https://store.epicgames.com/en-US/p/celeste) (windows)\n- Copy the Celeste Linux files into `celeste/gamedata`.\n- Run the port, the first time setup will take a few minutes.\n- Enjoy!",
         "min_glibc": "",
         "porter": [
           "Johnny on Flame"
@@ -12822,12 +12844,12 @@
       },
       "source": {
         "date_added": "2024-09-11",
-        "date_updated": "2025-03-26",
-        "md5": "01b480b2dfcacbff99ca7c453e0fcd39",
-        "release_id": "2025-03-26_2027",
+        "date_updated": "2025-05-08",
+        "md5": "27a3c6c68c3af77c4b58b410c036291b",
+        "release_id": "2025-05-08_2151",
         "repo": "main",
-        "size": 3056651,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/celeste.zip"
+        "size": 3056724,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/celeste.zip"
       },
       "version": 4
     },
@@ -20214,11 +20236,11 @@
       "source": {
         "date_added": "2025-03-28",
         "date_updated": "2025-05-08",
-        "md5": "5ecfc3ef8de59c5423a5b2e5a0208b80",
-        "release_id": "2025-05-08_0303",
+        "md5": "54c0370da45e603c8411dda9bcdb7ccc",
+        "release_id": "2025-05-08_2151",
         "repo": "main",
-        "size": 58474211,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/dokimon.zip"
+        "size": 58474292,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/dokimon.zip"
       },
       "version": 4
     },
@@ -40896,12 +40918,12 @@
       },
       "source": {
         "date_added": "2025-03-22",
-        "date_updated": "2025-03-26",
-        "md5": "f7b2da5c4ea9ae54522e8c86fa8aec75",
-        "release_id": "2025-03-26_1111",
+        "date_updated": "2025-05-08",
+        "md5": "83388c1851342b50d7001996665699f6",
+        "release_id": "2025-05-08_2151",
         "repo": "main",
-        "size": 9285791,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/la-mulana.zip"
+        "size": 9286043,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/la-mulana.zip"
       },
       "version": 4
     },
@@ -55977,6 +55999,103 @@
       },
       "version": 2
     },
+    "papersplease.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Congratulations. The October labor lottery is complete. Your name was pulled. For immediate placement, report to the Ministry of Admission at Grestin Border Checkpoint. An apartment will be provided for you and your family in East Grestin. Expect a Class-8 dwelling. Glory to Arstotzka.\n\nContent warning: \"Papers, Please\" includes brief pixel-art violence and pixel-art nudity. The narrative reflects mature themes related to crime, smuggling, immigration, and border control.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and use the Steam console to download Linux version 1.2.76 using this command: `download_depot 239030 239033 4681415496149094331`. Other versions are not compatible. Put `PapersPlease` and surrounding files/folders in `ports/papersplease/gamedata/`.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/239030/Papers_Please/) and use the [Steam console](https://steamcommunity.com/sharedfiles/filedetails/?id=873543244) to download Linux version 1.2.76 using this command: `download_depot 239030 239033 4681415496149094331`. Other versions are not compatible. Put `PapersPlease` and surrounding files/folders in `ports/papersplease/gamedata/`.",
+        "min_glibc": "",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "3909 LLC",
+            "gameurl": "https://store.steampowered.com/app/239030/Papers_Please/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Papers, Please"
+      },
+      "items": [
+        "Papers, Please.sh",
+        "papersplease"
+      ],
+      "items_opt": null,
+      "name": "papersplease.zip",
+      "source": {
+        "date_added": "2025-05-08",
+        "date_updated": "2025-05-08",
+        "md5": "faeabd07d720969f06ddfea7fcc937aa",
+        "release_id": "2025-05-08_2151",
+        "repo": "main",
+        "size": 23290548,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/papersplease.zip"
+      },
+      "version": 4
+    },
     "parsec47.zip": {
       "attr": {
         "arch": [
@@ -58078,6 +58197,102 @@
         "repo": "main",
         "size": 11016591,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-22_2007/pleasedonttouchanything.zip"
+      },
+      "version": 4
+    },
+    "plugaway.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Get to the end of each stage without touching any walls! Reach the outlet and complete the circuit! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Visit the itch.io page 'https://dechro.itch.io/plug-away' and download 'Plug Away! Windows' version of the game. Unzip the folder and COPY the 'plugaway.pck' file into the gamedata folder. Launch The Game.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://dechro.itch.io/",
+            "gameurl": "https://dechro.itch.io/plug-away",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Plug Away"
+      },
+      "items": [
+        "Plug Away.sh",
+        "plugaway"
+      ],
+      "items_opt": null,
+      "name": "plugaway.zip",
+      "source": {
+        "date_added": "2025-05-08",
+        "date_updated": "2025-05-08",
+        "md5": "fd118273be10ba82bd7ecd3419241549",
+        "release_id": "2025-05-08_2151",
+        "repo": "main",
+        "size": 97004,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/plugaway.zip"
       },
       "version": 4
     },
@@ -72129,6 +72344,101 @@
         "repo": "main",
         "size": 18367104,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/spookynakki.zip"
+      },
+      "version": 4
+    },
+    "springhell.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Just Press Spacebar at the right time! It\u2019s very simple arcade game with tiny puzzle and platformer.\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is available on Steam. Download the game here: https://store.steampowered.com/app/2585490/SpringHell/\nOnce it's downloaded and installed to your library, right click it and select 'Manage' then 'Browse Local Files'. COPY the 'SpringHell.pck' file into the gamedata folder and launch the game!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://529games.itch.io/",
+            "gameurl": "https://store.steampowered.com/app/2585490/SpringHell/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Spring Hell"
+      },
+      "items": [
+        "Spring Hell.sh",
+        "springhell"
+      ],
+      "items_opt": null,
+      "name": "springhell.zip",
+      "source": {
+        "date_added": "2025-05-08",
+        "date_updated": "2025-05-08",
+        "md5": "c281e30365b5ff43d0d0e327fb1238ea",
+        "release_id": "2025-05-08_2151",
+        "repo": "main",
+        "size": 8627,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/springhell.zip"
       },
       "version": 4
     },
