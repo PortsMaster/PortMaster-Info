@@ -23074,7 +23074,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-04-28",
@@ -73272,6 +73272,12 @@
       ],
       "items_opt": null,
       "name": "steamworlddig.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-24",
         "date_updated": "2025-05-08",
@@ -73369,6 +73375,12 @@
       ],
       "items_opt": null,
       "name": "steamworlddig2.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-05-08",
         "date_updated": "2025-05-08",
@@ -73471,7 +73483,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-05-04",
@@ -88950,6 +88962,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 276
+    "total_ratings": 280
   }
 }
