@@ -19444,8 +19444,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game and download the linux version. For GoG, place dicey_....sh in ports/diceydungeons/gamedata. For Steam/itch, place game files in ports/diceydungeons/gamedata.",
-        "inst_md": "Purchase the game and download the linux version. For GoG, place `dicey_....sh` in `ports/diceydungeons/gamedata`. For Steam/itch, place game files in `ports/diceydungeons/gamedata`.",
+        "inst": "Purchase the game and download the linux version. For GOG, place dicey_....sh in ports/diceydungeons/gamedata. For Steam/itch, place game files in ports/diceydungeons/gamedata.",
+        "inst_md": "Purchase the game and download the linux version. For GOG, place `dicey_....sh` in `ports/diceydungeons/gamedata`. For Steam/itch, place game files in `ports/diceydungeons/gamedata`.",
         "min_glibc": "",
         "porter": [
           "beniamino"
@@ -19461,7 +19461,7 @@
           {
             "developerurl": "https://diceydungeons.com",
             "gameurl": "https://www.gog.com/en/game/dicey_dungeons",
-            "name": "GoG"
+            "name": "GOG"
           },
           {
             "developerurl": "https://diceydungeons.com",
@@ -19484,12 +19484,12 @@
       "name": "diceydungeons.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-04-21",
-        "md5": "ae9da06b59ae9b741b3b99a50b2d6579",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-05-08",
+        "md5": "716477b17d6e4afba26dd6be36bf04c8",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 23921013,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/diceydungeons.zip"
+        "size": 23446322,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/diceydungeons.zip"
       },
       "version": 4
     },
@@ -20213,12 +20213,12 @@
       },
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2025-05-04",
-        "md5": "b10f52f76853ebe434279fde6de43475",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-05-08",
+        "md5": "5ecfc3ef8de59c5423a5b2e5a0208b80",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 9460190,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/dokimon.zip"
+        "size": 58474211,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/dokimon.zip"
       },
       "version": 4
     },
@@ -20945,12 +20945,12 @@
       },
       "source": {
         "date_added": "2025-02-04",
-        "date_updated": "2025-02-18",
-        "md5": "c27c4f6fda92e554039df0c3a77998a7",
-        "release_id": "2025-02-18_2120",
+        "date_updated": "2025-05-08",
+        "md5": "a851a1ad6af9b857c0badab625013113",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 57898897,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/doomengines.zip"
+        "size": 58965159,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/doomengines.zip"
       },
       "version": 4
     },
@@ -32837,7 +32837,7 @@
       },
       "items": [
         "Guns of Fury.sh",
-        "gusnoffury"
+        "gunsoffury"
       ],
       "items_opt": null,
       "name": "gunsoffury.zip",
@@ -32849,12 +32849,12 @@
       },
       "source": {
         "date_added": "2025-04-14",
-        "date_updated": "2025-04-21",
-        "md5": "bdff0ae663db3271f00444e54f54d867",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-05-08",
+        "md5": "183677b6cfc3dce40cc1f846ead03c29",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 8332692,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/gunsoffury.zip"
+        "size": 8332689,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/gunsoffury.zip"
       },
       "version": 4
     },
@@ -33017,7 +33017,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on Steam or Itch and copy the HackGrid.pck into the gamedata folder. The DLC is not supported.",
+        "inst": "Purchase the game on Steam or Itch and copy the HackGrid.pck into the gamedata folder. The DLC folder goes directly into the hackgrid folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -33048,12 +33048,12 @@
       "name": "hackgrid.zip",
       "source": {
         "date_added": "2025-03-17",
-        "date_updated": "2025-03-17",
-        "md5": "4ff6f8a88246ef46cf69754620fcd317",
-        "release_id": "2025-03-17_1708",
+        "date_updated": "2025-05-08",
+        "md5": "3be65cd072ba3d5bb48bc7f4314b62fe",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 889831,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-17_1708/hackgrid.zip"
+        "size": 889838,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/hackgrid.zip"
       },
       "version": 4
     },
@@ -36519,6 +36519,106 @@
       },
       "version": 2
     },
+    "hylics.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Hylics is a surrealistic stop-motion style JRPG game created by Mason Lindroth. It boasts unique claymation graphics, RPG battles, and \"overuse of random text generation\", spread across 2+ hours of content. It's praised for its abstract, uncanny art style, as well as its alien atmosphere.",
+        "desc_md": "**Hylics** is a surrealistic stop-motion style **JRPG** game created by **Mason Lindroth**. It boasts unique **claymation** graphics, **RPG** battles, and \"overuse of random text generation\", spread across 2+ hours of content. It's praised for its abstract, uncanny art style, as well as its alien atmosphere.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on Steam or itch.io\nSteam: https://store.steampowered.com/app/397740/Hylics/\nitch.io: https://mason-lindroth.itch.io/\n\nDownload it and copy all the files from the game folder into the portfolder. If you bought the game on itch.io, just put the .exe file into the portfolder.",
+        "inst_md": "**Buy** the game on [Steam](https://store.steampowered.com/app/397740/Hylics/) or [itch.io](https://mason-lindroth.itch.io/hylics)\n\n**Download** it and **copy** all the files from the **game folder** into the **portfolder**. If you bought the game on **itch.io**, just **put the .exe** file into the **portfolder**.",
+        "min_glibc": "",
+        "porter": [
+          "Yutsu"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Mason%20Lindroth&ndl=1",
+            "gameurl": "https://store.steampowered.com/app/397740/Hylics/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://mason-lindroth.itch.io/",
+            "gameurl": "https://mason-lindroth.itch.io/hylics",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Hylics"
+      },
+      "items": [
+        "Hylics.sh",
+        "hylics"
+      ],
+      "items_opt": null,
+      "name": "hylics.zip",
+      "source": {
+        "date_added": "2025-05-08",
+        "date_updated": "2025-05-08",
+        "md5": "d51fbc6f18f499642d707a020e024560",
+        "release_id": "2025-05-08_0303",
+        "repo": "main",
+        "size": 11784899,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/hylics.zip"
+      },
+      "version": 4
+    },
     "hyper.jump.zip": {
       "attr": {
         "arch": [],
@@ -38183,6 +38283,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "A fantastic, oceanic, open world puzzle adventure. Solve innovative block puzzles while unearthing a mystifying story and unlock powers that provide more options for how you choose to progress through the enigmatic Isles of Sea and Sky!",
         "desc_md": null,
         "exp": false,
@@ -38198,7 +38299,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy the game data from your Steam or Itch.io installation (v1.02a) to ports/iosas/assets",
+        "inst": "Copy the game data from your Steam to ports/iosas/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -38208,6 +38309,13 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.cicadasoft.com/",
+            "gameurl": "https://store.steampowered.com/app/1233070/Isles_of_Sea_and_Sky/",
+            "name": "Steam"
+          }
+        ],
         "title": "Isles of Sea and Sky"
       },
       "items": [
@@ -38224,12 +38332,12 @@
       },
       "source": {
         "date_added": "2024-09-04",
-        "date_updated": "2025-04-21",
-        "md5": "329e47f76dc990a2fe6532abe3036e77",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-05-08",
+        "md5": "4048b8938bb0b9d0d19fd39054d48e5a",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 10259327,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/iosas.zip"
+        "size": 10259423,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/iosas.zip"
       },
       "version": 4
     },
@@ -48143,6 +48251,99 @@
         "repo": "main",
         "size": 13492057,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-02_1342/moonlightnew.zip"
+      },
+      "version": 4
+    },
+    "moonstriker.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "MoonStriker is a vertical scrolling shoot 'em up game. The player ship can attack with normal shots or with lock-on laser, by moving the target reticle over enemies while the fire button is held. Initially five lasers can lock-on, but this can be increased by collecting power-ups. The game offers a 7-level arcade mode, with 3 difficulty levels, and a 3-minute caravan mode.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the MoonStriker.exe from Itch.io and place it the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://terarin.itch.io",
+            "gameurl": "https://terarin.itch.io/moonstriker",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "MoonStriker"
+      },
+      "items": [
+        "MoonStriker.sh",
+        "moonstriker"
+      ],
+      "items_opt": null,
+      "name": "moonstriker.zip",
+      "source": {
+        "date_added": "2025-05-08",
+        "date_updated": "2025-05-08",
+        "md5": "906eb82fc2d2942d8d1c4c271d8cabd5",
+        "release_id": "2025-05-08_0303",
+        "repo": "main",
+        "size": 7975804,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/moonstriker.zip"
       },
       "version": 4
     },
@@ -69387,7 +69588,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on Steam and copy the Sokobos.pck into the gamedata folder.",
+        "inst": "Purchase the game on Steam and copy the Sokobos.pck into the gamedata folder. The DLC folder (AphroditeDLC) needs to be placed directly into the sokobos folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -69414,12 +69615,12 @@
       "name": "sokobos.zip",
       "source": {
         "date_added": "2025-03-06",
-        "date_updated": "2025-03-06",
-        "md5": "07f380632f197423ef8037611edd1470",
-        "release_id": "2025-03-06_1114",
+        "date_updated": "2025-05-08",
+        "md5": "2e8db613828a6c15386c07f8cbb1ee53",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 6843,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/sokobos.zip"
+        "size": 6878,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/sokobos.zip"
       },
       "version": 4
     },
@@ -73073,12 +73274,109 @@
       "name": "steamworlddig.zip",
       "source": {
         "date_added": "2025-04-24",
-        "date_updated": "2025-05-04",
-        "md5": "591482ebc986cc0620fcb72c72452846",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-05-08",
+        "md5": "fe7db72f4f77ea45667ac1912a380df8",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 3285662,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/steamworlddig.zip"
+        "size": 3285804,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/steamworlddig.zip"
+      },
+      "version": 4
+    },
+    "steamworlddig2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it\u2019s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath.",
+        "desc_md": "SteamWorld Dig 2 takes you on a platform mining adventure forged in Metroidvania flames. When an old trading town is struck by mysterious earthquakes, it\u2019s up to a lone steambot and her unlikely companion to uncover what trembling terrors lie beneath.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Westonpack runtime is required to run this port, install it via Portmaster before running. \nPlace the Linux Version of the GOG installer within /steamworlddig/installer/, then just run the game. This will take longer on first startup.",
+        "inst_md": "Westonpack Runtime is required to run this port! Install it via Portmaster before running.\n* Take the Linux Installer from GOG and place it within /steamworlddig/installer/\n* Run the game via your device\n(First startup will take longer, wait for 1-2 Minutes)",
+        "min_glibc": "",
+        "porter": [
+          "Rehex"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.gog.com/en/games?developers=image-and-form",
+            "gameurl": "https://www.gog.com/en/game/steamworld_dig_2",
+            "name": "GOG"
+          }
+        ],
+        "title": "Steamworld Dig 2"
+      },
+      "items": [
+        "Steamworld Dig 2.sh",
+        "steamworlddig2"
+      ],
+      "items_opt": null,
+      "name": "steamworlddig2.zip",
+      "source": {
+        "date_added": "2025-05-08",
+        "date_updated": "2025-05-08",
+        "md5": "68a59f5ab86f27c2ac35c90b1afa9b23",
+        "release_id": "2025-05-08_0303",
+        "repo": "main",
+        "size": 9724353,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/steamworlddig2.zip"
       },
       "version": 4
     },
@@ -73177,12 +73475,12 @@
       },
       "source": {
         "date_added": "2025-05-04",
-        "date_updated": "2025-05-04",
-        "md5": "928c36ca492cb30c6695008b4fc9848c",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-05-08",
+        "md5": "e878f2a7c9966c52d1d69ff94dc9002c",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 3372814,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/steamworldheist.zip"
+        "size": 3372960,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/steamworldheist.zip"
       },
       "version": 4
     },
@@ -82752,12 +83050,12 @@
       "name": "utyellow.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2025-01-14",
-        "md5": "3672c30f1d1996bbecaf9f2c43e84f50",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-05-08",
+        "md5": "73cab9952524e970865a1a2478789760",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 60633612,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/utyellow.zip"
+        "size": 53921595,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/utyellow.zip"
       },
       "version": 2
     },
@@ -84019,7 +84317,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Place game .png, .dat, .csv, and .win files in the \"gamedata\" folder. Game must be v1.1.1, Steam or Itch supported. The game will take 3-5 minutes to boot for the first time only.",
+        "inst": "Place game .png, .dat, .csv, and .win files in the \"gamedata\" folder. Game must be v1.1.1, Steam or Itch supported (not v1.1.2). The game will take 3-5 minutes to boot for the first time only.",
         "inst_md": "Purchase the game via [Steam](https://store.steampowered.com/app/2121980/Void_Stranger/) or [Itch](https://system-erasure.itch.io/void-stranger).\nCurrently supporting v1.1.1 off Steam and Itch.\nPlace all `.png`, `.dat`, `.csv`, and `.win` files in the `gamedata` folder.\nThe game will take 3-5 minutes to boot for the first time only.",
         "min_glibc": "",
         "porter": [
@@ -84045,12 +84343,12 @@
       },
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2024-08-06",
-        "md5": "569c4f7d656bb185f13fffbff59379f3",
-        "release_id": "2024-08-06_1441",
+        "date_updated": "2025-05-08",
+        "md5": "17048d716e8f05f3ec00467bd641a0cd",
+        "release_id": "2025-05-08_0303",
         "repo": "main",
-        "size": 22281168,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_1441/voidstranger.zip"
+        "size": 22281272,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/voidstranger.zip"
       },
       "version": 4
     },
