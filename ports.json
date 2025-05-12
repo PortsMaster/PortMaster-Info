@@ -58980,6 +58980,12 @@
       ],
       "items_opt": null,
       "name": "pokemmo.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 2
+      },
       "source": {
         "date_added": "2025-05-12",
         "date_updated": "2025-05-12",
@@ -89734,6 +89740,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 285
+    "total_ratings": 287
   }
 }
