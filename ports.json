@@ -358,12 +358,12 @@
       },
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2025-02-06",
-        "md5": "7f582345384ba2ba2cb920db59fde504",
-        "release_id": "2025-02-06_1211",
+        "date_updated": "2025-05-12",
+        "md5": "f47b72d9911b580b0d25df7258c49c29",
+        "release_id": "2025-05-12_1432",
         "repo": "main",
-        "size": 5773859,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_1211/abes_adventure.zip"
+        "size": 5773872,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1432/abes_adventure.zip"
       },
       "version": 2
     },
@@ -62660,6 +62660,104 @@
       },
       "version": 4
     },
+    "redstrings.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The Red Strings Club is a cyberpunk narrative experience about fate and happiness featuring the extensive use of pottery, bartending and impersonating people on the phone to take down a corporate conspiracy.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": " For Steam version, copy all files from the Windows version into the assets folder. For GOG version, download the linux version installer and copy it into the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/deconstructeam",
+            "gameurl": "https://store.steampowered.com/app/589780/The_Red_Strings_Club",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.gog.com/en/games?developers=deconstructeam",
+            "gameurl": "https://www.gog.com/en/game/the_red_strings_club",
+            "name": "GOG"
+          }
+        ],
+        "title": "The Red Strings Club"
+      },
+      "items": [
+        "The Red Strings Club.sh",
+        "redstrings"
+      ],
+      "items_opt": null,
+      "name": "redstrings.zip",
+      "source": {
+        "date_added": "2025-05-12",
+        "date_updated": "2025-05-12",
+        "md5": "10767e93208ed99803f91ccf866d9c1d",
+        "release_id": "2025-05-12_1432",
+        "repo": "main",
+        "size": 7783842,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1432/redstrings.zip"
+      },
+      "version": 4
+    },
     "redtrees.zip": {
       "attr": {
         "arch": [
@@ -64957,6 +65055,97 @@
         "repo": "main",
         "size": 11965826,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/roguesentry.zip"
+      },
+      "version": 4
+    },
+    "romm.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "demo",
+        "desc": "An app for custom firmwares that connects to your RomM instance and allows you to fetch games wirelessly from your handheld device.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run with demo server. Follow the readme and edit the `.env` file to use your own server instance.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "python_3.11.squashfs"
+        ],
+        "store": [],
+        "title": "RomM App"
+      },
+      "items": [
+        "RomM App.sh",
+        "romm"
+      ],
+      "items_opt": null,
+      "name": "romm.zip",
+      "source": {
+        "date_added": "2025-05-12",
+        "date_updated": "2025-05-12",
+        "md5": "106e30c68c0a99aa6404751074469559",
+        "release_id": "2025-05-12_1513",
+        "repo": "main",
+        "size": 4465475,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1513/romm.zip"
       },
       "version": 4
     },
