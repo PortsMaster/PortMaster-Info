@@ -16674,6 +16674,60 @@
       },
       "version": 4
     },
+    "darkdeity2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "ace:ALL",
+          "rp5:ALL",
+          "rpmini:ALL"
+        ],
+        "desc": "Verroa is a peaceful continent on the brink of war as the Asverellian Empire seeks to expand - at your homeland\u2019s expense. Command unlikely heroes, fight challenging turn-based battles, and watch hardship forge iron into steel. Dark Deity is back, bigger and better than before!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on steam. Copy all game assets to `darkdeity2/assets`.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [
+          "ultra"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "title": "Dark Deity II"
+      },
+      "items": [
+        "Dark Deity 2.sh",
+        "darkdeity2"
+      ],
+      "items_opt": null,
+      "name": "darkdeity2.zip",
+      "source": {
+        "date_added": "2025-05-12",
+        "date_updated": "2025-05-12",
+        "md5": "e778b11f17322217181cf773e8362802",
+        "release_id": "2025-05-12_1413",
+        "repo": "main",
+        "size": 8382682,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/darkdeity2.zip"
+      },
+      "version": 4
+    },
     "darkmoon.zip": {
       "attr": {
         "arch": [
@@ -19506,12 +19560,12 @@
       "name": "diceydungeons.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-05-08",
-        "md5": "716477b17d6e4afba26dd6be36bf04c8",
-        "release_id": "2025-05-08_0303",
+        "date_updated": "2025-05-12",
+        "md5": "bd14a5835f36e7744ceb391246365222",
+        "release_id": "2025-05-12_1413",
         "repo": "main",
-        "size": 23446322,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/diceydungeons.zip"
+        "size": 23446362,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/diceydungeons.zip"
       },
       "version": 4
     },
@@ -22004,7 +22058,7 @@
         ],
         "image": {
           "covers": [
-            "Cover.png"
+            "cover.png"
           ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
@@ -22038,12 +22092,12 @@
       "name": "duckdodge.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-04-21",
-        "md5": "8f1ff03f2ab11464947208233e395d7d",
-        "release_id": "2025-04-21_0926",
+        "date_updated": "2025-05-12",
+        "md5": "3bc133d0bad3a84854bb858cd2091aed",
+        "release_id": "2025-05-12_1210",
         "repo": "multiverse",
         "size": 454230,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-21_0926/duckdodge.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-12_1210/duckdodge.zip"
       },
       "version": 4
     },
@@ -25094,12 +25148,12 @@
       "name": "f1spirit.zip",
       "source": {
         "date_added": "2024-02-26",
-        "date_updated": "2024-05-09",
-        "md5": "a3761f7fa0cb4bab00bd57b66c9edf7f",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2025-05-12",
+        "md5": "b5224744165d71b18b9e726157eb5432",
+        "release_id": "2025-05-12_1413",
         "repo": "main",
-        "size": 28118163,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/f1spirit.zip"
+        "size": 29179646,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/f1spirit.zip"
       },
       "version": 2
     },
@@ -26566,9 +26620,9 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "availability": "free",
-        "desc": "This is bob, Bob says you will like this game. Bob was captured by a group of scientists, Now he's trying to escape!\n\nSubmit your runs! https://www.speedrun.com/Fire_Boy\n\nFEATURES:\n\u2666 3 Chapters  \n\u2666 A ton of scientist \n\u2666 Bob",
-        "desc_md": "This is bob!\n\n![bob](https://img.itch.zone/aW1nLzE3ODgwNjU1LnBuZw==/original/J0gOKH.png)\n\n\"Bob says you will like this game\"\nBob was captured by a group of scientists\nNow he's trying to escape\n\n[Submit your runs!](https://www.speedrun.com/Fire_Boy)\n\nFEATURES:\n*  3 Chapters  \n*  A ton of scientist \n*  Bob",
+        "availability": "full",
+        "desc": "This is bob, Bob says you will like this game. Bob was captured by a group of scientists, Now he's trying to escape!",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "adventure",
@@ -26582,14 +26636,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Install the game from https://dtrgames.itch.io/fire-boy and place the Fire Boy.pck in the gamedata dir.",
-        "inst_md": "Install the game from [itch.io](https://dtrgames.itch.io/fire-boy) and place the Fire Boy.pck in the gamedata dir.",
+        "inst": "Ready to run!",
+        "inst_md": null,
         "min_glibc": "",
         "porter": [
           "Doronimmo"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [
           "weston_pkg_0.2.squashfs",
           "godot_4.3.squashfs"
@@ -26616,12 +26670,12 @@
       },
       "source": {
         "date_added": "2025-03-26",
-        "date_updated": "2025-03-26",
-        "md5": "beba2bbeae8595a0ad01cb38cfcc1597",
-        "release_id": "2025-03-26_2027",
+        "date_updated": "2025-05-12",
+        "md5": "1d838b55233b061cc2a600fd3cf6f1da",
+        "release_id": "2025-05-12_1413",
         "repo": "main",
-        "size": 100592,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/fireboy.zip"
+        "size": 38707586,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/fireboy.zip"
       },
       "version": 4
     },
@@ -36638,12 +36692,12 @@
       "name": "hylics.zip",
       "source": {
         "date_added": "2025-05-08",
-        "date_updated": "2025-05-08",
-        "md5": "d51fbc6f18f499642d707a020e024560",
-        "release_id": "2025-05-08_0303",
+        "date_updated": "2025-05-12",
+        "md5": "151760d54add09dded33e3dbab90d9bd",
+        "release_id": "2025-05-12_1413",
         "repo": "main",
-        "size": 11784899,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/hylics.zip"
+        "size": 11729974,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/hylics.zip"
       },
       "version": 4
     },
@@ -38327,7 +38381,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy the game data from your Steam to ports/iosas/assets",
+        "inst": "Copy the game data from your Steam or Itch.io installation to ports/iosas/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -38342,6 +38396,11 @@
             "developerurl": "https://www.cicadasoft.com/",
             "gameurl": "https://store.steampowered.com/app/1233070/Isles_of_Sea_and_Sky/",
             "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.cicadasoft.com/",
+            "gameurl": "https://cicada-games-official.itch.io/isles-of-sea-and-sky",
+            "name": "Itch.io"
           }
         ],
         "title": "Isles of Sea and Sky"
@@ -38360,12 +38419,12 @@
       },
       "source": {
         "date_added": "2024-09-04",
-        "date_updated": "2025-05-08",
-        "md5": "4048b8938bb0b9d0d19fd39054d48e5a",
-        "release_id": "2025-05-08_0303",
+        "date_updated": "2025-05-12",
+        "md5": "fe2740f8e9a1613c58ab539786e6e86f",
+        "release_id": "2025-05-12_1413",
         "repo": "main",
-        "size": 10259423,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/iosas.zip"
+        "size": 15607772,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/iosas.zip"
       },
       "version": 4
     },
@@ -57598,6 +57657,106 @@
       },
       "version": 4
     },
+    "pizzatower.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Pizza Tower is a fast paced 2D platformer, with an emphasis on movement, exploration and score attack. Featuring highly stylized pixel art inspired by the cartoons from the '90s, and a highly energetic soundtrack.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game data to `pizzatower/assets`.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Regular Character",
+          "Johnny on Flame",
+          "Jeod",
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/tourdepizza",
+            "gameurl": "https://store.steampowered.com/app/2231450/Pizza_Tower/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Pizza Tower"
+      },
+      "items": [
+        "Pizza Tower.sh",
+        "pizzatower"
+      ],
+      "items_opt": null,
+      "name": "pizzatower.zip",
+      "source": {
+        "date_added": "2025-05-12",
+        "date_updated": "2025-05-12",
+        "md5": "b25c72cf2c961db95e5920db1ed71d38",
+        "release_id": "2025-05-12_1413",
+        "repo": "main",
+        "size": 32260101,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/pizzatower.zip"
+      },
+      "version": 4
+    },
     "plague.zip": {
       "attr": {
         "arch": [
@@ -58560,12 +58719,12 @@
       "name": "pocketcrystalleague.zip",
       "source": {
         "date_added": "2024-08-18",
-        "date_updated": "2025-04-25",
-        "md5": "6324018d495fc1c9f4daa4e55a577fe8",
-        "release_id": "2025-04-25_1402",
+        "date_updated": "2025-05-12",
+        "md5": "dfab3984c4a56c6455c45869754f43a9",
+        "release_id": "2025-05-12_1210",
         "repo": "multiverse",
-        "size": 22775629,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-25_1402/pocketcrystalleague.zip"
+        "size": 22770752,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-12_1210/pocketcrystalleague.zip"
       },
       "version": 4
     },
@@ -58737,6 +58896,100 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/pocketwondersport.zip"
       },
       "version": 2
+    },
+    "pokemmo.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Unofficial port of PokeMMO for PortMaster-compatible devices. PokeMMO is a fan-made multiplayer online game that brings together various Pok\u00e9mon generations in a single MMO experience.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the portable version of the PokeMMO client from https://pokemmo.com/en/downloads/portable. Extract the ZIP and copy both the PokeMMO.exe file and the data folder into /roms/ports/pokemmo.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "lowlevel.1989"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [
+          "mesa_pkg_0.1.squashfs",
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [],
+        "title": "PokeMMO"
+      },
+      "items": [
+        "PokeMMO.sh",
+        "PokeMMO small.sh",
+        "PokeMMO Android.sh",
+        "pokemmo"
+      ],
+      "items_opt": null,
+      "name": "pokemmo.zip",
+      "source": {
+        "date_added": "2025-05-12",
+        "date_updated": "2025-05-12",
+        "md5": "9ca1e94746aff4cd325d21f3b03e27e4",
+        "release_id": "2025-05-12_1210",
+        "repo": "multiverse",
+        "size": 25078149,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-12_1210/pokemmo.zip"
+      },
+      "version": 4
     },
     "pokewilds.zip": {
       "attr": {
@@ -69031,8 +69284,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smbll.png",
-            "cover.smb1.png"
+            "cover.smb1.png",
+            "cover.smbll.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -84247,12 +84500,12 @@
       "name": "vitasnake.zip",
       "source": {
         "date_added": "2024-09-24",
-        "date_updated": "2024-10-15",
-        "md5": "81c97462b891d56d6cccba0744149915",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2025-05-12",
+        "md5": "0be47f79fc1f9c8d3e24ea1c11b90e2a",
+        "release_id": "2025-05-12_1413",
         "repo": "main",
-        "size": 17793329,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/vitasnake.zip"
+        "size": 17793346,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/vitasnake.zip"
       },
       "version": 4
     },
@@ -84843,7 +85096,9 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Christian_Haitian"
+          "Christian_Haitian",
+          "Snow",
+          "beniamino"
         ],
         "reqs": [],
         "rtr": true,
@@ -84864,12 +85119,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-01-14",
-        "md5": "b9a622e58f78b65e9cccd36d312d3fbe",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-05-12",
+        "md5": "99a1b7aa357a2605c915afd1e73f3d2b",
+        "release_id": "2025-05-12_1413",
         "repo": "main",
-        "size": 62112697,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/vvvvvv.zip"
+        "size": 64575873,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/vvvvvv.zip"
       },
       "version": 2
     },
