@@ -89261,6 +89261,12 @@
       ],
       "items_opt": null,
       "name": "zeldafop.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-05-14",
         "date_updated": "2025-05-14",
@@ -90313,6 +90319,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 292
+    "total_ratings": 293
   }
 }
