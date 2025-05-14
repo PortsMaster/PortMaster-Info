@@ -12,7 +12,11 @@ def build_requirements(port_info, runtimes_info):
     """
     Matches hardware capabilities to port requirements.
     """
-    requirements = port_info.get('attr', {}).get('reqs', [])[:]
+    requirements = port_info.get('attr', {}).get('reqs', [])
+    if requirements is None:
+        requirements = []
+    else:
+        requirements = requirements[:]
 
     runtime = port_info.get('attr', {}).get('runtime', None)
 
