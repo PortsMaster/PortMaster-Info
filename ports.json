@@ -75846,10 +75846,10 @@
       "items_opt": null,
       "name": "supergaelicdodgeball.zip",
       "rating": {
-        "average_rating": 3.0,
-        "max_rating": "3",
+        "average_rating": 4.0,
+        "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-08-22",
@@ -90319,6 +90319,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 294
+    "total_ratings": 295
   }
 }
