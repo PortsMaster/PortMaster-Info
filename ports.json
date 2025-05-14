@@ -5354,7 +5354,7 @@
     "benboquest.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -5380,10 +5380,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -5425,12 +5429,12 @@
       "name": "benboquest.zip",
       "source": {
         "date_added": "2024-07-29",
-        "date_updated": "2024-11-03",
-        "md5": "799c8b924fcec8f374a82d444a1db0b1",
-        "release_id": "2024-11-03_1903",
+        "date_updated": "2025-05-14",
+        "md5": "c675f0b01cc544929d4f3c82310e1066",
+        "release_id": "2025-05-14_0927",
         "repo": "main",
-        "size": 36185287,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/benboquest.zip"
+        "size": 36908780,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/benboquest.zip"
       },
       "version": 2
     },
@@ -24896,7 +24900,7 @@
     "f-zeropocket.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -24922,10 +24926,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -24976,12 +24984,12 @@
       },
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-09-04",
-        "md5": "33c0a396f8aa3bff086ac27ef9b71f98",
-        "release_id": "2024-09-04_1203",
+        "date_updated": "2025-05-14",
+        "md5": "48a6ad45c838f490de470015c6990201",
+        "release_id": "2025-05-14_0927",
         "repo": "main",
-        "size": 36703432,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-04_1203/f-zeropocket.zip"
+        "size": 41328497,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/f-zeropocket.zip"
       },
       "version": 4
     },
@@ -27549,12 +27557,12 @@
       },
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2025-01-14",
-        "md5": "e7c2974c71ba8f4a117fea48b7bf615a",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-05-14",
+        "md5": "fb41c02977a9d321364f35321fd470ff",
+        "release_id": "2025-05-14_0927",
         "repo": "main",
-        "size": 50008232,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/forager.zip"
+        "size": 50008230,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/forager.zip"
       },
       "version": 2
     },
@@ -39006,14 +39014,13 @@
     "jetlancer.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
           "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
-          "rg351mp:ALL",
           "rg503:ALL",
           "rg552:ALL",
           "rgcubexx:ALL",
@@ -39024,28 +39031,23 @@
           "rg35xx-sp:ALL",
           "rg34xx-h:ALL",
           "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
           "rgb10:ALL",
-          "rgb20s:ALL",
           "rgb30:ALL",
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
-          "oga:ALL",
-          "ogs:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
           "ace:ALL",
-          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
+          "gkd-bubble:ALL"
         ],
-        "desc": "Jet Lancer is a high-velocity aerial combat shooter where you duel enemy aviators, hunt giant robots, and defy death at supersonic speeds as you evolve from an unknown rookie aviator into a once-in-a-generation ACE pilot.",
-        "desc_md": "Jet Lancer is a high-velocity aerial combat shooter where you duel enemy aviators, hunt giant robots, and defy death at supersonic speeds as you evolve from an unknown rookie aviator into a once-in-a-generation ACE pilot.\n\n**Note: This is version 1.0.17!**",
+        "availability": "paid",
+        "desc": "Jet Lancer is a high-velocity aerial combat shooter where you duel enemy aviators, hunt giant robots, and defy death at supersonic speeds as you evolve from an unknown rookie aviator into a once-in-a-generation ACE pilot. ArkOS 1gb devices may crash because of running out of ram!",
+        "desc_md": "Jet Lancer is a high-velocity aerial combat shooter where you duel enemy aviators, hunt giant robots, and defy death at supersonic speeds as you evolve from an unknown rookie aviator into a once-in-a-generation ACE pilot.\n\n**Note: This is version 1.0.17! ArkOS 1gb devices may crash because of running out of ram!**",
         "exp": false,
         "genres": [
           "action"
@@ -39058,16 +39060,30 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from steam or gog.\nHead to https://portmaster.games/ on the specific game files to place in ports/jetlancer/gamedata",
-        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/913060/Jet_Lancer/) OR [GOG](https://www.gog.com/en/game/jet_lancer)\n\n**Steam**: Download the latest version of the game or use steam console and type download_depot 913060 913061 5560224757383287130, copy over all the game file to ports/jetlancer/gamedata\n\n**GOG**: Download Version 1.0.17. Do this by going to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.0.17. Copy over all the game file to ports/jetlancer/gamedata",
+        "inst": "Purchase the game from steam or gog.\nHead to https://portmaster.games/ on the specific game files to place in ports/jetlancer/assets",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/913060/Jet_Lancer/) OR [GOG](https://www.gog.com/en/game/jet_lancer). \n**Steam**: Download the latest version of the game or use steam console and type download_depot 913060 913061 5560224757383287130, copy over all the game file to ports/jetlancer/assets \n**GOG**: Download Version 1.0.17. Do this by going to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.0.17. Copy over all the game file to ports/jetlancer/assets",
         "min_glibc": "",
         "porter": [
           "Fraxinus88",
           "kotzebuedog"
         ],
-        "reqs": [],
+        "reqs": [
+          "power"
+        ],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/913060/Jet_Lancer/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/jet_lancer",
+            "name": "GOG"
+          }
+        ],
         "title": "Jet Lancer"
       },
       "items": [
@@ -39078,12 +39094,12 @@
       "name": "jetlancer.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-21",
-        "md5": "549d4d1aa4abfe9af18aab08ef70e9c1",
-        "release_id": "2024-10-21_0653",
+        "date_updated": "2025-05-14",
+        "md5": "2c6822913445c0e631529ecda9183266",
+        "release_id": "2025-05-14_0927",
         "repo": "main",
-        "size": 45255260,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/jetlancer.zip"
+        "size": 47470456,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/jetlancer.zip"
       },
       "version": 4
     },
@@ -47335,6 +47351,94 @@
       },
       "version": 4
     },
+    "minimonstersgravity.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "free",
+        "desc": "Mini Monsters Gravity Consensus is a charming 2D puzzle game with a unique gravity control mechanic. Perfect for a relaxing evening, it offers simple yet engaging puzzles that progressively challenge you as you unlock new levels and gameplay mechanics, making each step forward more exciting and fun.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from steam here:\nhttps://store.steampowered.com/app/3205470/Mini_Monsters_Gravitational_Consensus/\nand COPY the 'MiniMonsters.pck' file into the root of the portfolder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/app/3205470/Mini_Monsters_Gravitational_Consensus/",
+            "gameurl": "https://store.steampowered.com/app/3205470/Mini_Monsters_Gravitational_Consensus/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Mini Monsters Gravity Consensus"
+      },
+      "items": [
+        "Mini Monsters Gravity Consensus.sh",
+        "minimonstersgravity"
+      ],
+      "items_opt": null,
+      "name": "minimonstersgravity.zip",
+      "source": {
+        "date_added": "2025-05-14",
+        "date_updated": "2025-05-14",
+        "md5": "bfc7df9ba0a96d6ac38a53da4a8024a3",
+        "release_id": "2025-05-14_0927",
+        "repo": "main",
+        "size": 240772,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/minimonstersgravity.zip"
+      },
+      "version": 4
+    },
     "minit.zip": {
       "attr": {
         "arch": [
@@ -49409,12 +49513,12 @@
       "name": "mystikbelle.zip",
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2024-12-16",
-        "md5": "255d29ac9634274b72189b3d39fd99e7",
-        "release_id": "2024-12-16_1130",
+        "date_updated": "2025-05-14",
+        "md5": "b2e344c758829b827627214128e4f4ea",
+        "release_id": "2025-05-14_0927",
         "repo": "main",
-        "size": 9545436,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/mystikbelle.zip"
+        "size": 6312843,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/mystikbelle.zip"
       },
       "version": 2
     },
@@ -57726,7 +57830,9 @@
           "Jeod",
           "kotzebuedog"
         ],
-        "reqs": [],
+        "reqs": [
+          "!lowpower"
+        ],
         "rtr": false,
         "runtime": [
           "dotnet-8.0.12.squashfs"
@@ -57748,12 +57854,12 @@
       "name": "pizzatower.zip",
       "source": {
         "date_added": "2025-05-12",
-        "date_updated": "2025-05-12",
-        "md5": "b25c72cf2c961db95e5920db1ed71d38",
-        "release_id": "2025-05-12_1413",
+        "date_updated": "2025-05-14",
+        "md5": "1981b9228b3006457e99aa903c247f59",
+        "release_id": "2025-05-14_0927",
         "repo": "main",
-        "size": 32260101,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/pizzatower.zip"
+        "size": 32260122,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/pizzatower.zip"
       },
       "version": 4
     },
@@ -58990,7 +59096,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2025-05-12",
@@ -67480,6 +67586,95 @@
       },
       "version": 2
     },
+    "shackle.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A ball and chain obstructs your movement, but do not let it weigh you down. Conquer over 45 levels and learn to use your restraint as your strength.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Thanks Steven Miller (https://steven-miller.itch.io) for creating this game and permitting PortMaster to distribute the files.",
+        "inst_md": "Ready to run. Thanks [Steven Miller](https://steven-miller.itch.io) for creating this game and permitting PortMaster to distribute the files.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://steven-miller.itch.io",
+            "gameurl": "https://steven-miller.itch.io/shackle",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Shackle"
+      },
+      "items": [
+        "Shackle.sh",
+        "shackle"
+      ],
+      "items_opt": null,
+      "name": "shackle.zip",
+      "source": {
+        "date_added": "2025-05-14",
+        "date_updated": "2025-05-14",
+        "md5": "94c64a6bfb9bb68d85a8dd52a7ef07af",
+        "release_id": "2025-05-14_0927",
+        "repo": "main",
+        "size": 25424994,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/shackle.zip"
+      },
+      "version": 4
+    },
     "shadow.warrior.zip": {
       "attr": {
         "arch": [
@@ -69485,8 +69680,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smb1.png",
-            "cover.smbll.png"
+            "cover.smbll.png",
+            "cover.smb1.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -71374,7 +71569,7 @@
     "sonictimetwisted.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -71400,10 +71595,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -71446,12 +71645,12 @@
       "name": "sonictimetwisted.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-09-14",
-        "md5": "96495e402124b60f83e0f55e95bf6ea6",
-        "release_id": "2024-09-14_2311",
+        "date_updated": "2025-05-14",
+        "md5": "9a1bf7a382f15a8f217e55c571610929",
+        "release_id": "2025-05-14_0927",
         "repo": "main",
-        "size": 99022339,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-14_2311/sonictimetwisted.zip"
+        "size": 99285196,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/sonictimetwisted.zip"
       },
       "version": 2
     },
@@ -74699,6 +74898,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/strikeysisters.zip"
       },
       "version": 2
+    },
+    "submachinelegacy.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Submachine is a hand-drawn puzzle adventure game . You will find yourself in a vast network of desolate locations containing puzzles, secrets, notes and items to collect to help you along the way.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam. \n\nDownload it and copy over all the files from the game [on Windows they should be located in \"C:/Program Files (x86)/Steam/steamapps/common/submachine\"] into \"ports/submachinelegacy/assets/\"",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Yutsu",
+          "Jeod"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.mateuszskutnik.com/",
+            "gameurl": "https://store.steampowered.com/app/1564790/Submachine_Legacy/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Submachine: Legacy"
+      },
+      "items": [
+        "Submachine Legacy.sh",
+        "submachinelegacy"
+      ],
+      "items_opt": null,
+      "name": "submachinelegacy.zip",
+      "source": {
+        "date_added": "2025-05-14",
+        "date_updated": "2025-05-14",
+        "md5": "a272eb8e53b7214fcf403c7f0de8a5f7",
+        "release_id": "2025-05-14_0927",
+        "repo": "main",
+        "size": 7833245,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/submachinelegacy.zip"
+      },
+      "version": 4
     },
     "sudokul.zip": {
       "attr": {
@@ -84446,12 +84741,12 @@
       "name": "vhr.zip",
       "source": {
         "date_added": "2024-11-07",
-        "date_updated": "2025-04-21",
-        "md5": "41ec189b04fd829398633061c45ac0ed",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-05-14",
+        "md5": "233ceb98879aeed43c3589b4e664055c",
+        "release_id": "2025-05-14_0927",
         "repo": "main",
-        "size": 22908926,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/vhr.zip"
+        "size": 22912389,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/vhr.zip"
       },
       "version": 4
     },
@@ -87173,6 +87468,102 @@
       },
       "version": 4
     },
+    "xga.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "This is a Metroidvania aiming to continue Metroid Fusion's focus on horror and the SA-X. Explore a huge, interconnected space station, fighting various monsters, upgrades and boss battles. Avoid XGA as getting caught means certain death....",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download 'XGA-SAGE 2024' from: https://dinar87.itch.io/xga\nExtract the contents from the zip you downloaded and copy all game files to the ports/xga/assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://dinar87.itch.io/xga",
+            "name": "itch.io"
+          }
+        ],
+        "title": "XGA"
+      },
+      "items": [
+        "XGA.sh",
+        "xga"
+      ],
+      "items_opt": null,
+      "name": "xga.zip",
+      "source": {
+        "date_added": "2025-05-14",
+        "date_updated": "2025-05-14",
+        "md5": "639e7ff38d9aa50f8665f8c6b90341b9",
+        "release_id": "2025-05-14_0927",
+        "repo": "main",
+        "size": 22191817,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/xga.zip"
+      },
+      "version": 4
+    },
     "xmoto.zip": {
       "attr": {
         "arch": [
@@ -88792,6 +89183,95 @@
       },
       "version": 4
     },
+    "zeldafop.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Based on the original Zelda NES game, think of it as a third campaign with a few surprises. Takes place after the second game. Includes a randomizer mode for extra runs, though it is recommended the original game is played first.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from itch.io https://vennyhedgie.itch.io/fragments-of-power then place data.win, options.ini, and both .dat files into the assets folder.",
+        "inst_md": "Download from [itch.io](https://vennyhedgie.itch.io/fragments-of-power) then place data.win, options.ini, and both .dat files into the assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "Jeod",
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "title": "The Legend of Zelda: Fragments of Power"
+      },
+      "items": [
+        "The Legend of Zelda Fragments of Power.sh",
+        "zeldafop"
+      ],
+      "items_opt": null,
+      "name": "zeldafop.zip",
+      "source": {
+        "date_added": "2025-05-14",
+        "date_updated": "2025-05-14",
+        "md5": "8e8a9e3e7d406b01827b08e5835ecec8",
+        "release_id": "2025-05-14_0719",
+        "repo": "multiverse",
+        "size": 5069645,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-14_0719/zeldafop.zip"
+      },
+      "version": 4
+    },
     "zeldansq.zip": {
       "attr": {
         "arch": [
@@ -89741,11 +90221,98 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/znax.zip"
       },
       "version": 2
+    },
+    "zzt.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "ZZT is a 1991 action-adventure puzzle video game and game creation system developed and published by Potomac Computer Systems for MS-DOS",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game files are already included.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "ohol-vitaliy"
+        ],
+        "reqs": null,
+        "rtr": true,
+        "runtime": [],
+        "store": null,
+        "title": "ZZT"
+      },
+      "items": [
+        "ZZT.sh",
+        "zzt"
+      ],
+      "items_opt": null,
+      "name": "zzt.zip",
+      "source": {
+        "date_added": "2025-05-13",
+        "date_updated": "2025-05-13",
+        "md5": "155988b456538976dc08dce33470ef42",
+        "release_id": "2025-05-13_0844",
+        "repo": "main",
+        "size": 1285490,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-13_0844/zzt.zip"
+      },
+      "version": 4
     }
   },
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 291
+    "total_ratings": 292
   }
 }
