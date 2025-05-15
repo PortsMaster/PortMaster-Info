@@ -76,10 +76,10 @@
       "items_opt": null,
       "name": "2048.zip",
       "rating": {
-        "average_rating": 2.75,
+        "average_rating": 3.0,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2021-09-10",
@@ -68367,10 +68367,10 @@
       "items_opt": null,
       "name": "shovel.knight.zip",
       "rating": {
-        "average_rating": 4.33,
+        "average_rating": 4.5,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2021-09-10",
@@ -71216,7 +71216,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2022-10-24",
@@ -73715,10 +73715,10 @@
       "items_opt": null,
       "name": "stardewvalley.zip",
       "rating": {
-        "average_rating": 4.88,
+        "average_rating": 4.89,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 8
+        "total_ratings": 9
       },
       "source": {
         "date_added": "2022-07-03",
@@ -80548,7 +80548,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2024-03-08",
@@ -90319,6 +90319,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 295
+    "total_ratings": 300
   }
 }
