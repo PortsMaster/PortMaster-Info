@@ -2353,7 +2353,7 @@
             "url": "https://toq-games.itch.io/annulus"
           }
         ],
-        "title": "annulus"
+        "title": "Annulus"
       },
       "items": [
         "Annulus.sh",
@@ -2363,12 +2363,12 @@
       "name": "annulus.zip",
       "source": {
         "date_added": "2025-03-17",
-        "date_updated": "2025-03-22",
-        "md5": "05dcb451825961831b31f69db46847ed",
-        "release_id": "2025-03-22_2007",
+        "date_updated": "2025-05-18",
+        "md5": "0700893200097f2adcbf91a30b305790",
+        "release_id": "2025-05-18_2138",
         "repo": "main",
-        "size": 9862390,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-22_2007/annulus.zip"
+        "size": 9862391,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-18_2138/annulus.zip"
       },
       "version": 4
     },
@@ -8208,7 +8208,7 @@
     "botvice.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -8234,10 +8234,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -8246,6 +8250,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "Show off your skills and reflexes in this frantic gallery shooter arcade action title - Filled with bullets, bots, and explosions! You play as Erin Saver, who carries out a personal vendetta against the criminal gang the Wildbots while bringing them to justice",
         "desc_md": null,
         "exp": false,
@@ -8253,13 +8258,15 @@
           "action"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game either from https://dyagames.itch.io/bot-vice OR https://store.steampowered.com/app/491040/Bot_Vice/\n\nFor itch: Download Bot Vice (Linux Ubuntu 14.04 LTS) version,  copy all files from /assets to /ports/botvice/gamedata\n\nFor steam: Run steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 491040 491042 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/botvice/gamedata",
-        "inst_md": null,
+        "inst": "Purchase the game either from itch.io or steam.\nDownload the linux version of the game and copy all the game files to /ports/botvice/assets",
+        "inst_md": "Purchase the game either from [itch.io](https://dyagames.itch.io/bot-vice) OR [steam](https://store.steampowered.com/app/491040/Bot_Vice/)\n\nFor itch: Download Bot Vice (Linux Ubuntu 14.04 LTS) version, copy all files from /assets to /ports/botvice/assets\n\nFor steam: Run steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 491040 491042 in the console, when the download is complete, it will tell you the location of the folder, copy all files from /assets to /ports/botvice/assets",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -8267,6 +8274,18 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://dyagames.com/",
+            "gameurl": "https://dyagames.itch.io/bot-vice",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "https://dyagames.com/",
+            "gameurl": "https://store.steampowered.com/app/491040/Bot_Vice/",
+            "name": "Steam"
+          }
+        ],
         "title": "Bot Vice"
       },
       "items": [
@@ -8277,14 +8296,14 @@
       "name": "botvice.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-07-18",
-        "md5": "a9729eec2e30c357540051e11b7e0227",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-05-18",
+        "md5": "1aa7156fb77de8c6655a7410bcf1088b",
+        "release_id": "2025-05-18_2138",
         "repo": "main",
-        "size": 16179378,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/botvice.zip"
+        "size": 22887231,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-18_2138/botvice.zip"
       },
-      "version": 2
+      "version": 4
     },
     "bowlingcross.zip": {
       "attr": {
@@ -12482,6 +12501,103 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-23_1017/caveexpress.zip"
       },
       "version": 2
+    },
+    "cavelotf.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Exploration craft'em-up. Uncover the mysteries of a mountain and forge powerful tools!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation",
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go to https://bitbrain.itch.io/cave/devlog/302573/legend-of-the-forge-update-v01 and download 'cave.exe' from the list of downloads. Put 'cave.exe' into the gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.3.4.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://bitbrain.itch.io/",
+            "gameurl": "https://bitbrain.itch.io/cave/devlog/302573/legend-of-the-forge-update-v01",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Cave Legend Of The Forge"
+      },
+      "items": [
+        "Cave Legend Of The Forge.sh",
+        "cavelotf"
+      ],
+      "items_opt": null,
+      "name": "cavelotf.zip",
+      "source": {
+        "date_added": "2025-05-18",
+        "date_updated": "2025-05-18",
+        "md5": "e598f308b60b84a2137da6e348e5c04b",
+        "release_id": "2025-05-18_2138",
+        "repo": "main",
+        "size": 1090118,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-18_2138/cavelotf.zip"
+      },
+      "version": 4
     },
     "cavepacker.zip": {
       "attr": {
@@ -52076,89 +52192,6 @@
       },
       "version": 2
     },
-    "nuclearthronemobile.zip": {
-      "attr": {
-        "arch": [
-          "armhf"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "This is an open source recreation and is based on Nuclear Throne u19, featuring everything from the final release of u9. Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "All game files are included",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "mattyj513"
-        ],
-        "reqs": [],
-        "rtr": true,
-        "runtime": [],
-        "title": "Nuclear Throne Mobile"
-      },
-      "items": [
-        "Nuclear Throne Mobile.sh",
-        "nuclearthronemobile"
-      ],
-      "items_opt": null,
-      "name": "nuclearthronemobile.zip",
-      "source": {
-        "date_added": "2023-10-21",
-        "date_updated": "2024-07-18",
-        "md5": "cf18ba9b0763f18ac3b1be7e532057eb",
-        "release_id": "2024-07-18_2225",
-        "repo": "main",
-        "size": 123939296,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nuclearthronemobile.zip"
-      },
-      "version": 2
-    },
     "nulldrifter.zip": {
       "attr": {
         "arch": [
@@ -59925,7 +59958,7 @@
           "video": null
         },
         "inst": "Go to RowanFutures itch page here:\nhttps://rowanfuture.itch.io/gbjam12\nDownload 'Professor Lucifer Desktop.zip' then extract the folder and COPY 'ProfessorLucifer.pck' into the root of the portfolder. Launch The Game!",
-        "inst_md": "\n",
+        "inst_md": null,
         "min_glibc": "",
         "porter": [
           "NotYourAveragePaladin"
@@ -59959,12 +59992,12 @@
       },
       "source": {
         "date_added": "2025-04-28",
-        "date_updated": "2025-04-28",
-        "md5": "d43b3c4131b7f7957fe73e8918df164f",
-        "release_id": "2025-04-28_0944",
+        "date_updated": "2025-05-18",
+        "md5": "e23b1f01f560779d51f689b4dd9782eb",
+        "release_id": "2025-05-18_2138",
         "repo": "main",
-        "size": 119290,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/professorlucifer.zip"
+        "size": 119287,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-18_2138/professorlucifer.zip"
       },
       "version": 4
     },
@@ -63701,6 +63734,98 @@
         "repo": "main",
         "size": 7551206,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/revbros.zip"
+      },
+      "version": 4
+    },
+    "revengeofthetitans.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Revenge of the Titans is a game by Puppygames that blends tower defense with real-time strategy elements. You defend Earth\u2019s bases from waves of alien \u201cTitans\u201d by building and upgrading turrets, mining resources, and researching new technologies. The game features a lengthy campaign, extensive tech trees, and retro-inspired visuals.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Linux version of Revenge of the Titans from Humble Bundle and copy the tar to the install directory (unpacking takes a few minutes on first launch).",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "SneakyStarling"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.puppygames.net",
+            "gameurl": "https://www.puppygames.net/revenge-of-the-titans/",
+            "name": "Puppygames"
+          },
+          {
+            "developerurl": "https://www.puppygames.net",
+            "gameurl": "https://www.humblebundle.com/store/puppy-games-ultrabundle",
+            "name": "Humbe Bundle"
+          }
+        ],
+        "title": "Revenge of the Titans"
+      },
+      "items": [
+        "Revenge of the Titans.sh",
+        "revengeofthetitans"
+      ],
+      "items_opt": null,
+      "name": "revengeofthetitans.zip",
+      "source": {
+        "date_added": "2025-05-18",
+        "date_updated": "2025-05-18",
+        "md5": "952fa934830a1702eaadab82a2913949",
+        "release_id": "2025-05-18_2138",
+        "repo": "main",
+        "size": 2366167,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-18_2138/revengeofthetitans.zip"
       },
       "version": 4
     },
@@ -67613,7 +67738,7 @@
     "shackle.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -67639,10 +67764,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -67690,12 +67819,12 @@
       "name": "shackle.zip",
       "source": {
         "date_added": "2025-05-14",
-        "date_updated": "2025-05-14",
-        "md5": "94c64a6bfb9bb68d85a8dd52a7ef07af",
-        "release_id": "2025-05-14_0927",
+        "date_updated": "2025-05-18",
+        "md5": "cea138af569688901f0d18ae813c90b9",
+        "release_id": "2025-05-18_2138",
         "repo": "main",
-        "size": 25424994,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/shackle.zip"
+        "size": 25425778,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-18_2138/shackle.zip"
       },
       "version": 4
     },
