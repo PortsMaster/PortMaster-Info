@@ -2817,10 +2817,10 @@
       "items_opt": null,
       "name": "apotris.zip",
       "rating": {
-        "average_rating": 4.6,
+        "average_rating": 4.67,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 5
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2024-02-05",
@@ -90478,6 +90478,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 310
+    "total_ratings": 311
   }
 }
