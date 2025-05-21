@@ -2188,12 +2188,12 @@
       "name": "angband.zip",
       "source": {
         "date_added": "2024-03-18",
-        "date_updated": "2024-04-01",
-        "md5": "d189730b386d483d03437d2af898cb32",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-05-21",
+        "md5": "b038926e8cab4dc185e3790514af0f80",
+        "release_id": "2025-05-21_0130",
         "repo": "main",
-        "size": 24285800,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/angband.zip"
+        "size": 24285825,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/angband.zip"
       },
       "version": 2
     },
@@ -3435,12 +3435,12 @@
       "name": "arx.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-05-08",
-        "md5": "109254077b338ba219cfae5ea252dc9b",
-        "release_id": "2025-05-08_2151",
+        "date_updated": "2025-05-21",
+        "md5": "6ce94f6a77c29d9c140de7879d98b997",
+        "release_id": "2025-05-21_0130",
         "repo": "main",
-        "size": 16905243,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/arx.zip"
+        "size": 16905324,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/arx.zip"
       },
       "version": 4
     },
@@ -3745,7 +3745,7 @@
         ],
         "availability": "full",
         "desc": "\"Today is the day\"- to finally climb the tower in the forest. Turn windmills to activate platforms, open doors or create shortcuts and make your way to the top in this short, atmospheric platformer about reaching your goals.",
-        "desc_md": "\n",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "adventure",
@@ -3790,12 +3790,12 @@
       },
       "source": {
         "date_added": "2025-04-11",
-        "date_updated": "2025-04-21",
-        "md5": "cbe874676776a4a80ee1819919389bd8",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-05-21",
+        "md5": "c315182c0686aae54b907f02dcb1803a",
+        "release_id": "2025-05-21_0130",
         "repo": "main",
-        "size": 53708,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/atowerintheforest.zip"
+        "size": 53705,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/atowerintheforest.zip"
       },
       "version": 4
     },
@@ -7086,12 +7086,12 @@
       "name": "blockout2.zip",
       "source": {
         "date_added": "2022-10-29",
-        "date_updated": "2024-05-15",
-        "md5": "1ad7bf51db784aaad0ba74f4a6c3f8ce",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2025-05-21",
+        "md5": "ee1e72ab651bed572782b33056f8ef89",
+        "release_id": "2025-05-21_0130",
         "repo": "main",
-        "size": 7700075,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/blockout2.zip"
+        "size": 7700070,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/blockout2.zip"
       },
       "version": 2
     },
@@ -16791,12 +16791,12 @@
       "name": "darkdeity.zip",
       "source": {
         "date_added": "2024-12-07",
-        "date_updated": "2025-03-19",
-        "md5": "664f47e94a7e4857d30ea5bd2049d75a",
-        "release_id": "2025-03-19_1507",
+        "date_updated": "2025-05-21",
+        "md5": "92cb7f454c7caf6ae4f75c0c7840d936",
+        "release_id": "2025-05-21_0130",
         "repo": "main",
-        "size": 12598677,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-19_1507/darkdeity.zip"
+        "size": 11826490,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/darkdeity.zip"
       },
       "version": 4
     },
@@ -35461,12 +35461,12 @@
       "name": "hocoslamfy.zip",
       "source": {
         "date_added": "2022-10-14",
-        "date_updated": "2024-07-18",
-        "md5": "9fc86d7860930c2bb4b4539c382f0531",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-05-21",
+        "md5": "172bdb9af5893e141fef7c89db6774da",
+        "release_id": "2025-05-21_0130",
         "repo": "main",
-        "size": 15548684,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/hocoslamfy.zip"
+        "size": 15548719,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/hocoslamfy.zip"
       },
       "version": 2
     },
@@ -36734,12 +36734,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "9faff829d45be3f7aba7a8ef839557a3",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-05-21",
+        "md5": "f5842e0b9d970a639296cb53cbd312ec",
+        "release_id": "2025-05-21_0130",
         "repo": "main",
-        "size": 27642104,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hydra.castle.labyrinth.zip"
+        "size": 27642149,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/hydra.castle.labyrinth.zip"
       },
       "version": 2
     },
@@ -52198,6 +52198,100 @@
       },
       "version": 2
     },
+    "nubbysnumberfactory.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "demo",
+        "desc": "A plinko-style roguelike where you work at a number factory. Launch your spherical friend, Nubby, down a pegboard to make bigger and bigger numbers! But beware, if you fail to meet your number quota, the sun will explode.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/3191030"
+          }
+        ],
+        "title": "Nubby's Number Factory"
+      },
+      "items": [
+        "Nubby's Number Factory.sh",
+        "nubbysnumberfactory"
+      ],
+      "items_opt": null,
+      "name": "nubbysnumberfactory.zip",
+      "source": {
+        "date_added": "2025-05-21",
+        "date_updated": "2025-05-21",
+        "md5": "ca29b56ed201a22c9758047c240e39e1",
+        "release_id": "2025-05-21_0130",
+        "repo": "main",
+        "size": 33231837,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/nubbysnumberfactory.zip"
+      },
+      "version": 4
+    },
     "nulldrifter.zip": {
       "attr": {
         "arch": [
@@ -52949,6 +53043,99 @@
         "repo": "main",
         "size": 5855750,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/omegastrike.zip"
+      },
+      "version": 4
+    },
+    "omelettes.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Platforms have height. You can move up or down one level at a time. You can push objects on the same level as you. Eggs will break if they fall two or more levels. Eggs will always break if they land in a pan. Make an omelette in each pan to complete a level.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Thanks Steven Miller (https://steven-miller.itch.io) for creating this game and permitting PortMaster to distribute the files.",
+        "inst_md": "Ready to run. Thanks [Steven Miller](https://steven-miller.itch.io) for creating this game and permitting PortMaster to distribute the files.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://steven-miller.itch.io",
+            "gameurl": "https://steven-miller.itch.io/omelettes",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Omelettes"
+      },
+      "items": [
+        "Omelettes.sh",
+        "omelettes"
+      ],
+      "items_opt": null,
+      "name": "omelettes.zip",
+      "source": {
+        "date_added": "2025-05-21",
+        "date_updated": "2025-05-21",
+        "md5": "ec7ad7446bc458729b751dfa0b35fab9",
+        "release_id": "2025-05-21_0130",
+        "repo": "main",
+        "size": 24242291,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/omelettes.zip"
       },
       "version": 4
     },
@@ -54113,12 +54300,12 @@
       "name": "openomf.zip",
       "source": {
         "date_added": "2021-11-06",
-        "date_updated": "2024-07-18",
-        "md5": "063f65e63a55c7d979cd92e2ce52c5b1",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-05-21",
+        "md5": "76a8d3adef19bcb109a9d4e1c4e555f5",
+        "release_id": "2025-05-21_0130",
         "repo": "main",
-        "size": 6616509,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/openomf.zip"
+        "size": 6616542,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/openomf.zip"
       },
       "version": 2
     },
@@ -56946,6 +57133,99 @@
         "repo": "main",
         "size": 5610192,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-11_0117/perfectdark.zip"
+      },
+      "version": 4
+    },
+    "permanence.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Keep things out of your line of sight to leave them the way they were. Objects with solid outlines are in your line of sight, objects with dashed outlines are not. You can move forwards and backwards or rotate.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Thanks Steven Miller (https://steven-miller.itch.io) for creating this game and permitting PortMaster to distribute the files.",
+        "inst_md": "Ready to run. Thanks [Steven Miller](https://steven-miller.itch.io) for creating this game and permitting PortMaster to distribute the files.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://steven-miller.itch.io",
+            "gameurl": "https://steven-miller.itch.io/permanence",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Permanence"
+      },
+      "items": [
+        "Permanence.sh",
+        "permanence"
+      ],
+      "items_opt": null,
+      "name": "permanence.zip",
+      "source": {
+        "date_added": "2025-05-21",
+        "date_updated": "2025-05-21",
+        "md5": "d23961b9493ca383ff567aa947820f95",
+        "release_id": "2025-05-21_0130",
+        "repo": "main",
+        "size": 59271099,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/permanence.zip"
       },
       "version": 4
     },
@@ -65413,12 +65693,12 @@
       "name": "romm.zip",
       "source": {
         "date_added": "2025-05-12",
-        "date_updated": "2025-05-12",
-        "md5": "106e30c68c0a99aa6404751074469559",
-        "release_id": "2025-05-12_1513",
+        "date_updated": "2025-05-21",
+        "md5": "94242ddff2bc42263a31ab8ac0f8275c",
+        "release_id": "2025-05-21_0130",
         "repo": "main",
-        "size": 4465475,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1513/romm.zip"
+        "size": 4465473,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/romm.zip"
       },
       "version": 4
     },
@@ -68000,6 +68280,99 @@
         "repo": "main",
         "size": 11613089,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/shadowwrangler.zip"
+      },
+      "version": 4
+    },
+    "shardsofgod.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "On a distant desert planet, a crime has been committed. As Mother Tiabata and Sister Ava set out to solve the mystery, they soon find themselves facing an impossible conundrum: how does one murder a god?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Shards_of_God_Windows_v1.2.zip from Itch.io and place it into the gamedata folder.\n ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://hvavra.itch.io",
+            "gameurl": "https://hvavra.itch.io/shards-of-god",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Shards of God"
+      },
+      "items": [
+        "Shards of God.sh",
+        "shardsofgod"
+      ],
+      "items_opt": null,
+      "name": "shardsofgod.zip",
+      "source": {
+        "date_added": "2025-05-21",
+        "date_updated": "2025-05-21",
+        "md5": "63a79d62a5c518ab3a277c86caee523f",
+        "release_id": "2025-05-21_0130",
+        "repo": "main",
+        "size": 2323511,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/shardsofgod.zip"
       },
       "version": 4
     },
@@ -78711,6 +79084,104 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thecurseofissyos.zip"
       },
       "version": 2
+    },
+    "thefinalboss.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Play as the Final Boss and crush waves of heroes invading your lair. Features 6 bosses across fantasy, space, and modern scenarios in an '80s-style arcade tribute with unlockable Endless Mode.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game at itch.io (https://carloc.itch.io/the-final-boss) or Steam (https://store.steampowered.com/app/1049670/The_Final_Boss). Download, extract, and copy the game files to the thefinalboss/gamedata folder.",
+        "inst_md": "Purchase the game at [itch.io](https://carloc.itch.io/the-final-boss) or [Steam](https://store.steampowered.com/app/1049670/The_Final_Boss). Download, extract, and copy the game files to the `thefinalboss/gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://carloc.itch.io",
+            "gameurl": "https://carloc.itch.io/the-final-boss",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/developer/carloc",
+            "gameurl": "https://store.steampowered.com/app/1049670/The_Final_Boss",
+            "name": "Steam"
+          }
+        ],
+        "title": "The Final Boss"
+      },
+      "items": [
+        "The Final Boss.sh",
+        "thefinalboss"
+      ],
+      "items_opt": null,
+      "name": "thefinalboss.zip",
+      "source": {
+        "date_added": "2025-05-21",
+        "date_updated": "2025-05-21",
+        "md5": "a4294e5d622742d7b5032f5879f8d9b5",
+        "release_id": "2025-05-21_0130",
+        "repo": "main",
+        "size": 13903682,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/thefinalboss.zip"
+      },
+      "version": 4
     },
     "theflayedman.zip": {
       "attr": {
