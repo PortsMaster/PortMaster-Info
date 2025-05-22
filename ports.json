@@ -52292,6 +52292,89 @@
       },
       "version": 4
     },
+    "nuclearthronemobile.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "This is an open source recreation and is based on Nuclear Throne u19, featuring everything from the final release of u9. Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the `(OLDER, HAS MULTIPLAYER)` apk from https://toncho.itch.io/nuclear-throne-mobile and add to ports/nuclearthronemobile",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "mattyj513"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "title": "Nuclear Throne Mobile"
+      },
+      "items": [
+        "Nuclear Throne Mobile.sh",
+        "nuclearthronemobile"
+      ],
+      "items_opt": null,
+      "name": "nuclearthronemobile.zip",
+      "source": {
+        "date_added": "2023-10-21",
+        "date_updated": "2025-05-22",
+        "md5": "494303f055af3aea485fe41b063a5abc",
+        "release_id": "2025-05-22_1232",
+        "repo": "multiverse",
+        "size": 1519238,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-22_1232/nuclearthronemobile.zip"
+      },
+      "version": 2
+    },
     "nulldrifter.zip": {
       "attr": {
         "arch": [
@@ -59443,12 +59526,12 @@
       },
       "source": {
         "date_added": "2025-05-12",
-        "date_updated": "2025-05-12",
-        "md5": "9ca1e94746aff4cd325d21f3b03e27e4",
-        "release_id": "2025-05-12_1210",
+        "date_updated": "2025-05-22",
+        "md5": "952754b927afec4c2a165251052a1ee9",
+        "release_id": "2025-05-22_1232",
         "repo": "multiverse",
-        "size": 25078149,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-12_1210/pokemmo.zip"
+        "size": 25078611,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-22_1232/pokemmo.zip"
       },
       "version": 4
     },
@@ -70041,8 +70124,8 @@
         ],
         "image": {
           "covers": [
-            "cover.sm.png",
-            "cover.smredux.png"
+            "cover.smredux.png",
+            "cover.sm.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -70212,8 +70295,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smbll.png",
-            "cover.smb1.png"
+            "cover.smb1.png",
+            "cover.smbll.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
