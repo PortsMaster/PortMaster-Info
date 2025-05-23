@@ -8305,6 +8305,99 @@
       },
       "version": 4
     },
+    "bouncinghero.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Bouncing Hero is an extreme auto-jump platformer. Use your skills to control the knight on his pogo stick and avoid the sophisticated traps to conquer the castle!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and place all game files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/999990/Bouncing_Hero/) and place all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/ZPink",
+            "gameurl": "https://store.steampowered.com/app/999990/Bouncing_Hero/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Bouncing Hero"
+      },
+      "items": [
+        "Bouncing Hero.sh",
+        "bouncinghero"
+      ],
+      "items_opt": null,
+      "name": "bouncinghero.zip",
+      "source": {
+        "date_added": "2025-05-23",
+        "date_updated": "2025-05-23",
+        "md5": "62f083c120d3c126f0950f6e5e1a8e0e",
+        "release_id": "2025-05-23_1720",
+        "repo": "main",
+        "size": 14104864,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-23_1720/bouncinghero.zip"
+      },
+      "version": 4
+    },
     "bowlingcross.zip": {
       "attr": {
         "arch": [
@@ -13158,6 +13251,90 @@
       },
       "version": 2
     },
+    "chasmal.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Chasmal is a top down action shooter with procedurally generated elements. Descend into a ruined machine using powerful items to overcome foes and reach the bottom of the depths.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game on Steam and copy the Chasmal.x86_64 into the gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [
+          "frt_3.6.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Daniel%20MacLeod",
+            "gameurl": "https://store.steampowered.com/app/2222830/Chasmal/",
+            "name": "Daniel MacLeod"
+          }
+        ],
+        "title": "Chasmal"
+      },
+      "items": [
+        "Chasmal.sh",
+        "chasmal"
+      ],
+      "items_opt": null,
+      "name": "chasmal.zip",
+      "source": {
+        "date_added": "2025-05-23",
+        "date_updated": "2025-05-23",
+        "md5": "b9cce362f01e13dfa8ff74f2b750764b",
+        "release_id": "2025-05-23_1720",
+        "repo": "main",
+        "size": 79319,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-23_1720/chasmal.zip"
+      },
+      "version": 4
+    },
     "chessisstupid.zip": {
       "attr": {
         "arch": [
@@ -15606,6 +15783,99 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/cropsmare.zip"
       },
       "version": 2
+    },
+    "crunkyfun.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "In Crunky's Fun Rager, you play as Crunky, a bouncy energetic bunny seeking revenge against the mischievous Crunko Pops. Your goal? Keep Crunky hopping, dodge obstacles, and defeat enemies. Jump on Crunko Pops to squash them or collect power-ups that grant Crunky unique abilities.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game on Itch.io (https://carsonk.itch.io/crunkys-fun-rager) and copy the SuperCrunky-v1.0.0-drm-free.zip into the assets folder.",
+        "inst_md": "Download the game on [Itch.io](https://carsonk.itch.io/crunkys-fun-rager) and copy the `SuperCrunky-v1.0.0-drm-free.zip` into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://carsonk.itch.io",
+            "gameurl": "https://carsonk.itch.io/crunkys-fun-rager",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Crunky's Fun Rager"
+      },
+      "items": [
+        "Crunky's Fun Rager.sh",
+        "crunkyfun"
+      ],
+      "items_opt": null,
+      "name": "crunkyfun.zip",
+      "source": {
+        "date_added": "2025-05-23",
+        "date_updated": "2025-05-23",
+        "md5": "365f432eaddaa2f052301db18513e6d9",
+        "release_id": "2025-05-23_1720",
+        "repo": "main",
+        "size": 8658795,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-23_1720/crunkyfun.zip"
+      },
+      "version": 4
     },
     "crushborgs.zip": {
       "attr": {
@@ -24938,6 +25208,99 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/exult.zip"
       },
       "version": 2
+    },
+    "eyecontact.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "The eyes reveal the world around you. Roll the eyes to see the world differently. Fill the sockets with the eyes looking outwards.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://steven-miller.itch.io",
+            "gameurl": "https://steven-miller.itch.io/eye-contact",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Eye Contact"
+      },
+      "items": [
+        "Eye Contact.sh",
+        "eyecontact"
+      ],
+      "items_opt": null,
+      "name": "eyecontact.zip",
+      "source": {
+        "date_added": "2025-05-23",
+        "date_updated": "2025-05-23",
+        "md5": "5e3503b818af5921dca9b2a022fa591c",
+        "release_id": "2025-05-23_1720",
+        "repo": "main",
+        "size": 39774280,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-23_1720/eyecontact.zip"
+      },
+      "version": 4
     },
     "ez.zip": {
       "attr": {
@@ -79168,6 +79531,103 @@
       },
       "version": 2
     },
+    "thedeadprince.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "demo",
+        "desc": "Play the role of a blood magic assassin fulfilling the pact his family made long ago. Use your assortment of magical abilities to sneak through bases, take down guards, and assassinate your target.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "puzzle",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Demo Game is included. But once you see how fun this game is and decide to buy it, get it off STEAM from here, https://store.steampowered.com/app/1810530/The_Dead_Prince/\nTo use the full version: In the Steam client, right-click on the game in your library and select 'Manage', then 'Browse Local Files' and Copy the game files into the port's 'thedeadprince/assets' folder,\nLaunching the full game for the first time may take a moment as it applies a patch, so just be patient.",
+        "inst_md": "Demo Game is included. But once you see how fun this game is and decide to buy it, get it off STEAM from here [Steam](https://store.steampowered.com/app/1810530/The_Dead_Prince)\n\nTo use the full version:\n\n1. In the Steam client, right-click on the game in your Library.\n2. Select Manage \u2192 Browse Local Files.\n3. Copy the game files into the port's `thedeadprince/assets` folder.\n\n**Note:** Launching the full game for the first time may take a moment as it applies a patch, so just be patient.",
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Studio%20Lintex",
+            "gameurl": "https://store.steampowered.com/app/1810530/The_Dead_Prince/",
+            "name": "Steam"
+          }
+        ],
+        "title": "The Dead Prince"
+      },
+      "items": [
+        "The Dead Prince.sh",
+        "thedeadprince"
+      ],
+      "items_opt": null,
+      "name": "thedeadprince.zip",
+      "source": {
+        "date_added": "2025-05-23",
+        "date_updated": "2025-05-23",
+        "md5": "eabe4f23b76be8fe2f86e44d04ab88d7",
+        "release_id": "2025-05-23_1720",
+        "repo": "main",
+        "size": 92060951,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-23_1720/thedeadprince.zip"
+      },
+      "version": 4
+    },
     "thefinalboss.zip": {
       "attr": {
         "arch": [
@@ -79233,7 +79693,7 @@
           "tabreturn"
         ],
         "reqs": [],
-        "rtr": true,
+        "rtr": false,
         "runtime": [],
         "store": [
           {
@@ -79257,12 +79717,12 @@
       "name": "thefinalboss.zip",
       "source": {
         "date_added": "2025-05-21",
-        "date_updated": "2025-05-21",
-        "md5": "a4294e5d622742d7b5032f5879f8d9b5",
-        "release_id": "2025-05-21_0130",
+        "date_updated": "2025-05-23",
+        "md5": "9c7dc9abf59f74597d8f2154b2380be6",
+        "release_id": "2025-05-23_1720",
         "repo": "main",
-        "size": 13903682,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/thefinalboss.zip"
+        "size": 13903679,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-23_1720/thefinalboss.zip"
       },
       "version": 4
     },
@@ -84420,6 +84880,100 @@
       },
       "version": 4
     },
+    "undertaleredyellow.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Undertale Red & Yellow is a mod for the game Undertale that incorporates elements from Undertale Yellow. It features Frisk, accompanied by two ghosts Chara and Clover, as they navigate through the Underground. The mod includes additional content such as new interactions, minigames, and mini-bosses, which significantly extend the gameplay experience.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the contents of your Steam or GOG Windows Undertale install and the ut-red-and-yellow.zip file to ports/undertale/assets.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/391540/Undertale/"
+          }
+        ],
+        "title": "Undertale Red & Yellow"
+      },
+      "items": [
+        "Undertale Red & Yellow.sh",
+        "undertaleredyellow"
+      ],
+      "items_opt": null,
+      "name": "undertaleredyellow.zip",
+      "source": {
+        "date_added": "2025-05-23",
+        "date_updated": "2025-05-23",
+        "md5": "b2eced873f3a0c7072a21e754b4366d1",
+        "release_id": "2025-05-23_1720",
+        "repo": "main",
+        "size": 5467757,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-23_1720/undertaleredyellow.zip"
+      },
+      "version": 4
+    },
     "ungratefulbirdsngd.zip": {
       "attr": {
         "arch": [
@@ -84942,6 +85496,99 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/valhalla.zip"
       },
       "version": 2
+    },
+    "vampiregarden.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "You are a vampire tending to your garden. Be wary of the sun; the light that gives your plants life will take yours away. Grow your garden across 83 levels.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://steven-miller.itch.io",
+            "gameurl": "https://steven-miller.itch.io/vampire-garden",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Vampire Garden"
+      },
+      "items": [
+        "Vampire Garden.sh",
+        "vampiregarden"
+      ],
+      "items_opt": null,
+      "name": "vampiregarden.zip",
+      "source": {
+        "date_added": "2025-05-23",
+        "date_updated": "2025-05-23",
+        "md5": "19828eb3ea449c756daaf26f2ae09ca9",
+        "release_id": "2025-05-23_1720",
+        "repo": "main",
+        "size": 24783498,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-23_1720/vampiregarden.zip"
+      },
+      "version": 4
     },
     "vanillara.zip": {
       "attr": {
