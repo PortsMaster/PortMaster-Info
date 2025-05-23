@@ -17898,10 +17898,10 @@
       "items_opt": null,
       "name": "deathroad.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 3.0,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "1",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-03-26",
@@ -23549,10 +23549,10 @@
       "items_opt": null,
       "name": "dustaet.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.33,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 5
+        "min_rating": "1",
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2025-04-28",
@@ -74693,10 +74693,10 @@
       "items_opt": null,
       "name": "stardewvalley.zip",
       "rating": {
-        "average_rating": 4.89,
+        "average_rating": 4.9,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 9
+        "total_ratings": 10
       },
       "source": {
         "date_added": "2022-07-03",
@@ -91691,6 +91691,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 314
+    "total_ratings": 317
   }
 }
