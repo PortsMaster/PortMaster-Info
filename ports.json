@@ -28132,6 +28132,99 @@
       },
       "version": 4
     },
+    "formlessstar.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Explore The Formless Star, a planet that reshapes itself every time you land. Play as Anemo, a researcher cataloguing 60 unique alien creatures. Each outing reveals new wildlife, new terrain, and new music from songs4lizards, Imogen Mangle, Monkey KG, and splendidland.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://splendidland.itch.io",
+            "gameurl": "https://splendidland.itch.io/formless-star",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Formless Star"
+      },
+      "items": [
+        "Formless Star.sh",
+        "formlessstar"
+      ],
+      "items_opt": null,
+      "name": "formlessstar.zip",
+      "source": {
+        "date_added": "2025-05-24",
+        "date_updated": "2025-05-24",
+        "md5": "bb45cb3d66cb6a6d13b12e93e97de0ec",
+        "release_id": "2025-05-24_1333",
+        "repo": "main",
+        "size": 32606940,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-24_1333/formlessstar.zip"
+      },
+      "version": 4
+    },
     "formula_1_playdate.zip": {
       "attr": {
         "arch": [
@@ -45302,6 +45395,104 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/mableandthewood.zip"
       },
       "version": 2
+    },
+    "madhouse.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "MADHOUSE is a horror action RPG where chibi characters slash and blast enemies in blood-soaked combat. Explore a dreary open world in the story campaign, or fight friends in the chaotic local 4-player versus mode. With retro pixel art and punk horror grit, it delivers macabre, thrilling action. WARNING! This game contains depictions of violence and foul language!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the DEMO from Steam and add the game files to `madhouse/assets`. Wishlist the game!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [
+          "!rk3326"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/3727130/MADHOUSE/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Madhouse"
+      },
+      "items": [
+        "Madhouse.sh",
+        "madhouse"
+      ],
+      "items_opt": null,
+      "name": "madhouse.zip",
+      "source": {
+        "date_added": "2025-05-24",
+        "date_updated": "2025-05-24",
+        "md5": "0597621c0621184ad2479a4a6767ed07",
+        "release_id": "2025-05-24_1333",
+        "repo": "main",
+        "size": 7706915,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-24_1333/madhouse.zip"
+      },
+      "version": 4
     },
     "magicalbroom.zip": {
       "attr": {
