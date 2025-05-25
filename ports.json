@@ -32825,7 +32825,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2023-10-28",
@@ -91882,6 +91882,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 317
+    "total_ratings": 318
   }
 }
