@@ -48680,10 +48680,10 @@
       "items_opt": null,
       "name": "minecraftjava.zip",
       "rating": {
-        "average_rating": 3.67,
+        "average_rating": 4.0,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2025-05-29",
@@ -93864,6 +93864,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 325
+    "total_ratings": 326
   }
 }
