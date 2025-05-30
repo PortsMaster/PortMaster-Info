@@ -189,6 +189,22 @@
     "manufacturer": "Anbernic",
     "name": "Anbernic RG34XX"
   },
+  "rg34xx-sp": {
+    "cfw": {
+      "knulli": {
+        "name": "Knulli"
+      },
+      "muos": {
+        "name": "muOS"
+      },
+      "rocknix": {
+        "name": "ROCKNIX"
+      }
+    },
+    "device": "rg34xx-sp",
+    "manufacturer": "Anbernic",
+    "name": "Anbernic RG34XX SP"
+  },
   "rg351mp": {
     "cfw": {
       "amberelec": {
