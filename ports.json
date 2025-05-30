@@ -39355,10 +39355,10 @@
       "items_opt": null,
       "name": "iortcw.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.0,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "3",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-10-01",
@@ -93864,6 +93864,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 324
+    "total_ratings": 325
   }
 }
