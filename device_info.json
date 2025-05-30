@@ -987,6 +987,105 @@
             "glibc": "2.40"
         }
     },
+    "Anbernic RG34XX SP": {
+        "muOS": {
+            "name": "muos",
+            "version": "N/A",
+            "device": "rg34xx-sp",
+            "manufacturer": "Anbernic",
+            "resolution": [
+                720,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "h700",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "restore",
+                "3:2",
+                "720x480",
+                "muos",
+                "rg34xx-sp",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64",
+            "glibc": "2.38"
+        },
+        "Knulli": {
+            "name": "knulli",
+            "version": "N/A",
+            "device": "rg34xx-sp",
+            "manufacturer": "Anbernic",
+            "resolution": [
+                720,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "h700",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "restore",
+                "3:2",
+                "720x480",
+                "knulli",
+                "rg34xx-sp",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64",
+            "glibc": "2.38"
+        },
+        "ROCKNIX": {
+            "name": "rocknix",
+            "version": "N/A",
+            "device": "rg34xx-sp",
+            "manufacturer": "Anbernic",
+            "resolution": [
+                720,
+                480
+            ],
+            "analogsticks": 2,
+            "cpu": "h700",
+            "capabilities": [
+                "armhf",
+                "power",
+                "aarch64",
+                "opengl",
+                "restore",
+                "3:2",
+                "720x480",
+                "rocknix",
+                "rg34xx-sp",
+                "analog_0",
+                "analog_1",
+                "analog_2",
+                "hires",
+                "wide",
+                "1gb",
+                "2gb"
+            ],
+            "ram": 2048,
+            "primary_arch": "aarch64",
+            "glibc": "2.40"
+        }
+    },
     "Anbernic RG28XX": {
         "muOS": {
             "name": "muos",
