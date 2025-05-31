@@ -7784,7 +7784,7 @@
     "boneraiserminions.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -7811,10 +7811,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -7823,7 +7827,8 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Amass an army of deamonic undead to fight endless waves of heroes intent to end your boneraising ways! In this gothic-horror auto-battle roguelite, use the bones of slain heroes to raise your minions, collect powerful relics and spells, and unlock meta upgrades, all to survive King Gigald's crusade!\n\nNote: This is the older version 3.1 which works with PortMaster!",
+        "availability": "paid",
+        "desc": "Amass an army of undead to fight endless waves of heroes intent to end your boneraising ways! In this gothic auto-battler rogue-lite Survivor-like, use the bones of slain heroes to raise your minions, collect relics and spells, and unlock meta upgrades, all to survive King Gigald's crusade! \nThis has been updated to work with the latest version (v36.14)",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -7837,8 +7842,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from https://store.steampowered.com/app/1944570/Boneraiser_Minions/\nRun steam console via Windows+R: Type: steam://open/console, download version 3.1 by typing: download_depot 1944570 1944571 6000190403203003495 in the console, when the download is complete, it will tell you the location of the folder,  copy the data.win, audiogroup1.dat, audiogroup2.dat and options.ini from the folder to /ports/boneraiserminions/gamedata",
-        "inst_md": "Purchase the game from https://store.steampowered.com/app/1944570/Boneraiser\\_Minions/\nRun steam console via Windows+R: Type: steam://open/console, download version 3.1 by typing: download\\_depot 1944570 1944571 6000190403203003495 in the console, when the download is complete, it will tell you the location of the folder,  copy the data.win, audiogroup1.dat, audiogroup2.dat and options.ini from the folder to /ports/boneraiserminions/gamedata",
+        "inst": "Purchase the game from steam. Download the game and transfer all the game files to ports/boneraiserminions/assets.",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1944570/Boneraiser_Minions/). Open steam console via Windows+R: Type: steam://open/console, download the latest version by typing: download\\\\_depot download_depot 1944570 1944571 7846858657771989862 in the console. When the download is complete, it will tell you the location of the folder. Transfer all the game files to ports/boneraiserminions/assets.",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -7846,6 +7851,13 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://caiysware.com/",
+            "gameurl": "https://store.steampowered.com/app/1944570/Boneraiser_Minions/",
+            "name": "Steam"
+          }
+        ],
         "title": "Boneraiser Minions"
       },
       "items": [
@@ -7856,14 +7868,14 @@
       "name": "boneraiserminions.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2024-11-03",
-        "md5": "8591b1d5e685d2bf5420e61e1f7d5ef3",
-        "release_id": "2024-11-03_1903",
+        "date_updated": "2025-05-31",
+        "md5": "13947f7cd81a52227f33d6e7e4cb99b2",
+        "release_id": "2025-05-31_1354",
         "repo": "main",
-        "size": 11655205,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/boneraiserminions.zip"
+        "size": 15110816,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-31_1354/boneraiserminions.zip"
       },
-      "version": 2
+      "version": 4
     },
     "bonesintheboneyard.zip": {
       "attr": {
@@ -13913,6 +13925,100 @@
       },
       "version": 4
     },
+    "circlebreaker.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Circle Breaker Madness is a brick destroying game. Use balls to destroy the bricks but watch out in this circular playing field, as the ball is always on its way out!\nCatch it and send it back into the center on its mission to destroy the bricks.\nSimple graphics, catchy music and captivating gameplay with arcade and retro feeling.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Itch.io and copy the place Circle Breaker Madness 1.0.1.exe here.txt into the assets folder.",
+        "inst_md": "Purchase the game on [Itch.io](https://goldenforestgames.itch.io/circle-breaker-madness) and copy the place `Circle Breaker Madness 1.0.1.exe` into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://goldenforestgames.itch.io",
+            "gameurl": "https://goldenforestgames.itch.io/circle-breaker-madness",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Circle Breaker Madness"
+      },
+      "items": [
+        "Circle Breaker Madness.sh",
+        "circlebreaker"
+      ],
+      "items_opt": null,
+      "name": "circlebreaker.zip",
+      "source": {
+        "date_added": "2025-05-31",
+        "date_updated": "2025-05-31",
+        "md5": "98136fc8a5d96a60ad08ed7425ce7194",
+        "release_id": "2025-05-31_1354",
+        "repo": "main",
+        "size": 8356384,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-31_1354/circlebreaker.zip"
+      },
+      "version": 4
+    },
     "cityglitch.zip": {
       "attr": {
         "arch": [
@@ -18460,7 +18566,7 @@
     "deltarune.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -18487,10 +18593,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -18513,7 +18623,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download Deltarune v1.10 from https://archive.org/download/dr-ver-archive and unzip to `ports/deltarune/assets`.",
+        "inst": "Download the Deltarune LTS Demo on Steam (switch to the LTS beta branch) or Itch.io and add all files to `ports/deltarune/assets/install`.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -18532,12 +18642,12 @@
       "name": "deltarune.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2025-01-07",
-        "md5": "50e4d46641571269f747f1af292837f9",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2025-05-31",
+        "md5": "7c7177bf8985b7113176390e3c982fd3",
+        "release_id": "2025-05-31_1354",
         "repo": "main",
-        "size": 29634343,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/deltarune.zip"
+        "size": 7998356,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-31_1354/deltarune.zip"
       },
       "version": 4
     },
@@ -93338,7 +93448,7 @@
     "zeroranger.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -93365,10 +93475,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -93377,6 +93491,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "ZeroRanger is a vertically scrolling 2D shoot'em up with heavy emphasis on shooting, dodging and... mystery?",
         "desc_md": null,
         "exp": false,
@@ -93392,20 +93507,33 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "To start the game copy the data.win/game.unx and all the ogg files inside the gamedata folder, then boot the game from the ports menu on your device.",
-        "inst_md": null,
+        "inst": "Copy the contents of your Steam or Itch.io install into the assets folder.",
+        "inst_md": "Copy the contents of your [Steam](https://store.steampowered.com/app/809020/ZeroRanger/) or [Itch.io](https://system-erasure.itch.io/zeroranger) install into the `assets` folder.",
         "min_glibc": "",
         "porter": [
-          "Tekkenfede"
+          "Tekkenfede",
+          "Pika"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/SystemErasure",
+            "gameurl": "https://store.steampowered.com/app/809020/ZeroRanger/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://system-erasure.itch.io/",
+            "gameurl": "https://system-erasure.itch.io/zeroranger",
+            "name": "Itch.io"
+          }
+        ],
         "title": "ZeroRanger"
       },
       "items": [
-        "zeroranger/",
-        "Zeroranger.sh"
+        "Zeroranger.sh",
+        "zeroranger"
       ],
       "items_opt": null,
       "name": "zeroranger.zip",
@@ -93417,14 +93545,14 @@
       },
       "source": {
         "date_added": "2023-09-06",
-        "date_updated": "2024-07-18",
-        "md5": "3cc23ef7c62c0e9c9908b53be2176955",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-05-31",
+        "md5": "00b7dd7ca4145b4b8d92ddeb29bd5cbe",
+        "release_id": "2025-05-31_1354",
         "repo": "main",
-        "size": 5648694,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/zeroranger.zip"
+        "size": 4749049,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-31_1354/zeroranger.zip"
       },
-      "version": 2
+      "version": 4
     },
     "zgloom.zip": {
       "attr": {
