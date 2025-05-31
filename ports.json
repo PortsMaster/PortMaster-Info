@@ -26473,10 +26473,10 @@
       "items_opt": null,
       "name": "fallout1.zip",
       "rating": {
-        "average_rating": 2.0,
-        "max_rating": "2",
+        "average_rating": 3.5,
+        "max_rating": "5",
         "min_rating": "2",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2023-02-16",
@@ -65830,7 +65830,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2024-07-01",
@@ -73035,7 +73035,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-04-10",
@@ -76484,10 +76484,10 @@
       "items_opt": null,
       "name": "stardewvalley.zip",
       "rating": {
-        "average_rating": 4.9,
+        "average_rating": 4.91,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 10
+        "total_ratings": 11
       },
       "source": {
         "date_added": "2022-07-03",
@@ -86963,7 +86963,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2021-09-10",
@@ -93864,6 +93864,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 326
+    "total_ratings": 331
   }
 }
