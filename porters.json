@@ -275,14 +275,14 @@
     "webpage": "https://github.com/Blackerererer",
     "image": ""
   },
-   "nate_____": {
+  "nate_____": {
     "name": "nate_____",
     "social": "",
     "support": "",
     "webpage": "https://github.com/EzDzzIt",
     "image": ""
   },
-   "Slobters": {
+  "Slobters": {
     "name": "Slobters",
     "social": "",
     "support": "",
@@ -290,19 +290,19 @@
     "image": "https://avatars.githubusercontent.com/u/132939843"
   },
   "kotzebuedog": {
-   "name": "kotzebuedog",
-   "social": "https://octodon.social/@cde",
-   "support": "https://ko-fi.com/kotzebuedog",
-   "webpage": "https://github.com/cdeletre",
-   "image": "https://filedn.com/lBqXsBfh35Xfmc9Q2rYVePY/PortMaster/kotzebuedog.png"
+    "name": "kotzebuedog",
+    "social": "https://octodon.social/@cde",
+    "support": "https://ko-fi.com/kotzebuedog",
+    "webpage": "https://github.com/cdeletre",
+    "image": "https://filedn.com/lBqXsBfh35Xfmc9Q2rYVePY/PortMaster/kotzebuedog.png"
   },
   "Ganimoth": {
-   "name": "Ganimoth",
-   "social": "https://x.com/Ganimoth",
-   "support": "",
-   "webpage": "https://github.com/Ganimoth",
-   "image": "https://pbs.twimg.com/profile_images/2444461950/l7cuk6q7o94dvs2wpi6t_400x400.png"
-   },
+    "name": "Ganimoth",
+    "social": "https://x.com/Ganimoth",
+    "support": "",
+    "webpage": "https://github.com/Ganimoth",
+    "image": "https://pbs.twimg.com/profile_images/2444461950/l7cuk6q7o94dvs2wpi6t_400x400.png"
+  },
   "Doronimmo": {
     "name": "Doronimmo",
     "bio": "Guess what? Chicken butt! *hides*",
@@ -318,5 +318,13 @@
     "support": "https://ko-fi.com/binarycounter",
     "webpage": "https://binarycounter.net/",
     "image": "https://avatars.githubusercontent.com/u/5167445?v=4"
+  },
+  "NotYourAveragePaladin": {
+    "name": "NotYourAveragePaladin",
+    "bio": "Stay Positive",
+    "social": "N/A",
+    "support": "N/A",
+    "webpage": "N/A",
+    "image": ""
   }
 }
