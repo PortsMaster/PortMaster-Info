@@ -41151,6 +41151,102 @@
       },
       "version": 4
     },
+    "juurru.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Travel through the roots of ancient flora. 24 tiny caves to solve, and many many roots to grow!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo",
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://kultisti.itch.io/",
+            "gameurl": "https://kultisti.itch.io/juurru",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Juurru"
+      },
+      "items": [
+        "Juurru.sh",
+        "juurru"
+      ],
+      "items_opt": null,
+      "name": "juurru.zip",
+      "source": {
+        "date_added": "2025-06-02",
+        "date_updated": "2025-06-02",
+        "md5": "a908ba65ec24cfbc8cc0c759e9345448",
+        "release_id": "2025-06-02_2033",
+        "repo": "main",
+        "size": 18557143,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-02_2033/juurru.zip"
+      },
+      "version": 4
+    },
     "kaijubigbattel.zip": {
       "attr": {
         "arch": [
@@ -45081,6 +45177,100 @@
       },
       "version": 4
     },
+    "lonelyspace.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A challenging yet atmospheric game where you precisely control a spaceship in zero-gravity. Move carefully, explore the area, find upgrades, and escape!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.0.4.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://popcar2.itch.io",
+            "gameurl": "https://popcar2.itch.io/lonely-space",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "It's Lonely Out in Space"
+      },
+      "items": [
+        "It's Lonely Out in Space.sh",
+        "lonelyspace"
+      ],
+      "items_opt": null,
+      "name": "lonelyspace.zip",
+      "source": {
+        "date_added": "2025-06-02",
+        "date_updated": "2025-06-02",
+        "md5": "639a21fc634035d229bba1c6f05421ab",
+        "release_id": "2025-06-02_2033",
+        "repo": "main",
+        "size": 6059317,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-02_2033/lonelyspace.zip"
+      },
+      "version": 4
+    },
     "loopcat.zip": {
       "attr": {
         "arch": [
@@ -48797,12 +48987,12 @@
       },
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2025-05-29",
-        "md5": "e5da4368175fcef38453d9f2738c063e",
-        "release_id": "2025-05-29_1057",
+        "date_updated": "2025-06-02",
+        "md5": "2d3d40dc16f012096bbfb946067ea8f9",
+        "release_id": "2025-06-02_2033",
         "repo": "main",
-        "size": 75892382,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-29_1057/minecraftjava.zip"
+        "size": 26534356,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-02_2033/minecraftjava.zip"
       },
       "version": 4
     },
@@ -70608,7 +70798,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "availability": "free",
+        "availability": "full",
         "desc": "On a distant desert planet, a crime has been committed. As Mother Tiabata and Sister Ava set out to solve the mystery, they soon find themselves facing an impossible conundrum: how does one murder a god?",
         "desc_md": null,
         "exp": false,
@@ -70621,14 +70811,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the Shards_of_God_Windows_v1.2.zip from Itch.io and place it into the gamedata folder.\n ",
+        "inst": "Ready to run! ",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "Ganimoth"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [],
         "store": [
           {
@@ -70647,12 +70837,12 @@
       "name": "shardsofgod.zip",
       "source": {
         "date_added": "2025-05-21",
-        "date_updated": "2025-05-21",
-        "md5": "63a79d62a5c518ab3a277c86caee523f",
-        "release_id": "2025-05-21_0130",
+        "date_updated": "2025-06-02",
+        "md5": "8b93372f9d7c81dbda07f6fd8b1dd2bc",
+        "release_id": "2025-06-02_2033",
         "repo": "main",
-        "size": 2323511,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/shardsofgod.zip"
+        "size": 133930764,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-02_2033/shardsofgod.zip"
       },
       "version": 4
     },
@@ -79404,6 +79594,102 @@
         "repo": "main",
         "size": 1194819,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_0750/supermethanebros.zip"
+      },
+      "version": 4
+    },
+    "supermutantalienassault.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The Citizen Kane of Super Crate Box clones - dance with death through randomised rooms to clear your space freighter of irradiated aliens in a brutal arcade platformer shooter stuffed to the brim with unlockable weapons, explosives, special abilities and defense moves.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase your game from steam. \nDownload the game and place SuperMutantAlienAssault.exe in ports/supermutantalienassault/",
+        "inst_md": "Purchase your game from [steam](https://store.steampowered.com/app/368680/Super_Mutant_Alien_Assault/). \nDownload the game and place SuperMutantAlienAssault.exe in ports/supermutantalienassault/",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.cybernate.com/",
+            "gameurl": "https://store.steampowered.com/app/368680/Super_Mutant_Alien_Assault/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Super Mutant Alien Assault"
+      },
+      "items": [
+        "Super Mutant Alien Assault.sh",
+        "supermutantalienassault"
+      ],
+      "items_opt": null,
+      "name": "supermutantalienassault.zip",
+      "source": {
+        "date_added": "2025-06-02",
+        "date_updated": "2025-06-02",
+        "md5": "85c936abe09d859b28b3c9e120cf6dcd",
+        "release_id": "2025-06-02_2033",
+        "repo": "main",
+        "size": 7251375,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-02_2033/supermutantalienassault.zip"
       },
       "version": 4
     },
