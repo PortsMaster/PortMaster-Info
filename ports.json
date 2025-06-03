@@ -18642,12 +18642,12 @@
       "name": "deltarune.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2025-05-31",
-        "md5": "7c7177bf8985b7113176390e3c982fd3",
-        "release_id": "2025-05-31_1354",
+        "date_updated": "2025-06-03",
+        "md5": "dc02673d133795e100e13b3f42ccfe09",
+        "release_id": "2025-06-03_1321",
         "repo": "main",
-        "size": 7998356,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-31_1354/deltarune.zip"
+        "size": 7998626,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-03_1321/deltarune.zip"
       },
       "version": 4
     },
@@ -28129,6 +28129,192 @@
         "repo": "main",
         "size": 3314946,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/flinthook.zip"
+      },
+      "version": 4
+    },
+    "flipofdark.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A small precision platformer where you can instantly flip onto the ceiling and walls. You lost your slice of fruit, and have to get it back.\nFlip of Dark is a fangame for Flip of Light, by Leko.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download flipofdark.zip from itch.io and unzip the contents to ports/flipofdark/assets\n",
+        "inst_md": "Download flipofdark.zip from (itch.io)[https://antidissmist.itch.io/flip-of-dark] and unzip the contents to ports/flipofdark/assets\n",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://antidissmist.github.io/",
+            "gameurl": "https://antidissmist.itch.io/flip-of-dark",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Flip of Dark"
+      },
+      "items": [
+        "Flip of Dark.sh",
+        "flipofdark"
+      ],
+      "items_opt": null,
+      "name": "flipofdark.zip",
+      "source": {
+        "date_added": "2025-06-03",
+        "date_updated": "2025-06-03",
+        "md5": "70559463d21c04895978def379582bc4",
+        "release_id": "2025-06-03_1321",
+        "repo": "main",
+        "size": 7781880,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-03_1321/flipofdark.zip"
+      },
+      "version": 4
+    },
+    "flipoflight.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Taking inspiration from platformers of the last decade, Flip of Light will test genre veterans with mind-bending, gravity-swapping challenges. Run, jump, and flip your way through a variety of vibrant stages, each themed around one chromatic color.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase your game from Itch.io or Steam. \nDownload the latest version of the game and place all your game files in ports/flipoflight/assets",
+        "inst_md": "Purchase your game from [Itch.io](https://leko20.itch.io/flip-of-light) or [Steam](https://store.steampowered.com/app/2015460/Flip_of_Light/). \n\nDownload the latest version of the game and place all your game files in ports/flipoflight/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Flip of Light"
+      },
+      "items": [
+        "Flip of Light.sh",
+        "flipoflight"
+      ],
+      "items_opt": null,
+      "name": "flipoflight.zip",
+      "source": {
+        "date_added": "2025-06-03",
+        "date_updated": "2025-06-03",
+        "md5": "22baa141f49bb42c21cf3a213b1656b7",
+        "release_id": "2025-06-03_1321",
+        "repo": "main",
+        "size": 7997560,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-03_1321/flipoflight.zip"
       },
       "version": 4
     },
@@ -77639,6 +77825,100 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/steelassault.zip"
       },
       "version": 2
+    },
+    "stepbystep.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "In this game, you must reach the door to complete each level. But be careful! You have a limited number of moves to do so. This game is inspired by Warlock's Tower.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://shinutoki.itch.io",
+            "gameurl": "https://shinutoki.itch.io/step-by-step",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Step by Step"
+      },
+      "items": [
+        "Step by Step.sh",
+        "stepbystep"
+      ],
+      "items_opt": null,
+      "name": "stepbystep.zip",
+      "source": {
+        "date_added": "2025-06-03",
+        "date_updated": "2025-06-03",
+        "md5": "b26ff47c7d468bb477b9581ce1b458ee",
+        "release_id": "2025-06-03_1321",
+        "repo": "main",
+        "size": 934738,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-03_1321/stepbystep.zip"
+      },
+      "version": 4
     },
     "stingyseating.zip": {
       "attr": {
