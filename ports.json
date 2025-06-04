@@ -1957,6 +1957,99 @@
       },
       "version": 2
     },
+    "ambidextro.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Ambidextro is a multiplayer for a single player. Learn to control two characters at the same time, one with each hand. Develop your ambidexterity and rescue both the prince and the princess simultaneously.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the file Ambidextro.pck into the folder:  /roms/ports/ambidextro/\n",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "lowlevel.1989"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.majorariatto.com/",
+            "gameurl": "https://store.steampowered.com/app/3445580/Ambidextro/",
+            "name": "steam"
+          },
+          {
+            "developerurl": "https://www.majorariatto.com/",
+            "gameurl": "https://majorariatto.itch.io/ambidextro",
+            "name": "itch"
+          }
+        ],
+        "title": "Ambidextro"
+      },
+      "items": [
+        "Ambidextro.sh",
+        "ambidextro"
+      ],
+      "items_opt": null,
+      "name": "ambidextro.zip",
+      "source": {
+        "date_added": "2025-06-04",
+        "date_updated": "2025-06-04",
+        "md5": "407101d8e9813760111b5f0a89996756",
+        "release_id": "2025-06-04_1759",
+        "repo": "main",
+        "size": 312865,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-04_1759/ambidextro.zip"
+      },
+      "version": 4
+    },
     "ametadatagame.zip": {
       "attr": {
         "arch": [],
@@ -18642,12 +18735,12 @@
       "name": "deltarune.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2025-06-03",
-        "md5": "dc02673d133795e100e13b3f42ccfe09",
-        "release_id": "2025-06-03_1321",
+        "date_updated": "2025-06-04",
+        "md5": "03327cd43e8ce7a253edb0b0cdf6d758",
+        "release_id": "2025-06-04_1759",
         "repo": "main",
-        "size": 7998626,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-03_1321/deltarune.zip"
+        "size": 8004268,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-04_1759/deltarune.zip"
       },
       "version": 4
     },
