@@ -7936,7 +7936,7 @@
           "video": null
         },
         "inst": "Purchase the game from steam. Download the game and transfer all the game files to ports/boneraiserminions/assets.",
-        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1944570/Boneraiser_Minions/). Open steam console via Windows+R: Type: steam://open/console, download the latest version by typing: download\\\\_depot download_depot 1944570 1944571 7846858657771989862 in the console. When the download is complete, it will tell you the location of the folder. Transfer all the game files to ports/boneraiserminions/assets.",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1944570/Boneraiser_Minions/). Open steam console via Windows+R: Type: steam://open/console, download the latest version by typing: `download_depot 1944570 1944571 7846858657771989862` in the console. When the download is complete, it will tell you the location of the folder. Transfer all the game files to ports/boneraiserminions/assets.",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -7961,12 +7961,12 @@
       "name": "boneraiserminions.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2025-05-31",
-        "md5": "13947f7cd81a52227f33d6e7e4cb99b2",
-        "release_id": "2025-05-31_1354",
+        "date_updated": "2025-06-06",
+        "md5": "f296bd07b58976b86e6280c7c0cff156",
+        "release_id": "2025-06-06_1351",
         "repo": "main",
-        "size": 15110816,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-31_1354/boneraiserminions.zip"
+        "size": 15110813,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-06_1351/boneraiserminions.zip"
       },
       "version": 4
     },
@@ -18702,11 +18702,14 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "In this sequel to Undertale, Kris and Susie are drawn into a mysterious Dark World, where they join forces with Ralsei to close the Dark Fountains and restore balance. Along the way, they encounter strange foes, form unlikely friendships, and uncover new mysteries tied to the world of monsters.",
+        "availability": "paid",
+        "desc": "Dive into the parallel story to UNDERTALE! Fight or spare your way through action-packed battles as you explore a mysterious world alongside an endearing cast of new and familiar characters. Chapters 1-4 will be available on launch, with more planned as free updates!",
         "desc_md": null,
         "exp": false,
         "genres": [
-          "adventure"
+          "action",
+          "adventure",
+          "rpg"
         ],
         "image": {
           "covers": [
@@ -18716,7 +18719,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the Deltarune LTS Demo on Steam (switch to the LTS beta branch) or Itch.io and add all files to `ports/deltarune/assets/install`.",
+        "inst": "Choose where to download the game from and add all files to `ports/deltarune/assets/install`.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -18725,6 +18728,18 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1671210/DELTARUNE/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://tobyfox.itch.io/deltarune",
+            "name": "Itch.io"
+          }
+        ],
         "title": "Deltarune"
       },
       "items": [
@@ -18735,12 +18750,12 @@
       "name": "deltarune.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2025-06-04",
-        "md5": "03327cd43e8ce7a253edb0b0cdf6d758",
-        "release_id": "2025-06-04_1759",
+        "date_updated": "2025-06-06",
+        "md5": "5fe9d3ce86cfddac0ee3754aca70d427",
+        "release_id": "2025-06-06_1351",
         "repo": "main",
-        "size": 8004268,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-04_1759/deltarune.zip"
+        "size": 8004405,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-06_1351/deltarune.zip"
       },
       "version": 4
     },
@@ -28287,7 +28302,7 @@
           "video": null
         },
         "inst": "Download flipofdark.zip from itch.io and unzip the contents to ports/flipofdark/assets\n",
-        "inst_md": "Download flipofdark.zip from (itch.io)[https://antidissmist.itch.io/flip-of-dark] and unzip the contents to ports/flipofdark/assets\n",
+        "inst_md": "Download flipofdark.zip from [itch.io](https://antidissmist.itch.io/flip-of-dark) and unzip the contents to ports/flipofdark/assets\n",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -28312,12 +28327,12 @@
       "name": "flipofdark.zip",
       "source": {
         "date_added": "2025-06-03",
-        "date_updated": "2025-06-03",
-        "md5": "70559463d21c04895978def379582bc4",
-        "release_id": "2025-06-03_1321",
+        "date_updated": "2025-06-06",
+        "md5": "c86568343c23f530e2e98e2ab8d1b67f",
+        "release_id": "2025-06-06_1351",
         "repo": "main",
         "size": 7781880,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-03_1321/flipofdark.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-06_1351/flipofdark.zip"
       },
       "version": 4
     },
@@ -43344,8 +43359,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase and download the game from: Steam https://store.steampowered.com/app/2951770/Leap_Year/ or Itch https://managore.itch.io/leap-year Locate your gamefolder and copy all the files from the folder to leapyear/assets/",
-        "inst_md": "Purchase and download the game from: [Steam](https://store.steampowered.com/app/2951770/Leap_Year/) or [Itch](https://managore.itch.io/leap-year) Locate your gamefolder and copy all the files from the folder to leapyear/assets/",
+        "inst": "Purchase and download the game from Itch https://managore.itch.io/leap-year Locate your gamefolder and copy all the files from the folder to leapyear/assets/",
+        "inst_md": "Purchase and download the game from [Itch](https://managore.itch.io/leap-year) Locate your gamefolder and copy all the files from the folder to leapyear/assets/",
         "min_glibc": "",
         "porter": [
           "Sacredev"
@@ -43363,12 +43378,12 @@
       "name": "leapyear.zip",
       "source": {
         "date_added": "2025-02-09",
-        "date_updated": "2025-02-09",
-        "md5": "df5d243fcfbe55eec9f34823c85f8ede",
-        "release_id": "2025-02-09_0212",
+        "date_updated": "2025-06-06",
+        "md5": "3e5647fcbbc6f0a3229ce8fbd262d531",
+        "release_id": "2025-06-06_1351",
         "repo": "main",
-        "size": 8674924,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-09_0212/leapyear.zip"
+        "size": 8670555,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-06_1351/leapyear.zip"
       },
       "version": 4
     },
@@ -74545,12 +74560,12 @@
       },
       "source": {
         "date_added": "2022-10-24",
-        "date_updated": "2025-05-01",
-        "md5": "d3633f62131cef2fa696960f1e4d8c0b",
-        "release_id": "2025-05-01_1304",
+        "date_updated": "2025-06-06",
+        "md5": "3a3f863a7dbea8adcf269b97968d00bd",
+        "release_id": "2025-06-06_1351",
         "repo": "main",
-        "size": 2550996,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/sonic.mania.zip"
+        "size": 2551042,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-06_1351/sonic.mania.zip"
       },
       "version": 4
     },
@@ -89890,6 +89905,105 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/vvvvvv.zip"
       },
       "version": 2
+    },
+    "vylan.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Help Vylan on his journey to regain lost memories, in this Tile-Based platformer. Take on the 100 levels in this game that takes the platformer genre and flips it on its head.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch.io, you can also use the free demo. Copy the Vylan.pck (or VylanDemo.pck) into the gamedata folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1445650/Vylan/) or [Itch.io](https://mostlymadproductions.itch.io/vylan), you can also use the free demo. Copy the `Vylan.pck` (or `VylanDemo.pck`) into the `gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.6.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/curator/44776737",
+            "gameurl": "https://store.steampowered.com/app/1445650/Vylan/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://mostlymadproductions.itch.io",
+            "gameurl": "https://mostlymadproductions.itch.io/vylan",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Vylan"
+      },
+      "items": [
+        "Vylan.sh",
+        "vylan"
+      ],
+      "items_opt": null,
+      "name": "vylan.zip",
+      "source": {
+        "date_added": "2025-06-06",
+        "date_updated": "2025-06-06",
+        "md5": "f53f86c5ae3cf63f31bd74dc8120ee3d",
+        "release_id": "2025-06-06_1351",
+        "repo": "main",
+        "size": 63957,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-06_1351/vylan.zip"
+      },
+      "version": 4
     },
     "wakingmars.zip": {
       "attr": {
