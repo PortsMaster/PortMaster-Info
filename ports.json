@@ -4528,10 +4528,10 @@
       "items_opt": null,
       "name": "balatro.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.4,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2024-04-01",
@@ -12371,10 +12371,10 @@
       "items_opt": null,
       "name": "cave.story-evo.zip",
       "rating": {
-        "average_rating": 3.0,
+        "average_rating": 2.33,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2021-09-10",
@@ -50726,6 +50726,12 @@
       ],
       "items_opt": null,
       "name": "moonlightnew.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-07-02",
         "date_updated": "2024-07-02",
@@ -64146,10 +64152,10 @@
       "items_opt": null,
       "name": "quake.2.zip",
       "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
+        "average_rating": 4.5,
+        "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-09-14",
@@ -64240,10 +64246,10 @@
       "items_opt": null,
       "name": "quake.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 3.67,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 2
+        "min_rating": "1",
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2021-09-10",
@@ -74535,7 +74541,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2022-10-24",
@@ -75156,6 +75162,12 @@
       ],
       "items_opt": null,
       "name": "sorr.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2024-08-16",
@@ -84550,7 +84562,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2024-03-08",
@@ -94651,6 +94663,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 332
+    "total_ratings": 340
   }
 }
