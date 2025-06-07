@@ -18298,10 +18298,10 @@
       "items_opt": null,
       "name": "deathroad.zip",
       "rating": {
-        "average_rating": 3.0,
+        "average_rating": 2.33,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2025-03-26",
@@ -94777,6 +94777,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 340
+    "total_ratings": 341
   }
 }
