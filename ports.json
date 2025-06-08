@@ -1946,6 +1946,12 @@
       ],
       "items_opt": null,
       "name": "am2r.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-12-21",
         "date_updated": "2025-04-25",
@@ -94783,6 +94789,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 343
+    "total_ratings": 344
   }
 }
