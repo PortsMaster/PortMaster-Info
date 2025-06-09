@@ -2047,12 +2047,12 @@
       "name": "ambidextro.zip",
       "source": {
         "date_added": "2025-06-04",
-        "date_updated": "2025-06-04",
-        "md5": "407101d8e9813760111b5f0a89996756",
-        "release_id": "2025-06-04_1759",
+        "date_updated": "2025-06-09",
+        "md5": "155f1d4bfc936d389536be2524c73362",
+        "release_id": "2025-06-09_2012",
         "repo": "main",
-        "size": 312865,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-04_1759/ambidextro.zip"
+        "size": 312988,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/ambidextro.zip"
       },
       "version": 4
     },
@@ -7879,6 +7879,101 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-07_0255/bnbtourn.zip"
       },
       "version": 2
+    },
+    "bombastic.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Play as Splodey, a bomb with an explosive spring in his step! Use his exploding jump to traverse rooms and solve puzzles. Destroy all of the orange blocks and TNT to progress through the levels!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game free at itch.io (https://jamierowan.itch.io/bombastic). Download, extract, and copy the game files to the bombastic/gamedata folder.",
+        "inst_md": "Download the game free at [itch.io](https://jamierowan.itch.io/bombastic). Download, extract, and copy the game files to the `bombastic/gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://jamierowan.itch.io",
+            "gameurl": "https://jamierowan.itch.io/bombastic",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Bombastic"
+      },
+      "items": [
+        "Bombastic.sh",
+        "bombastic"
+      ],
+      "items_opt": null,
+      "name": "bombastic.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "861c5239f9c958d3d6ab2cf83b36740b",
+        "release_id": "2025-06-09_2012",
+        "repo": "main",
+        "size": 13888179,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/bombastic.zip"
+      },
+      "version": 4
     },
     "boneraiserminions.zip": {
       "attr": {
@@ -26802,6 +26897,105 @@
       },
       "version": 2
     },
+    "falseskies.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Create a party, layer on new classes, and uncover the mystery behind the seeming reappearance of a long-gone city in this classicly-styled RPG.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on itch.io (https://feenicks.itch.io/false-skies) or Steam (https://store.steampowered.com/app/1830040/False_Skies). Copy the '.rpg' file to the 'falseskies' folder. You can also play the demo version by following the same steps.",
+        "inst_md": "Purchase the game on [itch.io](https://feenicks.itch.io/false-skies) or [Steam](https://store.steampowered.com/app/1830040/False_Skies). Copy the `.rpg` file to the `falseskies` folder. You can also play the demo version by following the same steps.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://feenicks.itch.io",
+            "gameurl": "https://feenicks.itch.io/false-skies",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Feenicks",
+            "gameurl": "https://store.steampowered.com/app/1830040/False_Skies",
+            "name": "Steam"
+          }
+        ],
+        "title": "False Skies"
+      },
+      "items": [
+        "False Skies.sh",
+        "falseskies"
+      ],
+      "items_opt": null,
+      "name": "falseskies.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "17d7613247e0bb79c56347c0a58300ea",
+        "release_id": "2025-06-09_2012",
+        "repo": "main",
+        "size": 2642821,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/falseskies.zip"
+      },
+      "version": 4
+    },
     "farmner.zip": {
       "attr": {
         "arch": [],
@@ -36748,6 +36942,103 @@
       },
       "version": 2
     },
+    "hojiya.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Hojiya is a 2D adventure platformer in a coastal fantasy world, where the daylight will be crucial for our plant boy protagonist.\nSTORY:\nNogaru and Iara are two brave siblings, will explore forest, jungles, and deserts; by collecting artifacts, challenging cunning creatures, and defeating perilous villains, will find their origins, in this emotive adventure throughout marvelous lands, to uncover the fate of a lost culture.\nSolve mysteries, help people to save their islands of the impending doom caused by the evil corporation Xiphos.\nFEATURES:\nA lot of Items to search,collect and trade!\nVarious creatures and enemies\nand meet the people of this world",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Get 'Hojiya.zip' from https://leafxel.itch.io/hojiya and once you've downloaded it, extract the zip file and copy everything into the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://leafxel.itch.io/",
+            "gameurl": "https://leafxel.itch.io/hojiya",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Hojiya"
+      },
+      "items": [
+        "Hojiya.sh",
+        "hojiya"
+      ],
+      "items_opt": null,
+      "name": "hojiya.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "40886ae46d67d677eb8dcc47242e7ead",
+        "release_id": "2025-06-09_2012",
+        "repo": "main",
+        "size": 14215860,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/hojiya.zip"
+      },
+      "version": 4
+    },
     "holonomy.zip": {
       "attr": {
         "arch": [],
@@ -45347,21 +45638,23 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "This project is a fan-made cross-platform clone of Lode Runner Online: The Mad Monks' Revenge.",
+        "availability": "full",
+        "desc": "A fan-made cross-platform clone of Lode Runner Online: The Mad Monks' Revenge.",
         "desc_md": null,
         "exp": false,
         "genres": [
           "platformer",
           "puzzle"
         ],
+        "igdb_id": 72299,
         "image": {
           "covers": [],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "You can download Lode Runner Online free at: https://mmr.quarkrobot.com/ . Download the Linux version and extract it, and place the game files in the gamedata directory. This has been tested with the LODERUNN-LINUX-2402.tar.gz release.\n\nYou can change controls in the options (cog) menu, but you must **plug in a mouse to assign the gamepad inputs.**\n\nFor the CD soundtrack, download the DLC here: https://mmr.quarkrobot.com/manual/get-started#soundtrack, and place the LR_AUDIO.PRS file in the port's *savadata* folder.",
-        "inst_md": null,
+        "inst": "You can change controls in the options (cog) menu, but you must **plug in a mouse to assign the gamepad inputs.**\n\nFor the CD soundtrack, download the DLC here: https://mmr.quarkrobot.com/manual/get-started#soundtrack -- place the LR_AUDIO.PRS file in the port's savadata folder.",
+        "inst_md": "You can change controls in the options (cog) menu, but you must **plug in a mouse to assign the gamepad inputs.**\n\nFor the CD soundtrack, download the DLC here: [https://mmr.quarkrobot.com/manual/get-started#soundtrack](https://mmr.quarkrobot.com/manual/get-started#soundtrack) -- place the `LR_AUDIO.PRS` file in the port's `savadata` folder.",
         "min_glibc": "",
         "porter": [
           "tabreturn",
@@ -45371,6 +45664,13 @@
         "rtr": true,
         "runtime": [
           "mono-6.12.0.122-aarch64.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://mmr.quarkrobot.com",
+            "gameurl": "https://mmr.quarkrobot.com",
+            "name": "Quark Robot (creator)"
+          }
         ],
         "title": "Lode Runner Online"
       },
@@ -45382,14 +45682,14 @@
       "name": "loderunneronline.zip",
       "source": {
         "date_added": "2024-03-12",
-        "date_updated": "2024-04-09",
-        "md5": "641922a587d52ee1c169e8bf9525fae2",
-        "release_id": "2024-04-09_1309",
+        "date_updated": "2025-06-09",
+        "md5": "d2c528a55a91f77f39aa846326c9b670",
+        "release_id": "2025-06-09_1813",
         "repo": "multiverse",
-        "size": 30491428,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-04-09_1309/loderunneronline.zip"
+        "size": 30491889,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-06-09_1813/loderunneronline.zip"
       },
-      "version": 2
+      "version": 4
     },
     "loguploader.zip": {
       "attr": {
@@ -46701,6 +47001,105 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/mableandthewood.zip"
       },
       "version": 2
+    },
+    "maddeningeu.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A unique, challenging, unnecessarily colourful arcade game with randomly generated circular level design and a wall of death.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam or Itch.io. For Steam version copy all game files into the assets folder. For Itch.io version you unzip the Maddening Euphoria.zip into the assets folder. ",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/725380/Maddening_Euphoria/) or [Itch.io](https://ci.itch.io/maddening-euphoria). For Steam version copy all game files into the `assets` folder. For Itch.io version you unzip the `Maddening Euphoria.zip` into the `assets` folder. ",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/chequeredink",
+            "gameurl": "https://store.steampowered.com/app/725380/Maddening_Euphoria/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://ci.itch.io",
+            "gameurl": "https://ci.itch.io/maddening-euphoria",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Maddening Euphoria"
+      },
+      "items": [
+        "Maddening Euphoria.sh",
+        "maddeningeu"
+      ],
+      "items_opt": null,
+      "name": "maddeningeu.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "eb62be30484a01359b8dad09864dc76f",
+        "release_id": "2025-06-09_2012",
+        "repo": "main",
+        "size": 9124032,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/maddeningeu.zip"
+      },
+      "version": 4
     },
     "madhouse.zip": {
       "attr": {
@@ -49652,6 +50051,189 @@
       },
       "version": 4
     },
+    "minimario.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A Mario fan game that was made using the Pyxel engine.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download at itch.io https://aged99oow.itch.io/mario and place MiniMario.pyxapp into minimario directory",
+        "inst_md": "Download at [itch.io](https://aged99oow.itch.io/mario) and place MiniMario.pyxapp into minimario directory",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "pyxel_2.2.8_python_3.11.squashfs"
+        ],
+        "store": [],
+        "title": "MiniMario"
+      },
+      "items": [
+        "MiniMario.sh",
+        "minimario"
+      ],
+      "items_opt": null,
+      "name": "minimario.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "fa819f073c1f12410baae2cfaa581961",
+        "release_id": "2025-06-09_1813",
+        "repo": "multiverse",
+        "size": 233794,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-06-09_1813/minimario.zip"
+      },
+      "version": 4
+    },
+    "minimetroid.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A Metroid fan game that was made using the Pyxel engine.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download at itch.io https://aged99oow.itch.io/metroid and place MiniMetroid.pyxapp into minimetroid directory",
+        "inst_md": "Download at [itch.io](https://aged99oow.itch.io/metroid) and place MiniMetroid.pyxapp into minimetroid directory",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "pyxel_2.2.8_python_3.11.squashfs"
+        ],
+        "store": [],
+        "title": "MiniMetroid"
+      },
+      "items": [
+        "MiniMetroid.sh",
+        "minimetroid"
+      ],
+      "items_opt": null,
+      "name": "minimetroid.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "8699fcd59168ba3e07608ad003a6675e",
+        "release_id": "2025-06-09_1813",
+        "repo": "multiverse",
+        "size": 445142,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-06-09_1813/minimetroid.zip"
+      },
+      "version": 4
+    },
     "minimonstersgravity.zip": {
       "attr": {
         "arch": [],
@@ -49822,6 +50404,97 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/minit.zip"
       },
       "version": 2
+    },
+    "minizelda.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A ZELDA fan game that was made using the Pyxel engine.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download at itch.io https://aged99oow.itch.io/zelda and place MiniZelda.pyxapp into minizelda directory",
+        "inst_md": "Download at [itch.io](https://aged99oow.itch.io/zelda) and place MiniZelda.pyxapp into minizelda directory",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "pyxel_2.2.8_python_3.11.squashfs"
+        ],
+        "store": [],
+        "title": "MiniZelda"
+      },
+      "items": [
+        "MiniZelda.sh",
+        "minizelda"
+      ],
+      "items_opt": null,
+      "name": "minizelda.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "ed4665fd3e4e94462fbeca0e1b9e7c58",
+        "release_id": "2025-06-09_1813",
+        "repo": "multiverse",
+        "size": 253424,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-06-09_1813/minizelda.zip"
+      },
+      "version": 4
     },
     "mire.zip": {
       "attr": {
@@ -63915,6 +64588,95 @@
       },
       "version": 2
     },
+    "pyxeljack.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "PyxelJack is a card game where the goal is to get a hand value as close to 21 as possible without going over, beating the dealer\u2019s hand to win. It\u2019s all about smart decisions, like when to hit or stand, to outplay the dealer! So its Blackjack but made in Pyxel",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "casino/card"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "pyxel_2.2.8_python_3.11.squashfs"
+        ],
+        "store": [],
+        "title": "PyxelJACK"
+      },
+      "items": [
+        "PyxelJack.sh",
+        "pyxeljack"
+      ],
+      "items_opt": null,
+      "name": "pyxeljack.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "43ba1871447cb66b3ce1f9ab5e83bc9e",
+        "release_id": "2025-06-09_2012",
+        "repo": "main",
+        "size": 7984,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/pyxeljack.zip"
+      },
+      "version": 4
+    },
     "q2pro.zip": {
       "attr": {
         "arch": [
@@ -70887,6 +71649,100 @@
       },
       "version": 4
     },
+    "shackolantern.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "The sun has set and darkness dwells in every corner. A light source, connected by chain, acts as shelter from the night. Keep it close and stay out of the dark.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://steven-miller.itch.io",
+            "gameurl": "https://steven-miller.itch.io/shack-o-lantern",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Shack-o'-Lantern"
+      },
+      "items": [
+        "Shack-o-Lantern.sh",
+        "shackolantern"
+      ],
+      "items_opt": null,
+      "name": "shackolantern.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "32db6a1eb81b13b6f9e3cebb8a4ab99c",
+        "release_id": "2025-06-09_2012",
+        "repo": "main",
+        "size": 25326986,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/shackolantern.zip"
+      },
+      "version": 4
+    },
     "shadow.warrior.zip": {
       "attr": {
         "arch": [
@@ -77296,6 +78152,97 @@
       },
       "version": 2
     },
+    "starship.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A source port of Star Fox 64. Starship features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "simulation"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Follow the guide in the readme to generate your sf64.o2r file.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Starship"
+      },
+      "items": [
+        "Starship.sh",
+        "starship"
+      ],
+      "items_opt": null,
+      "name": "starship.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "469ebc59d4d29928db8ccc9ae9338622",
+        "release_id": "2025-06-09_1813",
+        "repo": "multiverse",
+        "size": 6607449,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-06-09_1813/starship.zip"
+      },
+      "version": 4
+    },
     "starvsthegame.zip": {
       "attr": {
         "arch": [
@@ -81932,6 +82879,63 @@
       },
       "version": 4
     },
+    "tenjutsu48h.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "ace:ALL",
+          "rp5:rocknix",
+          "rpmini:rocknix"
+        ],
+        "availability": "full",
+        "desc": "Your dojo has been attacked by mysterious armed men in black. You have to take it back! Fight enemies, collect DEATH MARKS (ie. skulls) and tag enemies with these marks. Every 10 seconds, marked enemies will die. Some stronger enemies will require more marks to get rid of.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [
+          "opengl",
+          "ultra"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Tenjutsu"
+      },
+      "items": [
+        "Tenjutsu.sh",
+        "tenjutsu48h"
+      ],
+      "items_opt": null,
+      "name": "tenjutsu48h.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "60139b04ffae97d2b9e363a0d2f830b2",
+        "release_id": "2025-06-09_2012",
+        "repo": "main",
+        "size": 26215969,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/tenjutsu48h.zip"
+      },
+      "version": 4
+    },
     "terminus.zip": {
       "attr": {
         "arch": [],
@@ -83979,12 +84983,12 @@
       "name": "tinamp.zip",
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2025-05-29",
-        "md5": "20137e3d2d584ee0640339b1edfb3b7d",
-        "release_id": "2025-05-29_1057",
+        "date_updated": "2025-06-09",
+        "md5": "b951388e0c45cbe4739e0d6d966d01e2",
+        "release_id": "2025-06-09_2012",
         "repo": "main",
-        "size": 88687825,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-29_1057/tinamp.zip"
+        "size": 89897052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/tinamp.zip"
       },
       "version": 4
     },
@@ -87870,6 +88874,100 @@
         "repo": "main",
         "size": 5467757,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-23_1720/undertaleredyellow.zip"
+      },
+      "version": 4
+    },
+    "unfathomable.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Unfathomable! is a first person dungeon crawler featuring 13 randomly generated levels. Delve into ancient and forgotten labyrinths. Explore and collect gear while facing unearthly monsters inspired by Lovecraftian fiction.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://dbisdorf.itch.io",
+            "gameurl": "https://dbisdorf.itch.io/unfathomable",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Unfathomable!"
+      },
+      "items": [
+        "Unfathomable!.sh",
+        "unfathomable"
+      ],
+      "items_opt": null,
+      "name": "unfathomable.zip",
+      "source": {
+        "date_added": "2025-06-09",
+        "date_updated": "2025-06-09",
+        "md5": "31cf13cca44a821f5fc7eff0eb1ab205",
+        "release_id": "2025-06-09_2012",
+        "repo": "main",
+        "size": 303279,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/unfathomable.zip"
       },
       "version": 4
     },
