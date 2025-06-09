@@ -2048,11 +2048,11 @@
       "source": {
         "date_added": "2025-06-04",
         "date_updated": "2025-06-09",
-        "md5": "155f1d4bfc936d389536be2524c73362",
-        "release_id": "2025-06-09_2012",
+        "md5": "3d1a39a65aecd59f60d1d1db62f15f5d",
+        "release_id": "2025-06-09_2213",
         "repo": "main",
-        "size": 312988,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/ambidextro.zip"
+        "size": 312984,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2213/ambidextro.zip"
       },
       "version": 4
     },
