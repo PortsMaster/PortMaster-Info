@@ -14204,12 +14204,12 @@
       "name": "circlebreaker.zip",
       "source": {
         "date_added": "2025-05-31",
-        "date_updated": "2025-05-31",
-        "md5": "98136fc8a5d96a60ad08ed7425ce7194",
-        "release_id": "2025-05-31_1354",
+        "date_updated": "2025-06-10",
+        "md5": "939975e9cd5a85ac2c3ed4648dc8c377",
+        "release_id": "2025-06-10_1636",
         "repo": "main",
-        "size": 8356384,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-31_1354/circlebreaker.zip"
+        "size": 6855581,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-10_1636/circlebreaker.zip"
       },
       "version": 4
     },
@@ -18824,11 +18824,16 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Jeod"
+          "Jeod",
+          "JohnnyOnFlame",
+          "BinaryCounter"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "store": [
           {
             "developerurl": "",
@@ -18851,12 +18856,12 @@
       "name": "deltarune.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2025-06-06",
-        "md5": "5fe9d3ce86cfddac0ee3754aca70d427",
-        "release_id": "2025-06-06_1351",
+        "date_updated": "2025-06-10",
+        "md5": "a7360d6bef0f497408ee6934eceff741",
+        "release_id": "2025-06-10_1636",
         "repo": "main",
-        "size": 8004405,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-06_1351/deltarune.zip"
+        "size": 6447639,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-10_1636/deltarune.zip"
       },
       "version": 4
     },
@@ -36308,6 +36313,97 @@
       },
       "version": 2
     },
+    "hernamewasfire.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A Tarotpunk twin-stick roguelike where you progressively unlock spells and upgrades to defeat hordes of void creatures. Survive the 5 stages of grief and vanquish the Major Allegories.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game at itch.io (https://tissueinu.itch.io/her-name-was-fire) or Steam (https://store.steampowered.com/app/2083840/Her_Name_Was_Fire). Download, extract (if .zip), and copy the HNWF.pck file to the hernamewasfire/gamedata folder.",
+        "inst_md": "Purchase the game at [itch.io](https://tissueinu.itch.io/her-name-was-fire) or [Steam](https://store.steampowered.com/app/2083840/Her_Name_Was_Fire). Download, extract (if .zip), and copy the `HNWF.pck` file to the `hernamewasfire/gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.tissueinu.com",
+            "name": "itch.io",
+            "url": "https://tissueinu.itch.io/her-name-was-fire"
+          },
+          {
+            "developerurl": "https://www.tissueinu.com",
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/2083840/Her_Name_Was_Fire"
+          }
+        ],
+        "title": "Her Name Was Fire"
+      },
+      "items": [
+        "Her Name Was Fire.sh",
+        "hernamewasfire"
+      ],
+      "items_opt": null,
+      "name": "hernamewasfire.zip",
+      "source": {
+        "date_added": "2025-06-10",
+        "date_updated": "2025-06-10",
+        "md5": "054e41ec31c181f9cb41cdce4934f847",
+        "release_id": "2025-06-10_1636",
+        "repo": "main",
+        "size": 50801,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-10_1636/hernamewasfire.zip"
+      },
+      "version": 4
+    },
     "heroes.zip": {
       "attr": {
         "arch": [
@@ -43681,6 +43777,105 @@
         "repo": "main",
         "size": 8670555,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-06_1351/leapyear.zip"
+      },
+      "version": 4
+    },
+    "leapyearmarch.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Continues the adventure for players who have beaten Leap Year and want an even greater challenge. Use the same tools you learned to explore another hand-drawn world that's both larger and much more complex. Master your understanding of game's secrets to complete another month of your calendar.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and download the game from itch.io (https://managore.itch.io/leap-year-march), extract, and copy game files to leapyearmarch/assets. For less powerful devices (like RK3326), rename data.win to data_potato.win",
+        "inst_md": "Purchase and download the game from [itch.io](https://managore.itch.io/leap-year-march), extract, and copy game files to `leapyearmarch/assets`. For less powerful devices (like RK3326), rename `data.win` to `data_potato.win`",
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo",
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://managore.itch.io",
+            "gameurl": "https://managore.itch.io/leap-year-march",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Leap Year: March"
+      },
+      "items": [
+        "Leap Year - March.sh",
+        "leapyearmarch"
+      ],
+      "items_opt": null,
+      "name": "leapyearmarch.zip",
+      "source": {
+        "date_added": "2025-06-10",
+        "date_updated": "2025-06-10",
+        "md5": "072a0182987b8f58e34d7f2d8d6e8a05",
+        "release_id": "2025-06-10_1636",
+        "repo": "main",
+        "size": 8897539,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-10_1636/leapyearmarch.zip"
       },
       "version": 4
     },
@@ -92001,6 +92196,107 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/wizardorb.zip"
       },
       "version": 2
+    },
+    "wizardwizard.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "WizardWizard is a challenging and addicting platformer with tight controls and simple mechanics. The game play is complimented by beautiful pixel graphics and awesome beats by the talented producer _TWC. WizardWizard is easy to pick up and play making for a fun social experience at school or on at a lunch break. WizardWizard is a game with a lot of love and character that will kick your butt and drive you to tears... I hope anyway.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download wizardwizard.exe from itch.io or gamejolt and place it in ports/wizardwizard",
+        "inst_md": "Download wizardwizard.exe from [itch.io](https://crateboy.itch.io/wizardwizard) or [gamejolt](https://gamejolt.com/games/wizardwizard/40702) and place it in ports/wizardwizard",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.indiedb.com/games/wizardwizard",
+            "gameurl": "https://crateboy.itch.io/wizardwizard",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "https://www.indiedb.com/games/wizardwizard",
+            "gameurl": "https://gamejolt.com/games/wizardwizard/40702",
+            "name": "Gamejolt"
+          }
+        ],
+        "title": "WizardWizard"
+      },
+      "items": [
+        "WizardWizard.sh",
+        "wizardwizard"
+      ],
+      "items_opt": null,
+      "name": "wizardwizard.zip",
+      "source": {
+        "date_added": "2025-06-10",
+        "date_updated": "2025-06-10",
+        "md5": "f45694f9fe3b8b80b854cfc92b2a1b56",
+        "release_id": "2025-06-10_1636",
+        "repo": "main",
+        "size": 8208755,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-10_1636/wizardwizard.zip"
+      },
+      "version": 4
     },
     "wizznic.zip": {
       "attr": {
