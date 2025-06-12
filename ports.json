@@ -26079,10 +26079,10 @@
       "items_opt": null,
       "name": "f-zeropocket.zip",
       "rating": {
-        "average_rating": 2.0,
-        "max_rating": "2",
+        "average_rating": 2.5,
+        "max_rating": "3",
         "min_rating": "2",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-01-26",
@@ -96189,6 +96189,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 347
+    "total_ratings": 348
   }
 }
