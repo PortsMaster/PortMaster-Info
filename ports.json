@@ -49880,10 +49880,10 @@
       "items_opt": null,
       "name": "minecraftjava.zip",
       "rating": {
-        "average_rating": 4.43,
+        "average_rating": 4.0,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 7
+        "total_ratings": 8
       },
       "source": {
         "date_added": "2025-05-29",
@@ -96189,6 +96189,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 348
+    "total_ratings": 349
   }
 }
