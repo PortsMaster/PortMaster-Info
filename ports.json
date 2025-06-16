@@ -3227,7 +3227,7 @@
     "arengius.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -3254,10 +3254,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -3266,7 +3270,8 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Arengius is a Shoot 'em up created by Yal, featuring 13 stages with unique hazards and design and powerful bosses. ",
+        "availability": "free",
+        "desc": "The whole galactic federation is under attack by the gigantic organism known only as Arengius! With the federation army under attack on all fronts, only you have a chance to stop Arengius and save the galaxy! The game offers 13 stages full of unique hazards and powerful bosses. ",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -3278,8 +3283,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game (both Lite and Full version works) from https://yaru.itch.io/arengius and extract game file into the gamedata folder.",
-        "inst_md": null,
+        "inst": "Download the game (both Lite and Full version works) from https://yaru.itch.io/arengius and place the zip file into the assets folder.",
+        "inst_md": "Download the game (both `Lite` and `Full` version works) from [Itch.io](https://yaru.itch.io/arengius) and place the zip file into the `assets` folder.",
         "min_glibc": "",
         "porter": [
           "Ganimoth"
@@ -3287,6 +3292,13 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://yaru.itch.io",
+            "gameurl": "https://yaru.itch.io/arengius",
+            "name": "Itch.io"
+          }
+        ],
         "title": "Arengius"
       },
       "items": [
@@ -3297,12 +3309,12 @@
       "name": "arengius.zip",
       "source": {
         "date_added": "2024-09-29",
-        "date_updated": "2024-09-29",
-        "md5": "e38e4e1b261646dc5f3bcf7d37cd90af",
-        "release_id": "2024-09-29_1340",
+        "date_updated": "2025-06-16",
+        "md5": "33637e7b9696444d8a5f8923d8166609",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 12109786,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-29_1340/arengius.zip"
+        "size": 6683406,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/arengius.zip"
       },
       "version": 4
     },
@@ -4596,7 +4608,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "In Banana Duck, you'll experience the sweet taste of pursuing bananas and avoiding all the evil vegetables and saw blades that are there for absolutely no reason. Also, you're a duck that can't swim and dies when it touches the water.",
+        "desc": "Experience the sweet taste of pursuing bananas and avoiding all the evil vegetables and saw blades that are there for absolutely no reason. Also, you're a duck that can't swim and dies when it touches the water.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -4635,12 +4647,12 @@
       },
       "source": {
         "date_added": "2023-09-12",
-        "date_updated": "2024-09-29",
-        "md5": "34daa5f20cd22907eadbd88f542d5962",
-        "release_id": "2024-09-29_1340",
+        "date_updated": "2025-06-16",
+        "md5": "ea35d70c0b29d7c2d5a32874ae48a776",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 7582697,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-29_1340/banana.duck.zip"
+        "size": 7582701,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/banana.duck.zip"
       },
       "version": 2
     },
@@ -5381,7 +5393,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Become a real life bee and also fight god himself. Take on many bosses and wacky levels as a young bee whose life has been drastically changed by a curse maniacally concocted by God.",
+        "desc": "Become a real-life bee and also fight God himself. Take on many bosses and wacky levels as a young bee whose life has been drastically changed by a curse maniacally concocted by God.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -5412,12 +5424,12 @@
       "name": "beemisthecurseofgod.zip",
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-10-15",
-        "md5": "843aea81e2dbbee557a348d1cb731f8f",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2025-06-16",
+        "md5": "39c1bcffc8c123f12b0737ecffadedb4",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 10846293,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/beemisthecurseofgod.zip"
+        "size": 10846300,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/beemisthecurseofgod.zip"
       },
       "version": 4
     },
@@ -10198,7 +10210,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Your aura switches between red and blue every few seconds, hit balls the same color as your aura to gain points. The more balls there are on the screen, the more points you get.",
+        "desc": "Your aura switches between red and blue every few seconds; hit balls the same color as your aura to gain points. The more balls there are on the screen, the more points you get.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -10231,12 +10243,12 @@
       "name": "burst.zip",
       "source": {
         "date_added": "2023-09-14",
-        "date_updated": "2024-10-14",
-        "md5": "2bb2b1809b93a008a2094f7cb8e86a04",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2025-06-16",
+        "md5": "3e5ffc34d31fc011cbf8f953cf77b63a",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 860259,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/burst.zip"
+        "size": 860272,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/burst.zip"
       },
       "version": 2
     },
@@ -18461,7 +18473,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Relive the golden age of arcades playing a game with all the classic 80's/90's space-shooting features. See how far you can get by destroying all enemy robots that are ready to attack planet Earth.",
+        "desc": "Relive the golden age of arcades playing a game with all the classic '80s/'90s space-shooting features. See how far you can get by destroying all enemy robots that are ready to attack planet Earth.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -18492,12 +18504,12 @@
       "name": "deathroids.zip",
       "source": {
         "date_added": "2025-01-15",
-        "date_updated": "2025-05-04",
-        "md5": "104113ee2065f2f87f4ba3bc859f85d2",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "8c8de934cf50efa4caaa3faf0cc72406",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
         "size": 9293546,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/deathroids.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/deathroids.zip"
       },
       "version": 4
     },
@@ -24727,7 +24739,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A 2D psychic noir point-and-click adventure where you play as Lady Tick Tock, a detective who speaks to the dead to solve a string of murders in a dystopian city. With EGA-inspired pixel art and a narrative-focused design free of arcade sequences or dead-ends, the game offers a gripping story you can explore at your own pace.",
+        "desc": "A 2D psychic noir point-and-click adventure where you play as Lady Tick Tock, a detective who speaks to the dead to solve a string of murders in a dystopian city. With EGA-inspired pixel art and a narrative-focused design free of arcade sequences or dead ends, the game offers a gripping story you can explore at your own pace.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -24760,12 +24772,12 @@
       "name": "elsewhereinthenight.zip",
       "source": {
         "date_added": "2025-01-07",
-        "date_updated": "2025-05-04",
-        "md5": "a6493e48725c3a0fd2f356cb3020cbf0",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "98f2deb23571407307da2789f4178d88",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 9062,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/elsewhereinthenight.zip"
+        "size": 9061,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/elsewhereinthenight.zip"
       },
       "version": 4
     },
@@ -29105,7 +29117,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "Explore The Formless Star, a planet that reshapes itself every time you land. Play as Anemo, a researcher cataloguing 60 unique alien creatures. Each outing reveals new wildlife, new terrain, and new music from songs4lizards, Imogen Mangle, Monkey KG, and splendidland.",
+        "desc": "Explore a planet that reshapes itself every time you land. Play as Anemo, a researcher cataloguing 60 unique alien creatures. Each outing reveals new wildlife, new terrain, and new music from songs4lizards, Imogen Mangle, Monkey KG, and splendidland.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -29149,12 +29161,12 @@
       },
       "source": {
         "date_added": "2025-05-24",
-        "date_updated": "2025-05-24",
-        "md5": "bb45cb3d66cb6a6d13b12e93e97de0ec",
-        "release_id": "2025-05-24_1333",
+        "date_updated": "2025-06-16",
+        "md5": "159be85d5cb88ff8b9338dfbaf6c7a87",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 32606940,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-24_1333/formlessstar.zip"
+        "size": 32606934,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/formlessstar.zip"
       },
       "version": 4
     },
@@ -30873,7 +30885,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A super-intense, top-down, closed-arena shooter game inspired by the classic arcade game Smash TV. Get powerful weapons and power-ups, kill huge amounts of enemies, level up, unlock upgrades and beat all the bosses to become the champion of the most violent TV show of all time!",
+        "desc": "A super-intense, top-down, closed-arena shooter game inspired by the classic arcade game Smash TV. Get powerful weapons and power-ups, kill huge amounts of enemies, level up, unlock upgrades, and beat all the bosses to become the champion of the most violent TV show of all time!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -30904,12 +30916,12 @@
       "name": "galaxychampionstv.zip",
       "source": {
         "date_added": "2024-12-05",
-        "date_updated": "2025-05-04",
-        "md5": "0fa619c28ba6159a53b2f91574a9ca6f",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "5e6ba07e86b12da77551099e2f5cfd70",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 7143807,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/galaxychampionstv.zip"
+        "size": 7143809,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/galaxychampionstv.zip"
       },
       "version": 4
     },
@@ -35041,7 +35053,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "An old-school arcade one-screen point-em-up. Emphasis is on skill and beating your friend's high score with a cute seasonal Halloween setting.",
+        "desc": "An old-school arcade one-screen point-em-up. Emphasis is on skill and beating your friend's high score within a cute seasonal Halloween setting.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -35072,12 +35084,12 @@
       "name": "hallowedcandy.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2024-12-09",
-        "md5": "f5f1117136ef28ef51d2f981f06d8ba3",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "939ec49da7ad9905e9214fb3c17dddcf",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 37869643,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/hallowedcandy.zip"
+        "size": 37869651,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/hallowedcandy.zip"
       },
       "version": 4
     },
@@ -36348,7 +36360,7 @@
           "r36s:ALL"
         ],
         "availability": "paid",
-        "desc": "A Tarotpunk twin-stick roguelike where you progressively unlock spells and upgrades to defeat hordes of void creatures. Survive the 5 stages of grief and vanquish the Major Allegories.",
+        "desc": "A tarotpunk twin-stick roguelike where you progressively unlock spells and upgrades to defeat hordes of void creatures. Survive the 5 stages of grief and vanquish the Major Allegories.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -36401,12 +36413,12 @@
       },
       "source": {
         "date_added": "2025-06-10",
-        "date_updated": "2025-06-10",
-        "md5": "054e41ec31c181f9cb41cdce4934f847",
-        "release_id": "2025-06-10_1636",
+        "date_updated": "2025-06-16",
+        "md5": "3985d6b6fd5f63dec52ad510aa158e5d",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
         "size": 50801,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-10_1636/hernamewasfire.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/hernamewasfire.zip"
       },
       "version": 4
     },
@@ -37138,6 +37150,100 @@
         "repo": "main",
         "size": 14215860,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/hojiya.zip"
+      },
+      "version": 4
+    },
+    "holeyhell.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Try to stay alive as you run and jump deeper and deeper into the Holey Hell.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Holey Hell.zip from Itch.io and copy it into the assets folder.",
+        "inst_md": "Download the `Holey Hell.zip` from [Itch.io](https://managore.itch.io/holey-hell) and copy it into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://managore.itch.io",
+            "gameurl": "https://managore.itch.io/holey-hell",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Holey Hell"
+      },
+      "items": [
+        "Holey Hell.sh",
+        "holeyhell"
+      ],
+      "items_opt": null,
+      "name": "holeyhell.zip",
+      "source": {
+        "date_added": "2025-06-16",
+        "date_updated": "2025-06-16",
+        "md5": "683470416c9dd6f2fa76312f3ff19b45",
+        "release_id": "2025-06-16_0931",
+        "repo": "main",
+        "size": 6433809,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/holeyhell.zip"
       },
       "version": 4
     },
@@ -38575,7 +38681,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Pick up the yellow orbs, dodge everything else. Game files are already included and ready to go.",
+        "desc": "Pick up the yellow orbs, dodge everything else.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -38610,12 +38716,12 @@
       "name": "hyper.jump.zip",
       "source": {
         "date_added": "2023-09-14",
-        "date_updated": "2024-04-01",
-        "md5": "1114585f323ab69dc8795bcd2d8ef496",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-06-16",
+        "md5": "a4d52866fd26417304b8b5c7256f9377",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 1494568,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/hyper.jump.zip"
+        "size": 1494564,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/hyper.jump.zip"
       },
       "version": 2
     },
@@ -39605,7 +39711,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A point-and-click game where you must find your way through an infested space ship and discover a way to escape using the resources and environment around you.",
+        "desc": "A point-and-click game where you must find your way through an infested space ship. Discover a way to escape using the resources and environment around you.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -39636,12 +39742,12 @@
       "name": "infested.zip",
       "source": {
         "date_added": "2025-01-20",
-        "date_updated": "2025-05-04",
-        "md5": "b6514cb66013acd88cf29eae281b184d",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "4dcabcaf11a7b0c646220a3351b281d6",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 56010671,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/infested.zip"
+        "size": 56010673,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/infested.zip"
       },
       "version": 4
     },
@@ -43562,7 +43668,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Play as Lawn Buster and trim the grass in randomly generated lawn levels while following an increasingly complex series of rules and priorities.",
+        "desc": "Play as Lawn Buster and trim the grass in randomly generated lawn levels, following an increasingly complex series of rules and priorities.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -43593,12 +43699,12 @@
       "name": "lawnbusterforhire.zip",
       "source": {
         "date_added": "2024-05-22",
-        "date_updated": "2024-10-14",
-        "md5": "5e2e64d971f70b5ebf528741183b4a8f",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2025-06-16",
+        "md5": "d9711e0266c295185e90c39d461699c3",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 12428805,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/lawnbusterforhire.zip"
+        "size": 12428810,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/lawnbusterforhire.zip"
       },
       "version": 4
     },
@@ -43833,7 +43939,7 @@
           "r36s:ALL"
         ],
         "availability": "paid",
-        "desc": "Continues the adventure for players who have beaten Leap Year and want an even greater challenge. Use the same tools you learned to explore another hand-drawn world that's both larger and much more complex. Master your understanding of game's secrets to complete another month of your calendar.",
+        "desc": "Continues the adventure for players who have beaten Leap Year and want an even greater challenge. Use the same tools you learned to explore another hand-drawn world that's both larger and much more complex. Master your understanding of the game's secrets to complete another month of your calendar.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -43876,12 +43982,12 @@
       "name": "leapyearmarch.zip",
       "source": {
         "date_added": "2025-06-10",
-        "date_updated": "2025-06-10",
-        "md5": "072a0182987b8f58e34d7f2d8d6e8a05",
-        "release_id": "2025-06-10_1636",
+        "date_updated": "2025-06-16",
+        "md5": "0bcc6141eb1ad4d6e7066c371141099c",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 8897539,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-10_1636/leapyearmarch.zip"
+        "size": 8897538,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/leapyearmarch.zip"
       },
       "version": 4
     },
@@ -44022,8 +44128,8 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A puzzle platformer where you can only jump twice.",
-        "desc_md": "A puzzle platformer where you can only jump twice.",
+        "desc": "A puzzle-platformer where you can only jump twice.",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "puzzle"
@@ -44055,12 +44161,12 @@
       "name": "legbreaker.zip",
       "source": {
         "date_added": "2024-08-19",
-        "date_updated": "2024-08-19",
-        "md5": "e3c2800f5c2e64c064ac06714a6c5f79",
-        "release_id": "2024-08-19_0815",
+        "date_updated": "2025-06-16",
+        "md5": "85ea18ae480a46bee2c990f5c6401880",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 12956,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-19_0815/legbreaker.zip"
+        "size": 12970,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/legbreaker.zip"
       },
       "version": 4
     },
@@ -45231,7 +45337,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A little game, about a little frog! Jump around through 3 varied stages to collect flies and beetles, while avoiding enemies and hazards along the way!",
+        "desc": "A little game, about a little frog! Jump around through three varied stages to collect flies and beetles, while avoiding enemies and hazards along the way!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -45264,12 +45370,12 @@
       "name": "littlefroggame.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2024-12-09",
-        "md5": "c84e885e72c13029044d059971566dc9",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "17b2952c1265a70b1eeab86677523abd",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 8052,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/littlefroggame.zip"
+        "size": 8064,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/littlefroggame.zip"
       },
       "version": 2
     },
@@ -45496,7 +45602,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A short, story driven action platformer.",
+        "desc": "A short, story driven action platformer. Explore the forsaken city and reveal its mysteries.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -45534,12 +45640,12 @@
       },
       "source": {
         "date_added": "2024-10-12",
-        "date_updated": "2024-12-09",
-        "md5": "fc5404788ebf3171c421fb19a4e5e4bd",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "0f4c37c311c1761d399c8cfd3c09de32",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 18038432,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/lividmeadow.zip"
+        "size": 18038472,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/lividmeadow.zip"
       },
       "version": 4
     },
@@ -48597,7 +48703,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "The goal is to roll the ball over every flashing panel to complete the stage. For each stage you complete, you gain one extra life. If you need to, you can self-destruct (and lose a life) and shatter into ten pieces, killing any enemy which collides with these pieces; you will immediately re-spawn, and the enemy will reappear in 5 seconds.",
+        "desc": "The goal is to roll the ball over every flashing panel to complete the stage. For each stage you complete, you gain one extra life. If you need to, you can self-destruct (and lose a life) and shatter into ten pieces, killing any enemy which collides with these pieces; you'll then immediately re-spawn and the enemy will reappear in 5 seconds.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -48630,12 +48736,12 @@
       "name": "megaball.zip",
       "source": {
         "date_added": "2024-12-17",
-        "date_updated": "2024-12-19",
-        "md5": "42345ab7bf06f2fc5e16b615aa3d6765",
-        "release_id": "2024-12-19_1739",
+        "date_updated": "2025-06-16",
+        "md5": "95eae3255ecd3de15a164140cb9ca095",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 36465,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/megaball.zip"
+        "size": 36477,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/megaball.zip"
       },
       "version": 4
     },
@@ -49841,7 +49947,7 @@
           "r36s:ALL"
         ],
         "availability": "paid",
-        "desc": "Minecraft is a game where you can do pretty much whatever you want. Want to build a giant castle? Go for it. Feel like exploring caves and fighting skeletons? Totally an option. You start in a big, blocky world with nothing, and little by little, you gather, build, explore, and create your own adventures. Whether you're surviving the night or just chilling in Creative mode building dream houses, it\u2019s a game about freedom, creativity, and having fun your own way.\n\nNot all versions are Supported, currently only 1.7.10 (with Forge), 1.13 and 1.16.5 (Fabric only) are supported",
+        "desc": "Minecraft is a game where you can do pretty much whatever you want. Want to build a giant castle? Go for it. Feel like exploring caves and fighting skeletons? Totally an option. You start in a big, blocky world with nothing, and little by little, you gather, build, explore, and create your own adventures. Whether you're surviving the night or just chilling in Creative mode building dream houses, it\u2019s a game about freedom, creativity, and having fun your own way.\n\nNot all versions are Supported, currently only 1.7.10 (with Forge), 1.12 (with Forge) and 1.16.5 (Fabric only) are supported",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -49855,8 +49961,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Install the offical Minecraft Launcher on your PC and then install the version that you want to play, so for example for 1.7.10 Install that but also if you want to use forge install that too\nAfter that Copy the .minecraft folder which is normally placed in %appdata% ( you can access that on windows by pressing WIN + R and then typing %appdata% ) to your minecraftjava folder on your device",
-        "inst_md": null,
+        "inst": " Go on the PortMaster Website to see the instructions ",
+        "inst_md": "To play Minecraft on your device via PortMaster, you\u2019ll need to copy over the necessary game files from your PC. Follow these steps carefully:\n\u2705 Step 1: Prepare Minecraft on Your PC\n\n    Install Minecraft on your PC via the official launcher.\n\n    Launch the version you want to play at least once to make sure all files are generated.\n\n    (Optional but important!)\n    If you want to use a mod loader like Forge or Fabric, install it and launch that version once as well.\n\n\ud83d\udcc2 Step 2: Find the Game Files\n\nOn your PC, Minecraft stores game files in this folder:\n\nC:\\Users\\<YourUsername>\\AppData\\Roaming\\.minecraft\\versions\n\nTo access that folder Press the Windows Key on your Keyboard and R\n    Win + R\nYou should see a new Window called Run, in there write %appdata% and press Enter\n\nNow you should see a .minecraft directory\n\n\ud83d\udcc1 Step 3: Copy to Your PortMaster Device\n\n    Connect your device to your PC or insert the SD card.\n\n    On your device, go to:\n\n    /ports/minecraftjava\n\n    Now copy the earlier found .minecraft Directory from Step 2 into the /ports/minecraftjava folder\n    If it asks to overwrite files press NO !!! ",
         "min_glibc": "",
         "porter": [
           "Damian2809"
@@ -49887,12 +49993,12 @@
       },
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2025-06-02",
-        "md5": "2d3d40dc16f012096bbfb946067ea8f9",
-        "release_id": "2025-06-02_2033",
+        "date_updated": "2025-06-16",
+        "md5": "e45517e00f62724460a196e85ec91527",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 26534356,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-02_2033/minecraftjava.zip"
+        "size": 27281309,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/minecraftjava.zip"
       },
       "version": 4
     },
@@ -52046,7 +52152,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "Run! Jump? Swim?! Mr. Platformer can do it all!",
+        "desc": "Run! Jump? Swim?! Mr. Platformer can do it all! A game from Terry Cavanagh",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -52093,12 +52199,12 @@
       },
       "source": {
         "date_added": "2025-04-08",
-        "date_updated": "2025-05-04",
-        "md5": "409428bdd875e1910c73854e72c8ba7e",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "20dad31baf2b056652b2e2e17af6f156",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 1341197,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/mrplatformer.zip"
+        "size": 1341206,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/mrplatformer.zip"
       },
       "version": 4
     },
@@ -52503,7 +52609,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Fast-paced arcade game packed with action, as if it was taken out directly from the 80's, where Dig Dug meets Bomberman.",
+        "desc": "Fast-paced arcade game packed with action, as if plucked directly from the '80s, where Dig Dug meets Bomberman.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -52538,12 +52644,12 @@
       "name": "murtop.zip",
       "source": {
         "date_added": "2023-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "ccf6e55db47d964585fcdaf0c9b3eba7",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-06-16",
+        "md5": "fd2d10207fa2c03855bd60555e2d26d0",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 49355,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/murtop.zip"
+        "size": 49284,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/murtop.zip"
       },
       "version": 2
     },
@@ -53688,7 +53794,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Navigate 100 levels with six unique characters, each with distinct controls. Dodge deadly fans, evade lasers, hit switches, collect bits, and leap into the void to progress.",
+        "desc": "Navigate 100 levels using six unique characters, each with distinct controls. Dodge deadly fans, evade lasers, hit switches, collect bits, and leap into the void to progress.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -53719,12 +53825,12 @@
       "name": "netouchezpas5.zip",
       "source": {
         "date_added": "2025-01-14",
-        "date_updated": "2025-05-04",
-        "md5": "412fb955412e143ca167814269e8b1bd",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "ebf9bec61c2d5dec6d9a33ecd9e42570",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 10300532,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/netouchezpas5.zip"
+        "size": 10300535,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/netouchezpas5.zip"
       },
       "version": 4
     },
@@ -56199,7 +56305,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Grab your shiny helmet and trusty sword, gather all the valor and honor you have, and show everyone what being the true knight actually means!",
+        "desc": "Grab your shiny helmet and trusty sword, gather all the valor and honor you have, and show everyone what being a true knight actually means!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -56230,12 +56336,12 @@
       "name": "ohmygodlookatthisknight.zip",
       "source": {
         "date_added": "2024-11-13",
-        "date_updated": "2024-12-27",
-        "md5": "06832369aad88ccc0847b25b2d42590d",
-        "release_id": "2024-12-27_1725",
+        "date_updated": "2025-06-16",
+        "md5": "0b590eda59612fcb5feb732313b568d3",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 10593691,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/ohmygodlookatthisknight.zip"
+        "size": 10593698,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/ohmygodlookatthisknight.zip"
       },
       "version": 4
     },
@@ -56370,7 +56476,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "Platforms have height. You can move up or down one level at a time. You can push objects on the same level as you. Eggs will break if they fall two or more levels. Eggs will always break if they land in a pan. Make an omelette in each pan to complete a level.",
+        "desc": "Platforms have height. You can move up or down one level at a time. You can push objects on the same level as you. Eggs will break if they fall two or more levels; eggs will always break if they land in a pan. Make an omelette in each pan to complete a level.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -56408,12 +56514,12 @@
       "name": "omelettes.zip",
       "source": {
         "date_added": "2025-05-21",
-        "date_updated": "2025-05-21",
-        "md5": "ec7ad7446bc458729b751dfa0b35fab9",
-        "release_id": "2025-05-21_0130",
+        "date_updated": "2025-06-16",
+        "md5": "ca0af1d0604a9ea785af45be31660ef7",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 24242291,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/omelettes.zip"
+        "size": 24242294,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/omelettes.zip"
       },
       "version": 4
     },
@@ -60245,7 +60351,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "What do ducks have to do with rabbits? Exactly, adventure and physics stuff are what you are looking for.",
+        "desc": "What do ducks have to do with rabbits? Exactly, adventure and physics stuff are what you're looking for!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -60278,12 +60384,12 @@
       "name": "paused.zip",
       "source": {
         "date_added": "2023-09-10",
-        "date_updated": "2024-07-18",
-        "md5": "66f18ac1df31ed741d656cbbc3c17d0f",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-06-16",
+        "md5": "47300130d0513cc1aa62093b14c3e97d",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 9746131,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/paused.zip"
+        "size": 9746144,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/paused.zip"
       },
       "version": 2
     },
@@ -60600,7 +60706,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "Keep things out of your line of sight to leave them the way they were. Objects with solid outlines are in your line of sight, objects with dashed outlines are not. You can move forwards and backwards or rotate.",
+        "desc": "Objects with solid outlines are in your line of sight, objects with dashed outlines are not. Keep things out of your line of sight to leave them the way they were. You can move forwards and backwards or rotate.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -60644,12 +60750,108 @@
       },
       "source": {
         "date_added": "2025-05-21",
-        "date_updated": "2025-05-21",
-        "md5": "d23961b9493ca383ff567aa947820f95",
-        "release_id": "2025-05-21_0130",
+        "date_updated": "2025-06-16",
+        "md5": "457fb88513c0e54c46fdbd19e372ebbe",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
         "size": 59271099,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/permanence.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/permanence.zip"
+      },
+      "version": 4
+    },
+    "phasingpuller.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Make your way using a Phasing Puller! By phasing through objects, this tool can pull and fasten physical objects to the bypassed item from the other side.\nDespite achieving a remarkable advance in technology, the facility now appears to be forlorn. Enveloped by a desolate atmosphere, an android sets out.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download 'Phasing Puller: Casket v1.002 (ZIP)' from:\nhttps://mvln.itch.io/phasing-puller\nUnzip the file and copy 'data,win' into the assets folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://mvln.itch.io/",
+            "gameurl": "https://mvln.itch.io/phasing-puller",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Phasing Puller"
+      },
+      "items": [
+        "Phasing Puller.sh",
+        "phasingpuller"
+      ],
+      "items_opt": null,
+      "name": "phasingpuller.zip",
+      "source": {
+        "date_added": "2025-06-16",
+        "date_updated": "2025-06-16",
+        "md5": "47a266499009f5af46dccad38907cbdf",
+        "release_id": "2025-06-16_0931",
+        "repo": "main",
+        "size": 7935158,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/phasingpuller.zip"
       },
       "version": 4
     },
@@ -61043,7 +61245,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "This game chronicles the journey of a small slime from a well-known game. The next time you kill Pinky in Terraria, take a moment to consider the trials and adventures that shaped his path.",
+        "desc": "This game follows the untold journey of Pinky, the tiny slime from Terraria. Next time you slay Pinky, pause -- if only for a moment -- to reflect on the adventures, hardships, and quiet heroism that led him to that final encounter.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -61075,12 +61277,12 @@
       "name": "pinky.zip",
       "source": {
         "date_added": "2025-01-15",
-        "date_updated": "2025-05-04",
-        "md5": "89b8ee4ac30e9da09fe6a9ad8c696733",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "b0f9fd40ca1e53c842a91f52837d106a",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 10568440,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/pinky.zip"
+        "size": 10568460,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/pinky.zip"
       },
       "version": 4
     },
@@ -63607,7 +63809,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A puzzle game where you hack light-based prison locks. Use mirrors, splitters, and prisms to guide light, unlocking cells across 50 levels. Relaxing yet challenging!",
+        "desc": "A relaxing yet challenging puzzle game where you hack prison locks using beams of light. Place mirrors, prisms, and splitters to redirect and manipulate lasers, unlocking cells across 50 intricately designed levels.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -63638,12 +63840,12 @@
       "name": "prisnhax.zip",
       "source": {
         "date_added": "2025-01-14",
-        "date_updated": "2025-05-04",
-        "md5": "d420a48fe733e1587a98ace932323c5a",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "2f7bc8cf7c153bd0c2dfdaa1319814c1",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 22153859,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/prisnhax.zip"
+        "size": 22153885,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/prisnhax.zip"
       },
       "version": 4
     },
@@ -64487,7 +64689,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A simple game in which you control a rabbit and eat carrots. If there is a hole, you cannot pass through it as it is, so push the rocks to fill the hole and make a path.",
+        "desc": "A simple game in which you control a rabbit and eat carrots. Push rocks to fill holes and create traversable paths.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -64520,12 +64722,12 @@
       "name": "push.zip",
       "source": {
         "date_added": "2024-12-17",
-        "date_updated": "2024-12-19",
-        "md5": "32270d406d3476a2e262ffce6ab610ad",
-        "release_id": "2024-12-19_1739",
+        "date_updated": "2025-06-16",
+        "md5": "8adcc2054b571aa8c879b9efae3efdb2",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 4909,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/push.zip"
+        "size": 4890,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/push.zip"
       },
       "version": 4
     },
@@ -64747,7 +64949,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Quick abstract arcade game that requires good reflexes and dexterity, but sometimes patience and precision. You control a round being that must avoid Bad Red Shapes. Those enemies will try to cut, smash, shoot, crush, wreck, burn, or shatter you -- so be quick and careful. Collect all keys to unlock blockades and find the teleporter to next level.",
+        "desc": "A quick arcade game of reflexes, precision, and occasional patience. Control a nimble round creature and dodge the relentless Bad Red Shapes -- out to cut, crush, burn, and blast you. Collect keys to unlock blockades and reach the teleporter to escape each level.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -64780,12 +64982,12 @@
       "name": "pyk.zip",
       "source": {
         "date_added": "2024-02-25",
-        "date_updated": "2024-10-14",
-        "md5": "4a7ee559d8ab77a76f30bb543b6ce609",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2025-06-16",
+        "md5": "9849265b7a272f8f6c6201c6c8987fff",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 234584,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/pyk.zip"
+        "size": 234543,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/pyk.zip"
       },
       "version": 2
     },
@@ -65580,7 +65782,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A shooting game, with peculiar characters, strange enemies, weapons, and many explosions. Enter the miniature world and stop the threat.",
+        "desc": "A shooting game with peculiar characters, strange enemies, weapons, and many explosions. Enter the miniature world and stop the threat.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -65612,12 +65814,12 @@
       "name": "qyoblaster.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2024-12-09",
-        "md5": "e4b77d8812b69cba0c3fdfe7e81100c9",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "06e8e2b0b7d9e06489f3b16152f77df5",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 16033438,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/qyoblaster.zip"
+        "size": 16033444,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/qyoblaster.zip"
       },
       "version": 4
     },
@@ -65801,7 +66003,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "An adventure game of exploration and puzzle solving. You have crash landed on Badmark, a hostile frontier planet and tourist hotspot. You must scour the wilderness, ruins, and settlements of this alien world to find replacement parts for your spaceship.",
+        "desc": "Play as a creature stranded on the hostile planet Badmark, a hostile frontier planet and tourist hotspot. To escape, you must scour the wilderness, ruins, and settlements of this alien world to find replacement parts for your spaceship.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -65833,12 +66035,12 @@
       "name": "rambleplanet.zip",
       "source": {
         "date_added": "2024-10-15",
-        "date_updated": "2024-12-09",
-        "md5": "25fa3ea2fd9bda1bee5e37121bc22b20",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "e143a17c647656a5025bef3c4b587df2",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 2701931,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/rambleplanet.zip"
+        "size": 2701925,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/rambleplanet.zip"
       },
       "version": 4
     },
@@ -67025,7 +67227,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Red Triangle Games' collection of short OHR.RPG.CE games all in one place! With nine great games, there's something for everyone in this collection!",
+        "desc": "Red Triangle Games' collection of short OHRRPGCE games all in one place! With nine great games, there's something for everyone in this collection!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -67056,12 +67258,12 @@
       "name": "redtrianglesc.zip",
       "source": {
         "date_added": "2024-11-13",
-        "date_updated": "2025-01-02",
-        "md5": "0a9459fec23d1ead5deec6c075fe03fe",
-        "release_id": "2025-01-02_1923",
+        "date_updated": "2025-06-16",
+        "md5": "bcab04997e4793fb658e49d04c0b794b",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 221254004,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/redtrianglesc.zip"
+        "size": 221254002,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/redtrianglesc.zip"
       },
       "version": 4
     },
@@ -72074,7 +72276,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Your shadows have split from you and you must guide them to the exit. You can move at will, but the shadows need to be given commands. Pick up command boxes (turn, jump, explode) and drop them where you want the shadows to act.",
+        "desc": "Your shadows have split from you and you must guide them to the exit. You can move at will, but the shadows require commands. Pick up command boxes (turn, jump, explode) and drop them where you want the shadows to act.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -72106,12 +72308,12 @@
       "name": "shadowwrangler.zip",
       "source": {
         "date_added": "2025-01-08",
-        "date_updated": "2025-05-04",
-        "md5": "58f07e261b765e186bc62f12a3a407ed",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "24caad83c9efd848224eea07058b31ed",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 11613089,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/shadowwrangler.zip"
+        "size": 11613084,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/shadowwrangler.zip"
       },
       "version": 4
     },
@@ -72973,7 +73175,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "SIEGE OF OSAKA is a retro hybrid of Beat-em-up and Brick Breaker. Send enemy ninja rolling into walls and fortifications to bring down their castles. Localized/parodied for American audiences.",
+        "desc": "A retro hybrid of beat-em-up and brick-breaker. Send enemy ninjas rolling into walls and fortifications to bring down castles. Localized/parodied for American audiences.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -73007,12 +73209,12 @@
       "name": "siegeofosaka.zip",
       "source": {
         "date_added": "2023-11-04",
-        "date_updated": "2025-01-14",
-        "md5": "9606670548e01bf808e03787b2f62479",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-06-16",
+        "md5": "49a649b5dd31649fa588bdf112c1edf3",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 21025598,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/siegeofosaka.zip"
+        "size": 21025572,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/siegeofosaka.zip"
       },
       "version": 4
     },
@@ -77222,7 +77424,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Run, jump and shoot everything that stands in your way. Then you die and try again. Maybe a bit more wiser about what challenges lie ahead, maybe with an idea on how to escape this situation, or maybe not.",
+        "desc": "Run, jump, and shoot everything that stands in your way. Then die and try again. Maybe a bit wiser about what lies ahead. Maybe with an escape plan. Maybe not.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -77256,12 +77458,12 @@
       "name": "splinterzone.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2024-10-27",
-        "md5": "77a231d8fe4ab8f1a94b21bf885532ae",
-        "release_id": "2024-10-27_1327",
+        "date_updated": "2025-06-16",
+        "md5": "b158c4c323c5127dda149b751120971c",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 10288177,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/splinterzone.zip"
+        "size": 10288157,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/splinterzone.zip"
       },
       "version": 4
     },
@@ -77933,7 +78135,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "During its journey StarBoy crashed and got lost in an unknown planet, help him return back to its spaceship!",
+        "desc": "During a journey, StarBoy crashed and got lost on an unknown planet; help him return to its spaceship!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -77974,12 +78176,12 @@
       },
       "source": {
         "date_added": "2023-09-10",
-        "date_updated": "2024-10-01",
-        "md5": "f94e005f9b0380f6197e072d04fc8616",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2025-06-16",
+        "md5": "34ce470f31f72a2963abe464b3f3ce10",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 29486,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/starboy.zip"
+        "size": 29494,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/starboy.zip"
       },
       "version": 2
     },
@@ -78900,12 +79102,12 @@
       },
       "source": {
         "date_added": "2025-05-08",
-        "date_updated": "2025-05-08",
-        "md5": "68a59f5ab86f27c2ac35c90b1afa9b23",
-        "release_id": "2025-05-08_0303",
+        "date_updated": "2025-06-16",
+        "md5": "c5723a7ae11071e4cb030d76c17296a0",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 9724353,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_0303/steamworlddig2.zip"
+        "size": 9724352,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/steamworlddig2.zip"
       },
       "version": 4
     },
@@ -80381,7 +80583,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "One day, Simon Pray -- a pest extinguisher living in Mexico, where for some reason pests are nowhere to be found -- receives a call from a luxurious mansion offering him a job. Something doesn't seem right, but Simon doesn't have time to think about it, he needs the money!",
+        "desc": "One day, Simon Pray -- a down-on-his-luck pest exterminator in a strangely pest-free Mexico -- receives a mysterious job offer from a lavish mansion. Something feels off, but Simon doesn't have time for second thoughts. He needs the money.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -80416,12 +80618,12 @@
       "name": "superdrome.bugs.zip",
       "source": {
         "date_added": "2024-01-22",
-        "date_updated": "2024-10-14",
-        "md5": "eb52f907290a3bc1576621b1c0113ea7",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2025-06-16",
+        "md5": "36ef9bc51245a32868ccf599e846fea5",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
         "size": 24018,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/superdrome.bugs.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/superdrome.bugs.zip"
       },
       "version": 2
     },
@@ -81449,7 +81651,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Dive into Super Skelemania, a single-sitting metroidvania about an acrobatic skeleton. Jump over a pit of thorns, roll your skull like a bowling ball, or headbutt a spider like any good skeleton would!",
+        "desc": "A single-sitting metroidvania about an acrobatic skeleton. Jump over a pit of thorns, roll your skull like a bowling ball, or headbutt a spider like any good skeleton would!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -81480,12 +81682,12 @@
       "name": "superskelemania.zip",
       "source": {
         "date_added": "2024-10-17",
-        "date_updated": "2024-10-17",
-        "md5": "e42c60b6103c8f251f304c803e7c5bdd",
-        "release_id": "2024-10-17_1221",
+        "date_updated": "2025-06-16",
+        "md5": "804bb11f1339b60bcb47eb8f92e8c5d0",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
         "size": 5516423,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_1221/superskelemania.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/superskelemania.zip"
       },
       "version": 4
     },
@@ -83039,7 +83241,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "What if you could replay the past?",
+        "desc": "What if you could replay the past? A short puzzle-platformer where you can record and playback snapshots in time.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -83071,12 +83273,12 @@
       "name": "tempuslocus.zip",
       "source": {
         "date_added": "2024-10-09",
-        "date_updated": "2024-10-15",
-        "md5": "d9b054ccabefdc26cbb5cad4ee7d3519",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2025-06-16",
+        "md5": "14ce81ca28139c8aefff1c14d445582b",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 19175079,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/tempuslocus.zip"
+        "size": 19175126,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/tempuslocus.zip"
       },
       "version": 4
     },
@@ -83352,7 +83554,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A psychological thriller first-person point-and-click adventure game set in the Victorian era, with an emphasis on strong narrative, intriguing characters, and puzzle-solving.",
+        "desc": "A psychological thriller, first-person point-and-click adventure game set in the Victorian era, with an emphasis on strong narrative, intriguing characters, and puzzle-solving.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -83383,12 +83585,12 @@
       "name": "thecorruptionwithin.zip",
       "source": {
         "date_added": "2024-12-05",
-        "date_updated": "2025-05-04",
-        "md5": "c91a2d1affb993ce45e5ebb45593acb4",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "a95b7800204f645a868281d6af499398",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 13940775,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/thecorruptionwithin.zip"
+        "size": 13940776,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/thecorruptionwithin.zip"
       },
       "version": 4
     },
@@ -84335,7 +84537,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "The story of Lizzy, a tough and resourceful plainswoman, and her struggle against supernatural forces around her isolated home. It's a short retro-inspired pixel horror game based on THE WIND (2019) directed by Emma Tammi.",
+        "desc": "The story of Lizzy, a tough and resourceful plainswoman, and her struggle against supernatural forces around her isolated home. A short retro-inspired pixel horror game based on The Wind (2018) directed by Emma Tammi.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -84368,12 +84570,12 @@
       "name": "thewind.zip",
       "source": {
         "date_added": "2024-10-30",
-        "date_updated": "2024-12-09",
-        "md5": "06ffdf5723c5e0725bc46b9d9dfb0ace",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "efabcc68f5cdd66458cebc8d57623b32",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 11546539,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/thewind.zip"
+        "size": 11546544,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/thewind.zip"
       },
       "version": 4
     },
@@ -84696,7 +84898,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Funky-legged tennis game. Thwack demo/jam files are already included and ready to go. Optionally, you can purchase the full game and play that instead.",
+        "desc": "A funky-legged tennis game. Thwack demo/jam files are already included and ready to go. Optionally, you can purchase the full game and play that instead.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -84731,12 +84933,12 @@
       "name": "thwack.zip",
       "source": {
         "date_added": "2023-09-10",
-        "date_updated": "2024-10-14",
-        "md5": "489ec1163139b6be1bc074beef026e46",
-        "release_id": "2024-10-14_0748",
+        "date_updated": "2025-06-16",
+        "md5": "daa756faddd3819415ade39fc6ce815d",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 7496763,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-14_0748/thwack.zip"
+        "size": 7496775,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/thwack.zip"
       },
       "version": 2
     },
@@ -86284,7 +86486,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A prequel mystery game that follows the journey of a soldier before the events of the full-length RPG, Towards The Pantheon. Players must solve puzzles, explore bizarre environments, and make sense of the the soldier's situation.",
+        "desc": "A prequel mystery game that follows the journey of a soldier before the events of the full-length RPG, Towards The Pantheon. Players must solve puzzles, explore bizarre environments, and make sense of the soldier's situation.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -86316,12 +86518,12 @@
       "name": "towardsthepantheones.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-12-09",
-        "md5": "366686e322186074ffbfbba2f590269f",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "afde93622219e7cca4b34fa14de17cde",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 10852192,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/towardsthepantheones.zip"
+        "size": 10852196,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/towardsthepantheones.zip"
       },
       "version": 4
     },
@@ -87339,7 +87541,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A tiny puzzle game where you move around manipulating the tracks to save the victims and delay the inevitable fate forever. A combination of puzzle solving and fast reaction to save everyone, including you!",
+        "desc": "A compact puzzle game where you reroute tracks to save victims and stall the inevitable. Combine quick thinking with fast reactions as you try to rescue everyone -- yourself included.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -87372,12 +87574,12 @@
       "name": "trolley.delayma.zip",
       "source": {
         "date_added": "2024-01-22",
-        "date_updated": "2024-12-09",
-        "md5": "27e552dab4ed62ab01115605ebc64b40",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "b61925e443057a0bc49183ac477e23ee",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 10543990,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/trolley.delayma.zip"
+        "size": 10543995,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/trolley.delayma.zip"
       },
       "version": 2
     },
@@ -89218,7 +89420,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Late one night, you walk through a forest and hear the distressed cries of caged birds echoing around you. Someone must set them free, and you're the only one there. But be warned: when freed, these confused and angry birds will turn on you. Journey through five environments, rescuing ten types of birds across over three dozen stages.",
+        "desc": "Late one night, you walk through a forest and hear the distressed cries of caged birds echoing around you. Someone must set them free, and you're the only one there. But be warned: when freed, these confused and angry birds will turn on you. Journey through five environments, rescuing ten types of birds across dozens of stages.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -89255,12 +89457,12 @@
       },
       "source": {
         "date_added": "2024-11-13",
-        "date_updated": "2024-11-15",
-        "md5": "d8ed8ccbcd41f6e9c085f7590403e3b7",
-        "release_id": "2024-11-15_1632",
+        "date_updated": "2025-06-16",
+        "md5": "5f333bdb923fc08e908497001c3ec18f",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 29302546,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/ungratefulbirdsngd.zip"
+        "size": 29302549,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/ungratefulbirdsngd.zip"
       },
       "version": 4
     },
@@ -90379,7 +90581,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A hybrid of modern and retro-styled RPGs based on those released on the Super Nintendo, created using the OHRRPGCE engine.",
+        "desc": "After the Aesir Gods defeated the Jotun and reshaped the world, a hidden evil crept in through the cracks of their victory. Now chaos spreads once more -- will you rise to face it? A retro-inspired RPG built with the OHRRPGCE engine, blending modern mechanics with Super Nintendo-era style.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -90410,12 +90612,12 @@
       "name": "vikingsofmidgard.zip",
       "source": {
         "date_added": "2024-09-29",
-        "date_updated": "2024-12-09",
-        "md5": "ee8f74eb9c317a23fb928bb0d8da4e9b",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "5beac9b1e9ac340d65f5a0b9e2e0ed82",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 50115292,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/vikingsofmidgard.zip"
+        "size": 50115405,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/vikingsofmidgard.zip"
       },
       "version": 4
     },
@@ -90809,7 +91011,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A low-res, retro point-and-click adventure game where an experiment has gone unpredictably wrong. Your daughter is whooshed through a tear in space! Embrace the void and follow her. The only way to bring her back.",
+        "desc": "A low-res, retro point-and-click adventure where a failed experiment hurls your daughter into a cosmic rift. Embrace the void and follow -- journey through eerie forests, haunted mansions, and sunken ruins to bring her back.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -90840,12 +91042,12 @@
       "name": "voidbreach.zip",
       "source": {
         "date_added": "2024-12-11",
-        "date_updated": "2025-05-04",
-        "md5": "27f29bb5ea9b2d98efbdeb8b6f6bbe0e",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-06-16",
+        "md5": "cbe69d5d7252a5026ff6d4243b9f6e2f",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 13929162,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/voidbreach.zip"
+        "size": 13929166,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/voidbreach.zip"
       },
       "version": 4
     },
@@ -91445,7 +91647,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Make some friends, eat some burgers, and unearth terrible secrets from the depths of space. Frog and Toad meet Cosmic Horror. A turn-based RPG with a kind-hearted doofus trying to make tough times a little easier.",
+        "desc": "A turn-based RPG about a kind-hearted doofus trying to make tough times a little easier. Set in Walthros-- a world of floating fish, cool cats, and buried secrets -- Bob's routine excavation job takes a turn when he uncovers a discovery that could reshape history.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -91476,12 +91678,12 @@
       "name": "walthrosrenewal.zip",
       "source": {
         "date_added": "2024-09-29",
-        "date_updated": "2025-03-19",
-        "md5": "edfcb106eb6bebef1b6ac73b9c14f28b",
-        "release_id": "2025-03-19_1507",
+        "date_updated": "2025-06-16",
+        "md5": "e7813070556801dd561439f20a04b133",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 2707143,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-19_1507/walthrosrenewal.zip"
+        "size": 2707174,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/walthrosrenewal.zip"
       },
       "version": 4
     },
@@ -93527,7 +93729,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "It's your summer vacation on Xoo Island! This beautiful, deserted island is populated by a surreal menagerie of alien creatures. Can you find them all? While you're at it, you might as well collect a bunch of fossils, gems, eggs, merit badges, video games, and anything else that isn't nailed down. Xoo: Xeno Xafari is a new style of collecting RPG.",
+        "desc": "It's your summer vacation on Xoo Island -- a beautiful, deserted place filled with a surreal menagerie of alien creatures. Can you find them all in this new-style collecting RPG? While you're at it, scoop up fossils, gems, eggs, merit badges, video games, and anything else not nailed down.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -93559,12 +93761,12 @@
       "name": "xooxenoxafari.zip",
       "source": {
         "date_added": "2024-10-15",
-        "date_updated": "2024-10-15",
-        "md5": "442a563a3a0c0937413954393ac3f8fe",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2025-06-16",
+        "md5": "0a4f7e3419eab51d1ba1cf175f317a0e",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 2707934,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/xooxenoxafari.zip"
+        "size": 2707918,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/xooxenoxafari.zip"
       },
       "version": 4
     },
@@ -95599,7 +95801,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A classic shoot 'em up with mechanics from other arcades of the 80s. Travel back in time with this unique pixelated experience featuring an incredible soundtrack in chiptune.",
+        "desc": "The Zeroptians have invaded the planetary system of F1. Eliminate the threat and proclaim yourself the defender of the galaxy in this miniature pixelated game featuring chiptune melodies and gameplay inspired by classics such as Space Invaders, Phoenix, Galaxian, and Centipede.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -95633,12 +95835,12 @@
       "name": "zeroptianinvasion.zip",
       "source": {
         "date_added": "2024-10-30",
-        "date_updated": "2024-12-09",
-        "md5": "e8451adef95d308daa81ed68fa0fd8ea",
-        "release_id": "2024-12-09_2009",
+        "date_updated": "2025-06-16",
+        "md5": "2750f3ca4770b15f1c387dce7d41320d",
+        "release_id": "2025-06-16_0931",
         "repo": "main",
-        "size": 14528388,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/zeroptianinvasion.zip"
+        "size": 14528448,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/zeroptianinvasion.zip"
       },
       "version": 4
     },
