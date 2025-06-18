@@ -1950,7 +1950,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-12-21",
@@ -2309,6 +2309,12 @@
       ],
       "items_opt": null,
       "name": "angband.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-03-18",
         "date_updated": "2025-05-21",
@@ -2947,10 +2953,10 @@
       "items_opt": null,
       "name": "apotris.zip",
       "rating": {
-        "average_rating": 4.67,
+        "average_rating": 4.71,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 6
+        "total_ratings": 7
       },
       "source": {
         "date_added": "2024-02-05",
@@ -53996,6 +54002,12 @@
       ],
       "items_opt": null,
       "name": "neverball.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-04-22",
         "date_updated": "2024-07-27",
@@ -96391,6 +96403,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 349
+    "total_ratings": 353
   }
 }
