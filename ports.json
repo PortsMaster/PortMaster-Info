@@ -67431,6 +67431,12 @@
       ],
       "items_opt": null,
       "name": "relichunters.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-02-15",
         "date_updated": "2024-07-18",
@@ -78904,6 +78910,12 @@
       ],
       "items_opt": null,
       "name": "steamlink.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-03-11",
         "date_updated": "2025-03-11",
@@ -96403,6 +96415,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 353
+    "total_ratings": 355
   }
 }
