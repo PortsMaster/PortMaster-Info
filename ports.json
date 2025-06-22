@@ -7369,6 +7369,12 @@
       ],
       "items_opt": null,
       "name": "blood.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-11",
         "date_updated": "2025-01-14",
@@ -22002,7 +22008,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-02-04",
@@ -23447,6 +23453,12 @@
       ],
       "items_opt": null,
       "name": "duke.nukem.3d.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2024-10-24",
@@ -34918,7 +34930,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2023-01-07",
@@ -40270,10 +40282,10 @@
       "items_opt": null,
       "name": "iortcw.zip",
       "rating": {
-        "average_rating": 4.0,
+        "average_rating": 4.33,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2021-10-01",
@@ -65350,10 +65362,10 @@
       "items_opt": null,
       "name": "quake.2.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.67,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2021-09-14",
@@ -65444,10 +65456,10 @@
       "items_opt": null,
       "name": "quake.zip",
       "rating": {
-        "average_rating": 3.67,
+        "average_rating": 3.5,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2021-09-10",
@@ -71794,6 +71806,12 @@
       ],
       "items_opt": null,
       "name": "serioussam-tfe.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-11-21",
         "date_updated": "2024-08-06",
@@ -71879,6 +71897,12 @@
       ],
       "items_opt": null,
       "name": "serioussam-tse.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-11-21",
         "date_updated": "2024-08-06",
@@ -72241,6 +72265,12 @@
       ],
       "items_opt": null,
       "name": "shadow.warrior.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-14",
         "date_updated": "2025-01-07",
@@ -78376,7 +78406,7 @@
         "average_rating": 4.92,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 12
+        "total_ratings": 13
       },
       "source": {
         "date_added": "2022-07-03",
@@ -92698,7 +92728,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-09-27",
@@ -96415,6 +96445,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 357
+    "total_ratings": 369
   }
 }
