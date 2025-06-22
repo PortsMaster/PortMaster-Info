@@ -80546,10 +80546,10 @@
       "items_opt": null,
       "name": "supercratebox.zip",
       "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
+        "average_rating": 4.5,
+        "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-05-06",
@@ -96415,6 +96415,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 356
+    "total_ratings": 357
   }
 }
