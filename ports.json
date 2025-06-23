@@ -76851,6 +76851,94 @@
       },
       "version": 4
     },
+    "spaghettikart.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Mario Kart 64 introduced 3D graphics, 4-player mode, Mirror Mode, Wario and Donkey Kong to the Mario Kart franchise.\n\nSpaghettiKart is the HarbourMasters decompilation and port of the Nintendo 64 classic.",
+        "desc_md": "Mario Kart 64 introduced 3D graphics, 4-player mode, Mirror Mode, Wario and Donkey Kong to the Mario Kart franchise.\n\n[SpaghettiKart](https://github.com/HarbourMasters/SpaghettiKart/tree/main) is the HarbourMasters decompilation and port of the Nintendo 64 classic.\n",
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "After installing the port, copy your original Mario Kart 64 .z64 file to ports/spaghettikart. The sha1 sum must be 579C48E211AE952530FFC8738709F078D5DD215E; other versions will not work. ",
+        "inst_md": "After installing the port, copy your original Mario Kart 64 `.z64` file to `ports/spaghettikart`. The sha1 sum must be 579C48E211AE952530FFC8738709F078D5DD215E; other versions will not work. ",
+        "min_glibc": "",
+        "porter": [
+          "beniamino"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "SpaghettiKart"
+      },
+      "items": [
+        "SpaghettiKart.sh",
+        "spaghettikart"
+      ],
+      "items_opt": null,
+      "name": "spaghettikart.zip",
+      "source": {
+        "date_added": "2025-06-23",
+        "date_updated": "2025-06-23",
+        "md5": "654a2f41d0a23b8855040de5e0a4d11e",
+        "release_id": "2025-06-23_1659",
+        "repo": "multiverse",
+        "size": 13441822,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-06-23_1659/spaghettikart.zip"
+      },
+      "version": 4
+    },
     "spearmintmountain.zip": {
       "attr": {
         "arch": [
