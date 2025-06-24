@@ -19438,6 +19438,12 @@
       ],
       "items_opt": null,
       "name": "deltarune.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-31",
         "date_updated": "2025-06-24",
@@ -97361,6 +97367,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 370
+    "total_ratings": 371
   }
 }
