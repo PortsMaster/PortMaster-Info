@@ -79256,10 +79256,10 @@
       "items_opt": null,
       "name": "stardewvalley.zip",
       "rating": {
-        "average_rating": 4.92,
+        "average_rating": 4.93,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 13
+        "total_ratings": 14
       },
       "source": {
         "date_added": "2022-07-03",
@@ -97379,6 +97379,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 376
+    "total_ratings": 377
   }
 }
