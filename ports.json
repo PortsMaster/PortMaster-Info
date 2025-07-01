@@ -2047,12 +2047,12 @@
       "name": "ambidextro.zip",
       "source": {
         "date_added": "2025-06-04",
-        "date_updated": "2025-06-09",
-        "md5": "3d1a39a65aecd59f60d1d1db62f15f5d",
-        "release_id": "2025-06-09_2213",
+        "date_updated": "2025-07-01",
+        "md5": "dd74fd8eee5e02720f92b64b8aeb69ab",
+        "release_id": "2025-07-01_0951",
         "repo": "main",
-        "size": 312984,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2213/ambidextro.zip"
+        "size": 331204,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/ambidextro.zip"
       },
       "version": 4
     },
@@ -16848,6 +16848,100 @@
       },
       "version": 2
     },
+    "crossbowcavern.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A recently uncovered network of caverns is rumored to contain the legendary \"greatest treasure!\" Take up the challenge of being the first one to explore this underground labyrinth and see if you can discover the untold riches that are said to lie in wait. Take care, however, as dangerous beasts and deadly traps stand in your way to glory! Crossbow Cavern is an exploratory platformer mainly revolving around the mechanic of utilizing your own projectiles as makeshift platforms. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://taska.itch.io/",
+            "gameurl": "https://taska.itch.io/crossbow-cavern",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Crossbow Cavern"
+      },
+      "items": [
+        "Crossbow Cavern.sh",
+        "crossbowcavern"
+      ],
+      "items_opt": null,
+      "name": "crossbowcavern.zip",
+      "source": {
+        "date_added": "2025-07-01",
+        "date_updated": "2025-07-01",
+        "md5": "212642fd62ae0f4a57cf1a9fd733c9f3",
+        "release_id": "2025-07-01_0951",
+        "repo": "main",
+        "size": 6732716,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/crossbowcavern.zip"
+      },
+      "version": 4
+    },
     "crunkyfun.zip": {
       "attr": {
         "arch": [
@@ -31085,6 +31179,105 @@
       },
       "version": 4
     },
+    "friendsofringo.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The Friends of Ringo Ishikawa is a blend of a beat-em up and a slice of life take on mid 80's Japan. Take control of Ringo as he lives his final season of Autumn before high school graduation.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Add all files to `ports/friendsofringo/assets/install`.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Jeod"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/846110/The_friends_of_Ringo_Ishikawa",
+            "name": "Steam"
+          }
+        ],
+        "title": "The Friends of Ringo Ishikawa"
+      },
+      "items": [
+        "The Friends of Ringo Ishikawa.sh",
+        "friendsofringo"
+      ],
+      "items_opt": null,
+      "name": "friendsofringo.zip",
+      "source": {
+        "date_added": "2025-07-01",
+        "date_updated": "2025-07-01",
+        "md5": "5e0b707c4b1e7193585c37a33a5526d2",
+        "release_id": "2025-07-01_0951",
+        "repo": "main",
+        "size": 6322560,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/friendsofringo.zip"
+      },
+      "version": 4
+    },
     "frogfall.zip": {
       "attr": {
         "arch": [
@@ -42730,6 +42923,97 @@
       },
       "version": 4
     },
+    "jvgs.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A retro-styled 2D puzzle platform game with nods to xkcd",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "JVGS"
+      },
+      "items": [
+        "JVGS.sh",
+        "jvgs"
+      ],
+      "items_opt": null,
+      "name": "jvgs.zip",
+      "source": {
+        "date_added": "2025-07-01",
+        "date_updated": "2025-07-01",
+        "md5": "40a2570b31c1719b99ac680469e1f8dd",
+        "release_id": "2025-07-01_0951",
+        "repo": "main",
+        "size": 26665389,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/jvgs.zip"
+      },
+      "version": 4
+    },
     "kaijubigbattel.zip": {
       "attr": {
         "arch": [
@@ -43768,12 +44052,12 @@
       },
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2025-05-29",
-        "md5": "57d18c2ef3b543e40df243c1b48cbd96",
-        "release_id": "2025-05-29_1057",
+        "date_updated": "2025-07-01",
+        "md5": "db98a2fe7108283372ee52c1fae0ea70",
+        "release_id": "2025-07-01_0951",
         "repo": "main",
-        "size": 43865059,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-29_1057/koreader.zip"
+        "size": 43795693,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/koreader.zip"
       },
       "version": 4
     },
@@ -46956,6 +47240,96 @@
       },
       "version": 2
     },
+    "loophero.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "The Lich has thrown the world into a timeless loop and plunged its inhabitants into never ending chaos. Wield an expanding deck of mystical cards to place enemies, buildings, and terrain along each unique expedition loop for the brave hero.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase Loop Hero on the Android Epic Games Store. Extract the APK, instructions in the portfolder! Copy the extracted APK to ports/loophero.\nRun Loop Hero.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Loop Hero"
+      },
+      "items": [
+        "Loop Hero.sh",
+        "loophero"
+      ],
+      "items_opt": null,
+      "name": "loophero.zip",
+      "source": {
+        "date_added": "2025-07-01",
+        "date_updated": "2025-07-01",
+        "md5": "83338a26cb742f87078630fff78d0f1a",
+        "release_id": "2025-07-01_0951",
+        "repo": "main",
+        "size": 4847179,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/loophero.zip"
+      },
+      "version": 4
+    },
     "lose95.zip": {
       "attr": {
         "arch": [
@@ -47913,6 +48287,103 @@
         "repo": "main",
         "size": 46690199,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/lunarlux.zip"
+      },
+      "version": 4
+    },
+    "lxdredhoney.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Liquid Xtal Dream. A strange machine appeared in the sky, breaking down much of the plant life across the region into their core elements, including your humble garden. Collect and harness the power of these fragments in order to rebuild your world piece by piece. Explore 6 unique areas in order to find and defeat the evil that sought your world's destruction.\n\nMade in 18 Days for Metroidvania Month 24.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run! Thanks to sarn (one of programmers from Team Bugulon) for giving us permissions to distribute game files!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://saturnyoshi.itch.io/",
+            "gameurl": "https://saturnyoshi.itch.io/lxd-red-honey",
+            "name": "itch.io"
+          }
+        ],
+        "title": "LXD Red Honey"
+      },
+      "items": [
+        "LXD Red Honey.sh",
+        "lxdredhoney"
+      ],
+      "items_opt": null,
+      "name": "lxdredhoney.zip",
+      "source": {
+        "date_added": "2025-07-01",
+        "date_updated": "2025-07-01",
+        "md5": "8d377eec7c6c5766fb4ad566bd1bdea7",
+        "release_id": "2025-07-01_0951",
+        "repo": "main",
+        "size": 39442553,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/lxdredhoney.zip"
       },
       "version": 4
     },
@@ -49697,6 +50168,103 @@
         "repo": "main",
         "size": 133241,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/megamanx816-bit.zip"
+      },
+      "version": 4
+    },
+    "megawitter.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "An action platformer fangame where you run, shoot, jump, slide and collect special weapon after defeating bosses known as Robot Masters. There are 2 playable characters - Megaman, a robot using mostly ranged weapons and a close combat fighter named Slizer who is learning various abilities. Also you can find a secret challenge on each level that rewards with some form of boost.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download Free at itch.io https://slash7.itch.io/megaman-witters-domination and place the Mega Man Witter Domination.zip into the assets folder.",
+        "inst_md": "Download Free at [itch.io](https://slash7.itch.io/megaman-witters-domination) and place the Mega Man Witter Domination.zip into the assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://slash7.itch.io/",
+            "gameurl": " https://slash7.itch.io/megaman-witters-domination",
+            "name": "itch.io"
+          }
+        ],
+        "title": "MEGA MAN Witter's Domination"
+      },
+      "items": [
+        "MEGA MAN Witter's Domination.sh",
+        "megawitter"
+      ],
+      "items_opt": null,
+      "name": "megawitter.zip",
+      "source": {
+        "date_added": "2025-07-01",
+        "date_updated": "2025-07-01",
+        "md5": "fbb16edf0d050b736326652359c684e3",
+        "release_id": "2025-07-01_0951",
+        "repo": "main",
+        "size": 12080325,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/megawitter.zip"
       },
       "version": 4
     },
@@ -55748,6 +56316,105 @@
       },
       "version": 2
     },
+    "noskin.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "NO-SKIN is a roguelike game characterized by a horror atmosphere and a smooth yet complex gameplay. Face the horrors that the house hides behind every corner and discover who the No-Skin Man truly is! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch.io and copy all game files into the assets folder. You can also use the free demo from Itch.io, download it and extract all files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3011030/NOSKIN/) or [Itch.io](https://noeye-soft.itch.io/no-skin) and copy all game files into the `assets` folder. You can also use the free demo from Itch.io, download it and extract all files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/noeye-soft",
+            "gameurl": "https://store.steampowered.com/app/3011030/NOSKIN/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://noeye-soft.itch.io",
+            "gameurl": "https://noeye-soft.itch.io/no-skin",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "NO-SKIN"
+      },
+      "items": [
+        "NO-SKIN.sh",
+        "noskin"
+      ],
+      "items_opt": null,
+      "name": "noskin.zip",
+      "source": {
+        "date_added": "2025-07-01",
+        "date_updated": "2025-07-01",
+        "md5": "297c6c692b10ab7da7b8754462544d0c",
+        "release_id": "2025-07-01_0951",
+        "repo": "main",
+        "size": 13526558,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/noskin.zip"
+      },
+      "version": 4
+    },
     "notenoughtime.zip": {
       "attr": {
         "arch": [],
@@ -57125,6 +57792,100 @@
         "repo": "main",
         "size": 10593698,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/ohmygodlookatthisknight.zip"
+      },
+      "version": 4
+    },
+    "omegabot.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A tight action side-scroller with challenging robotic bosses. Dodge metallic dangers, acquire powerful weapons and blast your way through a destroyed world full of deadly machines where running out of energy means defeat.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1620850/OmegaBot) and copy all files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/curator/42190989",
+            "gameurl": "https://store.steampowered.com/app/1620850/OmegaBot/",
+            "name": "Steam"
+          }
+        ],
+        "title": "OmegaBot"
+      },
+      "items": [
+        "OmegaBot.sh",
+        "omegabot"
+      ],
+      "items_opt": null,
+      "name": "omegabot.zip",
+      "source": {
+        "date_added": "2025-07-01",
+        "date_updated": "2025-07-01",
+        "md5": "7f31a631d16fff5c7e561f2334097a90",
+        "release_id": "2025-07-01_0951",
+        "repo": "main",
+        "size": 18488906,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/omegabot.zip"
       },
       "version": 4
     },
@@ -77068,12 +77829,12 @@
       "name": "sonictimetwisted.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2025-05-14",
-        "md5": "9a1bf7a382f15a8f217e55c571610929",
-        "release_id": "2025-05-14_0927",
+        "date_updated": "2025-07-01",
+        "md5": "38d0cc4fee8638039308d298aba39a50",
+        "release_id": "2025-07-01_0951",
         "repo": "main",
-        "size": 99285196,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/sonictimetwisted.zip"
+        "size": 99283486,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/sonictimetwisted.zip"
       },
       "version": 2
     },
@@ -82263,7 +83024,7 @@
     "supermutantalienassault.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "armhf"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -82290,14 +83051,10 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
-          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -82347,12 +83104,12 @@
       "name": "supermutantalienassault.zip",
       "source": {
         "date_added": "2025-06-02",
-        "date_updated": "2025-06-02",
-        "md5": "85c936abe09d859b28b3c9e120cf6dcd",
-        "release_id": "2025-06-02_2033",
+        "date_updated": "2025-07-01",
+        "md5": "af85b3d8bb6a2e5e6fcb6474b2102abc",
+        "release_id": "2025-07-01_0951",
         "repo": "main",
-        "size": 7251375,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-02_2033/supermutantalienassault.zip"
+        "size": 7251374,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/supermutantalienassault.zip"
       },
       "version": 4
     },
@@ -83927,6 +84684,103 @@
         "repo": "main",
         "size": 81209002,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/tantibus.zip"
+      },
+      "version": 4
+    },
+    "tboirebirth.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The Binding of Isaac: Rebirth is a 2D roguelike action-adventure where a boy named Isaac flees into a monster-filled basement after his mother, convinced by a divine message, attempts to sacrifice him. He fights using his tears while collecting power-ups in procedurally generated dungeons, offering high replayability and dark, absurd humor.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "NOTE: This port is not compatible with the GOG version or any DLCs\n\n1. Purchase the game on steam.\n2. Open up the steam console by typing 'steam://open/console' into a web browser\n3. enter the following command: 'download_depot 250900 250903 5148620425580684010'\n4. Find the folder 'depot_250903' in your steam library.\n5. Copy the files within the folder to 'tboirebirth/gamefiles/' in your ports directory.\n6. Launch the port and adjust the options. For most devices the default options are recommended. If your firing directions are incorrect, try one of the alternate control schemes from the launcher. If your game is not full screen, select fullscreen from the in-game options.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "BinaryCounter"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/Nicalis",
+            "gameurl": "https://store.steampowered.com/app/250900/The_Binding_of_Isaac_Rebirth/",
+            "name": "Steam"
+          }
+        ],
+        "title": "The Binding Of Isaac: Rebirth"
+      },
+      "items": [
+        "Binding Of Isaac Rebirth.sh",
+        "tboirebirth"
+      ],
+      "items_opt": null,
+      "name": "tboirebirth.zip",
+      "source": {
+        "date_added": "2025-07-01",
+        "date_updated": "2025-07-01",
+        "md5": "f72eb75bd092690ac0d159c19cbbc6b1",
+        "release_id": "2025-07-01_0951",
+        "repo": "main",
+        "size": 7240768,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/tboirebirth.zip"
       },
       "version": 4
     },
