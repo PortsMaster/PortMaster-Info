@@ -51244,10 +51244,10 @@
       "items_opt": null,
       "name": "minecraftjava.zip",
       "rating": {
-        "average_rating": 4.0,
+        "average_rating": 4.11,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 8
+        "total_ratings": 9
       },
       "source": {
         "date_added": "2025-05-29",
@@ -98233,6 +98233,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 379
+    "total_ratings": 380
   }
 }
