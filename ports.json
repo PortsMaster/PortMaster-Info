@@ -84780,10 +84780,10 @@
       "items_opt": null,
       "name": "tboirebirth.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.67,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2025-07-01",
@@ -89955,6 +89955,12 @@
       ],
       "items_opt": null,
       "name": "tuxfootball.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-11-10",
         "date_updated": "2024-11-19",
@@ -98245,6 +98251,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 385
+    "total_ratings": 387
   }
 }
