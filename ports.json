@@ -56422,6 +56422,12 @@
       ],
       "items_opt": null,
       "name": "noskin.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-07-01",
         "date_updated": "2025-07-01",
@@ -71433,6 +71439,12 @@
       ],
       "items_opt": null,
       "name": "rotationalshift.zip",
+      "rating": {
+        "average_rating": 2.0,
+        "max_rating": "2",
+        "min_rating": "2",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-11-02",
         "date_updated": "2024-07-18",
@@ -98269,6 +98281,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 391
+    "total_ratings": 393
   }
 }
