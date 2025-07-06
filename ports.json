@@ -25013,6 +25013,12 @@
       ],
       "items_opt": null,
       "name": "echo_chamber.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-08-04",
         "date_updated": "2025-01-07",
@@ -38200,6 +38206,12 @@
       ],
       "items_opt": null,
       "name": "holonomy.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-02-19",
         "date_updated": "2024-04-01",
@@ -98257,6 +98269,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 389
+    "total_ratings": 391
   }
 }
