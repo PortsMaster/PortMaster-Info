@@ -9080,12 +9080,12 @@
       "name": "braid.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-05-01",
-        "md5": "217237f169726ae409866a6a7f90685e",
-        "release_id": "2025-05-01_1304",
+        "date_updated": "2025-07-07",
+        "md5": "bed2f89195e94e03afbf7afad75f05dd",
+        "release_id": "2025-07-07_1120",
         "repo": "main",
-        "size": 14069870,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/braid.zip"
+        "size": 14069871,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/braid.zip"
       },
       "version": 4
     },
@@ -20899,12 +20899,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-07-18",
-        "md5": "e40930b7e046e1e250fc60bf1567fecc",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-07-07",
+        "md5": "700714574548447eef3b8918b5753dde",
+        "release_id": "2025-07-07_1120",
         "repo": "main",
-        "size": 58659995,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/devilutionx.zip"
+        "size": 62394176,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/devilutionx.zip"
       },
       "version": 2
     },
@@ -29609,6 +29609,96 @@
       },
       "version": 4
     },
+    "foolsend.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "demo",
+        "desc": "Fool's End is a fast-paced single-player mining game. Dig and destroy everything in your path, outsmart monsters and mine your path to complete each level. There's always another way to escape...  \n**Note:This port includes a demo. Purchase on Steam for the full game!**",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on steam.  \nOpen up the steam console by typing 'steam://open/console' into a web browser.  \n Enter the following command: `download_depot 2636260 2636261 548360717410745371`.  \n Place the contents of depot_2636261 folder into foolsend/assets.",
+        "inst_md": "1. Purchase the game on [steam](https://store.steampowered.com/app/2636260/Fools_End/).  \n2. Open up the steam console by typing 'steam://open/console' into a web browser.  \n3. Enter the following command: `download_depot 2636260 2636261 548360717410745371`.  \n4. Place the contents of depot_2636261 folder into foolsend/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": true,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://pickled-cactus-games.itch.io/",
+            "gameurl": "https://store.steampowered.com/app/2636260/Fools_End/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Fool's End"
+      },
+      "items": [
+        "Fool's End.sh",
+        "foolsend"
+      ],
+      "items_opt": null,
+      "name": "foolsend.zip",
+      "source": {
+        "date_added": "2025-07-07",
+        "date_updated": "2025-07-07",
+        "md5": "e8f6e4bc83e0c9e3f183392a59ddade6",
+        "release_id": "2025-07-07_1120",
+        "repo": "main",
+        "size": 23035387,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/foolsend.zip"
+      },
+      "version": 4
+    },
     "forager.zip": {
       "attr": {
         "arch": [
@@ -35527,6 +35617,199 @@
         "repo": "main",
         "size": 6586661,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_2027/gyrobossdx.zip"
+      },
+      "version": 4
+    },
+    "habroxia.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Blast your way through a myriad of extra-terrestrial incursions in this arcade-style scrolling shooter! Pilot the ship Habroxia through 15 levels featuring intense boss fights, rescue missions, shifting perspectives, and untold surprises.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder. You can also use the free demo.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2290270/Habroxia/) and copy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://lillymogames.com/",
+            "gameurl": "https://store.steampowered.com/app/2290270/Habroxia/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Habroxia"
+      },
+      "items": [
+        "Habroxia.sh",
+        "habroxia"
+      ],
+      "items_opt": null,
+      "name": "habroxia.zip",
+      "source": {
+        "date_added": "2025-07-07",
+        "date_updated": "2025-07-07",
+        "md5": "673d1c31164abcba9ad2cfbb9ff444aa",
+        "release_id": "2025-07-07_1120",
+        "repo": "main",
+        "size": 17784439,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/habroxia.zip"
+      },
+      "version": 4
+    },
+    "habroxia2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Blast off for a sequel that pushes every facet of 2D shoot'em ups to escape velocity! Habroxia 2 is a non-linear, old-school space shooter with upgrades, boss fights, and even New Game+, all wrapped in a retro package combining pixel graphics, chiptunes, and stellar gameplay.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch.io. For the Steam version, copy all files into the assets folder. For Itch release, download the DRM-free version and extract all files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1473550/Habroxia_2/) or [Itch.io](https://lillymogames.itch.io/habroxia-2). For the Steam version, copy all files into the `assets` folder. for Itch release, download the `DRM-free` version and extract all files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://lillymogames.com",
+            "gameurl": "https://store.steampowered.com/app/1473550/Habroxia_2/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://lillymogames.com",
+            "gameurl": "https://lillymogames.itch.io/habroxia-2",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Habroxia 2"
+      },
+      "items": [
+        "Habroxia 2.sh",
+        "habroxia2"
+      ],
+      "items_opt": null,
+      "name": "habroxia2.zip",
+      "source": {
+        "date_added": "2025-07-07",
+        "date_updated": "2025-07-07",
+        "md5": "c16eecd32171ae91d620e415a84fed51",
+        "release_id": "2025-07-07_1120",
+        "repo": "main",
+        "size": 9368419,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/habroxia2.zip"
       },
       "version": 4
     },
@@ -41624,6 +41907,98 @@
         "repo": "main",
         "size": 92740919,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-29_1057/izelsobservatory.zip"
+      },
+      "version": 4
+    },
+    "jaggedalliance2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Jagged Alliance 2 is strategy game where you lead a group of mercenaries on the island state of Arulco, against the army of the evil Queen Deirdranna.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You must have an updated copy of the original Jagged Alliance 2 game files. Copy the retail game's data into the `ports/jaggedalliance2/game` folder. The GOG version of the game is also supported. Download the installer from GOG (https://www.gog.com/en/game/jagged_alliance_2), place it into the `ports/jaggedalliance2` folder, and it will install the game files as required. ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "RoyalJupiter"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "\"https://www.gog.com/en/game/jagged_alliance_2",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://ja2-stracciatella.github.io/",
+            "name": "Jagged Alliance 2 Stracciatella"
+          }
+        ],
+        "title": "Jagged Alliance 2"
+      },
+      "items": [
+        "Jagged Alliance 2.sh",
+        "jaggedalliance2"
+      ],
+      "items_opt": null,
+      "name": "jaggedalliance2.zip",
+      "source": {
+        "date_added": "2025-07-07",
+        "date_updated": "2025-07-07",
+        "md5": "f04484d7d1f68ce97be95698ed040e50",
+        "release_id": "2025-07-07_1120",
+        "repo": "main",
+        "size": 1169346,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/jaggedalliance2.zip"
       },
       "version": 4
     },
@@ -58841,7 +59216,8 @@
     "openjazz.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -58879,6 +59255,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -58917,14 +59294,14 @@
       "name": "openjazz.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-09-27",
-        "md5": "f7ec8467823195e1439cf7a53332b8be",
-        "release_id": "2024-09-27_2150",
+        "date_updated": "2025-07-07",
+        "md5": "2b3ef695e6ded4e637e9231cff1f3617",
+        "release_id": "2025-07-07_1120",
         "repo": "main",
-        "size": 2190051,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-27_2150/openjazz.zip"
+        "size": 2819620,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/openjazz.zip"
       },
-      "version": 2
+      "version": 4
     },
     "openmohaa.zip": {
       "attr": {
@@ -59742,7 +60119,8 @@
     "opentyrian2000.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -59780,6 +60158,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -59825,19 +60204,20 @@
       },
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2024-10-31",
-        "md5": "5f2d9a7fcdbf51d4ddc990d89da2230a",
-        "release_id": "2024-10-31_1458",
+        "date_updated": "2025-07-07",
+        "md5": "afe991a8b1f049aa9baf8d7cf5f429ea",
+        "release_id": "2025-07-07_1120",
         "repo": "main",
-        "size": 5716686,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/opentyrian2000.zip"
+        "size": 5991863,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/opentyrian2000.zip"
       },
       "version": 4
     },
     "openxcom.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -59875,6 +60255,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -59911,12 +60292,12 @@
       "name": "openxcom.zip",
       "source": {
         "date_added": "2022-03-31",
-        "date_updated": "2024-07-18",
-        "md5": "6a9b7dffb288df158a210e2dc6132b51",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-07-07",
+        "md5": "48233d5989f6eca593950dc9c2558640",
+        "release_id": "2025-07-07_1120",
         "repo": "main",
-        "size": 11959951,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/openxcom.zip"
+        "size": 14935446,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/openxcom.zip"
       },
       "version": 2
     },
@@ -72871,7 +73252,8 @@
     "sdlpop.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -72909,6 +73291,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -72947,12 +73330,12 @@
       "name": "sdlpop.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-04-01",
-        "md5": "86a61c2c5d3de13b7d2300de815125b6",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-07-07",
+        "md5": "ed5cff9f56170613899e8ed4ec5f2663",
+        "release_id": "2025-07-07_1120",
         "repo": "main",
-        "size": 753304,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/sdlpop.zip"
+        "size": 975028,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/sdlpop.zip"
       },
       "version": 2
     },
@@ -78163,6 +78546,97 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/space.cadet.pinball.zip"
       },
       "version": 2
+    },
+    "spacefighter.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Originally inspired by the &laquo;Defenders of the weeping Quasar&raquo; of Ian MacLarty, this game has evolved into its own destiny. For the moment, only two levels are available ... But will you be able to defend the planet Earth until the very end? Remember, you are humanity's last hope! ...",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from itch.io https://yuiio.itch.io/the-last-space-fighter and copy the space_fighter.pyxapp into the spacefighter folder.",
+        "inst_md": "Download from [itch.io](https://yuiio.itch.io/the-last-space-fighter) and copy the space_fighter.pyxapp into the spacefighter folder.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "pyxel_2.2.8_python_3.11.squashfs"
+        ],
+        "store": [],
+        "title": "The Last Space Fighter"
+      },
+      "items": [
+        "The Last Space Fighter.sh",
+        "spacefighter "
+      ],
+      "items_opt": null,
+      "name": "spacefighter.zip",
+      "source": {
+        "date_added": "2025-07-07",
+        "date_updated": "2025-07-07",
+        "md5": "8ed2ab60b01bfa8a5a7b19fd200b5e96",
+        "release_id": "2025-07-07_1120",
+        "repo": "main",
+        "size": 93801,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/spacefighter.zip"
+      },
+      "version": 4
     },
     "spacegladiators.zip": {
       "attr": {
@@ -95442,7 +95916,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download 'XGA-SAGE 2024' from: https://dinar87.itch.io/xga\nExtract the contents from the zip you downloaded and copy all game files to the ports/xga/assets folder.",
+        "inst": "Download 'XGA'(102MB) from: https://dinar87.itch.io/xga\nExtract the contents from the zip you downloaded and copy all game files to the ports/xga/assets folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -95474,12 +95948,12 @@
       },
       "source": {
         "date_added": "2025-05-14",
-        "date_updated": "2025-05-14",
-        "md5": "639e7ff38d9aa50f8665f8c6b90341b9",
-        "release_id": "2025-05-14_0927",
+        "date_updated": "2025-07-07",
+        "md5": "02bb7c0169240d08a5f1958d5dc2f6c7",
+        "release_id": "2025-07-07_1120",
         "repo": "main",
-        "size": 22191817,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/xga.zip"
+        "size": 22799152,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/xga.zip"
       },
       "version": 4
     },
