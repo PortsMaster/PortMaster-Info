@@ -43396,6 +43396,12 @@
       ],
       "items_opt": null,
       "name": "jvgs.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-07-01",
         "date_updated": "2025-07-01",
@@ -98761,6 +98767,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 394
+    "total_ratings": 395
   }
 }
