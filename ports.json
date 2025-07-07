@@ -18988,6 +18988,98 @@
       },
       "version": 4
     },
+    "deathraymanta.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Death Ray Manta is a short form top down arena shooter where you blow up enemies using colourful laserbeams. You spawn in the centre of the screen, moments later the screen is filled with mines, robots, rabbits and lasers from beyond the stars. Collect space gems for a bonus and shoot everything else that you can in order to flash lights at yourself. Aim for your own personal high score. How far into fish space can you get?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase your game Steam OR Itch.io\nDownload the latest version of the game.\nCopy the game files into ports/deathraymanta/assets",
+        "inst_md": "Purchase your game [Steam](https://store.steampowered.com/app/338760/Death_Ray_Manta_SE/) OR [Itch.io](https://thalamusdigital.itch.io/death-ray-manta-se)\nDownload the latest version of the game.\nCopy the game files into ports/deathraymanta/assets",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.thalamusdigital.co.uk/",
+            "gameurl": "https://store.steampowered.com/app/338760/Death_Ray_Manta_SE/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.thalamusdigital.co.uk/",
+            "gameurl": "https://thalamusdigital.itch.io/death-ray-manta-se",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Death Ray Manta"
+      },
+      "items": [
+        "Death Ray Manta.sh",
+        "deathraymanta"
+      ],
+      "items_opt": null,
+      "name": "deathraymanta.zip",
+      "source": {
+        "date_added": "2025-07-07",
+        "date_updated": "2025-07-07",
+        "md5": "6809238097bf33f09f6d7ea7d1107e51",
+        "release_id": "2025-07-07_1851",
+        "repo": "main",
+        "size": 25044384,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1851/deathraymanta.zip"
+      },
+      "version": 4
+    },
     "deathroad.zip": {
       "attr": {
         "arch": [
@@ -20816,7 +20908,8 @@
       "attr": {
         "arch": [
           "aarch64",
-          "armhf"
+          "armhf",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -20854,6 +20947,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -20900,11 +20994,11 @@
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-07-07",
-        "md5": "700714574548447eef3b8918b5753dde",
-        "release_id": "2025-07-07_1120",
+        "md5": "27c66394bd6b90eab944adbd5b5d56d6",
+        "release_id": "2025-07-07_1851",
         "repo": "main",
-        "size": 62394176,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/devilutionx.zip"
+        "size": 62394184,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1851/devilutionx.zip"
       },
       "version": 2
     },
