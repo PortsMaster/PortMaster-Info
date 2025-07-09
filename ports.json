@@ -3684,6 +3684,103 @@
       },
       "version": 4
     },
+    "astoryaboutbirds.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The birds are coming back! So, gather some wood, some bird food, and build some amazing shelters. \nExplore Plumage Farm on a relaxing day, collect branches and seeds in form of a minigame that requires skill and get to know its inhabitants and regulars. \nHow will you use the day?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "rhythm"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install port files. Buy game in Itch. Download \"asab-linux-v1.0.5.zip\" then extract file \"a-story-about-birds.arm64\" into \"ports\\astoryaboutbirds\" folder",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://partnano.itch.io/",
+            "gameurl": "https://partnano.itch.io/a-story-about-birds",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "A Story About Birds"
+      },
+      "items": [
+        "A Story About Birds.sh",
+        "astoryaboutbirds"
+      ],
+      "items_opt": null,
+      "name": "astoryaboutbirds.zip",
+      "source": {
+        "date_added": "2025-07-09",
+        "date_updated": "2025-07-09",
+        "md5": "5624e10f496c8b23977219fa6d783920",
+        "release_id": "2025-07-09_0745",
+        "repo": "main",
+        "size": 180638,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-09_0745/astoryaboutbirds.zip"
+      },
+      "version": 4
+    },
     "asylum.zip": {
       "attr": {
         "arch": [
@@ -22320,6 +22417,108 @@
       },
       "version": 4
     },
+    "donthide.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Trapped in a maze with a beast, you must find five keys and their door to escape. The monster can only smell and hear you, but as long as it hasn't fully caught your scent, you can move freely.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game For Free from Steam: https://store.steampowered.com/app/2131620/Dont_Hide/\nOr\nFrom Itch.io:\nhttps://sulfic-games.itch.io/dont-hide\nand Copy the DontHideGame.pck file into the gamedata folder",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.3.4.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Sulfic%20Games",
+            "gameurl": "https://store.steampowered.com/app/2131620/Dont_Hide/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://sulfic-games.itch.io/",
+            "gameurl": "https://sulfic-games.itch.io/dont-hide",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Don't Hide"
+      },
+      "items": [
+        "Dont Hide.sh",
+        "donthide"
+      ],
+      "items_opt": null,
+      "name": "donthide.zip",
+      "source": {
+        "date_added": "2025-07-09",
+        "date_updated": "2025-07-09",
+        "md5": "af4f71d2a0af1090598770f1752736ad",
+        "release_id": "2025-07-09_0745",
+        "repo": "main",
+        "size": 77231,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-09_0745/donthide.zip"
+      },
+      "version": 4
+    },
     "donut.dodo.zip": {
       "attr": {
         "arch": [],
@@ -29784,12 +29983,12 @@
       "name": "foolsend.zip",
       "source": {
         "date_added": "2025-07-07",
-        "date_updated": "2025-07-07",
-        "md5": "e8f6e4bc83e0c9e3f183392a59ddade6",
-        "release_id": "2025-07-07_1120",
+        "date_updated": "2025-07-09",
+        "md5": "6559a7b3fc00382d0fdfd7f67653eb3e",
+        "release_id": "2025-07-09_0745",
         "repo": "main",
-        "size": 23035387,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/foolsend.zip"
+        "size": 24249950,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-09_0745/foolsend.zip"
       },
       "version": 4
     },
@@ -42063,7 +42262,7 @@
         "reqs": [
           "power"
         ],
-        "rtr": true,
+        "rtr": false,
         "runtime": [],
         "store": [
           {
@@ -42093,19 +42292,20 @@
       },
       "source": {
         "date_added": "2025-07-07",
-        "date_updated": "2025-07-07",
-        "md5": "f04484d7d1f68ce97be95698ed040e50",
-        "release_id": "2025-07-07_1120",
+        "date_updated": "2025-07-09",
+        "md5": "2eeaee3e0addfa85b9589dd21e3724f6",
+        "release_id": "2025-07-09_0745",
         "repo": "main",
-        "size": 1169346,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/jaggedalliance2.zip"
+        "size": 1169343,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-09_0745/jaggedalliance2.zip"
       },
       "version": 4
     },
     "jazz2.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -42143,6 +42343,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -42181,12 +42382,12 @@
       "name": "jazz2.zip",
       "source": {
         "date_added": "2023-10-02",
-        "date_updated": "2024-04-01",
-        "md5": "43a35c76f69b5e828d0ccbbcd0476f8d",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-07-09",
+        "md5": "2aa56b8cc77414bbf29497914a3ff157",
+        "release_id": "2025-07-09_0745",
         "repo": "main",
-        "size": 2007889,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/jazz2.zip"
+        "size": 3800147,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-09_0745/jazz2.zip"
       },
       "version": 2
     },
