@@ -42285,10 +42285,10 @@
       "items_opt": null,
       "name": "jaggedalliance2.zip",
       "rating": {
-        "average_rating": 2.0,
+        "average_rating": 1.5,
         "max_rating": "2",
-        "min_rating": "2",
-        "total_ratings": 1
+        "min_rating": "1",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-07-07",
@@ -99068,6 +99068,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 400
+    "total_ratings": 401
   }
 }
