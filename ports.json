@@ -19166,6 +19166,12 @@
       ],
       "items_opt": null,
       "name": "deathraymanta.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-07-07",
         "date_updated": "2025-07-07",
@@ -21086,7 +21092,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-09-10",
@@ -24428,7 +24434,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2021-09-10",
@@ -27804,10 +27810,10 @@
       "items_opt": null,
       "name": "fallout1.zip",
       "rating": {
-        "average_rating": 3.5,
+        "average_rating": 4.0,
         "max_rating": "5",
         "min_rating": "2",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2023-02-16",
@@ -27898,6 +27904,12 @@
       ],
       "items_opt": null,
       "name": "fallout2.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-01-26",
         "date_updated": "2024-11-28",
@@ -35007,7 +35019,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2023-10-28",
@@ -35098,10 +35110,10 @@
       "items_opt": null,
       "name": "gtavc.zip",
       "rating": {
-        "average_rating": 4.33,
+        "average_rating": 4.43,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 6
+        "total_ratings": 7
       },
       "source": {
         "date_added": "2023-10-28",
@@ -36383,7 +36395,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 5
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2023-01-07",
@@ -36818,10 +36830,10 @@
       "items_opt": null,
       "name": "hammerwatch.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 3.5,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "2",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-02-19",
@@ -42291,8 +42303,8 @@
       "items_opt": null,
       "name": "jaggedalliance2.zip",
       "rating": {
-        "average_rating": 1.5,
-        "max_rating": "2",
+        "average_rating": 2.0,
+        "max_rating": "3",
         "min_rating": "1",
         "total_ratings": 2
       },
@@ -67712,10 +67724,10 @@
       "items_opt": null,
       "name": "quake.zip",
       "rating": {
-        "average_rating": 3.5,
+        "average_rating": 3.8,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2021-09-10",
@@ -72496,10 +72508,10 @@
       "items_opt": null,
       "name": "rvgl.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.25,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 3
+        "min_rating": "2",
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2021-11-19",
@@ -79283,6 +79295,12 @@
       ],
       "items_opt": null,
       "name": "spaghettikart.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-06-23",
         "date_updated": "2025-06-23",
@@ -79800,10 +79818,10 @@
       "items_opt": null,
       "name": "spelunky.zip",
       "rating": {
-        "average_rating": 3.6,
+        "average_rating": 3.83,
         "max_rating": "5",
         "min_rating": "2",
-        "total_ratings": 5
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2021-09-10",
@@ -80849,7 +80867,7 @@
         "average_rating": 4.93,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 14
+        "total_ratings": 15
       },
       "source": {
         "date_added": "2022-07-03",
@@ -81126,6 +81144,12 @@
       ],
       "items_opt": null,
       "name": "starship.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-06-09",
         "date_updated": "2025-06-09",
@@ -88583,10 +88607,10 @@
       "items_opt": null,
       "name": "tmntsr.zip",
       "rating": {
-        "average_rating": 4.67,
+        "average_rating": 4.71,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 6
+        "total_ratings": 7
       },
       "source": {
         "date_added": "2024-03-08",
@@ -99074,6 +99098,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 402
+    "total_ratings": 418
   }
 }
