@@ -1871,6 +1871,100 @@
       },
       "version": 4
     },
+    "alwayssurrender.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Always Surrender is a vertically scrolling shoot 'em up score attack, with an emphasis on pushing your luck as far as you can. Last as long as possible against an endless horde of enemies and then surrender in order to bank the bonus. Giving up has never been so rewarding. Battle a never ending swarm of enemies, but be sure to surrender before you die...",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1434200/Always_Surrender/) and copy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=The%20Covert%20Sheep%20Example",
+            "gameurl": "https://store.steampowered.com/app/1434200/Always_Surrender/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Always Surrender"
+      },
+      "items": [
+        "Always Surrender.sh",
+        "alwayssurrender"
+      ],
+      "items_opt": null,
+      "name": "alwayssurrender.zip",
+      "source": {
+        "date_added": "2025-07-16",
+        "date_updated": "2025-07-16",
+        "md5": "468a6d0cd5cd2236357944c84da9f22b",
+        "release_id": "2025-07-16_2108",
+        "repo": "main",
+        "size": 6447766,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/alwayssurrender.zip"
+      },
+      "version": 4
+    },
     "am2r.zip": {
       "attr": {
         "arch": [
@@ -8460,12 +8554,12 @@
       "name": "boni.zip",
       "source": {
         "date_added": "2024-01-22",
-        "date_updated": "2024-10-01",
-        "md5": "ddc5067d4af7545e211f60539ed1a0c7",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2025-07-16",
+        "md5": "4c069413d756ca3e26dcb8838cd49b3a",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 12679,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/boni.zip"
+        "size": 12689,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/boni.zip"
       },
       "version": 2
     },
@@ -16747,12 +16841,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2025-01-08",
-        "md5": "0bf92b0a8f9a2ea48286fab699bf6df3",
-        "release_id": "2025-01-08_1341",
+        "date_updated": "2025-07-16",
+        "md5": "41b8f4a085d50cae8f9d537a64163ce5",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 129899705,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/cromagrally.zip"
+        "size": 129712461,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/cromagrally.zip"
       },
       "version": 2
     },
@@ -19999,12 +20093,12 @@
       "name": "demonkeep.zip",
       "source": {
         "date_added": "2024-05-06",
-        "date_updated": "2024-05-06",
-        "md5": "6a1d7d06dc0b2f2328eaa0edbd242045",
-        "release_id": "2024-05-06_2128",
+        "date_updated": "2025-07-16",
+        "md5": "91ad01ec28cbb6604664df339a66d275",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 2807786,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-06_2128/demonkeep.zip"
+        "size": 2807793,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/demonkeep.zip"
       },
       "version": 2
     },
@@ -28384,12 +28478,12 @@
       "name": "fheroes2.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2025-04-21",
-        "md5": "4dcad807e8d2180f9a03485be3697744",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-07-16",
+        "md5": "905b32a36ab838295684cbf92833f06b",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 8207033,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/fheroes2.zip"
+        "size": 8207065,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/fheroes2.zip"
       },
       "version": 4
     },
@@ -39673,12 +39767,12 @@
       "name": "humming.out.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2025-06-24",
-        "md5": "644116e616cdea2fc983913fe98d8aea",
-        "release_id": "2025-06-24_0854",
+        "date_updated": "2025-07-16",
+        "md5": "0ca08507b5b9e3dc7410c5b61b3d8b75",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
         "size": 21842,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-24_0854/humming.out.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/humming.out.zip"
       },
       "version": 2
     },
@@ -42406,12 +42500,12 @@
       "name": "jazz2.zip",
       "source": {
         "date_added": "2023-10-02",
-        "date_updated": "2025-07-09",
-        "md5": "2aa56b8cc77414bbf29497914a3ff157",
-        "release_id": "2025-07-09_0745",
+        "date_updated": "2025-07-16",
+        "md5": "4aff29246cd280aa6a9100fc63031d0a",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 3800147,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-09_0745/jazz2.zip"
+        "size": 3800177,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/jazz2.zip"
       },
       "version": 2
     },
@@ -43536,12 +43630,12 @@
       "name": "justkisshimalready.zip",
       "source": {
         "date_added": "2025-04-03",
-        "date_updated": "2025-04-03",
-        "md5": "fa5bb1f3fbf0fedf215e4398d6d2c2db",
-        "release_id": "2025-04-03_1456",
+        "date_updated": "2025-07-16",
+        "md5": "6812a2616b5c9e6f34fac0654884bfef",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
         "size": 33424145,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/justkisshimalready.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/justkisshimalready.zip"
       },
       "version": 4
     },
@@ -59625,12 +59719,12 @@
       "name": "openjazz.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-07-07",
-        "md5": "2b3ef695e6ded4e637e9231cff1f3617",
-        "release_id": "2025-07-07_1120",
+        "date_updated": "2025-07-16",
+        "md5": "9d3cfd770dc12800f71ab855f322b2cf",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 2819620,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/openjazz.zip"
+        "size": 2819652,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/openjazz.zip"
       },
       "version": 4
     },
@@ -60623,12 +60717,12 @@
       "name": "openxcom.zip",
       "source": {
         "date_added": "2022-03-31",
-        "date_updated": "2025-07-07",
-        "md5": "48233d5989f6eca593950dc9c2558640",
-        "release_id": "2025-07-07_1120",
+        "date_updated": "2025-07-16",
+        "md5": "c6c116a01dfec2a060ea10786373d60f",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 14935446,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/openxcom.zip"
+        "size": 14935462,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/openxcom.zip"
       },
       "version": 2
     },
@@ -66413,12 +66507,12 @@
       "name": "prototype.zip",
       "source": {
         "date_added": "2023-10-29",
-        "date_updated": "2024-05-09",
-        "md5": "aeb4d9ccd19ec61d73d88c4dbeade5f4",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2025-07-16",
+        "md5": "624a93f0b4d90ee3acb76c1af0fc4e64",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 23363409,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/prototype.zip"
+        "size": 23363418,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/prototype.zip"
       },
       "version": 2
     },
@@ -68124,9 +68218,49 @@
     "ragingblasters.zip": {
       "attr": {
         "arch": [
-          "arch64"
+          "aarch64"
         ],
-        "avail": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
         "desc": "Raging Blasters is a vertical scroll shmup featuring high speed scrolling and the exhilaration of destruction.",
         "desc_md": null,
         "exp": false,
@@ -68160,12 +68294,12 @@
       "name": "ragingblasters.zip",
       "source": {
         "date_added": "2024-08-31",
-        "date_updated": "2025-05-04",
-        "md5": "191c8c89775dcd0d5cb15c73ec927b0f",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-07-16",
+        "md5": "14cfaddaa5a5562b90e0ca732a173dd2",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 8205723,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/ragingblasters.zip"
+        "size": 8205724,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/ragingblasters.zip"
       },
       "version": 4
     },
@@ -73661,12 +73795,12 @@
       "name": "sdlpop.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-07-07",
-        "md5": "ed5cff9f56170613899e8ed4ec5f2663",
-        "release_id": "2025-07-07_1120",
+        "date_updated": "2025-07-16",
+        "md5": "84408b22bef32fd1f5bc02b3071637ae",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 975028,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/sdlpop.zip"
+        "size": 975059,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/sdlpop.zip"
       },
       "version": 2
     },
@@ -80261,6 +80395,105 @@
       },
       "version": 4
     },
+    "sprout.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "-SPROUT- is a mini precision-platformer built for speed-running. Run, jump and dash your way through 100 levels across five unique lands, and restore your world to its former glory.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam. Download the game and place the game files in sprout/assets.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://x.com/ZedsquadronD",
+            "gameurl": "https://store.steampowered.com/app/1336340/SPROUT/",
+            "name": "Steam"
+          }
+        ],
+        "title": "-SPROUT-"
+      },
+      "items": [
+        "SPROUT.sh",
+        "sprout"
+      ],
+      "items_opt": null,
+      "name": "sprout.zip",
+      "source": {
+        "date_added": "2025-07-16",
+        "date_updated": "2025-07-16",
+        "md5": "8e434078431e4bf189e5e03c6f234b28",
+        "release_id": "2025-07-16_2108",
+        "repo": "main",
+        "size": 8159843,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/sprout.zip"
+      },
+      "version": 4
+    },
     "squeek.zip": {
       "attr": {
         "arch": [
@@ -83145,12 +83378,12 @@
       "name": "superdrome.bugs.zip",
       "source": {
         "date_added": "2024-01-22",
-        "date_updated": "2025-06-16",
-        "md5": "36ef9bc51245a32868ccf599e846fea5",
-        "release_id": "2025-06-16_0931",
+        "date_updated": "2025-07-16",
+        "md5": "757f2605d7987c46a72f7b6e2a9268f2",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
         "size": 24018,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/superdrome.bugs.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/superdrome.bugs.zip"
       },
       "version": 2
     },
@@ -84656,12 +84889,12 @@
       },
       "source": {
         "date_added": "2023-06-08",
-        "date_updated": "2024-07-27",
-        "md5": "7533d73446ccfc3e5bb4f0d1102fe156",
-        "release_id": "2024-07-27_0224",
+        "date_updated": "2025-07-16",
+        "md5": "d62be398d36b163cc506903f6e62a709",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 130271707,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/supertuxkart.zip"
+        "size": 130271716,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/supertuxkart.zip"
       },
       "version": 2
     },
@@ -91078,12 +91311,12 @@
       "name": "twodie.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-05-09",
-        "md5": "3aa11aaa095ee6c65d270a4dbffd19a3",
-        "release_id": "2024-05-09_1051",
+        "date_updated": "2025-07-16",
+        "md5": "bd0a0db81e5931192107be4d9ef7b2cb",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 2834815,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-09_1051/twodie.zip"
+        "size": 2834822,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/twodie.zip"
       },
       "version": 2
     },
@@ -92452,12 +92685,12 @@
       },
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2025-06-24",
-        "md5": "a2ae5a5a8c203078d3c91c9dad163877",
-        "release_id": "2025-06-24_0854",
+        "date_updated": "2025-07-16",
+        "md5": "9707de9cfc21af1001d76528f207a924",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
-        "size": 6191557,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-24_0854/utyellow.zip"
+        "size": 6191561,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/utyellow.zip"
       },
       "version": 2
     },
@@ -94575,12 +94808,12 @@
       },
       "source": {
         "date_added": "2025-04-06",
-        "date_updated": "2025-04-11",
-        "md5": "240d6d152dd4104992140d36ffb762ec",
-        "release_id": "2025-04-11_0650",
+        "date_updated": "2025-07-16",
+        "md5": "80bdae6b78ef12221fcd8963cd4e899b",
+        "release_id": "2025-07-16_2108",
         "repo": "main",
         "size": 473831407,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-11_0650/wesnoth.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/wesnoth.zip"
       },
       "version": 4
     },
@@ -96480,6 +96713,105 @@
         "repo": "main",
         "size": 2707918,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/xooxenoxafari.zip"
+      },
+      "version": 4
+    },
+    "xroar.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "XRoar emulates the Dragon 32/64; Tandy Colour Computers 1, 2 and 3; the Tandy MC-10; and some other similar machines or clones.  Put coco bios .rom files in bios folder and rom .cas file in gamedata folder.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "The compatible ROM files need to be included in the ports/xroar/bios folder. For example: place the bas13.rom in ports/xroar/bios, then your Color Computer game files in the appropriate ports/xroar/roms subfolder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "ImCoKeMaN",
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.6809.org.uk/xroar",
+            "gameurl": "",
+            "name": ""
+          }
+        ],
+        "title": "XRoar"
+      },
+      "items": [
+        "Xroar.sh",
+        "xroar"
+      ],
+      "items_opt": null,
+      "name": "xroar.zip",
+      "source": {
+        "date_added": "2025-07-16",
+        "date_updated": "2025-07-16",
+        "md5": "7c0fe35bbb7038d133c54a78e548bc5d",
+        "release_id": "2025-07-16_2108",
+        "repo": "main",
+        "size": 4217346,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/xroar.zip"
       },
       "version": 4
     },
