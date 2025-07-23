@@ -92040,10 +92040,10 @@
       "items_opt": null,
       "name": "undertale.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.83,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 5
+        "min_rating": "4",
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2021-09-10",
@@ -99448,6 +99448,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 426
+    "total_ratings": 427
   }
 }
