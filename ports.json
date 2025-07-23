@@ -1955,10 +1955,10 @@
       "items_opt": null,
       "name": "alwayssurrender.zip",
       "rating": {
-        "average_rating": 1.0,
-        "max_rating": "1",
+        "average_rating": 3.0,
+        "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-07-16",
@@ -99448,6 +99448,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 427
+    "total_ratings": 428
   }
 }
