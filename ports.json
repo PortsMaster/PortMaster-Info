@@ -85872,10 +85872,10 @@
       "items_opt": null,
       "name": "tboirebirth.zip",
       "rating": {
-        "average_rating": 4.0,
+        "average_rating": 4.17,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 5
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2025-07-01",
@@ -99448,6 +99448,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 428
+    "total_ratings": 429
   }
 }
