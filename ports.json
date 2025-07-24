@@ -889,12 +889,12 @@
       "name": "air.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-11-12",
-        "md5": "52e58fbb354cf07d823a549686d8b2a3",
-        "release_id": "2024-11-12_1249",
+        "date_updated": "2025-07-24",
+        "md5": "4362f2e874ccadc62c69386c386d9832",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 729972,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/air.zip"
+        "size": 729956,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/air.zip"
       },
       "version": 2
     },
@@ -5636,6 +5636,101 @@
       },
       "version": 4
     },
+    "bellablood.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Entertain the god-like Bella\u2019s thirst for blood in this absurd bite-sized roguelike terror defense game.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam, download the Windows version and copy the BellaWantsBlood.pck into the gamedata folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3007660/Bella_Wants_Blood/), download the `Windows` version and copy the `BellaWantsBlood.pck` into the `gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "godot_4.3.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://sonderland.games/",
+            "gameurl": "https://store.steampowered.com/app/3007660/Bella_Wants_Blood/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Bella Wants Blood"
+      },
+      "items": [
+        "Bella Wants Blood.sh",
+        "bellablood"
+      ],
+      "items_opt": null,
+      "name": "bellablood.zip",
+      "source": {
+        "date_added": "2025-07-24",
+        "date_updated": "2025-07-24",
+        "md5": "81fd8e440bd8d8b99497e378f0a8bc1d",
+        "release_id": "2025-07-24_0745",
+        "repo": "main",
+        "size": 503410,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/bellablood.zip"
+      },
+      "version": 4
+    },
     "belleboomerang.zip": {
       "attr": {
         "arch": [
@@ -10225,7 +10320,8 @@
     "bugscraper.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -10263,6 +10359,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -10305,12 +10402,12 @@
       },
       "source": {
         "date_added": "2024-03-23",
-        "date_updated": "2024-07-18",
-        "md5": "eac7c57876d139e9e60a3b195eb0a061",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-07-24",
+        "md5": "6643bef2a7fee2e9f27788ab6e34503c",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 38554858,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/bugscraper.zip"
+        "size": 36019168,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/bugscraper.zip"
       },
       "version": 2
     },
@@ -12560,7 +12657,8 @@
     "catacomb.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -12598,11 +12696,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "Catacomb II (Renamed to The Catacomb in 1991) contains 30 new levels and a few new monsters in this follow-up to the 1989-1990 release. Petton Everhail is contacted by Terexin, High Wizard of the Kieralon. Terexin informs him the Kieralon Empire has fallen. Petton must travel to the Kieralon Palace to collect the lost treasures of Terexin, who has offerd to split them fifty-fifty. Petton agrees, puts down his cup of Orange Pekoe tea, and marches off for the Catacombs under the Kieralon Palace.",
         "desc_md": null,
         "exp": false,
@@ -12626,24 +12726,31 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/catacombs_pack",
+            "name": "GoG"
+          }
+        ],
         "title": "Catacomb II"
       },
       "items": [
         "Catacomb.sh",
-        "catacomb/"
+        "catacomb"
       ],
       "items_opt": null,
       "name": "catacomb.zip",
       "source": {
         "date_added": "2024-06-21",
-        "date_updated": "2024-06-21",
-        "md5": "458f76f30797f34f0b1b0153cef8b0a7",
-        "release_id": "2024-06-21_1031",
+        "date_updated": "2025-07-24",
+        "md5": "f51d457c3f71f87fb730c4ebba6d7405",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 235266,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-21_1031/catacomb.zip"
+        "size": 379922,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/catacomb.zip"
       },
-      "version": 2
+      "version": 4
     },
     "catacomb3d.zip": {
       "attr": {
@@ -12737,7 +12844,8 @@
     "catacomb89.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -12775,11 +12883,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "Catacomb (1989-1990 DOS) contains 10 levels in this first release. Petton Everhail is contacted by Terexin, High Wizard of the Kieralon. Terexin informs him the Kieralon Empire has fallen. Petton must travel to the Kieralon Palace to collect the lost treasures of Terexin, who has offered to split them fifty-fifty. Petton agrees, puts down his cup of Orange Pekoe tea, and marches off for the Catacombs under the Kieralon Palace.",
         "desc_md": null,
         "exp": false,
@@ -12803,24 +12913,31 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/catacombs_pack",
+            "name": "GoG"
+          }
+        ],
         "title": "Catacomb (1989)"
       },
       "items": [
         "Catacomb89.sh",
-        "catacomb89/"
+        "catacomb89"
       ],
       "items_opt": null,
       "name": "catacomb89.zip",
       "source": {
         "date_added": "2024-06-18",
-        "date_updated": "2024-06-18",
-        "md5": "2b54c3fd139027d7edccd73b62d1ae37",
-        "release_id": "2024-06-18_1327",
+        "date_updated": "2025-07-24",
+        "md5": "b25ef2b0e0c25e144d49ed3ffe6c29a7",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 349602,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/catacomb89.zip"
+        "size": 494252,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/catacomb89.zip"
       },
-      "version": 2
+      "version": 4
     },
     "catsonmars.zip": {
       "attr": {
@@ -15170,12 +15287,12 @@
       "name": "clannad.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-11-12",
-        "md5": "a34965608077afad7ff34f66c1b7c834",
-        "release_id": "2024-11-12_1249",
+        "date_updated": "2025-07-24",
+        "md5": "509ab07e5137bea59eb41a3418bbc829",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
         "size": 616597,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/clannad.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/clannad.zip"
       },
       "version": 2
     },
@@ -15610,7 +15727,8 @@
       "attr": {
         "arch": [
           "aarch64",
-          "armhf"
+          "armhf",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -15648,6 +15766,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -15686,12 +15805,12 @@
       "name": "clockwind.zip",
       "source": {
         "date_added": "2023-09-07",
-        "date_updated": "2024-04-01",
-        "md5": "74fdc53b452e30ef13cb473e7a14d426",
-        "release_id": "2024-04-01_0052",
+        "date_updated": "2025-07-24",
+        "md5": "cf545843f8eec74da2961536085f2de1",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 4771311,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/clockwind.zip"
+        "size": 406000,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/clockwind.zip"
       },
       "version": 2
     },
@@ -23559,6 +23678,103 @@
       },
       "version": 4
     },
+    "dragonvshunters.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Defend your nest, burn your enemies, and rule the skies!\nDragon vs Hunters is a fast-paced, retro-style action game where you play as a mighty dragon trying to protect its precious eggs from waves of relentless hunters.",
+        "desc_md": "**Defend your nest, burn your enemies, and rule the skies!**\n*Dragon vs Hunters* is a fast-paced, retro-style action game where you play as a mighty dragon trying to protect its precious eggs from waves of relentless hunters.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on https://coolgeek.itch.io/dragon-vs-hunters , download dragonvshunters-v1.0-pyxapp.zip and unzip it in the dragonvshunters/gamedata directory.",
+        "inst_md": "Buy the game on [itch.io](https://coolgeek.itch.io/dragon-vs-hunters), download `dragonvshunters-v1.0-pyxapp.zip` and unzip it in the `dragonvshunters/gamedata` directory.",
+        "min_glibc": "",
+        "porter": [
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "pyxel_2.3.18_python_3.11.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://coolgeek.itch.io",
+            "gameurl": "https://coolgeek.itch.io/dragon-vs-hunters",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Dragon vs Hunters"
+      },
+      "items": [
+        "Dragon vs Hunters.sh",
+        "dragonvshunters"
+      ],
+      "items_opt": null,
+      "name": "dragonvshunters.zip",
+      "source": {
+        "date_added": "2025-07-24",
+        "date_updated": "2025-07-24",
+        "md5": "a902cd7c81dfb71bd1df258338523359",
+        "release_id": "2025-07-24_0745",
+        "repo": "main",
+        "size": 1617937,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/dragonvshunters.zip"
+      },
+      "version": 4
+    },
     "drally.zip": {
       "attr": {
         "arch": [
@@ -25202,7 +25418,6 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
-          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -25234,7 +25449,9 @@
           "!lowres"
         ],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "mono-6.12.0.122-aarch64.squashfs"
+        ],
         "store": [
           {
             "developerurl": "https://store.steampowered.com/search/?developer=Humble%20Hearts%20LLC",
@@ -25258,12 +25475,12 @@
       },
       "source": {
         "date_added": "2025-04-28",
-        "date_updated": "2025-05-01",
-        "md5": "33c2d2b030c0c2400bcd476e01ac6486",
-        "release_id": "2025-05-01_1304",
+        "date_updated": "2025-07-24",
+        "md5": "996f987a341ee365fd913d2ad1c51b76",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 3072412,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/dustaet.zip"
+        "size": 3072439,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/dustaet.zip"
       },
       "version": 4
     },
@@ -25891,7 +26108,8 @@
     "emojimerge.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -25929,6 +26147,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -25965,12 +26184,12 @@
       "name": "emojimerge.zip",
       "source": {
         "date_added": "2024-05-08",
-        "date_updated": "2024-05-08",
-        "md5": "88311b2b7fa27d62658adfa8ee7cc542",
-        "release_id": "2024-05-08_0940",
+        "date_updated": "2025-07-24",
+        "md5": "56b03961528197f1728fff6df0cda9e7",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 7790759,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-08_0940/emojimerge.zip"
+        "size": 4998754,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/emojimerge.zip"
       },
       "version": 2
     },
@@ -33886,6 +34105,102 @@
         "repo": "main",
         "size": 11355807,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/goldenhornet.zip"
+      },
+      "version": 4
+    },
+    "goldenwarden.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A rogue-like battle game with easy controls. Pick a card each turn, get upgrades, collect gold to strengthen your weapons, take down (or avoid) enemies as you aim for the dungeon depths and attempt to claim the treasure that Golden Warden is said to guard.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam. Install port files.\nPlace the Steam game files into ports/goldenwarden/assets.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2851110/Golden_Warden/). Install port files.\nPlace the Steam game files into ports/goldenwarden/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2851110/Golden_Warden/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Golden Warden"
+      },
+      "items": [
+        "Golden Warden.sh",
+        "goldenwarden"
+      ],
+      "items_opt": null,
+      "name": "goldenwarden.zip",
+      "source": {
+        "date_added": "2025-07-24",
+        "date_updated": "2025-07-24",
+        "md5": "e92d0fba19654f496283a90cabb82758",
+        "release_id": "2025-07-24_0745",
+        "repo": "main",
+        "size": 8992366,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/goldenwarden.zip"
       },
       "version": 4
     },
@@ -44085,12 +44400,12 @@
       "name": "kanon.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-11-12",
-        "md5": "61db01ec491ce5ec1a82574be36e7bec",
-        "release_id": "2024-11-12_1249",
+        "date_updated": "2025-07-24",
+        "md5": "35d7dd66f1b6043558dc7ba05d0bed46",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 317538,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/kanon.zip"
+        "size": 317518,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/kanon.zip"
       },
       "version": 2
     },
@@ -45161,7 +45476,8 @@
     "labyrinthoflegendaryloot.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -45199,6 +45515,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -45238,12 +45555,12 @@
       "name": "labyrinthoflegendaryloot.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-04-24",
-        "md5": "401687f7eb2baeeaa6322eb4a2e5f218",
-        "release_id": "2024-04-24_1323",
+        "date_updated": "2025-07-24",
+        "md5": "a068f7c200e56f7493af586f62b91501",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 50170986,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-24_1323/labyrinthoflegendaryloot.zip"
+        "size": 48010498,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/labyrinthoflegendaryloot.zip"
       },
       "version": 2
     },
@@ -47081,12 +47398,12 @@
       "name": "littlebusters.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-11-12",
-        "md5": "4a7ba645f270dbe766c0da0c9b77f0b2",
-        "release_id": "2024-11-12_1249",
+        "date_updated": "2025-07-24",
+        "md5": "1c5a128fe18e1c99443a192775dd7733",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 684515,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/littlebusters.zip"
+        "size": 684533,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/littlebusters.zip"
       },
       "version": 2
     },
@@ -55523,6 +55840,95 @@
       },
       "version": 2
     },
+    "nazizombies.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "free",
+        "desc": "Nazi Zombies: Portable is a Call of Duty: Zombies remake running on the Quake (1996) engine",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "The installer automatically takes care of setting up the game",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "RoyalJupiter",
+          "Damian2809"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://github.com/nzp-team/nzportable",
+            "name": "Github"
+          }
+        ],
+        "title": "Nazi Zombies"
+      },
+      "items": [
+        "Nazi Zombies.sh",
+        "nazizombies"
+      ],
+      "items_opt": null,
+      "name": "nazizombies.zip",
+      "source": {
+        "date_added": "2025-07-24",
+        "date_updated": "2025-07-24",
+        "md5": "705b2817c33ee9d458f14d397f6ecac7",
+        "release_id": "2025-07-24_0745",
+        "repo": "main",
+        "size": 74980238,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/nazizombies.zip"
+      },
+      "version": 4
+    },
     "nebulus.zip": {
       "attr": {
         "arch": [
@@ -57517,7 +57923,8 @@
     "nova_pinball.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -57555,6 +57962,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -57591,12 +57999,12 @@
       "name": "nova_pinball.zip",
       "source": {
         "date_added": "2023-05-23",
-        "date_updated": "2024-07-18",
-        "md5": "5ad1b459b64e4dc40708b970a8b8336d",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-07-24",
+        "md5": "2563b24784a01ad2361990fe61a8208b",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 17624929,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nova_pinball.zip"
+        "size": 15076658,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/nova_pinball.zip"
       },
       "version": 2
     },
@@ -61179,6 +61587,110 @@
       },
       "version": 2
     },
+    "osmos.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:knulli",
+          "trimui-brick:knulli",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Osmos is a serene, physics\u2011based puzzle game where you control a tiny \u201cmote\u201d that grows by absorbing smaller ones while avoiding larger predators, all propelled by ejecting your own mass to move. Each level challenges you to balance growth and movement, with 72 stages set across ambient, sentient, antimatter, and gravitational-force environments, accompanied by a hypnotic electronic soundtrack and minimalist visuals.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port is compatible with the Demo or Full version from https://osmos-game.com and the Steam version. (Steam version not compatible with TrimUI devices).\nFree demo:\n- Download the latest linux demo: https://www.hemispheregames.com/latest_osmos_demo_linux_deb\n- Place the .deb file in \"osmos/installer/webdemo\"\n\nFull version from website:\n- Purchase the game on https://www.osmos-game.com/\n- Download the latest linux deb installer\n- Place the .deb file in \"osmos/installer/webfull\"\n\nSteam version:\n- Purchase the game on Steam or activate your steam key from Humble\n- Enable the steam console by typing steam://open/console in your web browser\n- enter the following \"download_depot 29180 29183 1530492746741201567\"\n- find the folder \"depot_29183\" and copy the files within it to \"osmos/installer/steam\"",
+        "inst_md": "**This port is compatible with the Demo or Full version from https://osmos-game.com and the Steam version. *(Steam version not compatible with TrimUI devices).***\n### Free demo:\n- Download the latest linux demo: https://www.hemispheregames.com/latest_osmos_demo_linux_deb\n- Place the .deb file in \"osmos/installer/webdemo\"\n\n### Full version from website:\n- Purchase the game on https://www.osmos-game.com/\n- Download the latest linux deb installer\n- Place the .deb file in \"osmos/installer/webfull\"\n\n### Steam version:\n- Purchase the game on Steam or activate your steam key from Humble\n- Enable the steam console by typing steam://open/console in your web browser\n- enter the following \"download_depot 29180 29183 1530492746741201567\"\n- find the folder \"depot_29183\" and copy the files within it to \"osmos/installer/steam\"",
+        "min_glibc": "",
+        "porter": [
+          "BinaryCounter"
+        ],
+        "reqs": [
+          "!trimui"
+        ],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.hemispheregames.com/",
+            "gameurl": "https://www.osmos-game.com/",
+            "name": "Official Website"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/developer/HemisphereGames",
+            "gameurl": "https://store.steampowered.com/app/29180/Osmos/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Osmos"
+      },
+      "items": [
+        "Osmos.sh",
+        "osmos"
+      ],
+      "items_opt": null,
+      "name": "osmos.zip",
+      "source": {
+        "date_added": "2025-07-24",
+        "date_updated": "2025-07-24",
+        "md5": "9ee80abe151f5c71826b23386a3e3b6b",
+        "release_id": "2025-07-24_0745",
+        "repo": "main",
+        "size": 14228719,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/osmos.zip"
+      },
+      "version": 4
+    },
     "ottomatic.zip": {
       "attr": {
         "arch": [
@@ -62700,7 +63212,8 @@
     "paused.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -62738,6 +63251,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -62776,12 +63290,12 @@
       "name": "paused.zip",
       "source": {
         "date_added": "2023-09-10",
-        "date_updated": "2025-06-16",
-        "md5": "47300130d0513cc1aa62093b14c3e97d",
-        "release_id": "2025-06-16_0931",
+        "date_updated": "2025-07-24",
+        "md5": "e49216a569b9e00ea6d91ecfadc502ae",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 9746144,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/paused.zip"
+        "size": 7197946,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/paused.zip"
       },
       "version": 2
     },
@@ -76857,6 +77371,102 @@
       },
       "version": 2
     },
+    "snapdragon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "In this dragon-stretching minimalist roguelike you can stretch your body, shrink it and swap the positions of your head and tail to attack enemies or avoid damage.\nThe game features grid-locked turn-based movement, procedural stages, randomized items, and classic bump-combat.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run! Thanks to sarn (one of the programmers from Team Bugulon) for giving us permissions to distribute game files!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://saturnyoshi.itch.io/",
+            "gameurl": "https://saturnyoshi.itch.io/snapdragon",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Snapdragon"
+      },
+      "items": [
+        "Snapdragon.sh",
+        "snapdragon"
+      ],
+      "items_opt": null,
+      "name": "snapdragon.zip",
+      "source": {
+        "date_added": "2025-07-24",
+        "date_updated": "2025-07-24",
+        "md5": "96b606a2d769381511885b023668d281",
+        "release_id": "2025-07-24_0745",
+        "repo": "main",
+        "size": 34473095,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/snapdragon.zip"
+      },
+      "version": 4
+    },
     "sneakr.zip": {
       "attr": {
         "arch": [
@@ -79983,20 +80593,52 @@
     "spinch.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
           "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
           "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
           "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:knulli",
+          "trimui-brick:knulli",
           "rp5:ALL",
-          "rpmini:ALL"
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "Transcend the material realm and assume your true form as Spinch, a hyper-agile organism consumed by the quest to rescue a litter of its missing offspring, in this side-scrolling, psychedelic platformer from the mind of award-winning Canadian cartoonist, Jesse Jacobs.",
-        "desc_md": null,
+        "desc_md": "Transcend the material realm and assume your true form as Spinch, a hyper-agile organism consumed by the quest to rescue a litter of its missing offspring, in this side-scrolling, psychedelic platformer from the mind of award-winning Canadian cartoonist, Jesse Jacobs.\n\n**Note: Patching time is at least 30 minutes!**",
         "exp": false,
         "genres": [
           "platformer"
@@ -80007,17 +80649,28 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://store.steampowered.com/app/794240/Spinch/ (also available but not tested from gog and humble). Copy data.win, all .ogg and .ini files to /ports/spinch/gamedata",
+        "inst": "Download the game from https://store.steampowered.com/app/794240/Spinch/ (also available but not tested from gog and humble).  \nCopy all the game files to /ports/spinch/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "mattyj513"
+          "mattyj513",
+          "Fraxinus88"
         ],
         "reqs": [
-          "2gb"
+          "!trimui"
         ],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.spinchthegame.com/",
+            "gameurl": "https://store.steampowered.com/app/794240/Spinch/",
+            "name": "Steam"
+          }
+        ],
         "title": "Spinch"
       },
       "items": [
@@ -80028,14 +80681,14 @@
       "name": "spinch.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2024-07-18",
-        "md5": "ecf4e987172fb6c16b6fc5f5c9801666",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-07-24",
+        "md5": "0bd656fc7fa229003588b0f1a79a6370",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 16371876,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/spinch.zip"
+        "size": 6427618,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/spinch.zip"
       },
-      "version": 2
+      "version": 4
     },
     "splinterzone.zip": {
       "attr": {
@@ -85879,12 +86532,12 @@
       },
       "source": {
         "date_added": "2025-07-01",
-        "date_updated": "2025-07-02",
-        "md5": "71ed2442369610a6ff2b3d481b040f21",
-        "release_id": "2025-07-02_2314",
+        "date_updated": "2025-07-24",
+        "md5": "94a9ce781602d5b3c1e2fa551c9f628d",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 7240540,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-02_2314/tboirebirth.zip"
+        "size": 7240566,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/tboirebirth.zip"
       },
       "version": 4
     },
@@ -88066,12 +88719,12 @@
       },
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2025-03-14",
-        "md5": "9ca5f52ac2c02cfda5f8e49639ad18f1",
-        "release_id": "2025-03-14_1451",
+        "date_updated": "2025-07-24",
+        "md5": "71febc7252231873b29a13e33ed4eaea",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 30792035,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/tileworld.zip"
+        "size": 30092902,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/tileworld.zip"
       },
       "version": 4
     },
@@ -89126,12 +89779,12 @@
       "name": "tomoyo_after.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-11-12",
-        "md5": "b547481aec91f8d0898440444336b923",
-        "release_id": "2024-11-12_1249",
+        "date_updated": "2025-07-24",
+        "md5": "9db646d3f50329a659a33981d4f90e3c",
+        "release_id": "2025-07-24_0745",
         "repo": "main",
-        "size": 541321,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/tomoyo_after.zip"
+        "size": 541304,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/tomoyo_after.zip"
       },
       "version": 2
     },
@@ -95089,6 +95742,92 @@
         "repo": "main",
         "size": 13996484,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2115/willyousnail.zip"
+      },
+      "version": 4
+    },
+    "windmills.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Master your combat techniques and explore a magic world in this combat-focused metroidvania. Help the unreliable narrator complete his story which changes depending on the player's actions.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all files into the assets folder. You can also use the free demo from Steam. Linux and Mac users check the notes for correct download depots.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1803760/Windmills/) and copy all files into the `assets` folder. You can also use the free demo from Steam. Linux and Mac users check the notes for correct download depots.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://poorlocke.com/",
+            "gameurl": "https://store.steampowered.com/app/1803760/Windmills/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Windmills"
+      },
+      "items": [
+        "Windmills.sh",
+        "windmills"
+      ],
+      "items_opt": null,
+      "name": "windmills.zip",
+      "source": {
+        "date_added": "2025-07-24",
+        "date_updated": "2025-07-24",
+        "md5": "d6d093664ebe1322d7d03df305b832e1",
+        "release_id": "2025-07-24_0745",
+        "repo": "main",
+        "size": 54382845,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/windmills.zip"
       },
       "version": 4
     },
