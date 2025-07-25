@@ -52397,10 +52397,10 @@
       "items_opt": null,
       "name": "minecraftjava.zip",
       "rating": {
-        "average_rating": 4.11,
+        "average_rating": 4.2,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 9
+        "total_ratings": 10
       },
       "source": {
         "date_added": "2025-05-29",
@@ -62930,6 +62930,12 @@
       ],
       "items_opt": null,
       "name": "papersplease.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-05-08",
         "date_updated": "2025-05-08",
@@ -92799,6 +92805,12 @@
       ],
       "items_opt": null,
       "name": "undertaleredyellow.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-05-23",
         "date_updated": "2025-05-23",
@@ -100193,6 +100205,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 430
+    "total_ratings": 433
   }
 }
