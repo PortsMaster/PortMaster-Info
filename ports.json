@@ -1515,6 +1515,89 @@
       },
       "version": 2
     },
+    "aliendeathmob.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Aliens have invaded Earth! Towns, cities, deserts, they're everywhere! Take on the role of Earth's last super soldier and confront the alien menace in this intense twin stick shooter!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam.\nDownload the latest version of the game and place the game files in ports/alientdeathmob/assets",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1567490/Alien_Death_Mob/).\nDownload the latest version of the game and place the game files in ports/alientdeathmob/assets",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "power",
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://x.com/pugfuglygames",
+            "gameurl": "https://store.steampowered.com/app/1567490/Alien_Death_Mob/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Alien Death Mob"
+      },
+      "items": [
+        "Alien Death Mob.sh",
+        "aliendeathmob"
+      ],
+      "items_opt": null,
+      "name": "aliendeathmob.zip",
+      "source": {
+        "date_added": "2025-07-27",
+        "date_updated": "2025-07-27",
+        "md5": "52913767957e3cb8645c268f3cf2b5da",
+        "release_id": "2025-07-27_0947",
+        "repo": "main",
+        "size": 9796611,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/aliendeathmob.zip"
+      },
+      "version": 4
+    },
     "alienpogs.zip": {
       "attr": {
         "arch": [
@@ -12524,7 +12607,7 @@
         ],
         "availability": "paid",
         "desc": "Join Detective Case and his quirky sidekick Clown Bot in a comedic investigation filled with mystery, humor, and retro charm. It is a classic point-and-click adventure game featuring engaging puzzles, witty dialogue, and a fun narrative.",
-        "desc_md": "### Description:\nJoin Detective Case and his quirky sidekick Clown Bot in a comedic investigation filled with mystery, humor, and retro charm. It is a classic point-and-click adventure game featuring engaging puzzles, witty dialogue, and a fun narrative.\n\n### Game Details:\n\n* Genre: Comedy / Detective / Point-and-Click Adventure\n* Languages: Portuguese & English\n* Platforms: PC and Consoles\n* Developer: Nerd Monkeys\n\nInspired by classic adventure games, this title combines witty dialogue, intriguing puzzles, and a distinctive visual style to deliver a unique storytelling experience.\n\n### Features:\n\n* Retro pixel art aesthetic\n\n* Witty and humorous storytelling\n\n* Engaging detective mystery plot\n\n* Classic point-and-click gameplay\n\n* Quirky characters and dialogue choices\n\n### About Nerd Monkeys:\nFounded in April 2013, [Nerd Monkeys](https://nerdmonkeys.games) is a Portuguese game development and publishing studio passionate about captivating storytelling, unique visuals, and meaningful gameplay.",
+        "desc_md": "### Description:\nJoin Detective Case and his quirky sidekick Clown Bot in a comedic investigation filled with mystery, humor, and retro charm. It is a classic point-and-click adventure game featuring engaging puzzles, witty dialogue, and a fun narrative.\n\n### Game Details:\n* Genre: Comedy / Detective / Point-and-Click Adventure\n* Languages: Portuguese & English\n* Platforms: PC and Consoles\n* Developer: Nerd Monkeys\n* Inspired by classic adventure games, this title combines witty dialogue, intriguing puzzles, and a distinctive visual style to deliver a unique storytelling experience.\n\n### About Nerd Monkeys:\nFounded in April 2013, [Nerd Monkeys](https://www.linkedin.com/company/nerd-monkeys) is a Portuguese game development and publishing studio passionate about captivating storytelling, unique visuals, and meaningful gameplay.",
         "exp": false,
         "genres": [
           "adventure",
@@ -12539,19 +12622,24 @@
           "video": null
         },
         "inst": "Buy the game and download the Windows version. Copy files into the assets folder.",
-        "inst_md": "* Buy the game and download the Windows version from [itch.io](https://nerdmonkeys.itch.io/detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon)\n* Copy the game files into assets folder",
+        "inst_md": "* Buy the game and download the Windows version from [itch.io](https://nerdmonkeys.itch.io/detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon) or [Steam](https://store.steampowered.com/app/297290/Detective_Case_and_Clown_Bot_in_Murder_in_the_Hotel_Lisbon)\n* Copy the game files into assets folder",
         "min_glibc": "",
         "porter": [
-          "Barata_Software"
+          "Barata Software"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": [],
         "store": [
           {
-            "developerurl": "https://nerdmonkeys.games",
+            "developerurl": "https://www.linkedin.com/company/nerd-monkeys",
             "gameurl": "https://nerdmonkeys.itch.io/detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon",
-            "name": "https://nerdmonkeys.itch.io/detective-case-and-clown-bot-in-murder-in-the-hotel-lisbon"
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://www.linkedin.com/company/nerd-monkeys",
+            "gameurl": "https://store.steampowered.com/app/297290/Detective_Case_and_Clown_Bot_in_Murder_in_the_Hotel_Lisbon/",
+            "name": "steam"
           }
         ],
         "title": "Detective Case and Clown Bot in: Murder in the Hotel Lisbon"
@@ -12564,12 +12652,12 @@
       "name": "caseandbot_murder.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-04-21",
-        "md5": "59f04c2d7f5cd309bea7813484f62a56",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-07-27",
+        "md5": "46af555ab8d6eb5d9ab25f54a84a55ed",
+        "release_id": "2025-07-27_0947",
         "repo": "main",
-        "size": 9873960,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/caseandbot_murder.zip"
+        "size": 10012330,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/caseandbot_murder.zip"
       },
       "version": 4
     },
@@ -16323,8 +16411,8 @@
         "inst_md": "Includes all of the **officially released** free content for the [**Commander Keen**](https://en.wikipedia.org/wiki/Commander_Keen) series, such as, the **shareware episodes** ([1](https://keenwiki.shikadi.net/wiki/Keen_1:_Marooned_on_Mars), [4](https://keenwiki.shikadi.net/wiki/Keen_4:_Secret_of_the_Oracle)), the **demo episode** ([6](https://keenwiki.shikadi.net/wiki/Keen_6:_Aliens_Ate_My_Baby_Sitter!)), and the **lost episode**: [Keen Dreams](https://keenwiki.shikadi.net/wiki/Keen_Dreams).\n\nYou can add additional content to this port manually (check `gamedata/instructions.txt`) or, if you have an internet connected device, directly through the launcher itself (button is bottom-left).",
         "min_glibc": "",
         "porter": [
-          "Christian_Haitian",
-          "t0b10"
+          "t0b10",
+          "Christian_Haitian"
         ],
         "reqs": [],
         "rtr": true,
@@ -16345,12 +16433,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-04-24",
-        "md5": "ff085ce90b091df876d75e4568462bf5",
-        "release_id": "2025-04-24_1015",
+        "date_updated": "2025-07-27",
+        "md5": "8abda06f3b0fc45264d315f6fabed4e7",
+        "release_id": "2025-07-27_0947",
         "repo": "main",
-        "size": 3427222,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/commander.genius.zip"
+        "size": 5153258,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/commander.genius.zip"
       },
       "version": 4
     },
@@ -18079,7 +18167,8 @@
     "curseofthearrow.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -18117,6 +18206,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -18161,12 +18251,12 @@
       },
       "source": {
         "date_added": "2024-07-08",
-        "date_updated": "2025-03-16",
-        "md5": "46c1592cf913f3f7470cc3c58ce159bb",
-        "release_id": "2025-03-16_2008",
+        "date_updated": "2025-07-27",
+        "md5": "83813554a9e08a96dcaa78eefbe97581",
+        "release_id": "2025-07-27_0947",
         "repo": "main",
-        "size": 26862960,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-16_2008/curseofthearrow.zip"
+        "size": 24702539,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/curseofthearrow.zip"
       },
       "version": 4
     },
@@ -25760,7 +25850,8 @@
     "eity.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -25798,6 +25889,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -25837,12 +25929,12 @@
       "name": "eity.zip",
       "source": {
         "date_added": "2023-04-30",
-        "date_updated": "2024-07-18",
-        "md5": "13271c5874460e855ba7c51dba0fa319",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-07-27",
+        "md5": "893edf01ec5cd64db750c6a11387fc94",
+        "release_id": "2025-07-27_0947",
         "repo": "main",
-        "size": 70385121,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/eity.zip"
+        "size": 67797178,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/eity.zip"
       },
       "version": 2
     },
@@ -37455,6 +37547,102 @@
         "repo": "main",
         "size": 5338245,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/haque.zip"
+      },
+      "version": 4
+    },
+    "hargrave.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Hargrave is a retro sci-fi shooter-platformer set in a maze of rooms loaded with obstacles and guarded by strange robots.\n\nRace to destroy the guardians and escape as quickly as possible, or explore the maze to find new powers and challenge the greater guardians that are sealed deep within.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Claim the game from Steam.\nDownload using the Steam Console: download_depot 1288930 1288931 6282474293410899739\nWhen the download is complete it will tell you the location of the game files.\nPlace all the game files in ports/hargrave/assets.",
+        "inst_md": "Claim the game from [Steam](https://store.steampowered.com/app/1288930/Hargrave/).  \nDownload using the Steam Console: `download_depot 1288930 1288931 6282474293410899739`  \nWhen the download is complete it will tell you the location of the game files.  \nPlace all the game files in ports/hargrave/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Disafter%20Games",
+            "gameurl": "https://store.steampowered.com/app/1288930/Hargrave/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Hargrave"
+      },
+      "items": [
+        "Hargrave.sh",
+        "hargrave"
+      ],
+      "items_opt": null,
+      "name": "hargrave.zip",
+      "source": {
+        "date_added": "2025-07-27",
+        "date_updated": "2025-07-27",
+        "md5": "df1fa8cc1ec2af4575860ad364232e7e",
+        "release_id": "2025-07-27_0947",
+        "repo": "main",
+        "size": 9567500,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/hargrave.zip"
       },
       "version": 4
     },
@@ -53300,7 +53488,8 @@
     "mirrormagic.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -53338,6 +53527,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -53374,12 +53564,12 @@
       "name": "mirrormagic.zip",
       "source": {
         "date_added": "2023-03-27",
-        "date_updated": "2024-07-27",
-        "md5": "0578a18069a847382bccf2f9be6667ed",
-        "release_id": "2024-07-27_0224",
+        "date_updated": "2025-07-27",
+        "md5": "4bf1d6e42a6cc1edb0c2c95561b0d6f6",
+        "release_id": "2025-07-27_0947",
         "repo": "main",
-        "size": 3503093,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/mirrormagic.zip"
+        "size": 4238666,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/mirrormagic.zip"
       },
       "version": 2
     },
@@ -81793,12 +81983,12 @@
       },
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2024-11-28",
-        "md5": "5a9cc13e58da4148fd3426f983657bf3",
-        "release_id": "2024-11-28_0901",
+        "date_updated": "2025-07-27",
+        "md5": "67d7eb2bb86ed8a828600e2e071beb90",
+        "release_id": "2025-07-27_0947",
         "repo": "main",
-        "size": 3930588,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/stardewvalley.zip"
+        "size": 3930631,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/stardewvalley.zip"
       },
       "version": 2
     },
@@ -90953,7 +91143,8 @@
     "trogdorrb.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -90991,6 +91182,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -91014,7 +91206,9 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Bamboozler"
+          "Bamboozler",
+          "Slayer366",
+          "ImCoKeMaN"
         ],
         "reqs": [],
         "rtr": true,
@@ -91029,12 +91223,12 @@
       "name": "trogdorrb.zip",
       "source": {
         "date_added": "2024-04-22",
-        "date_updated": "2024-04-22",
-        "md5": "1316d88d79f2d0c72c42d5a4c9057559",
-        "release_id": "2024-04-22_2125",
+        "date_updated": "2025-07-27",
+        "md5": "109f993a6047047f9577e9520a9fe05b",
+        "release_id": "2025-07-27_0947",
         "repo": "main",
-        "size": 10973681,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-22_2125/trogdorrb.zip"
+        "size": 8869582,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/trogdorrb.zip"
       },
       "version": 2
     },
@@ -97599,7 +97793,8 @@
     "xye.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -97637,11 +97832,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "Xye is a puzzle game in which the objective is to help a character that looks like a green circle to get all the gems in the room. This is, of course, not as easy as it sounds; Xye must solve all sorts of puzzles while at the same time avoiding all sorts of traps and beasts. Xye is similar to other puzzle games like Sokoban or Boulder Dash, yet it also includes some arcade elements. Xye is a derivative of a classic Windows game called Kye, which is the base of the gameplay experience and visual elements. Xye is able to play level files that were made for Kye and Sokoban.",
         "desc_md": null,
         "exp": false,
@@ -97663,22 +97860,23 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Xye"
       },
       "items": [
         "Xye.sh",
-        "xye/"
+        "xye"
       ],
       "items_opt": null,
       "name": "xye.zip",
       "source": {
         "date_added": "2024-11-16",
-        "date_updated": "2024-12-13",
-        "md5": "51ed286aa14a6c2ebe9617b6547d7d32",
-        "release_id": "2024-12-13_1501",
+        "date_updated": "2025-07-27",
+        "md5": "8d0401d1c662b0be7b98048d337d90fd",
+        "release_id": "2025-07-27_0947",
         "repo": "main",
-        "size": 8035318,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/xye.zip"
+        "size": 10289969,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/xye.zip"
       },
       "version": 4
     },
