@@ -44143,6 +44143,12 @@
       ],
       "items_opt": null,
       "name": "justkisshimalready.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-03",
         "date_updated": "2025-07-16",
@@ -100415,6 +100421,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 436
+    "total_ratings": 437
   }
 }
