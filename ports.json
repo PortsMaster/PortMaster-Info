@@ -81985,7 +81985,7 @@
         "average_rating": 4.94,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 16
+        "total_ratings": 17
       },
       "source": {
         "date_added": "2022-07-03",
@@ -100421,6 +100421,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 437
+    "total_ratings": 438
   }
 }
