@@ -81650,6 +81650,12 @@
       ],
       "items_opt": null,
       "name": "srb2.zip",
+      "rating": {
+        "average_rating": 2.0,
+        "max_rating": "2",
+        "min_rating": "2",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-12-02",
         "date_updated": "2024-07-18",
@@ -100536,6 +100542,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 443
+    "total_ratings": 444
   }
 }
