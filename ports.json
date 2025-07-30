@@ -60540,6 +60540,103 @@
       },
       "version": 2
     },
+    "openmw.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The Elder Scrolls III: Morrowind is an open-world fantasy role-playing game set in the richly detailed province of Morrowind, part of the Elder Scrolls universe. Originally released by Bethesda in 2002, it offers deep lore, open-ended gameplay, and a sprawling world filled with quests, factions, and exploration. This version runs on OpenMW, an open-source reimplementation of the Morrowind engine, offering improved stability and numerous enhancements while preserving the original gameplay experience.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your installed game data files from the `Data Files` directory or the both the GoG installer files `setup_the_elder_scrolls_iii_morrowind_goty_1.6.0.1820_gog_0.1_(77582).exe` to the `openmw/data` directory",
+        "inst_md": "Install **\"Morrowind Game of the Year Edition\"** from either **Steam** or **GoG** and copy the contents of `Data Files` into `ports/openmw/data/`.\n\nAlternatively place the **GoG** offline installer files (`setup_the_elder_scrolls_iii_morrowind_goty_1.6.0.1820_gog_0.1_(77582).exe` and `setup_the_elder_scrolls_iii_morrowind_goty_1.6.0.1820_gog_0.1_(77582)-1.bin`) into `ports/openmw/data/` and it will be installed correctly by the port when launched.",
+        "min_glibc": "",
+        "porter": [
+          "saint",
+          "kloptops",
+          "BinaryCounter"
+        ],
+        "reqs": [
+          "!lowres",
+          "!crossmix",
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/the_elder_scrolls_iii_morrowind_goty_edition",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/22320/The_Elder_Scrolls_III_Morrowind_Game_of_the_Year_Edition/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Morrowind"
+      },
+      "items": [
+        "Morrowind.sh",
+        "openmw/"
+      ],
+      "items_opt": null,
+      "name": "openmw.zip",
+      "source": {
+        "date_added": "2025-07-30",
+        "date_updated": "2025-07-30",
+        "md5": "44c6d0c1cac5d51503490b5865c78c81",
+        "release_id": "2025-07-30_1131",
+        "repo": "main",
+        "size": 110515416,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-30_1131/openmw.zip"
+      },
+      "version": 4
+    },
     "opennotrium.zip": {
       "attr": {
         "arch": [
