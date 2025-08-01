@@ -188,7 +188,8 @@
     "abbayedesmorts.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -226,12 +227,14 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "The plot is set in 13th century. The player takes a role of Jean Raymond \u2013 one of clerics who preached about the poverty of Christ and a life without material aspirations, and who were for this reason treated as heretics by the Catholic Church.\n\nJean is running away from crusaders who want him dead. He finds an old church and decides to hide there. He doesn't know what ancient evils hide in that place. ",
+        "availability": "full",
+        "desc": "The plot is set in 13th century. The player takes a role of Jean Raymond \u2013 one of clerics who preached about the poverty of Christ and a life without material aspirations, and who were for this reason treated as heretics by the Catholic Church.\n\nJean is running away from crusaders who want him dead. He finds an old church and decides to hide there. He doesn't know what ancient evils hide in that place.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -256,22 +259,23 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "L'Abbaye des Morts"
       },
       "items": [
         "L'Abbaye des Morts.sh",
-        "abbayedesmorts/"
+        "abbayedesmorts"
       ],
       "items_opt": null,
       "name": "abbayedesmorts.zip",
       "source": {
         "date_added": "2024-08-20",
-        "date_updated": "2024-08-20",
-        "md5": "68fcf45972b4297b7671a555ac6dd3b9",
-        "release_id": "2024-08-20_1038",
+        "date_updated": "2025-08-01",
+        "md5": "3d89071b185fee8fb95b92d6600637b4",
+        "release_id": "2025-08-01_1308",
         "repo": "main",
-        "size": 4510098,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-20_1038/abbayedesmorts.zip"
+        "size": 4599801,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-01_1308/abbayedesmorts.zip"
       },
       "version": 4
     },
@@ -7596,6 +7600,98 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/block.attack.zip"
       },
       "version": 2
+    },
+    "blockamokremix.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Fly through a 3D world of never-ending blocks and survive for as long as you can! Includes customization options for both gameplay and visuals, along with five music tracks.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "ImCoKeMaN"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Blockamok Remix"
+      },
+      "items": [
+        "BlockamokRemix.sh",
+        "blockamokremix"
+      ],
+      "items_opt": null,
+      "name": "blockamokremix.zip",
+      "source": {
+        "date_added": "2025-08-01",
+        "date_updated": "2025-08-01",
+        "md5": "0486fcab0a087d5f1ba36528588b603e",
+        "release_id": "2025-08-01_1308",
+        "repo": "main",
+        "size": 1791286,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-01_1308/blockamokremix.zip"
+      },
+      "version": 4
     },
     "blockdude_playdate.zip": {
       "attr": {
@@ -60646,12 +60742,12 @@
       },
       "source": {
         "date_added": "2025-07-30",
-        "date_updated": "2025-07-30",
-        "md5": "44c6d0c1cac5d51503490b5865c78c81",
-        "release_id": "2025-07-30_1131",
+        "date_updated": "2025-08-01",
+        "md5": "4da45796275b6c236fdd8e87871df347",
+        "release_id": "2025-08-01_1308",
         "repo": "main",
-        "size": 110515416,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-30_1131/openmw.zip"
+        "size": 110515517,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-01_1308/openmw.zip"
       },
       "version": 4
     },
@@ -93045,12 +93141,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-04-21",
-        "md5": "1fb7f17459957244bf6e2d990f8f221b",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-08-01",
+        "md5": "9426c9c8e3c67956cd2f4c20744235b5",
+        "release_id": "2025-08-01_1308",
         "repo": "main",
-        "size": 20591048,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/undertale.zip"
+        "size": 20591043,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-01_1308/undertale.zip"
       },
       "version": 4
     },
