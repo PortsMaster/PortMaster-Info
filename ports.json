@@ -93784,10 +93784,10 @@
       "items_opt": null,
       "name": "utyellow.zip",
       "rating": {
-        "average_rating": 4.67,
+        "average_rating": 3.75,
         "max_rating": "5",
-        "min_rating": "4",
-        "total_ratings": 3
+        "min_rating": "1",
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2024-08-06",
@@ -100638,6 +100638,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 445
+    "total_ratings": 446
   }
 }
