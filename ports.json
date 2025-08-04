@@ -23052,7 +23052,8 @@
     "doom2d.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -23090,11 +23091,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "Doom 2D is a fan-made DOS-based freeware side-scrolling video game released by Prikol Software in August 1996. It is based upon Doom, similar to Doom 2D - Knee deep in the dead. Doom 2D is essentially the original Doom translated into a two-dimensional arcade or console-like shooter, comparable to the original Duke Nukem. The player resumes their role as Doomguy, who must do battle with various hell-spawn.",
         "desc_md": null,
         "exp": false,
@@ -23119,22 +23122,23 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Doom 2D"
       },
       "items": [
         "Doom 2D.sh",
-        "doom2d/"
+        "doom2d"
       ],
       "items_opt": null,
       "name": "doom2d.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2024-12-13",
-        "md5": "176a2bd9afa909a01153c05210aabb85",
-        "release_id": "2024-12-13_1501",
+        "date_updated": "2025-08-04",
+        "md5": "c6a4ba40f2afc4c7573fbf536551881f",
+        "release_id": "2025-08-04_1325",
         "repo": "main",
-        "size": 7515055,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-13_1501/doom2d.zip"
+        "size": 8330334,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-04_1325/doom2d.zip"
       },
       "version": 4
     },
@@ -34042,7 +34046,7 @@
     "godstone.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -34068,9 +34072,13 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -34123,12 +34131,12 @@
       "name": "godstone.zip",
       "source": {
         "date_added": "2025-04-28",
-        "date_updated": "2025-04-28",
-        "md5": "55e111445189e3a189f2750ce2fecc7d",
-        "release_id": "2025-04-28_0944",
+        "date_updated": "2025-08-04",
+        "md5": "32317af3b4c1681275270127c787f63d",
+        "release_id": "2025-08-04_1325",
         "repo": "main",
-        "size": 5722169,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/godstone.zip"
+        "size": 5167326,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-04_1325/godstone.zip"
       },
       "version": 4
     },
@@ -83787,7 +83795,8 @@
     "sudokul.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -83825,12 +83834,14 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "SuDokul is a multiplatform Sudoku game.",
+        "availability": "full",
+        "desc": "SuDokuL is a multiplatform Sudoku game.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -83848,29 +83859,31 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
+          "ImCoKeMaN",
           "Bamboozler"
         ],
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "SuDokuL"
       },
       "items": [
-        "SuDokul.sh",
+        "SuDokuL.sh",
         "sudokul"
       ],
       "items_opt": null,
       "name": "sudokul.zip",
       "source": {
         "date_added": "2024-04-12",
-        "date_updated": "2024-04-12",
-        "md5": "e5c2350da58de8049ec34f56661f6646",
-        "release_id": "2024-04-12_1235",
+        "date_updated": "2025-08-04",
+        "md5": "8b42b083111c55039f28bad72a03a568",
+        "release_id": "2025-08-04_1325",
         "repo": "main",
-        "size": 1539082,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-12_1235/sudokul.zip"
+        "size": 2817471,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-04_1325/sudokul.zip"
       },
-      "version": 2
+      "version": 4
     },
     "sulka.zip": {
       "attr": {
@@ -97360,6 +97373,101 @@
         "repo": "main",
         "size": 54200694,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-18_2120/wuppo.zip"
+      },
+      "version": 4
+    },
+    "xanthiom.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Take control of Captain Grisham as you investigate the uncharted Planet 4-514. Collect items to help you progress deeper into the planet's depths, and power up your weapons to fight off powerful enemies and bosses! Explore multiple biomes, each with its own hazards to navigate, and uncover the mysteries that lie underneath the surface!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2324610/Xanthiom_Zero/) and copy all files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://mathangames.com/",
+            "gameurl": "https://store.steampowered.com/app/2324610/Xanthiom_Zero/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Xanthiom Zero"
+      },
+      "items": [
+        "Xanthiom Zero.sh",
+        "xanthiom"
+      ],
+      "items_opt": null,
+      "name": "xanthiom.zip",
+      "source": {
+        "date_added": "2025-08-04",
+        "date_updated": "2025-08-04",
+        "md5": "1d90bb754974414a87f09ab79a150c7e",
+        "release_id": "2025-08-04_1325",
+        "repo": "main",
+        "size": 13311114,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-04_1325/xanthiom.zip"
       },
       "version": 4
     },
