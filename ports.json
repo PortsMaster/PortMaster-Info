@@ -60746,7 +60746,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2025-07-30",
@@ -100752,6 +100752,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 457
+    "total_ratings": 458
   }
 }
