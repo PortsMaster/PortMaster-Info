@@ -32466,10 +32466,10 @@
       "items_opt": null,
       "name": "frozen-bubble.zip",
       "rating": {
-        "average_rating": 2.0,
+        "average_rating": 1.5,
         "max_rating": "2",
-        "min_rating": "2",
-        "total_ratings": 1
+        "min_rating": "1",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-07-16",
@@ -100752,6 +100752,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 456
+    "total_ratings": 457
   }
 }
