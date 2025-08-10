@@ -6617,7 +6617,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-10-14",
@@ -10586,10 +10586,10 @@
       "items_opt": null,
       "name": "bugscraper.zip",
       "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
+        "average_rating": 4.5,
+        "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-03-23",
@@ -38522,6 +38522,12 @@
       ],
       "items_opt": null,
       "name": "help.no.brake.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-09-14",
         "date_updated": "2024-09-20",
@@ -73174,6 +73180,12 @@
       ],
       "items_opt": null,
       "name": "rota.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-07-25",
         "date_updated": "2024-09-20",
@@ -74758,6 +74770,12 @@
       ],
       "items_opt": null,
       "name": "sdlpop.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-07-16",
@@ -76999,6 +77017,12 @@
       ],
       "items_opt": null,
       "name": "simtheory.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-21",
         "date_updated": "2025-04-21",
@@ -88905,6 +88929,12 @@
       ],
       "items_opt": null,
       "name": "thwack.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-09-10",
         "date_updated": "2025-06-16",
@@ -100758,6 +100788,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 460
+    "total_ratings": 467
   }
 }
