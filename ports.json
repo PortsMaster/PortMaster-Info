@@ -77590,6 +77590,12 @@
       ],
       "items_opt": null,
       "name": "sm.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-10-31",
         "date_updated": "2024-04-09",
@@ -100806,6 +100812,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 475
+    "total_ratings": 476
   }
 }
