@@ -35739,10 +35739,10 @@
       "items_opt": null,
       "name": "gtavc.zip",
       "rating": {
-        "average_rating": 4.43,
+        "average_rating": 4.5,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 7
+        "total_ratings": 8
       },
       "source": {
         "date_added": "2023-10-28",
@@ -37027,10 +37027,10 @@
       ],
       "name": "half-life.zip",
       "rating": {
-        "average_rating": 4.75,
+        "average_rating": 4.78,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 8
+        "total_ratings": 9
       },
       "source": {
         "date_added": "2023-01-07",
@@ -52902,6 +52902,12 @@
       ],
       "items_opt": null,
       "name": "minetest.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-04-24",
         "date_updated": "2025-01-07",
@@ -100800,6 +100806,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 472
+    "total_ratings": 475
   }
 }
