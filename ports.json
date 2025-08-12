@@ -91698,6 +91698,12 @@
       ],
       "items_opt": null,
       "name": "tsunderswap.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-11-10",
         "date_updated": "2024-11-10",
@@ -93314,10 +93320,10 @@
       "items_opt": null,
       "name": "undertaleredyellow.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 3.0,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "1",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-05-23",
@@ -93863,10 +93869,10 @@
       "items_opt": null,
       "name": "utyellow.zip",
       "rating": {
-        "average_rating": 3.75,
+        "average_rating": 3.6,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2024-08-06",
@@ -100818,6 +100824,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 479
+    "total_ratings": 482
   }
 }
