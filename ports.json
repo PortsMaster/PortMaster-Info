@@ -35745,10 +35745,10 @@
       "items_opt": null,
       "name": "gtavc.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.56,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 8
+        "total_ratings": 9
       },
       "source": {
         "date_added": "2023-10-28",
@@ -90203,6 +90203,12 @@
       ],
       "items_opt": null,
       "name": "tomb.raider.1.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-01-15",
@@ -93219,10 +93225,10 @@
       "items_opt": null,
       "name": "undertale.zip",
       "rating": {
-        "average_rating": 4.83,
+        "average_rating": 4.71,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 6
+        "total_ratings": 7
       },
       "source": {
         "date_added": "2021-09-10",
@@ -100824,6 +100830,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 482
+    "total_ratings": 485
   }
 }
