@@ -4861,7 +4861,8 @@
     "banana.duck.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -4899,6 +4900,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -4943,12 +4945,12 @@
       },
       "source": {
         "date_added": "2023-09-12",
-        "date_updated": "2025-06-16",
-        "md5": "ea35d70c0b29d7c2d5a32874ae48a776",
-        "release_id": "2025-06-16_0931",
+        "date_updated": "2025-08-14",
+        "md5": "cd099b7fd3283eaca439893bb429dcca",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 7582701,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/banana.duck.zip"
+        "size": 5034424,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/banana.duck.zip"
       },
       "version": 2
     },
@@ -11043,7 +11045,8 @@
     "bytepath.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -11081,6 +11084,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -11117,12 +11121,12 @@
       "name": "bytepath.zip",
       "source": {
         "date_added": "2024-05-20",
-        "date_updated": "2024-05-21",
-        "md5": "488ffcad6027012ebc2d32c1288ee640",
-        "release_id": "2024-05-21_1211",
+        "date_updated": "2025-08-14",
+        "md5": "1f25354cbd06c9f472b75f54cb2d1b0a",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 58909878,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-21_1211/bytepath.zip"
+        "size": 56749561,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/bytepath.zip"
       },
       "version": 2
     },
@@ -12957,7 +12961,8 @@
     "catacomb3d.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -12995,11 +13000,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "You are a mage descending into the dungeons of Grelminar the Lich, in order to kill him and save one guy named Nemesis.",
         "desc_md": null,
         "exp": false,
@@ -13024,22 +13031,29 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/catacombs_pack",
+            "name": "GOG"
+          }
+        ],
         "title": "Catacomb 3D"
       },
       "items": [
         "Catacomb 3D.sh",
-        "catacomb3d/"
+        "catacomb3d"
       ],
       "items_opt": null,
       "name": "catacomb3d.zip",
       "source": {
         "date_added": "2024-10-24",
-        "date_updated": "2024-10-24",
-        "md5": "85a64b7446fe2b86ef423147e7391e66",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2025-08-14",
+        "md5": "aaa9f50d061e9702f36f3587de328e0d",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 5836652,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/catacomb3d.zip"
+        "size": 6774195,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/catacomb3d.zip"
       },
       "version": 4
     },
@@ -17093,7 +17107,8 @@
     "cromagrally.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -17131,6 +17146,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -17168,12 +17184,12 @@
       "name": "cromagrally.zip",
       "source": {
         "date_added": "2022-10-25",
-        "date_updated": "2025-07-16",
-        "md5": "41b8f4a085d50cae8f9d537a64163ce5",
-        "release_id": "2025-07-16_2108",
+        "date_updated": "2025-08-14",
+        "md5": "157f9679c40706da736748cadcf6633d",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 129712461,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/cromagrally.zip"
+        "size": 132425643,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/cromagrally.zip"
       },
       "version": 2
     },
@@ -20059,6 +20075,102 @@
       },
       "version": 2
     },
+    "deirdre.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Deirdre is an Action Roguelike game where you fight a looping Gauntlet of Bosses.\n\nOne day, a group of tormented prisoners with weapons formed together to get their revenge on the Goddess of Time and her Angels. Over time, they have discovered the magical attributes of Torque. The essence of spin would fuel Deirdre\u2019s Domain the same way Time fuels ours. The heroes would enchant their arsenal with Torque, allowing stronger methods to torment their enemies back.\nWill they be able to break Deirdre\u2019s curse? Or are they truly hopeless against Time\u2026",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run! Thanks to MegaStrimp for giving us permissions to distribute game files!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://megastrimp.itch.io",
+            "gameurl": "https://megastrimp.itch.io/deirdre",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Deirdre"
+      },
+      "items": [
+        "Deirdre.sh",
+        "deirdre"
+      ],
+      "items_opt": null,
+      "name": "deirdre.zip",
+      "source": {
+        "date_added": "2025-08-14",
+        "date_updated": "2025-08-14",
+        "md5": "23fbdfbfd92633195b91a4c1013494b9",
+        "release_id": "2025-08-14_1207",
+        "repo": "main",
+        "size": 13857750,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/deirdre.zip"
+      },
+      "version": 4
+    },
     "deltarune.zip": {
       "attr": {
         "arch": [
@@ -21833,7 +21945,8 @@
     "digger.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -21871,11 +21984,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "Digger port based on the DOS version (remastered)",
         "desc_md": null,
         "exp": false,
@@ -21899,11 +22014,12 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Digger"
       },
       "items": [
         "Digger.sh",
-        "digger/"
+        "digger"
       ],
       "items_opt": null,
       "name": "digger.zip",
@@ -21915,12 +22031,12 @@
       },
       "source": {
         "date_added": "2024-12-07",
-        "date_updated": "2024-12-07",
-        "md5": "cad80b894f8c24a2eea14c073f56e9cb",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2025-08-14",
+        "md5": "1b6d09e864cf314d50639974f6ef5a8f",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 170709,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/digger.zip"
+        "size": 536086,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/digger.zip"
       },
       "version": 4
     },
@@ -23765,7 +23881,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase and download the game from: https://store.steampowered.com/app/360740/Downwell/ OR  https://www.gog.com/en/game/downwell.\nLocate your gamefolder and copy all the files from the folder to /ports/downwell/assets.",
+        "inst": "Purchase and download the game from: https://store.steampowered.com/app/360740/Downwell/ OR  https://www.gog.com/en/game/downwell.\nLocate your gamefolder and copy all the files from the folder to /ports/downwell/assets. Alternatively place the gog installer (.exe) in /ports/downwell/assets.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -23774,7 +23890,10 @@
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "title": "Downwell"
       },
       "items": [
@@ -23791,12 +23910,12 @@
       },
       "source": {
         "date_added": "2024-08-01",
-        "date_updated": "2025-01-28",
-        "md5": "c31318060aa10a59c2bfb695405c54f4",
-        "release_id": "2025-01-28_0936",
+        "date_updated": "2025-08-14",
+        "md5": "5329723b5b0ca73f24e20975026ffc64",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 12526411,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-28_0936/downwell.zip"
+        "size": 10209930,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/downwell.zip"
       },
       "version": 4
     },
@@ -33270,7 +33389,8 @@
     "geometrystrike.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -33308,6 +33428,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -33344,12 +33465,12 @@
       "name": "geometrystrike.zip",
       "source": {
         "date_added": "2024-05-13",
-        "date_updated": "2024-05-13",
-        "md5": "45ba370e8f711913521b0f7369916376",
-        "release_id": "2024-05-13_1155",
+        "date_updated": "2025-08-14",
+        "md5": "902acbc531e904f2f096b3aababd52ce",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 11041974,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-13_1155/geometrystrike.zip"
+        "size": 8881590,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/geometrystrike.zip"
       },
       "version": 2
     },
@@ -34149,7 +34270,8 @@
     "goinghomerevisited.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -34187,6 +34309,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -34223,12 +34346,12 @@
       "name": "goinghomerevisited.zip",
       "source": {
         "date_added": "2024-05-20",
-        "date_updated": "2024-05-20",
-        "md5": "7567da71ac495f87135a57cee6f3f4c8",
-        "release_id": "2024-05-20_1328",
+        "date_updated": "2025-08-14",
+        "md5": "09325ddf05f388c5e3c87711e5ca593a",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 9094370,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/goinghomerevisited.zip"
+        "size": 6235832,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/goinghomerevisited.zip"
       },
       "version": 2
     },
@@ -40102,18 +40225,50 @@
     "hotlinesanzu.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
           "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
           "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
           "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
           "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
-          "rpmini:ALL"
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
         ],
+        "availability": "free",
         "desc": "An arcade shooter / immersive sim where you solve problems with guns, backstabs, and strategic use of vents. Perform hostile corporate takeovers, clean up criminal syndicates, and try to get out of your literal dead-end job at the japanese ministry of death and reincarnation.",
         "desc_md": null,
         "exp": false,
@@ -40128,17 +40283,23 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download game from https://yaru.itch.io/touhou-hotline-sanzu , copy data.win and three folders (bgm jingle snd) to /ports/hotlinesanzu/gamedata",
-        "inst_md": null,
+        "inst": "Download the game from Itch.io and extract all game files into the assets folder.",
+        "inst_md": "Download the game from [Itch.io](yaru.itch.io/touhou-hotline-sanzu) and extract all game files into the `assets` folder.",
         "min_glibc": "",
         "porter": [
-          "mattyj513"
+          "mattyj513",
+          "Ganimoth"
         ],
-        "reqs": [
-          "2gb"
-        ],
+        "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://yaru.itch.io/",
+            "gameurl": "yaru.itch.io/touhou-hotline-sanzu",
+            "name": "Itch.io"
+          }
+        ],
         "title": "Hotline Sanzu"
       },
       "items": [
@@ -40149,14 +40310,14 @@
       "name": "hotlinesanzu.zip",
       "source": {
         "date_added": "2023-11-11",
-        "date_updated": "2024-12-19",
-        "md5": "8c2200f4d506b06881aa4d8428977558",
-        "release_id": "2024-12-19_1739",
+        "date_updated": "2025-08-14",
+        "md5": "771d177c7e9042114c7e945e698f65c5",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 9736172,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/hotlinesanzu.zip"
+        "size": 6868750,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/hotlinesanzu.zip"
       },
-      "version": 2
+      "version": 4
     },
     "hoverboard.zip": {
       "attr": {
@@ -44023,7 +44184,8 @@
     "justanotherpong.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -44061,6 +44223,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -44097,12 +44260,12 @@
       "name": "justanotherpong.zip",
       "source": {
         "date_added": "2024-06-15",
-        "date_updated": "2024-12-27",
-        "md5": "2477c235f50484a7f627bbc77072cd12",
-        "release_id": "2024-12-27_1725",
+        "date_updated": "2025-08-14",
+        "md5": "da660e2fd7c4717f67f296464b3d5e25",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 4009080,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/justanotherpong.zip"
+        "size": 1473124,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/justanotherpong.zip"
       },
       "version": 4
     },
@@ -48630,7 +48793,7 @@
     "loopcat.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -48657,10 +48820,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -48706,12 +48873,12 @@
       },
       "source": {
         "date_added": "2024-03-02",
-        "date_updated": "2024-07-18",
-        "md5": "8305672c3ed7840234eacfa85f7ae6ba",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-08-14",
+        "md5": "cefb6e297c0016cd4bb68f76c9209bf0",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 31639849,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/loopcat.zip"
+        "size": 21047463,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/loopcat.zip"
       },
       "version": 2
     },
@@ -50941,7 +51108,8 @@
     "maxdownforce.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -50979,6 +51147,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -51021,12 +51190,12 @@
       },
       "source": {
         "date_added": "2024-05-06",
-        "date_updated": "2024-05-29",
-        "md5": "24a9c57a3c4b075a4ed751ada7a430a1",
-        "release_id": "2024-05-29_0749",
+        "date_updated": "2025-08-14",
+        "md5": "03ed1ccba17d44d1f3faf9e333255cf5",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 26454869,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-29_0749/maxdownforce.zip"
+        "size": 24294512,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/maxdownforce.zip"
       },
       "version": 2
     },
@@ -54964,7 +55133,8 @@
     "mrrescue.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -55002,6 +55172,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -55049,12 +55220,12 @@
       },
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-04-01",
-        "md5": "0401a3185de49ada99225a62a12c78d6",
-        "release_id": "2024-04-01_1728",
+        "date_updated": "2025-08-14",
+        "md5": "35001057514d80a18b749c673a5de442",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 14247548,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_1728/mrrescue.zip"
+        "size": 12018785,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/mrrescue.zip"
       },
       "version": 2
     },
@@ -57040,7 +57211,7 @@
     "nidhogg.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -57067,10 +57238,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -57093,7 +57268,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from https://store.steampowered.com/app/94400/Nidhogg/\nFrom your Steam Library, Right-Click Nidhogg and select Properties. Go to Betas and select \"before_may_2017 - before_may_2017\"\nDownload and install the before_may_2017 version. After installation is complete, from your steam library, Right-Click Nidhogg [before_may_2017] and select Manage > Browse local files\nCopy all the files from this folder into ports/nidhogg/gamedata\nOn first startup, the game will patch and put the files in the appropriate places.",
+        "inst": "Purchase the game from https://store.steampowered.com/app/94400/Nidhogg/\nFrom your Steam Library, Right-Click Nidhogg and select Properties. Go to Betas and select \"before_may_2017 - before_may_2017\"\nDownload and install the before_may_2017 version. After installation is complete, from your steam library, Right-Click Nidhogg [before_may_2017] and select Manage > Browse local files\nCopy all the files from this folder into ports/nidhogg/assets\nOn first startup, the game will patch and put the files in the appropriate places.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -57112,12 +57287,12 @@
       "name": "nidhogg.zip",
       "source": {
         "date_added": "2024-04-20",
-        "date_updated": "2024-07-18",
-        "md5": "bb4a88abe8bfb7513c6ea7b566af640e",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-08-14",
+        "md5": "88e2d61d7fa2dc1bf49f284f25dee86a",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 11807206,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/nidhogg.zip"
+        "size": 9169325,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/nidhogg.zip"
       },
       "version": 2
     },
@@ -61594,12 +61769,12 @@
       "name": "openxcom.zip",
       "source": {
         "date_added": "2022-03-31",
-        "date_updated": "2025-07-16",
-        "md5": "c6c116a01dfec2a060ea10786373d60f",
-        "release_id": "2025-07-16_2108",
+        "date_updated": "2025-08-14",
+        "md5": "97436a1c8f59cd3bb14edd296a9ad34a",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 14935462,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/openxcom.zip"
+        "size": 14935787,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/openxcom.zip"
       },
       "version": 2
     },
@@ -61865,6 +62040,101 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/oquonie.zip"
       },
       "version": 2
+    },
+    "orbo.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Use your orbit to move around. Simple, yet challenging single button game.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "godot_4.4.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://jontopielski.com/",
+            "gameurl": "https://jontopielski.itch.io/orbo",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "orbo"
+      },
+      "items": [
+        "orbo.sh",
+        "orbo"
+      ],
+      "items_opt": null,
+      "name": "orbo.zip",
+      "source": {
+        "date_added": "2025-08-14",
+        "date_updated": "2025-08-14",
+        "md5": "d9842a349a429ea4d3cf80dda74f294b",
+        "release_id": "2025-08-14_1207",
+        "repo": "main",
+        "size": 5378680,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/orbo.zip"
+      },
+      "version": 4
     },
     "orthodon.zip": {
       "attr": {
@@ -65486,7 +65756,8 @@
     "planetmerge.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -65524,6 +65795,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -65568,12 +65840,12 @@
       },
       "source": {
         "date_added": "2024-11-29",
-        "date_updated": "2024-11-29",
-        "md5": "28452432b0a30b433a61845c0aaa7595",
-        "release_id": "2024-11-29_1007",
+        "date_updated": "2025-08-14",
+        "md5": "0813922a887e47e6e70295f6dde9bc6d",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 12939494,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-29_1007/planetmerge.zip"
+        "size": 13087607,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/planetmerge.zip"
       },
       "version": 2
     },
@@ -72237,7 +72509,8 @@
     "road.invaders.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -72275,6 +72548,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -72313,12 +72587,12 @@
       "name": "road.invaders.zip",
       "source": {
         "date_added": "2023-12-06",
-        "date_updated": "2024-07-18",
-        "md5": "6c3212183df267b128dbb5bc279c8ae8",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-08-14",
+        "md5": "ccd3636c1817cfc52371e92aea511b01",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 6814545,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/road.invaders.zip"
+        "size": 4266289,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/road.invaders.zip"
       },
       "version": 2
     },
@@ -77241,7 +77515,8 @@
       "attr": {
         "arch": [
           "aarch64",
-          "armhf"
+          "armhf",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -77279,11 +77554,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "SkiFree is a single-player skiing computer game created by Chris Pirih and released with Microsoft Entertainment Pack 3 for Windows 3.0 in October 1991.  The SkiFree official site is https://ski.ihoc.net/",
         "desc_md": null,
         "exp": false,
@@ -77308,6 +77585,7 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "SkiFree"
       },
       "items": [
@@ -77318,14 +77596,14 @@
       "name": "skifree.zip",
       "source": {
         "date_added": "2024-01-22",
-        "date_updated": "2024-11-28",
-        "md5": "2a5b9e434fb2f5976b72d5b4982bcf99",
-        "release_id": "2024-11-28_0901",
+        "date_updated": "2025-08-14",
+        "md5": "9c62c60cb8108687618da9af0d7bdaa4",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 9518975,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/skifree.zip"
+        "size": 9587332,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/skifree.zip"
       },
-      "version": 2
+      "version": 4
     },
     "skijump3.zip": {
       "attr": {
@@ -79947,6 +80225,101 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/sonictt16b.zip"
       },
       "version": 2
+    },
+    "sophstar.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A vertical arcade shoot'em up with an inventive teleport system, lots of fast-blazing action and explosions, tons of boss fights, a risk/reward based score system and a proper challenge for both veteran and new players of the genre.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1410440/Sophstar/) and copy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth",
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://x.com/bananabytesbr",
+            "gameurl": "https://store.steampowered.com/app/1410440/Sophstar/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Sophstar"
+      },
+      "items": [
+        "Sophstar.sh",
+        "sophstar"
+      ],
+      "items_opt": null,
+      "name": "sophstar.zip",
+      "source": {
+        "date_added": "2025-08-14",
+        "date_updated": "2025-08-14",
+        "md5": "8433c008cf1bea4d6510136031e27675",
+        "release_id": "2025-08-14_1207",
+        "repo": "main",
+        "size": 33331210,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/sophstar.zip"
+      },
+      "version": 4
     },
     "sorr.zip": {
       "attr": {
@@ -83676,7 +84049,7 @@
     "strikeysisters.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -83703,10 +84076,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -83722,12 +84099,14 @@
           "arcade"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game either from https://dyagames.itch.io/strikey-sisters OR https://store.steampowered.com/app/643880/Strikey_Sisters/ \n\nItch.io\nDownload Strikey Sisters (Linux Ubuntu 14.04 LTS) [updated on Apr 05, 2018],  copy all files from /assets to /ports/strikeysisters/gamedata\n\nSteam\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 643880 643883 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/strikeysisters/gamedata",
+        "inst": "Purchase the game either from https://dyagames.itch.io/strikey-sisters OR https://store.steampowered.com/app/643880/Strikey_Sisters/ \n\nItch.io\nDownload Strikey Sisters (Linux Ubuntu 14.04 LTS) [updated on Apr 05, 2018],  copy all files from /assets to /ports/strikeysisters/assets\n\nSteam\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 643880 643883 in the console, when the download is complete, it will tell you the location of the folder,  copy all files from /assets to /ports/strikeysisters/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -83735,7 +84114,10 @@
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "title": "Strikey Sisters"
       },
       "items": [
@@ -83746,12 +84128,12 @@
       "name": "strikeysisters.zip",
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-07-18",
-        "md5": "ca0c084aa360f4ca187860d23e3b15c7",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-08-14",
+        "md5": "d8625424fbf9e2c58d94ee5246779069",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 24634928,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/strikeysisters.zip"
+        "size": 20593206,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/strikeysisters.zip"
       },
       "version": 2
     },
@@ -92157,6 +92539,101 @@
       },
       "version": 2
     },
+    "tutoretta.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Short First Person Dungeon Crawler with PixelArt and Paper-like graphics.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://darkdes.itch.io/",
+            "gameurl": "https://darkdes.itch.io/drawngeon-tutoretta-easy-quest",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Tutoretta's Easy Quest"
+      },
+      "items": [
+        "Tutoretta's Easy Quest.sh",
+        "tutoretta"
+      ],
+      "items_opt": null,
+      "name": "tutoretta.zip",
+      "source": {
+        "date_added": "2025-08-14",
+        "date_updated": "2025-08-14",
+        "md5": "d739e5ffb8802c7f5c7e1df1f4714cfa",
+        "release_id": "2025-08-14_1207",
+        "repo": "main",
+        "size": 15017782,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/tutoretta.zip"
+      },
+      "version": 4
+    },
     "tuxfootball.zip": {
       "attr": {
         "arch": [
@@ -97626,12 +98103,12 @@
       "name": "xenofightersr.zip",
       "source": {
         "date_added": "2024-12-17",
-        "date_updated": "2024-12-17",
-        "md5": "52aab676c7305df48bcaa65439f928a2",
-        "release_id": "2024-12-17_1916",
+        "date_updated": "2025-08-14",
+        "md5": "8166cfdca3a2dd9a8c07af4db63aa180",
+        "release_id": "2025-08-14_1207",
         "repo": "main",
-        "size": 340538139,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-17_1916/xenofightersr.zip"
+        "size": 407740502,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/xenofightersr.zip"
       },
       "version": 4
     },
