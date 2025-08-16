@@ -35777,7 +35777,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2023-10-28",
@@ -35868,10 +35868,10 @@
       "items_opt": null,
       "name": "gtavc.zip",
       "rating": {
-        "average_rating": 4.56,
+        "average_rating": 4.6,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 9
+        "total_ratings": 10
       },
       "source": {
         "date_added": "2023-10-28",
@@ -62414,10 +62414,10 @@
       "items_opt": null,
       "name": "osmos.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 3.5,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "2",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-07-24",
@@ -65481,7 +65481,7 @@
         "average_rating": 4.0,
         "max_rating": "4",
         "min_rating": "4",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-05-12",
@@ -79407,6 +79407,12 @@
       ],
       "items_opt": null,
       "name": "sonic.1.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-05-01",
@@ -79496,6 +79502,12 @@
       ],
       "items_opt": null,
       "name": "sonic.2.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-05-01",
@@ -79585,6 +79597,12 @@
       ],
       "items_opt": null,
       "name": "sonic.cd.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-05-01",
@@ -79678,7 +79696,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2022-10-24",
@@ -79764,6 +79782,12 @@
       ],
       "items_opt": null,
       "name": "sonic1sms.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-07-08",
         "date_updated": "2024-07-18",
@@ -79937,6 +79961,12 @@
       ],
       "items_opt": null,
       "name": "sonic3air.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-10",
         "date_updated": "2025-04-13",
@@ -82188,10 +82218,10 @@
       "items_opt": null,
       "name": "srb2.zip",
       "rating": {
-        "average_rating": 3.0,
-        "max_rating": "3",
+        "average_rating": 3.5,
+        "max_rating": "4",
         "min_rating": "3",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-12-02",
@@ -82280,10 +82310,10 @@
       "items_opt": null,
       "name": "srb2kart.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.5,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "4",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2021-11-21",
@@ -83187,7 +83217,7 @@
         "average_rating": 1.0,
         "max_rating": "1",
         "min_rating": "1",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-03-11",
@@ -101307,6 +101337,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 485
+    "total_ratings": 498
   }
 }
