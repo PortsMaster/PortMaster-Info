@@ -4665,6 +4665,12 @@
       ],
       "items_opt": null,
       "name": "axiom.verge.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-04-13",
         "date_updated": "2024-12-16",
@@ -56441,7 +56447,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2025-07-24",
@@ -101337,6 +101343,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 498
+    "total_ratings": 500
   }
 }
