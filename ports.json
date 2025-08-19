@@ -14435,10 +14435,10 @@
       "items_opt": null,
       "name": "celeste.zip",
       "rating": {
-        "average_rating": 4.4,
+        "average_rating": 4.5,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 5
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2024-09-11",
@@ -35783,7 +35783,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 5
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2023-10-28",
@@ -35874,10 +35874,10 @@
       "items_opt": null,
       "name": "gtavc.zip",
       "rating": {
-        "average_rating": 4.6,
+        "average_rating": 4.64,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 10
+        "total_ratings": 11
       },
       "source": {
         "date_added": "2023-10-28",
@@ -37162,10 +37162,10 @@
       ],
       "name": "half-life.zip",
       "rating": {
-        "average_rating": 4.78,
+        "average_rating": 4.8,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 9
+        "total_ratings": 10
       },
       "source": {
         "date_added": "2023-01-07",
@@ -78763,7 +78763,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2024-04-10",
@@ -79702,7 +79702,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2022-10-24",
@@ -82679,7 +82679,7 @@
         "average_rating": 4.95,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 19
+        "total_ratings": 20
       },
       "source": {
         "date_added": "2022-07-03",
@@ -90439,10 +90439,10 @@
       "items_opt": null,
       "name": "tmntsr.zip",
       "rating": {
-        "average_rating": 4.71,
+        "average_rating": 4.75,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 7
+        "total_ratings": 8
       },
       "source": {
         "date_added": "2024-03-08",
@@ -101343,6 +101343,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 504
+    "total_ratings": 512
   }
 }
