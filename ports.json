@@ -2522,7 +2522,7 @@
     "annalynn.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -2549,10 +2549,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -2575,7 +2579,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from steam: https://store.steampowered.com/app/1508460/Annalynn/\nRun steam console via Windows+R: Type: steam://open/console, download the 1.3 version by typing: download_depot 1508460 1508461 5365853075598347936 in the console. When the download is complete, it will tell you the location of the folder, copy all files to /ports/annalynn/gamedata",
+        "inst": "Purchase the game from steam: https://store.steampowered.com/app/1508460/Annalynn/\nRun steam console via Windows+R: Type: steam://open/console, download the 1.3 version by typing: download_depot 1508460 1508461 5365853075598347936 in the console. When the download is complete, it will tell you the location of the folder, copy all files to /ports/annalynn/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -2594,12 +2598,12 @@
       "name": "annalynn.zip",
       "source": {
         "date_added": "2024-05-06",
-        "date_updated": "2024-07-18",
-        "md5": "94d29744d9ebf3187115e80ee8cf4a38",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-08-21",
+        "md5": "887de353a92a3a22f6e73068011129b4",
+        "release_id": "2025-08-21_0915",
         "repo": "main",
-        "size": 13128713,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/annalynn.zip"
+        "size": 7985667,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/annalynn.zip"
       },
       "version": 2
     },
@@ -26873,12 +26877,12 @@
       "name": "entwined.zip",
       "source": {
         "date_added": "2024-10-14",
-        "date_updated": "2025-02-27",
-        "md5": "568a6ef9e6c63a8019b1eb2648c2e793",
-        "release_id": "2025-02-27_2241",
+        "date_updated": "2025-08-21",
+        "md5": "6119e5956d2c01af2be53a91a701e2e1",
+        "release_id": "2025-08-21_0915",
         "repo": "main",
-        "size": 64763380,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/entwined.zip"
+        "size": 64800559,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/entwined.zip"
       },
       "version": 4
     },
@@ -28677,6 +28681,100 @@
         "repo": "main",
         "size": 2642821,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/falseskies.zip"
+      },
+      "version": 4
+    },
+    "fares.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Join the blue haired treasure hunter Fares in the adventure of a lifetime in this retro inspired 16-bit platformer. Discover hidden treasures and artifacts as you travel through dangerous lands of a lost civilization. Can you complete Fares collection? See if you can in this colorful and cute adventure!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1094070/Fares/) and copy all files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1094070/Fares/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Fares"
+      },
+      "items": [
+        "Fares.sh",
+        "fares"
+      ],
+      "items_opt": null,
+      "name": "fares.zip",
+      "source": {
+        "date_added": "2025-08-21",
+        "date_updated": "2025-08-21",
+        "md5": "49df25c6925645877e84f2c0f05b0e13",
+        "release_id": "2025-08-21_0915",
+        "repo": "main",
+        "size": 12243669,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/fares.zip"
       },
       "version": 4
     },
@@ -32610,6 +32708,102 @@
         "repo": "main",
         "size": 37146679,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/frozen-bubble.zip"
+      },
+      "version": 4
+    },
+    "fullmoonrush.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Take on a howling challenge in Full Moon Rush! This classic shoot 'em up is a bullet hell masterpiece with a boss rush twist. With 15 epic battles and old-school graphics, you'll need expert shooting skills to survive. Customizable health and Assist Mode make it accessible to all.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all the game files into the assets folder. ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://silkwormgames.com/",
+            "gameurl": "https://store.steampowered.com/app/2338090/Full_Moon_Rush/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Full Moon Rush"
+      },
+      "items": [
+        "Full Moon Rush.sh",
+        "fullmoonrush"
+      ],
+      "items_opt": null,
+      "name": "fullmoonrush.zip",
+      "source": {
+        "date_added": "2025-08-21",
+        "date_updated": "2025-08-21",
+        "md5": "756f540a4131a1c67ac53b5fcb8949a9",
+        "release_id": "2025-08-21_0915",
+        "repo": "main",
+        "size": 11436130,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/fullmoonrush.zip"
       },
       "version": 4
     },
@@ -43628,7 +43822,10 @@
           "power"
         ],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "store": [
           {
             "developerurl": "",
@@ -43651,12 +43848,12 @@
       "name": "jetlancer.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2025-05-14",
-        "md5": "2c6822913445c0e631529ecda9183266",
-        "release_id": "2025-05-14_0927",
+        "date_updated": "2025-08-21",
+        "md5": "81c17f750defd895600589220fb858e8",
+        "release_id": "2025-08-21_0915",
         "repo": "main",
-        "size": 47470456,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/jetlancer.zip"
+        "size": 27816524,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/jetlancer.zip"
       },
       "version": 4
     },
@@ -47046,6 +47243,102 @@
         "repo": "main",
         "size": 5960307,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/liltanks.zip"
+      },
+      "version": 4
+    },
+    "linegame.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "An on-rails bullet hell.\nWeave past bullets and fill containers through 3 worlds.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install port zip.\nDownload LineGameWINDOWS.zip file from the Itch.\nExtract zip into ports/linegame/assets.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://sirmilkman.itch.io",
+            "gameurl": "https://sirmilkman.itch.io/lines",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Line game"
+      },
+      "items": [
+        "Line game.sh",
+        "linegame"
+      ],
+      "items_opt": null,
+      "name": "linegame.zip",
+      "source": {
+        "date_added": "2025-08-21",
+        "date_updated": "2025-08-21",
+        "md5": "74011eb35d06102b976fc27d19319002",
+        "release_id": "2025-08-21_0915",
+        "repo": "main",
+        "size": 8690734,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/linegame.zip"
       },
       "version": 4
     },
@@ -67508,6 +67801,102 @@
       },
       "version": 4
     },
+    "proborush.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Probo Rush is a classic shoot 'em up bullet hell game with a boss rush twist. Fight against machines, aliens, and nature as you take on 15 challenging boss battles. With adjustable health and an Assist Mode, Probo Rush offers a challenging but accessible gaming experience.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all the game files into the assets folder. ",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://silkwormgames.com/",
+            "gameurl": "https://store.steampowered.com/app/2250170/Probo_Rush/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Probo Rush"
+      },
+      "items": [
+        "Probo Rush.sh",
+        "proborush"
+      ],
+      "items_opt": null,
+      "name": "proborush.zip",
+      "source": {
+        "date_added": "2025-08-21",
+        "date_updated": "2025-08-21",
+        "md5": "27f5c5ed4eb073dba2ea840ad8da74c0",
+        "release_id": "2025-08-21_0915",
+        "repo": "main",
+        "size": 11455530,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/proborush.zip"
+      },
+      "version": 4
+    },
     "profadeluxe.zip": {
       "attr": {
         "arch": [
@@ -68649,6 +69038,105 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/pyk.zip"
       },
       "version": 2
+    },
+    "pyromind.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The most unforgiving little puzzler you will ever play, PyroMind is a simultaneously turn-based and real-time game full of bombs, explosions and narrow escapes!  \nPlay alone, blow up your friend or challenge a bot in a unique dimension, where everything explodes and one small mistake can blast you to smithereens.  \nNote: Slowdowns on rk3326 devices!",
+        "desc_md": "The most unforgiving little puzzler you will ever play, PyroMind is a simultaneously turn-based and real-time game full of bombs, explosions and narrow escapes!  \nPlay alone, blow up your friend or challenge a bot in a unique dimension, where everything explodes and one small mistake can blast you to smithereens.\n\n**Note: Slowdowns on rk3326 devices!**",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam.  \nDownload the game and place the gamefiles in ports/pyromind/assets.",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/695570/PyroMind/).  \nDownload the game and place the gamefiles in ports/pyromind/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=SneakyBox",
+            "gameurl": "https://store.steampowered.com/app/695570/PyroMind/",
+            "name": "Steam"
+          }
+        ],
+        "title": "PyroMind"
+      },
+      "items": [
+        "PyroMind.sh",
+        "pyromind"
+      ],
+      "items_opt": null,
+      "name": "pyromind.zip",
+      "source": {
+        "date_added": "2025-08-21",
+        "date_updated": "2025-08-21",
+        "md5": "37976ee11e46560244cafeda56c1b727",
+        "release_id": "2025-08-21_0915",
+        "repo": "main",
+        "size": 14152619,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/pyromind.zip"
+      },
+      "version": 4
     },
     "pyxeljack.zip": {
       "attr": {
@@ -84803,7 +85291,7 @@
     "supercratebox.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -84830,10 +85318,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -84856,7 +85348,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "This port is ready to run.\nHold Start on the first startup when the game asks \"What is your name?\"",
+        "inst": "This port is ready to run.\nHold START and release on the first startup",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -84882,12 +85374,12 @@
       },
       "source": {
         "date_added": "2024-05-06",
-        "date_updated": "2024-07-18",
-        "md5": "9c928a810304654527d03c7487915a59",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-08-21",
+        "md5": "308ba25335d5409fb1099f8b45961766",
+        "release_id": "2025-08-21_0915",
         "repo": "main",
-        "size": 25900777,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/supercratebox.zip"
+        "size": 28984818,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/supercratebox.zip"
       },
       "version": 2
     },
@@ -86666,6 +87158,94 @@
       },
       "version": 2
     },
+    "switchfin.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Switchfin is third-party player for Jellyfin that provides a native user interface to browse and play movies and series. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Either edit the config.json that is in ports/switchfin/conf/Switchfin/config.json and put your Jellyfin Server IP in there or put your Media into any folder on your device",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Damian2809"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [],
+        "title": "Switchfin"
+      },
+      "items": [
+        "Switchfin.sh",
+        "switchfin"
+      ],
+      "items_opt": null,
+      "name": "switchfin.zip",
+      "source": {
+        "date_added": "2025-08-21",
+        "date_updated": "2025-08-21",
+        "md5": "8010c5180e2bacafc5691e8eb29e6d27",
+        "release_id": "2025-08-21_0915",
+        "repo": "main",
+        "size": 33152258,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/switchfin.zip"
+      },
+      "version": 4
+    },
     "syasokoban.zip": {
       "attr": {
         "arch": [
@@ -87016,6 +87596,106 @@
         "repo": "main",
         "size": 27876540,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/tailspin.zip"
+      },
+      "version": 4
+    },
+    "talumos.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Fables of Talumos is a pixel-art adventure game set in the fantasy world of Talumos. The game has fast-paced and challenging combat, interesting characters, powerful weapons and items, and a unique fantasy setting.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch. For Steam version, copy all game files into the assets folder. For Itch version, download the zip with the game and extract all files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1085570/Fables_of_Talumos) or [Itch](https://cheesemaster-games.itch.io/fables-of-talumos). For `Steam` version, copy all game files into the `assets` folder. For `Itch` version, download the zip with the game and extract all files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://cheesemaster-games.itch.io/fables-of-talumos",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1085570/Fables_of_Talumos/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Fables of Talumos"
+      },
+      "items": [
+        "Fables of Talumos.sh",
+        "talumos"
+      ],
+      "items_opt": null,
+      "name": "talumos.zip",
+      "source": {
+        "date_added": "2025-08-21",
+        "date_updated": "2025-08-21",
+        "md5": "5c2651a9759a3ac77de76d0244ff277b",
+        "release_id": "2025-08-21_0915",
+        "repo": "main",
+        "size": 4979854,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/talumos.zip"
       },
       "version": 4
     },
@@ -92915,8 +93595,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Install portfiles. Download this specific version of the game with the steam console: \"download_depot 790060 790061 7858860086893173396\". Copy all gamefiles to the gamedata folder.",
-        "inst_md": "- Install portfiles.\n- Download this specific version of the game with the steam console: \"download_depot 790060 790061 7858860086893173396\"\n- Copy all gamefiles to the gamedata folder.",
+        "inst": "Install portfiles. Download this specific version of the game with the steam console: \"download_depot 790060 790061 6364595347882983973\". Copy all gamefiles to the assets folder.",
+        "inst_md": "- Install portfiles.\n- Download this specific version of the game with the steam console: \"download_depot 790060 790061 6364595347882983973\"\n- Copy all gamefiles to the assets folder.",
         "min_glibc": "",
         "porter": [
           "Fraxinus88",
@@ -92924,7 +93604,10 @@
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "title": "The Void Rains Upon Her Heart"
       },
       "items": [
@@ -92935,12 +93618,12 @@
       "name": "tvruhh.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2024-10-31",
-        "md5": "30df98328ebdfd65549532ce1be4fe34",
-        "release_id": "2024-10-31_1458",
+        "date_updated": "2025-08-21",
+        "md5": "61554b7ce8d5501731b1c7bf2d4222da",
+        "release_id": "2025-08-21_0915",
         "repo": "main",
-        "size": 10459115,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/tvruhh.zip"
+        "size": 7656072,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/tvruhh.zip"
       },
       "version": 4
     },
