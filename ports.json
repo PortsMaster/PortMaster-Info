@@ -5634,7 +5634,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": false,
@@ -5650,12 +5650,12 @@
       "name": "beatblock.zip",
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2025-04-07",
-        "md5": "2d8c30b525ce53ce4c1c96f81db72476",
-        "release_id": "2025-04-07_1957",
+        "date_updated": "2025-08-21",
+        "md5": "ddd9bc2230cd2642e84743aefabc2587",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 199507,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-07_1957/beatblock.zip"
+        "size": 199500,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/beatblock.zip"
       },
       "version": 4
     },
@@ -10139,7 +10139,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [
           "ultra"
@@ -10158,12 +10158,12 @@
       "name": "brotato.zip",
       "source": {
         "date_added": "2024-12-11",
-        "date_updated": "2025-01-22",
-        "md5": "9a23b7f43ec9f4ba34fa0c81e971023d",
-        "release_id": "2025-01-22_2214",
+        "date_updated": "2025-08-21",
+        "md5": "bf39c5ce0382d09474add7539cd05e2d",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 324790,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-22_2214/brotato.zip"
+        "size": 324787,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/brotato.zip"
       },
       "version": 4
     },
@@ -22944,7 +22944,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [
           "!lowres"
@@ -22969,12 +22969,12 @@
       "name": "donottakethiscathome.zip",
       "source": {
         "date_added": "2025-03-11",
-        "date_updated": "2025-03-22",
-        "md5": "d31ce706e594504ca59ffd2c5f3264eb",
-        "release_id": "2025-03-22_2007",
+        "date_updated": "2025-08-21",
+        "md5": "d0c532a360ff0b76e31bb7270ff60cd8",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 655883,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-22_2007/donottakethiscathome.zip"
+        "size": 655876,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/donottakethiscathome.zip"
       },
       "version": 4
     },
@@ -26949,7 +26949,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": false,
@@ -26966,12 +26966,12 @@
       "name": "erebos.zip",
       "source": {
         "date_added": "2025-02-19",
-        "date_updated": "2025-02-19",
-        "md5": "b6a93d207d8791db6501c4d9a1f5bc68",
-        "release_id": "2025-02-19_1252",
+        "date_updated": "2025-08-21",
+        "md5": "056fae39d58dc7cd9536ac13fa8bad8a",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 13664,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-19_1252/erebos.zip"
+        "size": 13660,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/erebos.zip"
       },
       "version": 4
     },
@@ -30552,7 +30552,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": false,
@@ -30567,12 +30567,12 @@
       "name": "fnafnes.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2024-10-27",
-        "md5": "2986a5d34009a8d2e13bf46d10a5da53",
-        "release_id": "2024-10-27_1327",
+        "date_updated": "2025-08-21",
+        "md5": "2a2bbec87cdf4d86cdca6e568089ed84",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 10574568,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/fnafnes.zip"
+        "size": 10574569,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/fnafnes.zip"
       },
       "version": 4
     },
@@ -31260,7 +31260,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": false,
@@ -31275,12 +31275,12 @@
       "name": "franbow.zip",
       "source": {
         "date_added": "2025-01-07",
-        "date_updated": "2025-01-07",
-        "md5": "ac0432de2c22045cc4673debace97de9",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2025-08-21",
+        "md5": "35897b1cbd4624b9d7c21da4fad8f825",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 11045059,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/franbow.zip"
+        "size": 11045052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/franbow.zip"
       },
       "version": 4
     },
@@ -44533,7 +44533,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": true,
@@ -44551,12 +44551,12 @@
       "name": "justkissheralready.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-04-21",
-        "md5": "86814165d829d06ed9e5dcc61a262358",
-        "release_id": "2025-04-21_1125",
+        "date_updated": "2025-08-21",
+        "md5": "b290e5b6f22841b53b78b31a71cc5633",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 64134584,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/justkissheralready.zip"
+        "size": 64134577,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/justkissheralready.zip"
       },
       "version": 4
     },
@@ -44621,7 +44621,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": true,
@@ -44645,12 +44645,12 @@
       },
       "source": {
         "date_added": "2025-04-03",
-        "date_updated": "2025-07-16",
-        "md5": "6812a2616b5c9e6f34fac0654884bfef",
-        "release_id": "2025-07-16_2108",
+        "date_updated": "2025-08-21",
+        "md5": "87f6348d3138d7a7c505d9131ec52f2d",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 33424145,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/justkisshimalready.zip"
+        "size": 33424138,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/justkisshimalready.zip"
       },
       "version": 4
     },
@@ -45869,7 +45869,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": true,
@@ -45891,12 +45891,12 @@
       },
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2025-07-01",
-        "md5": "db98a2fe7108283372ee52c1fae0ea70",
-        "release_id": "2025-07-01_0951",
+        "date_updated": "2025-08-21",
+        "md5": "d5118c0ecfa99b6f97be3de1d5ede308",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 43795693,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/koreader.zip"
+        "size": 43795686,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/koreader.zip"
       },
       "version": 4
     },
@@ -48971,7 +48971,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": true,
@@ -48986,12 +48986,12 @@
       "name": "loguploader.zip",
       "source": {
         "date_added": "2025-04-03",
-        "date_updated": "2025-04-03",
-        "md5": "1c059c3adaf9f5482d89135e0958e3f2",
-        "release_id": "2025-04-03_1456",
+        "date_updated": "2025-08-21",
+        "md5": "daf775e4550a0cc756672550176303b0",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 7694104,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/loguploader.zip"
+        "size": 7694098,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/loguploader.zip"
       },
       "version": 4
     },
@@ -52094,7 +52094,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": false,
@@ -52111,12 +52111,12 @@
       "name": "megamanx816-bit.zip",
       "source": {
         "date_added": "2024-08-24",
-        "date_updated": "2024-11-07",
-        "md5": "575bec2f4ac9d6b6e77ec13af610fe5e",
-        "release_id": "2024-11-07_1955",
+        "date_updated": "2025-08-21",
+        "md5": "030480324824323ed86d641d263bf77e",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 133241,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/megamanx816-bit.zip"
+        "size": 133245,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/megamanx816-bit.zip"
       },
       "version": 4
     },
@@ -52916,7 +52916,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": false,
@@ -52934,12 +52934,12 @@
       "name": "milkinside.zip",
       "source": {
         "date_added": "2025-02-27",
-        "date_updated": "2025-03-06",
-        "md5": "d3a3a54fede5c9c746c8539252f8d34e",
-        "release_id": "2025-03-06_1114",
+        "date_updated": "2025-08-21",
+        "md5": "b954812dba50923cb30215c8865fb465",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 579974,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/milkinside.zip"
+        "size": 579967,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/milkinside.zip"
       },
       "version": 4
     },
@@ -53172,7 +53172,7 @@
         "inst_md": "To play Minecraft on your device via PortMaster, you\u2019ll need to copy over the necessary game files from your PC. Follow these steps carefully:\n\u2705 Step 1: Prepare Minecraft on Your PC\n\n    Install Minecraft on your PC via the official launcher.\n\n    Launch the version you want to play at least once to make sure all files are generated.\n\n    (Optional but important!)\n    If you want to use a mod loader like Forge or Fabric, install it and launch that version once as well.\n\n\ud83d\udcc2 Step 2: Find the Game Files\n\nOn your PC, Minecraft stores game files in this folder:\n\nC:\\Users\\<YourUsername>\\AppData\\Roaming\\.minecraft\\versions\n\nTo access that folder Press the Windows Key on your Keyboard and R\n    Win + R\nYou should see a new Window called Run, in there write %appdata% and press Enter\n\nNow you should see a .minecraft directory\n\n\ud83d\udcc1 Step 3: Copy to Your PortMaster Device\n\n    Connect your device to your PC or insert the SD card.\n\n    On your device, go to:\n\n    /ports/minecraftjava\n\n    Now copy the earlier found .minecraft Directory from Step 2 into the /ports/minecraftjava folder\n    If it asks to overwrite files press NO !!! ",
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [
           "analog_2"
@@ -53200,12 +53200,12 @@
       },
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2025-06-16",
-        "md5": "e45517e00f62724460a196e85ec91527",
-        "release_id": "2025-06-16_0931",
+        "date_updated": "2025-08-21",
+        "md5": "68bc6b3e72ad2a3dc71343160d4f4a5b",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 27281309,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/minecraftjava.zip"
+        "size": 27281303,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/minecraftjava.zip"
       },
       "version": 4
     },
@@ -55122,7 +55122,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": true,
@@ -55144,12 +55144,12 @@
       },
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2025-05-29",
-        "md5": "b20f13b7b8e7cbc38e2c499fa65f6651",
-        "release_id": "2025-05-29_1057",
+        "date_updated": "2025-08-21",
+        "md5": "acdf22cde8b8e3e3eacf23750c9f516a",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 30738069,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-29_1057/mpd.zip"
+        "size": 30738062,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/mpd.zip"
       },
       "version": 4
     },
@@ -56714,7 +56714,7 @@
         "min_glibc": "",
         "porter": [
           "RoyalJupiter",
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [
           "power"
@@ -56744,12 +56744,12 @@
       },
       "source": {
         "date_added": "2025-07-24",
-        "date_updated": "2025-07-24",
-        "md5": "705b2817c33ee9d458f14d397f6ecac7",
-        "release_id": "2025-07-24_0745",
+        "date_updated": "2025-08-21",
+        "md5": "d76786bedf961a102a02dcf740f1daa2",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 74980238,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/nazizombies.zip"
+        "size": 74980231,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/nazizombies.zip"
       },
       "version": 4
     },
@@ -60298,7 +60298,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": false,
@@ -60316,12 +60316,12 @@
       "name": "onenighthotsprings.zip",
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2025-03-28",
-        "md5": "5c367aaf13d4b423b837fb670f18cf69",
-        "release_id": "2025-03-28_1021",
+        "date_updated": "2025-08-21",
+        "md5": "bde835c56bfd862bfab4a7b6f338b293",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 578297,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-28_1021/onenighthotsprings.zip"
+        "size": 578290,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/onenighthotsprings.zip"
       },
       "version": 4
     },
@@ -69200,7 +69200,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": true,
@@ -69224,12 +69224,12 @@
       },
       "source": {
         "date_added": "2025-06-09",
-        "date_updated": "2025-06-09",
-        "md5": "43ba1871447cb66b3ce1f9ab5e83bc9e",
-        "release_id": "2025-06-09_2012",
+        "date_updated": "2025-08-21",
+        "md5": "dfb97f39f622f1bdb5a2bb6756689227",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 7984,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/pyxeljack.zip"
+        "size": 7977,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/pyxeljack.zip"
       },
       "version": 4
     },
@@ -71868,7 +71868,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [
           "power"
@@ -71885,12 +71885,12 @@
       "name": "residentvania.zip",
       "source": {
         "date_added": "2024-11-28",
-        "date_updated": "2024-11-28",
-        "md5": "0cf2bed40a9b2278b837a743c44dac68",
-        "release_id": "2024-11-28_0901",
+        "date_updated": "2025-08-21",
+        "md5": "af34b5e58212a185374de48208f268a6",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 6978567,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/residentvania.zip"
+        "size": 6978568,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/residentvania.zip"
       },
       "version": 4
     },
@@ -87219,7 +87219,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": true,
@@ -87238,11 +87238,11 @@
       "source": {
         "date_added": "2025-08-21",
         "date_updated": "2025-08-21",
-        "md5": "8010c5180e2bacafc5691e8eb29e6d27",
-        "release_id": "2025-08-21_0915",
+        "md5": "1f2b2ab6efce5a1c831d30e24f38406a",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 33152258,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/switchfin.zip"
+        "size": 33152250,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/switchfin.zip"
       },
       "version": 4
     },
@@ -94793,7 +94793,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Damian2809"
+          "Dia"
         ],
         "reqs": [],
         "rtr": false,
@@ -94810,12 +94810,12 @@
       "name": "unlikely.zip",
       "source": {
         "date_added": "2024-09-14",
-        "date_updated": "2024-09-20",
-        "md5": "94a3bd18258ffc6fccbafe0ce58dee59",
-        "release_id": "2024-09-20_1106",
+        "date_updated": "2025-08-21",
+        "md5": "682708468aa490bfb205117cd9665abc",
+        "release_id": "2025-08-21_2306",
         "repo": "main",
-        "size": 913355,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-20_1106/unlikely.zip"
+        "size": 913359,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/unlikely.zip"
       },
       "version": 4
     },
