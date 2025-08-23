@@ -82718,10 +82718,10 @@
       "items_opt": null,
       "name": "srb2.zip",
       "rating": {
-        "average_rating": 3.5,
-        "max_rating": "4",
+        "average_rating": 4.0,
+        "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2021-12-02",
@@ -102032,6 +102032,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 514
+    "total_ratings": 515
   }
 }
