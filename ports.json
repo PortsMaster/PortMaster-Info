@@ -6113,6 +6113,97 @@
       },
       "version": 4
     },
+    "beowulfclassic.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Made for the Historically Accurate Game Jam 4.Embark on an adaption that mixes retro platforming and combat while you explore the old Beowulf Poem.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "BEOWULF CLASSIC "
+      },
+      "items": [
+        "BEOWULF CLASSIC.sh",
+        "beowulfclassic"
+      ],
+      "items_opt": null,
+      "name": "beowulfclassic.zip",
+      "source": {
+        "date_added": "2025-08-25",
+        "date_updated": "2025-08-25",
+        "md5": "63f0406c38a8347c388180b2c63f48a0",
+        "release_id": "2025-08-25_1043",
+        "repo": "main",
+        "size": 19398741,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-25_1043/beowulfclassic.zip"
+      },
+      "version": 4
+    },
     "bermuda_syndrome.zip": {
       "attr": {
         "arch": [
@@ -21305,12 +21396,12 @@
       "name": "descent3.zip",
       "source": {
         "date_added": "2024-07-01",
-        "date_updated": "2025-05-01",
-        "md5": "971db7e7bcef46b5276eea544db106fc",
-        "release_id": "2025-05-01_1304",
+        "date_updated": "2025-08-25",
+        "md5": "6bd5f46ad117a3140dad5d9f2a82f36e",
+        "release_id": "2025-08-25_1043",
         "repo": "main",
-        "size": 7111381,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/descent3.zip"
+        "size": 7111450,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-25_1043/descent3.zip"
       },
       "version": 2
     },
@@ -47307,8 +47398,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Install port zip.\nDownload LineGameWINDOWS.zip file from the Itch.\nExtract zip into ports/linegame/assets.",
-        "inst_md": null,
+        "inst": "Install port zip.\nDownload LineGameWINDOWS.zip file from the Itch.\nExtract zip into the ports/linegame/assets folder.",
+        "inst_md": "Install port zip.\nDownload LineGameWINDOWS.zip file from the [Itch](https://sirmilkman.itch.io/lines).\nExtract zip into the `ports/linegame/assets` folder.",
         "min_glibc": "",
         "porter": [
           "Slobters"
@@ -47333,12 +47424,12 @@
       "name": "linegame.zip",
       "source": {
         "date_added": "2025-08-21",
-        "date_updated": "2025-08-21",
-        "md5": "74011eb35d06102b976fc27d19319002",
-        "release_id": "2025-08-21_0915",
+        "date_updated": "2025-08-25",
+        "md5": "0d9543982e7f0455d36c6ee5e51b6883",
+        "release_id": "2025-08-25_1043",
         "repo": "main",
-        "size": 8690734,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/linegame.zip"
+        "size": 8690765,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-25_1043/linegame.zip"
       },
       "version": 4
     },
@@ -49973,6 +50064,104 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/luck.be.a.landlord.zip"
       },
       "version": 2
+    },
+    "luftrausers.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The skies will be set aflame and the seas will overflow with wreckage in Vlambeer\u2019s stylish arcade shooter LUFTRAUSERS! Select from over 125 combinations of weapons, bodies, and propulsion systems and take to the skies to battle enemy fighter planes, battleships, submarines, and rival aces for glory, honor, and high scores. Bravely volunteer for one of over 100 daring missions to unlock new Rauser combinations and vibrant color variations and become the most legendary Rauser pilot of all time!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade",
+          "simulation"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game at HumbleBundle or GoG and place the linux installer / drm-free zip in `ports/luftrausers/gamedata/`.",
+        "inst_md": "Buy the game at [HumbleBundle](https://www.humblebundle.com/store/luftrausers) or [GoG](https://www.gog.com/en/game/luftrausers) and place the linux installer / drm-free zip in `ports/luftrausers/gamedata/`.",
+        "min_glibc": "",
+        "porter": [
+          "Doronimmo",
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "!lowres",
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.humblebundle.com/store/search?developer=Vlambeer",
+            "gameurl": "https://www.humblebundle.com/store/luftrausers",
+            "name": "HumbleBundle"
+          },
+          {
+            "developerurl": "https://www.gog.com/games?developers=vlambeer",
+            "gameurl": "https://www.gog.com/en/game/luftrausers",
+            "name": "GoG"
+          }
+        ],
+        "title": "LUFTRAUSERS"
+      },
+      "items": [
+        "LUFTRAUSERS.sh",
+        "luftrausers"
+      ],
+      "items_opt": null,
+      "name": "luftrausers.zip",
+      "source": {
+        "date_added": "2025-08-25",
+        "date_updated": "2025-08-25",
+        "md5": "835466cef1b04441af46b763cc3acba2",
+        "release_id": "2025-08-25_1043",
+        "repo": "main",
+        "size": 23467368,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-25_1043/luftrausers.zip"
+      },
+      "version": 4
     },
     "lugaruhd.zip": {
       "attr": {
@@ -69780,12 +69969,12 @@
       "name": "quakespasm.zip",
       "source": {
         "date_added": "2023-10-23",
-        "date_updated": "2024-08-06",
-        "md5": "3c04592e528e29da7cc82d5b5595a65e",
-        "release_id": "2024-08-06_0203",
+        "date_updated": "2025-08-25",
+        "md5": "fe49b662478747165ad4846dea45e2c6",
+        "release_id": "2025-08-25_1043",
         "repo": "main",
-        "size": 41829844,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/quakespasm.zip"
+        "size": 40954117,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-25_1043/quakespasm.zip"
       },
       "version": 2
     },
@@ -88558,6 +88747,100 @@
       },
       "version": 4
     },
+    "terraflame.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Terra Flame is a horizontal shoot \u2019em up inspired by the 1990s, featuring authentic pixel-art graphics and a chiptune soundtrack created with classic Mega Drive sound sources.\u201d",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1921840/Terra_Flame/) and copy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.teraringames.com/",
+            "gameurl": "https://store.steampowered.com/app/1921840/Terra_Flame/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Terra Flame"
+      },
+      "items": [
+        "Terra Flame.sh",
+        "terraflame"
+      ],
+      "items_opt": null,
+      "name": "terraflame.zip",
+      "source": {
+        "date_added": "2025-08-25",
+        "date_updated": "2025-08-25",
+        "md5": "08c5da6aed90ebefb4f5a5ae78169239",
+        "release_id": "2025-08-25_1043",
+        "repo": "main",
+        "size": 6289533,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-25_1043/terraflame.zip"
+      },
+      "version": 4
+    },
     "theaspect.zip": {
       "attr": {
         "arch": [
@@ -92635,12 +92918,12 @@
       "name": "trogdorrb.zip",
       "source": {
         "date_added": "2024-04-22",
-        "date_updated": "2025-07-27",
-        "md5": "109f993a6047047f9577e9520a9fe05b",
-        "release_id": "2025-07-27_0947",
+        "date_updated": "2025-08-25",
+        "md5": "6a13d206f58aba18d3ce3c0114f3486f",
+        "release_id": "2025-08-25_1043",
         "repo": "main",
-        "size": 8869582,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/trogdorrb.zip"
+        "size": 8880628,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-25_1043/trogdorrb.zip"
       },
       "version": 2
     },
