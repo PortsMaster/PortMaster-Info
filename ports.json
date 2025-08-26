@@ -8328,6 +8328,12 @@
       ],
       "items_opt": null,
       "name": "bluerevolver.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-06-11",
         "date_updated": "2025-01-08",
@@ -50152,6 +50158,12 @@
       ],
       "items_opt": null,
       "name": "luftrausers.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-08-25",
         "date_updated": "2025-08-25",
@@ -96771,7 +96783,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-08-06",
@@ -101870,7 +101882,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2023-09-06",
@@ -102321,6 +102333,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 516
+    "total_ratings": 520
   }
 }
