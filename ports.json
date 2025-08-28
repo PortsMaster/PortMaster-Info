@@ -43041,7 +43041,10 @@
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "store": [
           {
             "developerurl": "https://www.cicadasoft.com/",
@@ -43070,12 +43073,12 @@
       },
       "source": {
         "date_added": "2024-09-04",
-        "date_updated": "2025-05-12",
-        "md5": "fe2740f8e9a1613c58ab539786e6e86f",
-        "release_id": "2025-05-12_1413",
+        "date_updated": "2025-08-28",
+        "md5": "11c3bf2ae23eb3ccaea00ae70cdd6ab2",
+        "release_id": "2025-08-28_1025",
         "repo": "main",
-        "size": 15607772,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/iosas.zip"
+        "size": 7866877,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-28_1025/iosas.zip"
       },
       "version": 4
     },
@@ -87897,12 +87900,12 @@
       "name": "talumos.zip",
       "source": {
         "date_added": "2025-08-21",
-        "date_updated": "2025-08-21",
-        "md5": "5c2651a9759a3ac77de76d0244ff277b",
-        "release_id": "2025-08-21_0915",
+        "date_updated": "2025-08-28",
+        "md5": "f1f88a687e1a8c91d3df85d47f3b385d",
+        "release_id": "2025-08-28_1025",
         "repo": "main",
-        "size": 4979854,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/talumos.zip"
+        "size": 4979848,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-28_1025/talumos.zip"
       },
       "version": 4
     },
@@ -89767,7 +89770,7 @@
     "thestarlitescape.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -89794,10 +89797,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -89813,7 +89820,9 @@
           "adventure"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -89837,12 +89846,12 @@
       "name": "thestarlitescape.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2024-11-15",
-        "md5": "2b9064643cc2bfd67cf798656fdb46ad",
-        "release_id": "2024-11-15_1632",
+        "date_updated": "2025-08-28",
+        "md5": "4433ac6ee556d3b121b8e36efebc6c44",
+        "release_id": "2025-08-28_1025",
         "repo": "main",
-        "size": 210635795,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-15_1632/thestarlitescape.zip"
+        "size": 24642985,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-28_1025/thestarlitescape.zip"
       },
       "version": 2
     },
