@@ -4852,10 +4852,10 @@
       "items_opt": null,
       "name": "balatro.zip",
       "rating": {
-        "average_rating": 4.4,
+        "average_rating": 4.5,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 5
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2024-04-01",
@@ -47162,6 +47162,12 @@
       ],
       "items_opt": null,
       "name": "librespot.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-07",
         "date_updated": "2024-10-15",
@@ -81229,6 +81235,12 @@
       ],
       "items_opt": null,
       "name": "space.cadet.pinball.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-10-31",
         "date_updated": "2024-10-27",
@@ -94379,10 +94391,10 @@
       "items_opt": null,
       "name": "ufo50.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.67,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 2
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2024-10-06",
@@ -102354,6 +102366,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 525
+    "total_ratings": 529
   }
 }
