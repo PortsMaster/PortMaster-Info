@@ -93673,6 +93673,12 @@
       ],
       "items_opt": null,
       "name": "tutoretta.zip",
+      "rating": {
+        "average_rating": 2.0,
+        "max_rating": "2",
+        "min_rating": "2",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-08-14",
         "date_updated": "2025-08-14",
@@ -102366,6 +102372,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 529
+    "total_ratings": 530
   }
 }
