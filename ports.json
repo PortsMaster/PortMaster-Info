@@ -62282,6 +62282,12 @@
       ],
       "items_opt": null,
       "name": "openxcom.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2022-03-31",
         "date_updated": "2025-08-14",
@@ -102372,6 +102378,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 530
+    "total_ratings": 531
   }
 }
