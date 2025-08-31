@@ -91696,10 +91696,10 @@
       "items_opt": null,
       "name": "tmntsr.zip",
       "rating": {
-        "average_rating": 4.75,
+        "average_rating": 4.78,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 8
+        "total_ratings": 9
       },
       "source": {
         "date_added": "2024-03-08",
@@ -102619,6 +102619,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 532
+    "total_ratings": 533
   }
 }
