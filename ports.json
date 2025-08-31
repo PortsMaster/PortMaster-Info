@@ -1382,6 +1382,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -1423,12 +1424,12 @@
       "name": "alicecliche.zip",
       "source": {
         "date_added": "2025-04-14",
-        "date_updated": "2025-04-14",
-        "md5": "5d0b9de91b561ccd228816d9bb571c81",
-        "release_id": "2025-04-14_1048",
+        "date_updated": "2025-08-31",
+        "md5": "1690b958ddf73346e9109f7b11f893f3",
+        "release_id": "2025-08-31_0235",
         "repo": "main",
-        "size": 29417092,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_1048/alicecliche.zip"
+        "size": 29916621,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/alicecliche.zip"
       },
       "version": 4
     },
@@ -2187,6 +2188,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r35s:ALL",
           "r36s:ALL"
@@ -3920,6 +3922,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -5780,6 +5783,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -8112,6 +8116,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -9622,6 +9627,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -9726,6 +9732,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -11915,6 +11922,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -11957,12 +11965,12 @@
       "name": "canabalt-hf.zip",
       "source": {
         "date_added": "2025-04-28",
-        "date_updated": "2025-04-28",
-        "md5": "5c2a834326083444565dc45bfdd810ce",
-        "release_id": "2025-04-28_0944",
+        "date_updated": "2025-08-31",
+        "md5": "99ece248ef196876863cfc191c13ed62",
+        "release_id": "2025-08-31_0235",
         "repo": "main",
-        "size": 24351867,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-28_0944/canabalt-hf.zip"
+        "size": 36715171,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/canabalt-hf.zip"
       },
       "version": 4
     },
@@ -13927,6 +13935,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -15263,6 +15272,103 @@
         "repo": "main",
         "size": 22575167,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/chromavescence.zip"
+      },
+      "version": 4
+    },
+    "chromium_bsu.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "fast paced, arcade-style, top-scrolling space shooter",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "The game is ready to play. The resolution is set to 640x480 by default, and can be adjusted in-game or by editing chromium-bsu.conf.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "BenJuan26"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://sourceforge.net/projects/chromium-bsu/",
+            "gameurl": "https://sourceforge.net/projects/chromium-bsu/",
+            "name": "SourceForge"
+          }
+        ],
+        "title": "Chromium BSU"
+      },
+      "items": [
+        "Chromium BSU.sh",
+        "chromium_bsu"
+      ],
+      "items_opt": null,
+      "name": "chromium_bsu.zip",
+      "source": {
+        "date_added": "2025-08-31",
+        "date_updated": "2025-08-31",
+        "md5": "14c52799a922c7de46891af4a1e19925",
+        "release_id": "2025-08-31_0235",
+        "repo": "main",
+        "size": 3838593,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/chromium_bsu.zip"
       },
       "version": 4
     },
@@ -17339,6 +17445,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -21573,7 +21680,7 @@
     "devbootleg.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -21600,10 +21707,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -21627,15 +21738,19 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase at Steam https://store.steampowered.com/app/1066260/Devolver_Bootleg/ Locate the data.win, MAP File, DUNGEON File, 2 folders and copy them into generate folder.",
-        "inst_md": "Purchase at [Steam](https://store.steampowered.com/app/1066260/Devolver_Bootleg/) Locate the data.win, MAP File, DUNGEON File, 2 folders and copy them into the gamedata folder.",
+        "inst": "Purchase at Steam https://store.steampowered.com/app/1066260/Devolver_Bootleg/ Locate the data.win, MAP File, DUNGEON File, 2 folders and copy them into `ports/devbootleg/assets/`.",
+        "inst_md": "Purchase at [Steam](https://store.steampowered.com/app/1066260/Devolver_Bootleg/) Locate the data.win, MAP File, DUNGEON File, 2 folders and copy them into `ports/devbootleg/assets/`.",
         "min_glibc": "",
         "porter": [
-          "MadShmupper"
+          "MadShmupper",
+          "Doronimmo"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "title": "DEVOLVER Bootleg"
       },
       "items": [
@@ -21646,12 +21761,12 @@
       "name": "devbootleg.zip",
       "source": {
         "date_added": "2024-08-07",
-        "date_updated": "2024-08-07",
-        "md5": "91c6019cf34a5b9fd4450b6203f2133b",
-        "release_id": "2024-08-07_1326",
+        "date_updated": "2025-08-31",
+        "md5": "7aae81fce98e4422fa5b5a7a62379971",
+        "release_id": "2025-08-31_0235",
         "repo": "main",
-        "size": 5927356,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-07_1326/devbootleg.zip"
+        "size": 13667453,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/devbootleg.zip"
       },
       "version": 4
     },
@@ -21980,6 +22095,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -22532,6 +22648,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -24780,6 +24897,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -29717,6 +29835,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -31593,6 +31712,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -39329,12 +39449,12 @@
       "name": "hexen2.zip",
       "source": {
         "date_added": "2022-11-17",
-        "date_updated": "2025-01-14",
-        "md5": "13fa506d6206b6cb2225ad9ffa2788b3",
-        "release_id": "2025-01-14_1009",
+        "date_updated": "2025-08-31",
+        "md5": "7ebbf84b30a66851ef2adefd6b8dbbcc",
+        "release_id": "2025-08-31_0235",
         "repo": "main",
-        "size": 45384196,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-14_1009/hexen2.zip"
+        "size": 45449827,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/hexen2.zip"
       },
       "version": 2
     },
@@ -39556,6 +39676,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -45850,6 +45971,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -50113,7 +50235,8 @@
           "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
-          "gkd-bubble:ALL"
+          "gkd-bubble:ALL",
+          "steamdeck:ALL"
         ],
         "availability": "paid",
         "desc": "The skies will be set aflame and the seas will overflow with wreckage in Vlambeer\u2019s stylish arcade shooter LUFTRAUSERS! Select from over 125 combinations of weapons, bodies, and propulsion systems and take to the skies to battle enemy fighter planes, battleships, submarines, and rival aces for glory, honor, and high scores. Bravely volunteer for one of over 100 daring missions to unlock new Rauser combinations and vibrant color variations and become the most legendary Rauser pilot of all time!",
@@ -53272,6 +53395,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r35s:ALL",
           "r36s:ALL"
@@ -53995,7 +54119,8 @@
           "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
-          "gkd-bubble:ALL"
+          "gkd-bubble:ALL",
+          "steamdeck:ALL"
         ],
         "availability": "free",
         "desc": "Mini Monsters Gravity Consensus is a charming 2D puzzle game with a unique gravity control mechanic. Perfect for a relaxing evening, it offers simple yet engaging puzzles that progressively challenge you as you unlock new levels and gameplay mechanics, making each step forward more exciting and fun.",
@@ -55577,6 +55702,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -61022,6 +61148,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -62601,6 +62728,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -62696,6 +62824,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -62882,6 +63011,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -64136,6 +64266,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -68247,6 +68378,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -68308,6 +68440,102 @@
         "repo": "main",
         "size": 119287,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-18_2138/professorlucifer.zip"
+      },
+      "version": 4
+    },
+    "projectstarship.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Project Starship is an arcade bullet-hell with random mechanics. No match will ever be the same. Who will you be? Garret or Gwen? Will you save the world from the mighty cthulhu?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase at Steam https://store.steampowered.com/app/454890/Project_Starship/ place project_starship.exe into assets folder.",
+        "inst_md": "Purchase at [Steam](https://store.steampowered.com/app/454890/Project_Starship/) place project_starship.exe into assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/app/454890/Project_Starship/",
+            "gameurl": "https://store.steampowered.com/app/454890/Project_Starship/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Project Starship"
+      },
+      "items": [
+        "Project Starship.sh",
+        "projectstarship"
+      ],
+      "items_opt": null,
+      "name": "projectstarship.zip",
+      "source": {
+        "date_added": "2025-08-31",
+        "date_updated": "2025-08-31",
+        "md5": "4644e33344e64a436514e3308a8e0498",
+        "release_id": "2025-08-31_0235",
+        "repo": "main",
+        "size": 11736226,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/projectstarship.zip"
       },
       "version": 4
     },
@@ -72368,7 +72596,8 @@
           "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
-          "gkd-bubble:ALL"
+          "gkd-bubble:ALL",
+          "steamdeck:ALL"
         ],
         "availability": "paid",
         "desc": "Revenge of the Titans is a game by Puppygames that blends tower defense with real-time strategy elements. You defend Earth\u2019s bases from waves of alien \u201cTitans\u201d by building and upgrading turrets, mining resources, and researching new technologies. The game features a lengthy campaign, extensive tech trees, and retro-inspired visuals.",
@@ -76912,6 +77141,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r35s:ALL",
           "r36s:ALL"
@@ -78454,6 +78684,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -83999,6 +84230,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -84103,6 +84335,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -84207,6 +84440,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -86101,6 +86335,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -87425,6 +87660,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -88327,6 +88563,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -89870,12 +90107,12 @@
       "name": "thestarlitescape.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2025-08-28",
-        "md5": "4433ac6ee556d3b121b8e36efebc6c44",
-        "release_id": "2025-08-28_1025",
+        "date_updated": "2025-08-31",
+        "md5": "f1aea7aaf38cdee1f59eb4426f847926",
+        "release_id": "2025-08-31_0235",
         "repo": "main",
-        "size": 24642985,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-28_1025/thestarlitescape.zip"
+        "size": 221373252,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/thestarlitescape.zip"
       },
       "version": 2
     },
@@ -100281,7 +100518,7 @@
     "youhave10s2023.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -100308,10 +100545,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -100320,7 +100561,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "You Have 10 Seconds is a fast paced arcade platformer where you\u2019re spawned into a level and given ten seconds to work out how to reach the exit without dying before time runs out.\n\nThere are 25 Areas which each introduce a new mechanic to the gameplay, eventually creating extremely complex and difficult levels. Master collecting keys, swimming through acid, dodging motion sensors, time traveling, swapping dimensions, and so much more to clear areas as quickly as possible.",
+        "desc": "A fast paced platformer where you\u2019re spawned into a level and given 10 seconds to work out how to reach the exit without dying. 25 areas with unique level design mechanics to learn.\n\nNote: Motion Blur, Vsync and Details can be disabled/lowered under options to improve game performance!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -100332,14 +100573,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Claim the game from: https://store.steampowered.com/app/2390510/You_Have_10_Seconds_2023/\nDownload the game and copy all the game files from /You Have 10 Seconds (2023) into youhave10s2023/gamedata",
+        "inst": "Ready to Run!",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [],
         "title": "You Have 10 Seconds (2023)"
       },
@@ -100351,12 +100592,12 @@
       "name": "youhave10s2023.zip",
       "source": {
         "date_added": "2024-03-15",
-        "date_updated": "2024-07-18",
-        "md5": "ee5b5266a20056d6a984909bd1593ce2",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-08-31",
+        "md5": "f12ad7ce170365169c7779f3e0dff2f0",
+        "release_id": "2025-08-31_0235",
         "repo": "main",
-        "size": 10938693,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/youhave10s2023.zip"
+        "size": 55190050,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/youhave10s2023.zip"
       },
       "version": 2
     },
