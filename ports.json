@@ -96368,6 +96368,12 @@
       ],
       "items_opt": null,
       "name": "vhr.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-11-07",
         "date_updated": "2025-05-14",
@@ -102619,6 +102625,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 533
+    "total_ratings": 534
   }
 }
