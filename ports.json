@@ -79657,6 +79657,96 @@
       },
       "version": 2
     },
+    "sm64coopdx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Super Mario 64 Co-op DX is a game based on the Super Mario 64 engine and modified to have multiplayer and mods.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You will have to copy your own rom legally obtained to ports/sm64coopdx with the name \u201cbaserom.us.z64\u201d.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "CODEHEX4EVER"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Super Mario 64 Co-op DX"
+      },
+      "items": [
+        "Super Mario 64 Co-op DX.sh",
+        "sm64coopdx"
+      ],
+      "items_opt": null,
+      "name": "sm64coopdx.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "b4e857ffad716ed2d0e2d90acd6d683e",
+        "release_id": "2025-09-08_1359",
+        "repo": "multiverse",
+        "size": 43130358,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-09-08_1359/sm64coopdx.zip"
+      },
+      "version": 4
+    },
     "smoothiegalaxy.zip": {
       "attr": {
         "arch": [
@@ -79795,8 +79885,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smb1.png",
-            "cover.smbll.png"
+            "cover.smbll.png",
+            "cover.smb1.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -82702,7 +82792,9 @@
           "racing"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -82733,12 +82825,12 @@
       },
       "source": {
         "date_added": "2025-06-23",
-        "date_updated": "2025-06-23",
-        "md5": "654a2f41d0a23b8855040de5e0a4d11e",
-        "release_id": "2025-06-23_1659",
+        "date_updated": "2025-09-08",
+        "md5": "cb4ac2134b573321fb33cb363eecb827",
+        "release_id": "2025-09-08_1359",
         "repo": "multiverse",
-        "size": 13441822,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-06-23_1659/spaghettikart.zip"
+        "size": 13514712,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-09-08_1359/spaghettikart.zip"
       },
       "version": 4
     },
