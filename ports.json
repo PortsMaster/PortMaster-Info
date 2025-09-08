@@ -6299,6 +6299,12 @@
       ],
       "items_opt": null,
       "name": "beowulfclassic.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-08-25",
         "date_updated": "2025-08-25",
@@ -7892,10 +7898,10 @@
       "items_opt": null,
       "name": "blockamokremix.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.0,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "3",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-08-01",
@@ -11012,6 +11018,12 @@
       ],
       "items_opt": null,
       "name": "bumpersbroadswords.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2023-11-04",
         "date_updated": "2024-07-18",
@@ -20707,6 +20719,12 @@
       ],
       "items_opt": null,
       "name": "deirdre.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-08-14",
         "date_updated": "2025-08-14",
@@ -32358,6 +32376,12 @@
       ],
       "items_opt": null,
       "name": "freedink.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-09-10",
         "date_updated": "2024-09-11",
@@ -39245,6 +39269,12 @@
       ],
       "items_opt": null,
       "name": "heart.of.darkness.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2024-04-01",
@@ -50908,7 +50938,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2025-08-25",
@@ -62109,7 +62139,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-03-26",
@@ -78450,10 +78480,10 @@
       "items_opt": null,
       "name": "shovel.knight.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.6,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2021-09-10",
@@ -82821,7 +82851,7 @@
         "average_rating": 5.0,
         "max_rating": "5",
         "min_rating": "5",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-06-23",
@@ -83340,10 +83370,10 @@
       "items_opt": null,
       "name": "spelunky.zip",
       "rating": {
-        "average_rating": 3.83,
+        "average_rating": 4.0,
         "max_rating": "5",
         "min_rating": "2",
-        "total_ratings": 6
+        "total_ratings": 7
       },
       "source": {
         "date_added": "2021-09-10",
@@ -98600,6 +98630,12 @@
       ],
       "items_opt": null,
       "name": "warzone2100.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-09-08",
         "date_updated": "2025-09-08",
@@ -99957,6 +99993,12 @@
       ],
       "items_opt": null,
       "name": "world.war.ii.gi.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-01-14",
@@ -103621,6 +103663,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 542
+    "total_ratings": 555
   }
 }
