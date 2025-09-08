@@ -736,6 +736,108 @@
       },
       "version": 4
     },
+    "aestheta.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A roguelike royalelike about warriors from across space and time, fighting to claim a wish from the Star of Aestheta. Strategize your tactics, enhance your troops, and outwit your opponents to rise to the top!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "casino/card",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install port.\\nPurchase the game on Steam (https://store.steampowered.com/app/3730600/Aestheta/) or Itch (https://aplovestudio.itch.io/aestheta).\\nCopy all game files into the ports/aestheta/assets folder.",
+        "inst_md": "Install port.\\nDownload game on [Steam](https://store.steampowered.com/app/3730600/Aestheta/) or [Itch](https://aplovestudio.itch.io/aestheta).\\nCopy all game files into the `ports/aestheta/assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=AploveStudio",
+            "gameurl": "https://store.steampowered.com/app/3730600/Aestheta",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://aplovestudio.itch.io/",
+            "gameurl": "https://aplovestudio.itch.io/aestheta",
+            "name": "Itch"
+          }
+        ],
+        "title": "Aestheta"
+      },
+      "items": [
+        "Aestheta.sh",
+        "aestheta"
+      ],
+      "items_opt": null,
+      "name": "aestheta.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "317d38f932c44fa6a0880e95d5eb8b93",
+        "release_id": "2025-09-08_0954",
+        "repo": "main",
+        "size": 8039748,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/aestheta.zip"
+      },
+      "version": 4
+    },
     "afternoonstalker.zip": {
       "attr": {
         "arch": [
@@ -8256,6 +8358,94 @@
       },
       "version": 2
     },
+    "blowfly2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "\"BLOWFLY2:OVERLIMIT\" is a superhero-style platform action game. Use the protagonist's unique abilities to explore and collect pink POOBABYs in the map. This time, you will go deep into the enemy's lair and challenge more powerful levels and enemies! Blowfly! Flight! Dash!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from Steam https://store.steampowered.com/app/2831590/BLOWFLY2OVERLIMIT/\nand copy all game files to the 'assets' folder. Patching will take place on first run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2831590/BLOWFLY2OVERLIMIT/",
+            "name": "STEAM"
+          }
+        ],
+        "title": "BLOWFLY2:OVERLIMIT"
+      },
+      "items": [
+        "Blowfly2.sh",
+        "blowfly2"
+      ],
+      "items_opt": null,
+      "name": "blowfly2.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "a1f4c4f39827c897ea411fd34020dd76",
+        "release_id": "2025-09-08_0954",
+        "repo": "main",
+        "size": 7679726,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/blowfly2.zip"
+      },
+      "version": 4
+    },
     "bluerevolver.zip": {
       "attr": {
         "arch": [
@@ -10413,12 +10603,13 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "demo",
         "desc": "The unofficial source port for Blake Stone Aliens of Gold.",
         "desc_md": null,
         "exp": false,
         "genres": [
-          "fps",
-          "action"
+          "action",
+          "fps"
         ],
         "image": {
           "covers": [
@@ -10428,7 +10619,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Includes the shareware files.  You can also add your own full version Blake Stone Aliens of Gold files to the ports/bstone-aog/gamedata/alien_of_gold folder.",
+        "inst": "Includes the shareware files.  You can also add your own full version Blake Stone - Aliens of Gold (*.BS6) files to the 'ports/bstone-aog/gamedata/aliens_of_gold' folder.  The Steam version of these files can be found by browsing local files and entering the 'Blake Stone - Aliens of Gold' directory.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -10439,24 +10630,36 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
-        "title": "Blake Stone Aliens of Gold"
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/358190/Blake_Stone_Aliens_of_Gold/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/blake_stone_aliens_of_gold",
+            "name": "GoG"
+          }
+        ],
+        "title": "Blake Stone - Aliens of Gold"
       },
       "items": [
         "Blake Stone - Aliens of Gold.sh",
-        "bstone-aog/"
+        "bstone-aog"
       ],
       "items_opt": null,
       "name": "bstone-aog.zip",
       "source": {
         "date_added": "2021-11-05",
-        "date_updated": "2025-02-19",
-        "md5": "1d6c90fdc2c4c06c6c96863ff1caa709",
-        "release_id": "2025-02-19_1252",
+        "date_updated": "2025-09-08",
+        "md5": "5c3d851694a29ce16679eed96400b207",
+        "release_id": "2025-09-08_0954",
         "repo": "main",
-        "size": 7662784,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-19_1252/bstone-aog.zip"
+        "size": 7663500,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/bstone-aog.zip"
       },
-      "version": 2
+      "version": 4
     },
     "bstone-ps.zip": {
       "attr": {
@@ -10507,10 +10710,12 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "The unofficial source port for Blake Stone Planet Strike.",
         "desc_md": null,
         "exp": false,
         "genres": [
+          "action",
           "fps"
         ],
         "image": {
@@ -10521,7 +10726,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You'll need to add your own full version Blake Stone Planet Strike files to the ports/bstone-ps/gamedata/planet_strike folder.",
+        "inst": "You'll need to add your own full version Blake Stone Planet Strike (*.VSI) files to the 'ports/bstone-ps/gamedata/planet_strike' folder.  The Steam version of these files can be found by browsing local files and entering the 'Blake Stone - Planet Strike' directory.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -10532,24 +10737,36 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
-        "title": "Blake Stone Planet Strike"
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/358310/Blake_Stone_Planet_Strike/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/blake_stone_planet_strike",
+            "name": "GoG"
+          }
+        ],
+        "title": "Blake Stone - Planet Strike"
       },
       "items": [
         "Blake Stone - Planet Strike.sh",
-        "bstone-ps/"
+        "bstone-ps"
       ],
       "items_opt": null,
       "name": "bstone-ps.zip",
       "source": {
         "date_added": "2021-11-05",
-        "date_updated": "2025-02-19",
-        "md5": "7f4cc4db81dbc5602ecfef97ce9e2b68",
-        "release_id": "2025-02-19_1252",
+        "date_updated": "2025-09-08",
+        "md5": "f8f776ecfd5885d7d0b88306e4211a36",
+        "release_id": "2025-09-08_0954",
         "repo": "main",
-        "size": 6500484,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-19_1252/bstone-ps.zip"
+        "size": 6501184,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/bstone-ps.zip"
       },
-      "version": 2
+      "version": 4
     },
     "bugdom.zip": {
       "attr": {
@@ -17042,7 +17259,8 @@
     "cosmo-engine.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -17080,11 +17298,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "demo",
         "desc": "A new game engine to play the MS-DOS game Cosmo's Cosmic Adventure on modern systems.",
         "desc_md": null,
         "exp": false,
@@ -17100,7 +17320,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Episode 1 is included and you can add Episode 2 and 3 gamefiles to the data folder.",
+        "inst": "Episode 1 is included and you can add Episode 2 and 3 gamefiles to the 'ports/cosmo-engine/data' folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -17110,13 +17330,25 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.apogeeent.com/",
+            "gameurl": "https://store.steampowered.com/app/358250/Cosmos_Cosmic_Adventure/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.apogeeent.com/",
+            "gameurl": "https://www.gog.com/en/game/cosmos_cosmic_adventure",
+            "name": "GoG"
+          }
+        ],
         "title": "Cosmo-Engine"
       },
       "items": [
-        "cosmo-engine/",
         "Cosmo's Cosmic Adventure 1.sh",
         "Cosmo's Cosmic Adventure 2.sh",
-        "Cosmo's Cosmic Adventure 3.sh"
+        "Cosmo's Cosmic Adventure 3.sh",
+        "cosmo-engine"
       ],
       "items_opt": null,
       "name": "cosmo-engine.zip",
@@ -17128,14 +17360,14 @@
       },
       "source": {
         "date_added": "2023-04-12",
-        "date_updated": "2024-12-03",
-        "md5": "85c3349b9ceb410fae4cfe50ca0728ec",
-        "release_id": "2024-12-03_1159",
+        "date_updated": "2025-09-08",
+        "md5": "5943ba2092d8f40f9b9ae4e526cb887e",
+        "release_id": "2025-09-08_0954",
         "repo": "main",
-        "size": 1010141,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/cosmo-engine.zip"
+        "size": 1601995,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/cosmo-engine.zip"
       },
-      "version": 2
+      "version": 4
     },
     "cosmosmash.zip": {
       "attr": {
@@ -18601,6 +18833,101 @@
         "repo": "main",
         "size": 24702539,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/curseofthearrow.zip"
+      },
+      "version": 4
+    },
+    "cutefamehalloweenbash.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "3 Endings. 3 Outcomes. 3 People.\n\n(This. The game that is being played. It is a night of deaths. Deaths that may end with you dying. Be careful, As one wrong choice can lead to your death! But, Time to explain this game, I will call it a party, Since that was the location it had happened. An Halloween party)\n\nThis game is a visual novel! Most events in this story were meant to be fiction. Although no research has concluded certain events like this never happened to anyone ever. It is also similarly based off the current \"Cute Fame\" universe, With changes that make some things feel fresh.",
+        "desc_md": "Spooktober game jam! 2023\n\n3 Endings. 3 Outcomes. 3 People.\n\n(This. The game that is being played. It is a night of deaths. Deaths that may end with you dying. Be careful, As one wrong choice can lead to your death! But, Time to explain this game, I will call it a party, Since that was the location it had happened. An Halloween party)\n\nThis game is a visual novel! Most events in this story were meant to be fiction. Although no research has concluded certain events like this never happened to anyone ever. It is also similarly based off the current \"Cute Fame\" universe, With changes that make some things feel fresh.\n\n",
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to play!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "TheRealFame"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "renpy_8.3.4.squashfs"
+        ],
+        "store": [
+          {
+            "name": "itch.io",
+            "url": "https://cutefame.itch.io/cutefamehalloweenbash"
+          }
+        ],
+        "title": "Cute Fame: Halloween Bash"
+      },
+      "items": [
+        "Cute Fame Halloween Bash.sh",
+        "cutefamehalloweenbash"
+      ],
+      "items_opt": null,
+      "name": "cutefamehalloweenbash.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "5b72587eccea35f0df0fd51b16c7803b",
+        "release_id": "2025-09-08_0954",
+        "repo": "main",
+        "size": 64667807,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/cutefamehalloweenbash.zip"
       },
       "version": 4
     },
@@ -21773,6 +22100,92 @@
         "repo": "main",
         "size": 13667453,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/devbootleg.zip"
+      },
+      "version": 4
+    },
+    "devilspire.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Devil Spire is a hardcore first-person pseudo-3D roguelite action RPG dungeon crawler stylized after retro PC games, developed by a guy and his bros while locked in quarantine. Inspired by classics like King's Field and Heretic.\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder. You can also use the free demo version.",
+        "inst_md": "Purchase the game on [Steam](store.steampowered.com/app/1861290/Devil_Spire/) and copy all game files into the `assets` folder. You can also use the free demo version.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1861290/Devil_Spire/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Devil Spire"
+      },
+      "items": [
+        "Devil Spire.sh",
+        "devilspire"
+      ],
+      "items_opt": null,
+      "name": "devilspire.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "729ac22565fae1fd2a086a6b6d158a77",
+        "release_id": "2025-09-08_0954",
+        "repo": "main",
+        "size": 4689299,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/devilspire.zip"
       },
       "version": 4
     },
@@ -28441,12 +28854,12 @@
       },
       "source": {
         "date_added": "2025-04-14",
-        "date_updated": "2025-04-14",
-        "md5": "5a24e753e0f80121c44bf3aa66f1d8ed",
-        "release_id": "2025-04-14_1118",
+        "date_updated": "2025-09-08",
+        "md5": "a661363c4b7683178ae24ccea007510b",
+        "release_id": "2025-09-08_0954",
         "repo": "main",
-        "size": 117267518,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_1118/faiththeunholytrinity.zip"
+        "size": 117267776,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/faiththeunholytrinity.zip"
       },
       "version": 4
     },
@@ -28896,12 +29309,12 @@
       "name": "falseskies.zip",
       "source": {
         "date_added": "2025-06-09",
-        "date_updated": "2025-06-09",
-        "md5": "17d7613247e0bb79c56347c0a58300ea",
-        "release_id": "2025-06-09_2012",
+        "date_updated": "2025-09-08",
+        "md5": "227992f1e2470f99d2632cd7878409a4",
+        "release_id": "2025-09-08_0954",
         "repo": "main",
-        "size": 2642821,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/falseskies.zip"
+        "size": 2664072,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/falseskies.zip"
       },
       "version": 4
     },
@@ -30627,6 +31040,107 @@
         "repo": "main",
         "size": 7997560,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-03_1321/flipoflight.zip"
+      },
+      "version": 4
+    },
+    "flynnsoc.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The peaceful and beautiful island of Rosantica is under threat once more by a relentless evil. The magical barrier between Rosantica and The Scourge has started to crack, allowing dangerous creatures to slowly seep back in to try and take over the island. Flynn stumbles upon this invasion and discovers he must stand up against The Scourge to stop its spread into Rosantica. Accompanied by his mythical companion Dex, Guardian Spirit of the Land, Flynn will be challenged by the evil from The Scourge and its powerful overlord.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from GOG and copy all the game files into the ports/flynnsoc/assets.",
+        "inst_md": "Purchase the game from [GOG](https://www.gog.com/en/game/flynn_son_of_crimson) and copy all the game files into the ports/flynnsoc/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.humblegames.com/games/flynnsonofcrimson/",
+            "gameurl": "https://www.gog.com/en/game/flynn_son_of_crimson",
+            "name": "GOG"
+          }
+        ],
+        "title": "Flynn: Son of Crimson"
+      },
+      "items": [
+        "Flynn Son of Crimson.sh",
+        "flynnsoc"
+      ],
+      "items_opt": null,
+      "name": "flynnsoc.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "7aa0aefcb141264e6b74d10e8e11792b",
+        "release_id": "2025-09-08_0954",
+        "repo": "main",
+        "size": 8319079,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/flynnsoc.zip"
       },
       "version": 4
     },
@@ -42397,6 +42911,100 @@
         "repo": "main",
         "size": 13969651,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-14_2115/imagestriker.zip"
+      },
+      "version": 4
+    },
+    "imagestriker2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "ImageStriker2 is a vertical scroll Shoot 'em up made to pay homage to ImageFight, featuring 7 stages, Arcade Mode and 3 minutes score attack Caravan mode.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from Itch.io and copy the ImageStriker2.exe into the assets folder.",
+        "inst_md": "Download the game from [Itch.io](https://terarin.itch.io/imagestriker2) and copy the `ImageStriker2.exe` into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.teraringames.com/",
+            "gameurl": "https://terarin.itch.io/imagestriker2",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "ImageStriker2"
+      },
+      "items": [
+        "ImageStriker2.sh",
+        "imagestriker2"
+      ],
+      "items_opt": null,
+      "name": "imagestriker2.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "98c70476e1e66ae2142a7ad3a3ed2e55",
+        "release_id": "2025-09-08_0954",
+        "repo": "main",
+        "size": 4627362,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/imagestriker2.zip"
       },
       "version": 4
     },
@@ -57761,6 +58369,103 @@
       },
       "version": 4
     },
+    "nezumidash.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Control the mouse and aim for the goal. Each stage has 5 coins scattered throughout, so try to collect as many as you can. Clear all 20 stages and collect at least 70 coins! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download at itch.io https://nizakashii.itch.io/nezumidash and copy data.win into assets folder.",
+        "inst_md": "Download at [itch.io](https://nizakashii.itch.io/nezumidash) and copy data.win into assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://nizakashii.itch.io/",
+            "gameurl": "https://nizakashii.itch.io/nezumidash ",
+            "name": "itch.io"
+          }
+        ],
+        "title": "NEZUMIDASH "
+      },
+      "items": [
+        "NEZUMIDASH.sh",
+        "nezumidash"
+      ],
+      "items_opt": null,
+      "name": "nezumidash.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "ce032d693acfd17388ca7a13bc82d560",
+        "release_id": "2025-09-08_0954",
+        "repo": "main",
+        "size": 5002745,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/nezumidash.zip"
+      },
+      "version": 4
+    },
     "nfs2se.zip": {
       "attr": {
         "arch": [
@@ -65342,6 +66047,108 @@
       },
       "version": 2
     },
+    "pinballcrush.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A cozy GBA inspired pinball game with a dating sim progress system. Hit specific targets to access cutscenes and events with your date. There are 300+ unique events to explore, so you'll always have something new!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "sports",
+          "visual novel"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.3.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://try500.itch.io",
+            "name": "itch.io",
+            "url": "https://try500.itch.io/pinball-crush-android"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=try500",
+            "name": "Steam",
+            "url": "https://store.steampowered.com/app/3683910/Pinball_Crush"
+          }
+        ],
+        "title": "Pinball Crush"
+      },
+      "items": [
+        "Pinball Crush.sh",
+        "pinballcrush"
+      ],
+      "items_opt": null,
+      "name": "pinballcrush.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "7718de0c34b3a6d4968f5b5b194af446",
+        "release_id": "2025-09-08_0954",
+        "repo": "main",
+        "size": 70317124,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/pinballcrush.zip"
+      },
+      "version": 4
+    },
     "pingo.zip": {
       "attr": {
         "arch": [
@@ -69556,8 +70363,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from Steam.  \nDownload the game and place the gamefiles in ports/pyromind/assets.",
-        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/695570/PyroMind/).  \nDownload the game and place the gamefiles in ports/pyromind/assets.",
+        "inst": "Purchase the game from Steam.  \nDownload the game using the steam console by typing `download_depot 695570 695571 2901679312042701621` and place the game files in ports/pyromind/assets.",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/695570/PyroMind/).  \nDownload the game using the steam console by typing `download_depot 695570 695571 2901679312042701621` and place the game files in ports/pyromind/assets.",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -69585,12 +70392,12 @@
       "name": "pyromind.zip",
       "source": {
         "date_added": "2025-08-21",
-        "date_updated": "2025-08-21",
-        "md5": "37976ee11e46560244cafeda56c1b727",
-        "release_id": "2025-08-21_0915",
+        "date_updated": "2025-09-08",
+        "md5": "64da2cab39ccfc12a9264c21f6a81b31",
+        "release_id": "2025-09-08_0954",
         "repo": "main",
-        "size": 14152619,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/pyromind.zip"
+        "size": 14152671,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/pyromind.zip"
       },
       "version": 4
     },
@@ -90113,12 +90920,12 @@
       "name": "thestarlitescape.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2025-08-31",
-        "md5": "f1aea7aaf38cdee1f59eb4426f847926",
-        "release_id": "2025-08-31_0235",
+        "date_updated": "2025-09-08",
+        "md5": "43fa327b052c2e6f85fc025cbe7028e3",
+        "release_id": "2025-09-08_0954",
         "repo": "main",
-        "size": 221373252,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/thestarlitescape.zip"
+        "size": 24642985,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/thestarlitescape.zip"
       },
       "version": 2
     },
@@ -97618,6 +98425,97 @@
         "repo": "main",
         "size": 2707191,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-24_0854/walthrosrenewal.zip"
+      },
+      "version": 4
+    },
+    "warzone2100.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL"
+        ],
+        "availability": "free",
+        "desc": "Warzone 2100 is an open source, 3D real-time strategy game with a story-driven single player campaign, online multi-player, offline skirmish, and more. Command the forces of The Project in a battle to rebuild the world after mankind has been nearly destroyed by nuclear missiles.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "The installer automatically takes care of setting up the game.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Hades-Arcadius",
+          "RoyalJupiter"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://wz2100.net/",
+            "name": "Warzone 2100"
+          }
+        ],
+        "title": "Warzone 2100"
+      },
+      "items": [
+        "Warzone 2100.sh",
+        "warzone2100"
+      ],
+      "items_opt": null,
+      "name": "warzone2100.zip",
+      "source": {
+        "date_added": "2025-09-08",
+        "date_updated": "2025-09-08",
+        "md5": "ccf45b4dd9343c64e0648bda18adab2a",
+        "release_id": "2025-09-08_0954",
+        "repo": "main",
+        "size": 531269952,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/warzone2100.zip"
       },
       "version": 4
     },
