@@ -631,6 +631,12 @@
       ],
       "items_opt": null,
       "name": "abuse.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-11-01",
         "date_updated": "2024-12-19",
@@ -1256,6 +1262,12 @@
       ],
       "items_opt": null,
       "name": "alephone-marathon.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-12-03",
         "date_updated": "2024-12-16",
@@ -1344,6 +1356,12 @@
       ],
       "items_opt": null,
       "name": "alephone-marathon2.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-12-03",
         "date_updated": "2024-12-16",
@@ -1432,6 +1450,12 @@
       ],
       "items_opt": null,
       "name": "alephone-marathoninfinity.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-12-03",
         "date_updated": "2024-12-16",
@@ -10656,6 +10680,12 @@
       ],
       "items_opt": null,
       "name": "bstone-aog.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-11-05",
         "date_updated": "2025-09-08",
@@ -27962,6 +27992,12 @@
       ],
       "items_opt": null,
       "name": "exhumed.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-13",
         "date_updated": "2025-01-15",
@@ -57540,6 +57576,12 @@
       ],
       "items_opt": null,
       "name": "nanosaur.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2022-10-25",
         "date_updated": "2024-04-24",
@@ -62506,6 +62548,12 @@
       ],
       "items_opt": null,
       "name": "openomf.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-11-06",
         "date_updated": "2025-05-21",
@@ -103663,6 +103711,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 555
+    "total_ratings": 563
   }
 }
