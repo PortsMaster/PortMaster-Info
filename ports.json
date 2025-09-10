@@ -6853,10 +6853,10 @@
       "items_opt": null,
       "name": "biomassgrowth.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.67,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 2
+        "min_rating": "4",
+        "total_ratings": 3
       },
       "source": {
         "date_added": "2024-10-14",
@@ -95623,10 +95623,10 @@
       "items_opt": null,
       "name": "ufo50.zip",
       "rating": {
-        "average_rating": 4.67,
+        "average_rating": 4.75,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2024-10-06",
@@ -103711,6 +103711,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 564
+    "total_ratings": 566
   }
 }
