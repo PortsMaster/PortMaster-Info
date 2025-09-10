@@ -24400,10 +24400,10 @@
       "items_opt": null,
       "name": "doomrpg.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 3.0,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "1",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-10-10",
@@ -103711,6 +103711,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 563
+    "total_ratings": 564
   }
 }
