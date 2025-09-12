@@ -13967,6 +13967,12 @@
       ],
       "items_opt": null,
       "name": "cave.story.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2021-09-10",
         "date_updated": "2025-04-08",
@@ -103711,6 +103717,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 567
+    "total_ratings": 568
   }
 }
