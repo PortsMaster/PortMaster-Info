@@ -20312,10 +20312,10 @@
       "items_opt": null,
       "name": "deathroad.zip",
       "rating": {
-        "average_rating": 2.0,
+        "average_rating": 2.6,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 4
+        "total_ratings": 5
       },
       "source": {
         "date_added": "2025-03-26",
@@ -54213,10 +54213,10 @@
       "items_opt": null,
       "name": "minecraftjava.zip",
       "rating": {
-        "average_rating": 4.25,
+        "average_rating": 4.31,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 12
+        "total_ratings": 13
       },
       "source": {
         "date_added": "2025-05-29",
@@ -103717,6 +103717,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 568
+    "total_ratings": 570
   }
 }
