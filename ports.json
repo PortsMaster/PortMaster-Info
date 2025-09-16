@@ -84,12 +84,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-04-08",
-        "md5": "2d7a2e16739e0e45705247015815a8ff",
-        "release_id": "2025-04-08_2119",
+        "date_updated": "2025-09-16",
+        "md5": "feb378d48fd1f3ff14d9032b8331f7cb",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 63001,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/2048.zip"
+        "size": 63036,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/2048.zip"
       },
       "version": 2
     },
@@ -804,8 +804,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Install port.\\nPurchase the game on Steam (https://store.steampowered.com/app/3730600/Aestheta/) or Itch (https://aplovestudio.itch.io/aestheta).\\nCopy all game files into the ports/aestheta/assets folder.",
-        "inst_md": "Install port.\\nDownload game on [Steam](https://store.steampowered.com/app/3730600/Aestheta/) or [Itch](https://aplovestudio.itch.io/aestheta).\\nCopy all game files into the `ports/aestheta/assets` folder.",
+        "inst": "Install port. \nPurchase the game on Steam (https://store.steampowered.com/app/3730600/Aestheta/) or Itch (https://aplovestudio.itch.io/aestheta). \nCopy all game files into the ports/aestheta/assets folder.",
+        "inst_md": "Install port. \nDownload game on [Steam](https://store.steampowered.com/app/3730600/Aestheta/) or [Itch](https://aplovestudio.itch.io/aestheta). \nCopy all game files into the `ports/aestheta/assets` folder.",
         "min_glibc": "",
         "porter": [
           "Slobters"
@@ -835,12 +835,12 @@
       "name": "aestheta.zip",
       "source": {
         "date_added": "2025-09-08",
-        "date_updated": "2025-09-08",
-        "md5": "317d38f932c44fa6a0880e95d5eb8b93",
-        "release_id": "2025-09-08_0954",
+        "date_updated": "2025-09-16",
+        "md5": "c56d877ac26427f33e29a507008ebba4",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 8039748,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/aestheta.zip"
+        "size": 8039747,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/aestheta.zip"
       },
       "version": 4
     },
@@ -1904,6 +1904,102 @@
         "repo": "main",
         "size": 2713276,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/aliensquatter.zip"
+      },
+      "version": 4
+    },
+    "alllcall.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "This is a mini shmup. The boss appears when 8 large numbered enemies are defeated. The stage is cleared when the boss is defeated.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download free at itch.io https://nizakashii.itch.io/alllcall and copy the data.win file into the assets folder.",
+        "inst_md": "Download free at [itch.io](https://nizakashii.itch.io/alllcall) and copy the data.win file into the assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://nizakashi.itch.io",
+            "gameurl": "https://nizakashii.itch.io/alllcall",
+            "name": "itch.io"
+          }
+        ],
+        "title": "AlllCALL"
+      },
+      "items": [
+        "AlllCALL.sh",
+        "alllcall"
+      ],
+      "items_opt": null,
+      "name": "alllcall.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "95ac08b6c8678eb025b8c5add512db42",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 6508730,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/alllcall.zip"
       },
       "version": 4
     },
@@ -8917,6 +9013,103 @@
       },
       "version": 4
     },
+    "bomberpibe.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A 2D platformer with a unique double jump mechanic using your own exploding head.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.3.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://clubdeprogramacion.itch.io",
+            "gameurl": "https://clubdeprogramacion.itch.io/bomberpibe",
+            "name": "itch.io"
+          }
+        ],
+        "title": "BomberPibe"
+      },
+      "items": [
+        "BomberPibe.sh",
+        "bomberpibe"
+      ],
+      "items_opt": null,
+      "name": "bomberpibe.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "9479f71a54797f64ec54ae455093595c",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 17508491,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/bomberpibe.zip"
+      },
+      "version": 4
+    },
     "boneraiserminions.zip": {
       "attr": {
         "arch": [
@@ -12499,12 +12692,12 @@
       },
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2025-04-08",
-        "md5": "1be3568699d013576b1897ac6d95dd5d",
-        "release_id": "2025-04-08_2119",
+        "date_updated": "2025-09-16",
+        "md5": "5a8ff07d7f4af662c6a0545182429c83",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 335137,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/cannonball-lr.zip"
+        "size": 335190,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/cannonball-lr.zip"
       },
       "version": 2
     },
@@ -12960,6 +13153,102 @@
         "repo": "main",
         "size": 11878959,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-24_0854/carniforest.zip"
+      },
+      "version": 4
+    },
+    "carpetgallery.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "An endless walker with procedural scenery and objects. Please remove footwear upon entry.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.4.1.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://ivysly.com",
+            "gameurl": "https://ivysly.itch.io/carpetgallery",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Carpet Gallery"
+      },
+      "items": [
+        "Carpet Gallery.sh",
+        "carpetgallery"
+      ],
+      "items_opt": null,
+      "name": "carpetgallery.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "9537752d31f76f401560f3a7a89fadac",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 28346185,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/carpetgallery.zip"
       },
       "version": 4
     },
@@ -13703,6 +13992,92 @@
       },
       "version": 2
     },
+    "cattails.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Become a cat! Cattails is a unique animal simulation RPG. Hunt for food, fight invading cats, explore to gather herbs, and socialize with other cats in an expansive open world. Get married and raise a family of kittens, befriend your neighbors, and learn to live in the dangerous wilderness!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/634160/Cattails__Become_a_Cat/) and copy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "!lowres",
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://cattailsgame.com/1/",
+            "gameurl": "https://store.steampowered.com/app/634160/Cattails__Become_a_Cat/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Cattails - Become a Cat!"
+      },
+      "items": [
+        "Cattails.sh",
+        "cattails"
+      ],
+      "items_opt": null,
+      "name": "cattails.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "9956c76aca7256102f06ad2968cd9444",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 4863907,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/cattails.zip"
+      },
+      "version": 4
+    },
     "catwarrior.zip": {
       "attr": {
         "arch": [],
@@ -13975,12 +14350,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-04-08",
-        "md5": "2307ec5478ecdf6a8e874b576a53cefa",
-        "release_id": "2025-04-08_2119",
+        "date_updated": "2025-09-16",
+        "md5": "def704abfd95181fd945239b5978d561",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 1615579,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/cave.story.zip"
+        "size": 1615631,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/cave.story.zip"
       },
       "version": 2
     },
@@ -18684,6 +19059,96 @@
       },
       "version": 4
     },
+    "cursedcastilla.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Cursed Castilla (Maldita Castilla EX) is an arcade action platformer full of creatures from medieval myths from Spain and the rest of Europe, as well as from chivalric romances. The extended version of the classic Maldita Castilla, originally created by the indie Locomalito.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on Steam. Open the Steam console and use the following command to download the compatible version of the game: download_depot 534290 534291 8142126060031850682\nCopy all game files into the assets folder.",
+        "inst_md": "Buy the game on [Steam](store.steampowered.com/app/534290/Cursed_Castilla_Maldita_Castilla_EX). Open the [Steam console](steam://open/console) and use the following command to download the compatible version of the game: `download_depot 534290 534291 8142126060031850682`\nCopy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://locomalito.com/",
+            "gameurl": "https://store.steampowered.com/app/534290/Cursed_Castilla_Maldita_Castilla_EX/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Cursed Castilla (Maldita Castilla EX)"
+      },
+      "items": [
+        "Cursed Castilla.sh",
+        "cursedcastilla"
+      ],
+      "items_opt": null,
+      "name": "cursedcastilla.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "5a65daa60cad36dfa00216145e1eb312",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 10868442,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/cursedcastilla.zip"
+      },
+      "version": 4
+    },
     "cursedgem.zip": {
       "attr": {
         "arch": [],
@@ -22900,12 +23365,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-04-08",
-        "md5": "3b1a8194ec37909aa455b785c381f2e4",
-        "release_id": "2025-04-08_2119",
+        "date_updated": "2025-09-16",
+        "md5": "bed7861ea74fe7a13c48b2489795c419",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 7740821,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/dinothawr.zip"
+        "size": 7740872,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/dinothawr.zip"
       },
       "version": 2
     },
@@ -25474,6 +25939,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "Embark on a feathered adventure in Ducklings Maze, where you play as a courageous duck on a mission to rescue your adorable ducklings and lead them safely back home through a challenging maze. Inspired by the fairy tale \"Den grimme aelling\" by Hans Christian Andersen, the game is a medium/high difficulty maze with all the elements that an 80s arcade game requires.",
         "desc_md": null,
         "exp": false,
@@ -25496,6 +25962,7 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Ducklings Maze"
       },
       "items": [
@@ -25512,12 +25979,12 @@
       },
       "source": {
         "date_added": "2025-01-20",
-        "date_updated": "2025-01-21",
-        "md5": "01f9c74619c8870a03649a1895da00eb",
-        "release_id": "2025-01-21_0240",
+        "date_updated": "2025-09-16",
+        "md5": "8b470bf9440ff532c88c8bb05a24ea07",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 18003565,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-21_0240/ducklingsmaze.zip"
+        "size": 16804384,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/ducklingsmaze.zip"
       },
       "version": 4
     },
@@ -25797,7 +26264,8 @@
     "duke3dawo.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -25835,11 +26303,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "Duke Nukem 3D - Alien World Order is the fifth episode of Duke Nukem 3D. The fifth episode was added to the game as part of the 20th Anniversary Edition and contains eight levels, including one secret level. Levels in this episode are based in cities from around the world, including Amsterdam, Moscow, London, Giza, Paris, San Francisco, Hollywood, and Rome. The final boss is the Cycloid Incinerator.",
         "desc_md": null,
         "exp": false,
@@ -25855,7 +26325,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Obtain game files from your Steam copy of Alien World Tour.  See '/duke3dawo/Place Duke3D AWT files here'  for instructions to place your Alien World Tour contents into the duke3dawo directory.",
+        "inst": "Obtain game files from your Steam copy of Alien World Tour.  See 'ports/duke3dawo/Place Duke3D AWT files here.txt'  for instructions to place your Alien World Tour contents into the duke3dawo directory.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -25864,6 +26334,13 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/434050/Duke_Nukem_3D_20th_Anniversary_World_Tour/",
+            "name": "Steam"
+          }
+        ],
         "title": "Duke Nukem 3D - Alien World Order"
       },
       "items": [
@@ -25874,14 +26351,14 @@
       "name": "duke3dawo.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2025-01-08",
-        "md5": "d847eb45b0f4c8f6803e4c697c6ae584",
-        "release_id": "2025-01-08_1341",
+        "date_updated": "2025-09-16",
+        "md5": "e146015188c507ecbc28f252c1fa064d",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 5914766,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/duke3dawo.zip"
+        "size": 4320412,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/duke3dawo.zip"
       },
-      "version": 2
+      "version": 4
     },
     "dumbasssmartass.zip": {
       "attr": {
@@ -29562,6 +30039,100 @@
       },
       "version": 2
     },
+    "fatebreak.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Fatebreak is a casual, fantasy-inspired card combat game of strategy and chance.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "casino/card"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Fatebreak_v1.1_win_portable.zip from Itch.io and extract it into the assets folder.",
+        "inst_md": "Download the `Fatebreak_v1.1_win_portable.zip` from [Itch.io](https://cosmiccrystal.itch.io/fatebreak) and extract it into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://cosmiccrystal.itch.io/fatebreak",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Fatebreak"
+      },
+      "items": [
+        "Fatebreak.sh",
+        "fatebreak"
+      ],
+      "items_opt": null,
+      "name": "fatebreak.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "f1b37f1a428fcc5ceb295e512bce38e7",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 12146062,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/fatebreak.zip"
+      },
+      "version": 4
+    },
     "feather.park.zip": {
       "attr": {
         "arch": [],
@@ -31644,6 +32215,105 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/forager.zip"
       },
       "version": 2
+    },
+    "foreignfrugglers.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Eight brave survivors need to protect mother earth from spacey invaders in this pixelated arcade style 2d shoot 'em up. Use different types of weapons to shoot those bastards, rack up your score, and don't get 'Fruggled'.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from itch.io (https://ultimogames.itch.io/foreignfrugglers) or Steam (https://store.steampowered.com/app/1071920/_Foreign_Frugglers), download, and copy Foreign Frugglers.exe to foreignfrugglers/assets",
+        "inst_md": "Purchase the game from [itch.io](https://ultimogames.itch.io/foreignfrugglers) or [Steam](https://store.steampowered.com/app/1071920/_Foreign_Frugglers), download, and copy `Foreign Frugglers.exe` to `foreignfrugglers/assets`",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://ultimogames.itch.io",
+            "gameurl": "https://ultimogames.itch.io/foreignfrugglers",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/developer/ultimogames",
+            "gameurl": "https://store.steampowered.com/app/1071920/_Foreign_Frugglers",
+            "name": "Steam"
+          }
+        ],
+        "title": "Foreign Frugglers"
+      },
+      "items": [
+        "Foreign Frugglers.sh",
+        "foreignfrugglers"
+      ],
+      "items_opt": null,
+      "name": "foreignfrugglers.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "b4056677b1666004f191dabc59ee1087",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 21580365,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/foreignfrugglers.zip"
+      },
+      "version": 4
     },
     "forgodden.zip": {
       "attr": {
@@ -40785,6 +41455,103 @@
       },
       "version": 4
     },
+    "holyshit.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Navigate through a maze of mischievous park mechanisms where dung balls are your key allies. Carefully plan the order of collection, movement routes, and merging timing to find the optimal solution in chaos.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.4.1.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://be1ugabot.itch.io",
+            "gameurl": "https://be1ugabot.itch.io/holy-shit",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Holy Shit"
+      },
+      "items": [
+        "Holy Shit.sh",
+        "holyshit"
+      ],
+      "items_opt": null,
+      "name": "holyshit.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "f0e0393b259c149b579a1f30c6de4269",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 84241699,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/holyshit.zip"
+      },
+      "version": 4
+    },
     "honeyguardian.zip": {
       "attr": {
         "arch": [
@@ -43426,6 +44193,102 @@
         "repo": "main",
         "size": 8074299,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/interstatedrifter.zip"
+      },
+      "version": 4
+    },
+    "intothedeepweb.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A short strategy game that mixes dice mechanics with auto-battler and deckbuilding elements, wrapped in retro-inspired art, and a playful Windows-93 vibe.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://jontopielski.itch.io",
+            "name": "itch.io",
+            "url": "https://jontopielski.itch.io/into-the-deep-web"
+          }
+        ],
+        "title": "Into the Deep Web"
+      },
+      "items": [
+        "Into the Deep Web.sh",
+        "intothedeepweb"
+      ],
+      "items_opt": null,
+      "name": "intothedeepweb.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "eac3f0c384885a9a1288accd722b20c9",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 12360870,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/intothedeepweb.zip"
       },
       "version": 4
     },
@@ -51436,6 +52299,101 @@
       },
       "version": 2
     },
+    "macchasworld.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "You find yourself cut off from your family in desperate need of a new liver to save your life. With 100,000 gold coins needed, you enter \"The Pit\", a cave full of money, monsters and alcohol. Can you make it out in one piece?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game free from itch.io (https://digitalgodtower.itch.io/macchas-world), extract, and copy game files to macchasworld/assets",
+        "inst_md": "Download the game free from [itch.io](https://digitalgodtower.itch.io/macchas-world), extract, and copy game files to `macchasworld/assets`",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://digitalgodtower.itch.io",
+            "gameurl": "https://digitalgodtower.itch.io/macchas-world",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Maccha's World"
+      },
+      "items": [
+        "Maccha's World.sh",
+        "macchasworld"
+      ],
+      "items_opt": null,
+      "name": "macchasworld.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "b92ed15bee5cfa97aa55d510c5a15541",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 8939753,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/macchasworld.zip"
+      },
+      "version": 4
+    },
     "maddeningeu.zip": {
       "attr": {
         "arch": [
@@ -56254,12 +57212,12 @@
       "name": "mr.boom.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-04-08",
-        "md5": "6821bfaa610cc236416683545c48e1e9",
-        "release_id": "2025-04-08_2119",
+        "date_updated": "2025-09-16",
+        "md5": "be20103627e333e836911c542898a727",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 3356776,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/mr.boom.zip"
+        "size": 3356827,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/mr.boom.zip"
       },
       "version": 2
     },
@@ -66199,7 +67157,7 @@
         "reqs": [],
         "rtr": true,
         "runtime": [
-          "frt_4.3.squashfs",
+          "godot_4.3.squashfs",
           "weston_pkg_0.2.squashfs"
         ],
         "store": [
@@ -66224,12 +67182,12 @@
       "name": "pinballcrush.zip",
       "source": {
         "date_added": "2025-09-08",
-        "date_updated": "2025-09-08",
-        "md5": "7718de0c34b3a6d4968f5b5b194af446",
-        "release_id": "2025-09-08_0954",
+        "date_updated": "2025-09-16",
+        "md5": "1286eae7d1d8dc9a384c36de99a7cc90",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 70317124,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/pinballcrush.zip"
+        "size": 70317125,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/pinballcrush.zip"
       },
       "version": 4
     },
@@ -70939,12 +71897,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-04-08",
-        "md5": "f3e2844cc652e51a2e5bb7d411ddb5cd",
-        "release_id": "2025-04-08_2119",
+        "date_updated": "2025-09-16",
+        "md5": "97f3bed3735e6ba0049f2bdd9d4a3786",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 9020263,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/quake.zip"
+        "size": 9020299,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/quake.zip"
       },
       "version": 2
     },
@@ -72102,6 +73060,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/rebound.zip"
       },
       "version": 2
+    },
+    "recursiverun.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A fast-paced platformer with a speed-run timer, where every level is the previous level + a twist or something new. Made for IcoJam 2024 with the theme of Patterns. Share your scores at https://bump-dev.itch.io",
+        "desc_md": "A fast-paced platformer with a speed-run timer, where every level is the previous level + a twist or something new. Made for IcoJam 2024 with the theme of *Patterns*. Share your scores at [itch.io](https://bump-dev.itch.io)",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Bump Dev"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.4.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://bump-dev.itch.io/",
+            "gameurl": "https://bump-dev.itch.io/recursive-run",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Recursive Run"
+      },
+      "items": [
+        "Recursive Run.sh",
+        "recursiverun"
+      ],
+      "items_opt": null,
+      "name": "recursiverun.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "6b571ec124d2d9d50ea0e42d1c80a5d8",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 2516786,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/recursiverun.zip"
+      },
+      "version": 4
     },
     "redhandsomehood.zip": {
       "attr": {
@@ -73728,12 +74782,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-04-08",
-        "md5": "cef57bbe42648ca1fd836ba0ec7588b3",
-        "release_id": "2025-04-08_2119",
+        "date_updated": "2025-09-16",
+        "md5": "e1872e4cc0345ef42c1ecb9de4234ff0",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 3106811,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-08_2119/rick.dangerous.zip"
+        "size": 3106862,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/rick.dangerous.zip"
       },
       "version": 2
     },
@@ -77359,12 +78413,12 @@
       },
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-08-06",
-        "md5": "36ae11510aa8149ec6d628d7483ad076",
-        "release_id": "2024-08-06_0203",
+        "date_updated": "2025-09-16",
+        "md5": "53c8bcefdb2952257d42aa994eefb8ab",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 12708164,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/serioussam-tfe.zip"
+        "size": 12708113,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/serioussam-tfe.zip"
       },
       "version": 2
     },
@@ -77450,12 +78504,12 @@
       },
       "source": {
         "date_added": "2023-11-21",
-        "date_updated": "2024-08-06",
-        "md5": "2abc5f3c69db668fdb97ab3be1277a8d",
-        "release_id": "2024-08-06_0203",
+        "date_updated": "2025-09-16",
+        "md5": "d6cdba28f706fe5a7f0db4e2edb0055c",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 14330172,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-06_0203/serioussam-tse.zip"
+        "size": 14330121,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/serioussam-tse.zip"
       },
       "version": 2
     },
@@ -86825,12 +87879,12 @@
       },
       "source": {
         "date_added": "2024-05-06",
-        "date_updated": "2025-08-21",
-        "md5": "308ba25335d5409fb1099f8b45961766",
-        "release_id": "2025-08-21_0915",
+        "date_updated": "2025-09-16",
+        "md5": "988dc301229c7bf1dd445164524b815f",
+        "release_id": "2025-09-16_1252",
         "repo": "main",
-        "size": 28984818,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/supercratebox.zip"
+        "size": 28984816,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/supercratebox.zip"
       },
       "version": 2
     },
@@ -93663,6 +94717,102 @@
       },
       "version": 4
     },
+    "treehouse.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A horrible corruption has forced the children of the forest into hiding. They confide in the Treehouse Man, but their prayers remain unanswered. Baptized into the group, you must take the hallowed boat on an odyssey to save your brothers and sisters before the silence kills them.  \nThe Treehouse Man offers a seamless combination of real-time and turn-based combat, requiring equal amounts of execution and strategy to overcome. Configure the hallowed boat to your liking with different weapons, upgrades and travel companions. Explore the winding rivers of the corrupt forest, meeting all of its quirky inhabitants, friends and foes alike. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "rpg",
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/841660/The_Treehouse_Man/) and copy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://hunchbackstudio.com/games/",
+            "gameurl": "https://store.steampowered.com/app/841660/The_Treehouse_Man/",
+            "name": " Hunchback Studio"
+          }
+        ],
+        "title": "The Treehouse Man"
+      },
+      "items": [
+        "The Treehouse Man.sh",
+        "treehouse"
+      ],
+      "items_opt": null,
+      "name": "treehouse.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "25d7c6e6a7f22fc42d147748b69e1b5f",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 4813445,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/treehouse.zip"
+      },
+      "version": 4
+    },
     "trianglerun.zip": {
       "attr": {
         "arch": [],
@@ -94471,6 +95621,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/tube64.zip"
       },
       "version": 2
+    },
+    "tukiyono.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "This is a fairly high difficulty bullet hell shooter. It is a total of 4 stages + a last boss. Let's go for it...",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download free at itch.io https://nizakashii.itch.io/tukiyono and copy the data.win into assets folder.",
+        "inst_md": "Download free at [itch.io](https://nizakashii.itch.io/tukiyono) and copy the data.win into assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://nizakashii.itch.io/",
+            "gameurl": "https://nizakashii.itch.io/tukiyono ",
+            "name": "itch.io"
+          }
+        ],
+        "title": "TUKIYONO"
+      },
+      "items": [
+        "TUKIYONO.sh",
+        "tukiyono"
+      ],
+      "items_opt": null,
+      "name": "tukiyono.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "51f691100c1a0906b5ef088fd54c373c",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 6387479,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/tukiyono.zip"
+      },
+      "version": 4
     },
     "tumbledown.zip": {
       "attr": {
@@ -95818,6 +97064,95 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ultimatetapankaikki.zip"
       },
       "version": 2
+    },
+    "unciv.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Unciv is a free, open-source remake of Civilization V with a simple, lightweight design. It focuses on strategy, exploration, and building your empire",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Dia"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "zulu8.86.0.25-ca-jdk8.0.452-linux.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [],
+        "title": "Unciv"
+      },
+      "items": [
+        "Unciv.sh",
+        "unciv"
+      ],
+      "items_opt": null,
+      "name": "unciv.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "750afb871b5d6b9a6469c11b028d20fe",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 51443972,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/unciv.zip"
+      },
+      "version": 4
     },
     "undergrave.zip": {
       "attr": {
@@ -97196,6 +98531,90 @@
         "repo": "multiverse",
         "size": 1802704078,
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-16_0559/vdrift.zip"
+      },
+      "version": 4
+    },
+    "verminiantrap.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "SOS! Your space pod has made an emergency landing on a planet infested with giant insects from Verminest. Fight with your companions and survive while the hope of being evacuated by a rescue unit lasts.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Verminian Trap"
+      },
+      "items": [
+        "Verminian Trap.sh",
+        "verminiantrap"
+      ],
+      "items_opt": null,
+      "name": "verminiantrap.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "19bf23c089b214fbf827e026851ee5dc",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 7586802,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/verminiantrap.zip"
       },
       "version": 4
     },
@@ -100241,6 +101660,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/worship_vector.zip"
       },
       "version": 2
+    },
+    "wrestlejump2.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Push the button to extend your wrestler's leg, smash your opponent's head to the ground to score, first to five wins!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "sports"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_4.3.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://ottoojala.com",
+            "gameurl": "https://ottoojala.com",
+            "name": "ottoojala.com"
+          }
+        ],
+        "title": "Wrestle Jump 2"
+      },
+      "items": [
+        "Wrestle Jump 2.sh",
+        "wrestlejump2"
+      ],
+      "items_opt": null,
+      "name": "wrestlejump2.zip",
+      "source": {
+        "date_added": "2025-09-16",
+        "date_updated": "2025-09-16",
+        "md5": "d8984764cabbb0d989d7d17e0c3e11f1",
+        "release_id": "2025-09-16_1252",
+        "repo": "main",
+        "size": 17916196,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/wrestlejump2.zip"
+      },
+      "version": 4
     },
     "wuppo.zip": {
       "attr": {
