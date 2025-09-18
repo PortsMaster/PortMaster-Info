@@ -13436,6 +13436,104 @@
       },
       "version": 4
     },
+    "castlevaniatales.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A fan made Castlevania game where you play as Soma.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download free at itch.io https://ikusatatsu.itch.io/castlevania-tales-of-night-moon and copy data.win to assets.",
+        "inst_md": "Download free at [itch.io](https://ikusatatsu.itch.io/castlevania-tales-of-night-moon) and copy data.win to assets.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://ikusatatsu.itch.io/",
+            "gameurl": "https://ikusatatsu.itch.io/castlevania-tales-of-night-moon",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Castlevania Tales of Night Moon"
+      },
+      "items": [
+        "Castlevania Tales of Night Moon.sh",
+        "castlevaniatales"
+      ],
+      "items_opt": null,
+      "name": "castlevaniatales.zip",
+      "source": {
+        "date_added": "2025-09-18",
+        "date_updated": "2025-09-18",
+        "md5": "0be5e7e2804194514467123b221a49a0",
+        "release_id": "2025-09-18_0950",
+        "repo": "multiverse",
+        "size": 11244641,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-09-18_0950/castlevaniatales.zip"
+      },
+      "version": 4
+    },
     "cataclysm-dda.zip": {
       "attr": {
         "arch": [
