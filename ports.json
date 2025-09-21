@@ -6328,6 +6328,12 @@
       ],
       "items_opt": null,
       "name": "benwas.zip",
+      "rating": {
+        "average_rating": 3.0,
+        "max_rating": "3",
+        "min_rating": "3",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-06-24",
         "date_updated": "2025-06-24",
@@ -23826,6 +23832,12 @@
       ],
       "items_opt": null,
       "name": "dodgindiamonds2d.zip",
+      "rating": {
+        "average_rating": 1.0,
+        "max_rating": "1",
+        "min_rating": "1",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-21",
         "date_updated": "2025-04-21",
@@ -25980,6 +25992,12 @@
       ],
       "items_opt": null,
       "name": "duckdodge.zip",
+      "rating": {
+        "average_rating": 2.0,
+        "max_rating": "2",
+        "min_rating": "2",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-04-21",
         "date_updated": "2025-05-12",
@@ -50592,6 +50610,12 @@
       ],
       "items_opt": null,
       "name": "locust.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-10-05",
         "date_updated": "2024-10-05",
@@ -54095,6 +54119,12 @@
       ],
       "items_opt": null,
       "name": "megamansunrise.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-05-29",
         "date_updated": "2025-05-29",
@@ -54281,6 +54311,12 @@
       ],
       "items_opt": null,
       "name": "megawitter.zip",
+      "rating": {
+        "average_rating": 2.0,
+        "max_rating": "2",
+        "min_rating": "2",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-07-01",
         "date_updated": "2025-07-02",
@@ -59856,9 +59892,9 @@
       "items_opt": null,
       "name": "nightofelchupacabra.zip",
       "rating": {
-        "average_rating": 3.0,
-        "max_rating": "3",
-        "min_rating": "3",
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
         "total_ratings": 1
       },
       "source": {
@@ -96253,7 +96289,7 @@
         "average_rating": 2.0,
         "max_rating": "2",
         "min_rating": "2",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-08-14",
@@ -102120,6 +102156,12 @@
       ],
       "items_opt": null,
       "name": "xenofightersr.zip",
+      "rating": {
+        "average_rating": 4.0,
+        "max_rating": "4",
+        "min_rating": "4",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2024-12-17",
         "date_updated": "2025-08-14",
@@ -102493,10 +102535,10 @@
       "items_opt": null,
       "name": "xmoto.zip",
       "rating": {
-        "average_rating": 5.0,
+        "average_rating": 4.5,
         "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 1
+        "min_rating": "4",
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2025-03-03",
@@ -105330,6 +105372,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 575
+    "total_ratings": 584
   }
 }
