@@ -7407,6 +7407,96 @@
       },
       "version": 2
     },
+    "blazingbeaks.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Roguelite - where too much greediness can be fatal. A colorful world with armed birds blazing their way through piles of mutants, monsters and creepy creatures. Lots of mysteries to unravel, secrets to discover and levels to explore. Requires Twin sticks!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from GOG. Download Version 1.2.0.3. Copy over all the game file to ports/blazingbeaks/assets",
+        "inst_md": "Purchase the game from [GOG](https://www.gog.com/en/game/blazing_beaks). Download Version 1.2.0.3. Do this by going to More > Manage Installation > Configure > Uncheck auto-updates > Show more versions > Select Version 1.2.0.3. Copy over all the game file to ports/blazingbeaks/assets",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.blazingbeaks.com/",
+            "gameurl": "https://www.gog.com/en/game/blazing_beaks",
+            "name": "GOG"
+          }
+        ],
+        "title": "Blazing Beaks"
+      },
+      "items": [
+        "Blazing Beaks.sh",
+        "blazingbeaks"
+      ],
+      "items_opt": null,
+      "name": "blazingbeaks.zip",
+      "source": {
+        "date_added": "2025-09-22",
+        "date_updated": "2025-09-22",
+        "md5": "3a3da2c3161d78e19df2010bdd90913b",
+        "release_id": "2025-09-22_1747",
+        "repo": "main",
+        "size": 7317610,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/blazingbeaks.zip"
+      },
+      "version": 4
+    },
     "bleed.zip": {
       "attr": {
         "arch": [],
@@ -19551,7 +19641,7 @@
     "cybarian.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -19578,10 +19668,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -19590,6 +19684,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "Cybarian The Time Travelling Warrior is a classically inspired arcade action game, with a mixture of modern and retro gaming tropes. Designed to be played through in a single sitting, there are limited checkpoints and no saves.",
         "desc_md": null,
         "exp": false,
@@ -19604,15 +19699,23 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download game from https://store.steampowered.com/app/928840/Cybarian_The_Time_Travelling_Warrior/ , rename Cybarian.exe to Cybarian.zip, extract, copy data.win and all .ogg files to /ports/cybarian/gamedata",
-        "inst_md": null,
+        "inst": "Download the game from https://store.steampowered.com/app/928840/Cybarian_The_Time_Travelling_Warrior/ and place Cybarian.exe to the assets folder.",
+        "inst_md": "Download the game from [Steam](https://store.steampowered.com/app/928840/Cybarian_The_Time_Travelling_Warrior/)  and place `Cybarian.exe` to the `assets` folder.",
         "min_glibc": "",
         "porter": [
-          "mattyj513"
+          "mattyj513",
+          "Ganimoth"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/928840/Cybarian_The_Time_Travelling_Warrior",
+            "name": "Steam"
+          }
+        ],
         "title": "Cybarian"
       },
       "items": [
@@ -19623,14 +19726,14 @@
       "name": "cybarian.zip",
       "source": {
         "date_added": "2023-11-15",
-        "date_updated": "2024-07-18",
-        "md5": "6d71f7fa658fd9a774f6e1f57267905e",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-09-22",
+        "md5": "45b8ac5fc7940a4eabbd01ae4359beea",
+        "release_id": "2025-09-22_1747",
         "repo": "main",
-        "size": 13519797,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/cybarian.zip"
+        "size": 4810868,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/cybarian.zip"
       },
-      "version": 2
+      "version": 4
     },
     "cyberseraph.zip": {
       "attr": {
@@ -30517,12 +30620,12 @@
       "name": "fheroes2.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2025-07-16",
-        "md5": "905b32a36ab838295684cbf92833f06b",
-        "release_id": "2025-07-16_2108",
+        "date_updated": "2025-09-22",
+        "md5": "ea468165252c60cf8dc63ebbaaa59ff2",
+        "release_id": "2025-09-22_1747",
         "repo": "main",
-        "size": 8207065,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/fheroes2.zip"
+        "size": 8206976,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/fheroes2.zip"
       },
       "version": 4
     },
@@ -58864,12 +58967,12 @@
       },
       "source": {
         "date_added": "2025-07-24",
-        "date_updated": "2025-08-21",
-        "md5": "d76786bedf961a102a02dcf740f1daa2",
-        "release_id": "2025-08-21_2306",
+        "date_updated": "2025-09-22",
+        "md5": "9ccc33ae0e5244db0747021b2f7d5a55",
+        "release_id": "2025-09-22_1747",
         "repo": "main",
-        "size": 74980231,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/nazizombies.zip"
+        "size": 72008922,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/nazizombies.zip"
       },
       "version": 4
     },
@@ -58960,6 +59063,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-27_0224/nebulus.zip"
       },
       "version": 2
+    },
+    "nehonobasa.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "This is a bullet hell shooter. It might be hard. Defeat all 4 stages + the final boss.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the NEHONOBASA1.10_wh.zip at itch.io https://nizakashii.itch.io/nehonobasa and copy data.win to the assets folder.",
+        "inst_md": "Download the NEHONOBASA1.10_wh.zip at [itch.io](https://nizakashii.itch.io/nehonobasa) and copy data.win to the assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://nizakashii.itch.io/",
+            "gameurl": "https://nizakashii.itch.io/nehonobasa ",
+            "name": "itch.io"
+          }
+        ],
+        "title": "NEHONOBASA"
+      },
+      "items": [
+        "NEHONOBASA.sh",
+        "nehonobasa"
+      ],
+      "items_opt": null,
+      "name": "nehonobasa.zip",
+      "source": {
+        "date_added": "2025-09-22",
+        "date_updated": "2025-09-22",
+        "md5": "31da71dd8bf183895ed1505567fc40d4",
+        "release_id": "2025-09-22_1747",
+        "repo": "main",
+        "size": 6643883,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/nehonobasa.zip"
+      },
+      "version": 4
     },
     "neogensokyo.zip": {
       "attr": {
@@ -65144,7 +65343,7 @@
     "outofammo.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -65171,10 +65370,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -65183,6 +65386,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "A mix of retro shmup (think Judgement Silversword) and breakout, in the style of something like The Lost Shield or Wizorb, with aesthetics hugely inspired by ZeroRanger (because it's brilliant, and green+orange goes well with EVERYTHING).",
         "desc_md": null,
         "exp": false,
@@ -65201,11 +65405,19 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "mattyj513"
+          "mattyj513",
+          "Ganimoth"
         ],
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://cursed-offerings.itch.io/",
+            "gameurl": "https://hwilson.itch.io/outofammo",
+            "name": "Itch.io"
+          }
+        ],
         "title": "Out of Ammo"
       },
       "items": [
@@ -65216,14 +65428,14 @@
       "name": "outofammo.zip",
       "source": {
         "date_added": "2023-10-31",
-        "date_updated": "2024-07-18",
-        "md5": "0ad20bd75b2464e47603c291e1444bd5",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-09-22",
+        "md5": "2115e4c08be71f4dfd453d27a6dc67ae",
+        "release_id": "2025-09-22_1747",
         "repo": "main",
-        "size": 19264257,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/outofammo.zip"
+        "size": 14066598,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/outofammo.zip"
       },
-      "version": 2
+      "version": 4
     },
     "overgun.zip": {
       "attr": {
@@ -66946,6 +67158,100 @@
         "repo": "main",
         "size": 59271099,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/permanence.zip"
+      },
+      "version": 4
+    },
+    "petsciirobotsmsx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Attack of the Petscii Robots is a top-down action-puzzle game. This free version was developed by Robosoft for the MSX1. It is inspired by oblique top-down projection games like Ultima, but takes much of the gameplay concepts from first-person shooters. The object is to destroy all of the robots. To do this, you have to search objects in the game for weapons and other items to help you along the way. Many scenarios require complex thinking and problem solving, rather than just action shooting.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "puzzle",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place the following BIOS files in the 'petsciirobotsmsx/share/systemroms' directory:\nfs-a1gt_firmware.rom, \nfs-a1gt_kanjifont.rom, \nyrw801.rom\n",
+        "inst_md": "**Place the following BIOS files in the 'petsciirobotsmsx/share/systemroms' directory:**\nfs-a1gt_firmware.rom, \nfs-a1gt_kanjifont.rom, \nyrw801.rom\n\n**The game is already included and was acquired from** [MSXdev.org](https://www.msxdev.org/2023/09/19/msxdev23-18-attack-of-the-petscii-robots/)",
+        "min_glibc": "",
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Attack of the PETSCII Robots (OpenMSX)"
+      },
+      "items": [
+        "PETSCII Robots (OpenMSX).sh",
+        "petsciirobotsmsx"
+      ],
+      "items_opt": null,
+      "name": "petsciirobotsmsx.zip",
+      "source": {
+        "date_added": "2025-09-22",
+        "date_updated": "2025-09-22",
+        "md5": "2563293157e560dc37ceb8c2972eb0e0",
+        "release_id": "2025-09-22_1747",
+        "repo": "main",
+        "size": 14007340,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/petsciirobotsmsx.zip"
       },
       "version": 4
     },
@@ -80464,6 +80770,102 @@
       },
       "version": 4
     },
+    "skelepunch.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Explosive 2D Pixel Art Action!\nHelp the Skeleton Punchers defeat the Zerpian army of the night and recover the Patrician's Hoard before it's too late!\n\nCollect and upgrade power ups, cycle trough the Day/Night phases, complete Stages and Bonus Mini games to unlock new Characters and Equipment!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install port. Purchase the game on Steam (https://store.steampowered.com/app/2163930/Skeleton_Punchers/). Copy all game files into the ports/skelepunch/assets folder.",
+        "inst_md": "Install port. Download game on [Steam](https://store.steampowered.com/app/2163930/Skeleton_Punchers/). Copy all game files into the `ports/skelepunch/assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Slobters"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Mooptychunk",
+            "gameurl": "https://store.steampowered.com/app/2163930/Skeleton_Punchers/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Skeleton Punchers"
+      },
+      "items": [
+        "Skeleton Punchers.sh",
+        "skelepunch"
+      ],
+      "items_opt": null,
+      "name": "skelepunch.zip",
+      "source": {
+        "date_added": "2025-09-22",
+        "date_updated": "2025-09-22",
+        "md5": "736e427b6981280a39f79b22a54758e8",
+        "release_id": "2025-09-22_1747",
+        "repo": "main",
+        "size": 15913207,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/skelepunch.zip"
+      },
+      "version": 4
+    },
     "skeletonboomerang.zip": {
       "attr": {
         "arch": [
@@ -81191,6 +81593,102 @@
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-04-09_1309/smworld.zip"
       },
       "version": 2
+    },
+    "snailworld.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A mini shmup with a slight Fantasy Zone vibe. Shoot enemies, collect money, upgrade!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download free at itch.io https://nizakashii.itch.io/snail-world copy data.win and .ogg files to assets folder.",
+        "inst_md": "Download free at [itch.io](https://nizakashii.itch.io/snail-world) copy data.win and .ogg files to assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://nizakashii.itch.io/",
+            "gameurl": "https://nizakashii.itch.io/snail-world",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Snail World"
+      },
+      "items": [
+        "Snail World.sh",
+        "snailworld"
+      ],
+      "items_opt": null,
+      "name": "snailworld.zip",
+      "source": {
+        "date_added": "2025-09-22",
+        "date_updated": "2025-09-22",
+        "md5": "4ade2cafedc5af9e52b8e85abf319d70",
+        "release_id": "2025-09-22_1747",
+        "repo": "main",
+        "size": 6356030,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/snailworld.zip"
+      },
+      "version": 4
     },
     "snaklipse.zip": {
       "attr": {
@@ -93087,12 +93585,12 @@
       },
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2025-07-24",
-        "md5": "71febc7252231873b29a13e33ed4eaea",
-        "release_id": "2025-07-24_0745",
+        "date_updated": "2025-09-22",
+        "md5": "72cd6d5d766b7fd93feddab833c87dae",
+        "release_id": "2025-09-22_1747",
         "repo": "main",
-        "size": 30092902,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/tileworld.zip"
+        "size": 30954238,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/tileworld.zip"
       },
       "version": 4
     },
@@ -97016,12 +97514,12 @@
       },
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-05-04",
-        "md5": "c18caf513e8b4d14d5b70ea8f5bc3cae",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2025-09-22",
+        "md5": "4761d2b0a07c40bd9c6812d15eb8be75",
+        "release_id": "2025-09-22_1747",
         "repo": "main",
-        "size": 10911932,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/ufo50.zip"
+        "size": 11677546,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/ufo50.zip"
       },
       "version": 4
     },
