@@ -77,10 +77,10 @@
       "items_opt": null,
       "name": "2048.zip",
       "rating": {
-        "average_rating": 3.0,
+        "average_rating": 3.33,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 5
+        "total_ratings": 6
       },
       "source": {
         "date_added": "2021-09-10",
@@ -3376,10 +3376,10 @@
       "items_opt": null,
       "name": "apotris.zip",
       "rating": {
-        "average_rating": 4.71,
+        "average_rating": 4.5,
         "max_rating": "5",
-        "min_rating": "4",
-        "total_ratings": 7
+        "min_rating": "3",
+        "total_ratings": 8
       },
       "source": {
         "date_added": "2024-02-05",
@@ -86071,10 +86071,10 @@
       "items_opt": null,
       "name": "srb2.zip",
       "rating": {
-        "average_rating": 4.0,
+        "average_rating": 4.25,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2021-12-02",
@@ -106261,6 +106261,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 584
+    "total_ratings": 587
   }
 }
