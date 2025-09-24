@@ -5079,10 +5079,10 @@
       "items_opt": null,
       "name": "balatro.zip",
       "rating": {
-        "average_rating": 4.5,
+        "average_rating": 4.57,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 6
+        "total_ratings": 7
       },
       "source": {
         "date_added": "2024-04-01",
@@ -39052,10 +39052,10 @@
       ],
       "name": "half-life.zip",
       "rating": {
-        "average_rating": 4.8,
+        "average_rating": 4.82,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 10
+        "total_ratings": 11
       },
       "source": {
         "date_added": "2023-01-07",
@@ -86526,7 +86526,7 @@
         "average_rating": 4.96,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 23
+        "total_ratings": 24
       },
       "source": {
         "date_added": "2022-07-03",
@@ -91504,10 +91504,10 @@
       "items_opt": null,
       "name": "tboirebirth.zip",
       "rating": {
-        "average_rating": 4.38,
+        "average_rating": 4.44,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 8
+        "total_ratings": 9
       },
       "source": {
         "date_added": "2025-07-01",
@@ -94590,10 +94590,10 @@
       "items_opt": null,
       "name": "tmntsr.zip",
       "rating": {
-        "average_rating": 4.78,
+        "average_rating": 4.8,
         "max_rating": "5",
         "min_rating": "3",
-        "total_ratings": 9
+        "total_ratings": 10
       },
       "source": {
         "date_added": "2024-03-08",
@@ -98179,10 +98179,10 @@
       "items_opt": null,
       "name": "undertale.zip",
       "rating": {
-        "average_rating": 4.86,
+        "average_rating": 4.88,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 7
+        "total_ratings": 8
       },
       "source": {
         "date_added": "2021-09-10",
@@ -99628,10 +99628,10 @@
       "items_opt": null,
       "name": "vhr.zip",
       "rating": {
-        "average_rating": 1.0,
-        "max_rating": "1",
+        "average_rating": 3.0,
+        "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 1
+        "total_ratings": 2
       },
       "source": {
         "date_added": "2024-11-07",
@@ -106261,6 +106261,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 587
+    "total_ratings": 594
   }
 }
