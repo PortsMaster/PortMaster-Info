@@ -77227,6 +77227,100 @@
       },
       "version": 4
     },
+    "runmaverick.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Run Maverick, Run! is a game about my dog, Maverick, who never stops running and eating. The game was made in 48 hours for the Patch Notes v1.0 Jam.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "SeeFern"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://seefern.itch.io/",
+            "gameurl": "https://seefern.itch.io/run-maverick-run",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Run Maverick, Run!"
+      },
+      "items": [
+        "Run Maverick, Run!.sh",
+        "runmaverick"
+      ],
+      "items_opt": null,
+      "name": "runmaverick.zip",
+      "source": {
+        "date_added": "2025-09-24",
+        "date_updated": "2025-09-24",
+        "md5": "a11322eb0375460099651aae62184700",
+        "release_id": "2025-09-24_1120",
+        "repo": "main",
+        "size": 3244675,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-24_1120/runmaverick.zip"
+      },
+      "version": 4
+    },
     "russiansubwaydogs.zip": {
       "attr": {
         "arch": [
@@ -93001,12 +93095,12 @@
       "name": "thestarlitescape.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2025-09-23",
-        "md5": "83a0aadf4d93a0c449de565ec3530759",
-        "release_id": "2025-09-23_1014",
+        "date_updated": "2025-09-24",
+        "md5": "d4180ea1935d84bd4490deb3341c9ef9",
+        "release_id": "2025-09-24_1120",
         "repo": "main",
-        "size": 221373252,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/thestarlitescape.zip"
+        "size": 24642985,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-24_1120/thestarlitescape.zip"
       },
       "version": 2
     },
@@ -103990,12 +104084,12 @@
       "name": "yomihd.zip",
       "source": {
         "date_added": "2025-09-23",
-        "date_updated": "2025-09-23",
-        "md5": "2fc9328d41418188896942df6a22c12d",
-        "release_id": "2025-09-23_1014",
+        "date_updated": "2025-09-24",
+        "md5": "df929d759cda32f3a43db01b9abb927c",
+        "release_id": "2025-09-24_1120",
         "repo": "main",
-        "size": 10240713,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/yomihd.zip"
+        "size": 10240646,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-24_1120/yomihd.zip"
       },
       "version": 4
     },
@@ -106102,6 +106196,8 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg353m:ALL",
           "rg552:ALL",
           "rg34xx-sp:ALL",
           "x55:ALL",
@@ -106133,7 +106229,7 @@
           "Pyral"
         ],
         "reqs": [
-          "hires",
+          "!lowres",
           "2gb"
         ],
         "rtr": true,
@@ -106160,12 +106256,12 @@
       "name": "zniwadventure.zip",
       "source": {
         "date_added": "2025-09-23",
-        "date_updated": "2025-09-23",
-        "md5": "b5afb1296f6268162d4bac341161ce74",
-        "release_id": "2025-09-23_1014",
+        "date_updated": "2025-09-24",
+        "md5": "3d83ebd6b00ea22704c9de74fff485c4",
+        "release_id": "2025-09-24_1120",
         "repo": "main",
-        "size": 155544920,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/zniwadventure.zip"
+        "size": 155544922,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-24_1120/zniwadventure.zip"
       },
       "version": 4
     },
