@@ -18160,10 +18160,10 @@
       "items_opt": null,
       "name": "crashlands.zip",
       "rating": {
-        "average_rating": 4.33,
+        "average_rating": 4.5,
         "max_rating": "5",
         "min_rating": "4",
-        "total_ratings": 3
+        "total_ratings": 4
       },
       "source": {
         "date_added": "2025-04-07",
@@ -31987,6 +31987,12 @@
       ],
       "items_opt": null,
       "name": "flynnsoc.zip",
+      "rating": {
+        "average_rating": 5.0,
+        "max_rating": "5",
+        "min_rating": "5",
+        "total_ratings": 1
+      },
       "source": {
         "date_added": "2025-09-08",
         "date_updated": "2025-09-08",
@@ -106369,6 +106375,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 598
+    "total_ratings": 600
   }
 }
