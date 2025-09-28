@@ -37770,10 +37770,10 @@
       "items_opt": null,
       "name": "gtavc.zip",
       "rating": {
-        "average_rating": 4.67,
+        "average_rating": 4.62,
         "max_rating": "5",
         "min_rating": "1",
-        "total_ratings": 12
+        "total_ratings": 13
       },
       "source": {
         "date_added": "2023-10-28",
@@ -106375,6 +106375,6 @@
   "ratings": {
     "max_range": 5,
     "min_range": 1,
-    "total_ratings": 603
+    "total_ratings": 604
   }
 }
