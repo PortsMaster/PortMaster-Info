@@ -648,6 +648,105 @@
       },
       "version": 2
     },
+    "adventurerush.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Get ready for another incredible adventure, face spiders, monsters and goblins in a side scrolling system with Shoot 'Em Up elements and try out numerous equipment with your hero. But beware of the fearsome Dragon!!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or download the free demo from Itch.io and copy all game files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1809710/Adventure_Rush/) or download the free demo from [Itch.io](https://boscheinen.itch.io/adventure-rush) and copy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1809710/Adventure_Rush/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://boscheinen.itch.io/adventure-rush",
+            "name": "Itch"
+          }
+        ],
+        "title": "Adventure Rush"
+      },
+      "items": [
+        "Adventure Rush.sh",
+        "adventurerush"
+      ],
+      "items_opt": null,
+      "name": "adventurerush.zip",
+      "source": {
+        "date_added": "2025-10-11",
+        "date_updated": "2025-10-11",
+        "md5": "bac751c1d4be04e6016ac5e137ff21b3",
+        "release_id": "2025-10-11_1509",
+        "repo": "main",
+        "size": 8822911,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/adventurerush.zip"
+      },
+      "version": 4
+    },
     "aerofoil.zip": {
       "attr": {
         "arch": [
@@ -18129,12 +18228,12 @@
       "name": "cosmicwheel.zip",
       "source": {
         "date_added": "2025-10-04",
-        "date_updated": "2025-10-04",
-        "md5": "a1b9fc2182cff8ad54d6e8c9de706d61",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2025-10-11",
+        "md5": "1a6396a3dc50098cc4b05bd4237190e4",
+        "release_id": "2025-10-11_1509",
         "repo": "main",
-        "size": 9493894,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/cosmicwheel.zip"
+        "size": 9493801,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/cosmicwheel.zip"
       },
       "version": 4
     },
@@ -34577,6 +34676,7 @@
         "reqs": [],
         "rtr": false,
         "runtime": [
+          "dotnet-8.0.12.squashfs",
           "gmtoolkit.squashfs"
         ],
         "store": [
@@ -34596,12 +34696,12 @@
       "name": "friendsofringo.zip",
       "source": {
         "date_added": "2025-07-01",
-        "date_updated": "2025-07-01",
-        "md5": "5e0b707c4b1e7193585c37a33a5526d2",
-        "release_id": "2025-07-01_0951",
+        "date_updated": "2025-10-11",
+        "md5": "5cba15d52a3d74de4d8e48cbe65a1e5f",
+        "release_id": "2025-10-11_1509",
         "repo": "main",
-        "size": 6322560,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/friendsofringo.zip"
+        "size": 6322575,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/friendsofringo.zip"
       },
       "version": 4
     },
@@ -41493,12 +41593,12 @@
       "name": "hexen2.zip",
       "source": {
         "date_added": "2022-11-17",
-        "date_updated": "2025-08-31",
-        "md5": "7ebbf84b30a66851ef2adefd6b8dbbcc",
-        "release_id": "2025-08-31_0235",
+        "date_updated": "2025-10-11",
+        "md5": "096c23dec82c7b2e22d75165bbd33919",
+        "release_id": "2025-10-11_1509",
         "repo": "main",
-        "size": 45449827,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/hexen2.zip"
+        "size": 45449785,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/hexen2.zip"
       },
       "version": 2
     },
@@ -44808,6 +44908,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/inertiablast.zip"
       },
       "version": 2
+    },
+    "inferna.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Originally made in 1 week for the 8x8 Game Jam!  \nCharge and burn your way through a labyrinthine complex as a ball of fire!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is Ready to Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://milkbar-lads.itch.io",
+            "gameurl": "https://milkbar-lads.itch.io/inferna",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Inferna"
+      },
+      "items": [
+        "Inferna.sh",
+        "inferna"
+      ],
+      "items_opt": null,
+      "name": "inferna.zip",
+      "source": {
+        "date_added": "2025-10-11",
+        "date_updated": "2025-10-11",
+        "md5": "77a12bb3ea766e7758c6003bfdc8e2dc",
+        "release_id": "2025-10-11_1509",
+        "repo": "main",
+        "size": 15777095,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/inferna.zip"
+      },
+      "version": 4
     },
     "infested.zip": {
       "attr": {
@@ -56821,7 +57017,7 @@
     "minit.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -56848,10 +57044,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -56872,7 +57072,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://store.steampowered.com/app/609490/Minit/ . Copy data.win, all .ogg and all .csv files to /ports/minit/gamedata",
+        "inst": "Download the game from https://store.steampowered.com/app/609490/Minit/ . Copy data.win, all .ogg and all .csv files to /ports/minit/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -56891,12 +57091,12 @@
       "name": "minit.zip",
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2025-10-04",
-        "md5": "fef941a1f39f6e4d15e149a3579beef1",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2025-10-11",
+        "md5": "b926d1472a9cabaef536ab044018432b",
+        "release_id": "2025-10-11_1509",
         "repo": "main",
-        "size": 11122171,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/minit.zip"
+        "size": 4741447,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/minit.zip"
       },
       "version": 2
     },
@@ -68596,7 +68796,10 @@
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "store": [
           {
             "developerurl": "https://retreauxgames.com/",
@@ -68614,12 +68817,12 @@
       "name": "pillarsofdust.zip",
       "source": {
         "date_added": "2025-10-07",
-        "date_updated": "2025-10-07",
-        "md5": "c6486bfc34301f66957d0355fa60b2be",
-        "release_id": "2025-10-07_1437",
+        "date_updated": "2025-10-11",
+        "md5": "f56159ff0e54831013c90d559b244388",
+        "release_id": "2025-10-11_1509",
         "repo": "main",
-        "size": 6197579,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-07_1437/pillarsofdust.zip"
+        "size": 6197517,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/pillarsofdust.zip"
       },
       "version": 4
     },
@@ -73722,12 +73925,12 @@
       "name": "quakespasm.zip",
       "source": {
         "date_added": "2023-10-23",
-        "date_updated": "2025-08-25",
-        "md5": "fe49b662478747165ad4846dea45e2c6",
-        "release_id": "2025-08-25_1043",
+        "date_updated": "2025-10-11",
+        "md5": "5b4f407e05ae07b3604c7001bc8d197f",
+        "release_id": "2025-10-11_1509",
         "repo": "main",
-        "size": 40954117,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-25_1043/quakespasm.zip"
+        "size": 40953947,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/quakespasm.zip"
       },
       "version": 2
     },
@@ -75337,6 +75540,100 @@
         "repo": "main",
         "size": 3841309,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-08-12_1115/redo.zip"
+      },
+      "version": 4
+    },
+    "redpulse.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "REDPULSE is a run 'n gun game inspired by bullet hell shooters that encourages speedy and aggressive gameplay.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the REDPULSE v1.1.zip from Itch.io and extract all files into the assets folder.",
+        "inst_md": "Download the `REDPULSE v1.1.zip` from [Itch.io](https://boghog.itch.io/redpulse) and extract all files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://boghog.itch.io/redpulse",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "REDPULSE"
+      },
+      "items": [
+        "REDPULSE.sh",
+        "redpulse"
+      ],
+      "items_opt": null,
+      "name": "redpulse.zip",
+      "source": {
+        "date_added": "2025-10-11",
+        "date_updated": "2025-10-11",
+        "md5": "1ba9b225eea66e112437c9d300a0415b",
+        "release_id": "2025-10-11_1509",
+        "repo": "main",
+        "size": 4699404,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/redpulse.zip"
       },
       "version": 4
     },
@@ -82723,6 +83020,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/skijump3.zip"
       },
       "version": 2
+    },
+    "skullpong.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A reimagining of the classic Pong game, but with a Halloween theme!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download at itch.io https://d-eros.itch.io/skull-pong and place data.win and options.ini into assets folder.",
+        "inst_md": "Download at [itch.io](https://d-eros.itch.io/skull-pong) and place data.win and option.ini into assets folder. ",
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://d-eros.itch.io/",
+            "gameurl": "https://d-eros.itch.io/skull-pong",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Skull Pong"
+      },
+      "items": [
+        "Skull Pong.sh",
+        "skullpong"
+      ],
+      "items_opt": null,
+      "name": "skullpong.zip",
+      "source": {
+        "date_added": "2025-10-11",
+        "date_updated": "2025-10-11",
+        "md5": "942c60c4ca6014a440c4d86b7c43ad1f",
+        "release_id": "2025-10-11_1509",
+        "repo": "main",
+        "size": 8960843,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/skullpong.zip"
+      },
+      "version": 4
     },
     "slashjump.zip": {
       "attr": {
@@ -100967,12 +101360,12 @@
       "name": "vastfuture.zip",
       "source": {
         "date_added": "2025-10-07",
-        "date_updated": "2025-10-07",
-        "md5": "8adcc344c8f1840376db8880a3f4e6cb",
-        "release_id": "2025-10-07_1437",
+        "date_updated": "2025-10-11",
+        "md5": "fd6374db32c83fda960d385a6636f4ed",
+        "release_id": "2025-10-11_1509",
         "repo": "main",
-        "size": 6036972,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-07_1437/vastfuture.zip"
+        "size": 6036881,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/vastfuture.zip"
       },
       "version": 4
     },
@@ -102742,6 +103135,100 @@
         "repo": "main",
         "size": 531269952,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/warzone2100.zip"
+      },
+      "version": 4
+    },
+    "watchduckslegacy.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Something new to do between playing your favourite ports -- watch ducks and collect POINTS that build with every session.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://whatnot.bombdotcom.net",
+            "gameurl": "https://jdmgames.itch.io/watch-ducks-legacy",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Watch Ducks Legacy"
+      },
+      "items": [
+        "Watch Ducks Legacy.sh",
+        "watchduckslegacy"
+      ],
+      "items_opt": null,
+      "name": "watchduckslegacy.zip",
+      "source": {
+        "date_added": "2025-10-11",
+        "date_updated": "2025-10-11",
+        "md5": "bd409dfac13c1528600c7ed5b818f48c",
+        "release_id": "2025-10-11_1509",
+        "repo": "main",
+        "size": 23879858,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/watchduckslegacy.zip"
       },
       "version": 4
     },
