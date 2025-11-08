@@ -3,6 +3,7 @@
         "name": "Ready to Run Bangers",
         "image": "images/banger-ports.jpg",
         "description": "Ports which are ready to run and are absolute bangers.",
+        "deprecated": true,
         "ports": [
             "stargrovescramble.zip",
             "globeba.zip",
@@ -17,6 +18,7 @@
         "name": "Puzzling Puzzles",
         "image": "images/puzzling-ports.jpg",
         "description": "Ponder, Probe, and Prowl through Puzzling Ports!",
+        "deprecated": true,
         "ports": [
             "nonny.zip",
             "tiny-crate.zip",
@@ -28,6 +30,7 @@
         "name": "PortMaster Picks",
         "image": "images/portmaster-ports.jpg",
         "description": "A selection of ports by the Masters of Ports. These quality ports are a great place to start with PortMaster.",
+        "deprecated": true,
         "ports": [
             "devilutionx.zip",
             "half-life.zip",
@@ -36,6 +39,148 @@
             "rawgl.zip",
             "shovel.knight.zip",
             "stardewvalley.zip"
+        ]
+    },
+    {
+        "name": "Ready to Run",
+        "type": "category",
+        "image": "images/ready-to-run.jpg",
+        "description": "Games that work immediately - no downloads or purchases required!",
+        "children": [
+            {
+                "name": "Puzzles & Brain Teasers",
+                "type": "ports",
+                "image": "images/rtr-puzzles.jpg",
+                "description": "Challenge your mind with logic puzzles and brain teasers",
+                "ports": ["apotris.zip", "nonny.zip", "yatka.zip", "simplesokoban.zip"]
+            },
+            {
+                "name": "Platformers & Adventures",
+                "type": "ports",
+                "image": "images/rtr-platformers.jpg",
+                "description": "Jump, run, and explore in these action platformers",
+                "ports": ["frogfall.zip", "stargrovescramble.zip", "curseofthearrow.zip", "tiny-crate.zip", "rota.zip", "mire.zip", "vvvvvv.zip", "doukutsu-rs.zip"]
+            },
+            {
+                "name": "Arcade Action",
+                "type": "ports",
+                "image": "images/rtr-arcade.jpg",
+                "description": "Fast-paced arcade thrills and high scores",
+                "ports": ["duelingdragons.zip", "supercratebox.zip", "pullywog.zip", "maldita.castilla.zip"]
+            },
+            {
+                "name": "Strategy & Tactics",
+                "type": "ports",
+                "image": "images/rtr-strategy.jpg",
+                "description": "Think and plan your way to victory",
+                "ports": ["wesnoth.zip", "echo_chamber.zip"]
+            },
+            {
+                "name": "Rhythm & Music",
+                "type": "ports",
+                "image": "images/rtr-rhythm.jpg",
+                "description": "Music and timing challenges",
+                "ports": ["fridaynightfunkin.zip"]
+            },
+            {
+                "name": "Racing & Sports",
+                "type": "ports",
+                "image": "images/rtr-racing.jpg",
+                "description": "Speed, physics, and competition",
+                "ports": ["help.no.brake.zip", "neverball.zip"]
+            },
+            {
+                "name": "Adventure & Exploration",
+                "type": "ports",
+                "image": "images/rtr-adventure.jpg",
+                "description": "Explore mysterious worlds and uncover secrets",
+                "ports": ["globeba.zip", "blackout.zip"]
+            }
+        ]
+    },
+    {
+        "name": "Premium Games",
+        "type": "category",
+        "image": "images/premium-games.jpg",
+        "description": "Outstanding commercial games that require purchase",
+        "children": [
+            {
+                "name": "Platformers",
+                "type": "ports",
+                "image": "images/premium-platformers.jpg",
+                "description": "Jump, run, and explore challenging worlds",
+                "ports": ["celeste.zip", "gravitycircuit.zip", "shovel.knight.zip", "panzerpaladin.zip", "downwell.zip", "ambidextro.zip"]
+            },
+            {
+                "name": "Metroidvania",
+                "type": "ports",
+                "image": "images/premium-metroidvania.jpg",
+                "description": "Exploration-based adventures with interconnected worlds",
+                "ports": ["gatoroboto.zip", "aquaria.zip", "chasm.zip", "steamworlddig.zip", "owlboy.zip"]
+            },
+            {
+                "name": "Roguelikes & Roguelites",
+                "type": "ports",
+                "image": "images/premium-roguelikes.jpg",
+                "description": "Procedural adventures with permanent consequences",
+                "ports": ["devilutionx.zip", "tboirebirth.zip", "boneraiserminions.zip", "falseskies.zip", "diceydungeons.zip", "deathroad.zip", "flinthook.zip", "luck.be.a.landlord.zip"]
+            },
+            {
+                "name": "Shoot 'em Ups",
+                "type": "ports",
+                "image": "images/premium-shmups.jpg",
+                "description": "Bullet-hell, aerial combat, and intense action",
+                "ports": ["bluerevolver.zip", "luftrausers.zip", "zeroranger.zip", "botvice.zip", "jetlancer.zip"]
+            },
+            {
+                "name": "RPGs & Story-Rich",
+                "type": "ports",
+                "image": "images/premium-rpgs.jpg",
+                "description": "Deep role-playing and narrative experiences",
+                "ports": ["openmw.zip", "stardewvalley.zip", "undertale.zip", "lisathepainful.zip", "rakuen.zip", "doomrpg.zip"]
+            },
+            {
+                "name": "Action & Beat 'em Ups",
+                "type": "ports",
+                "image": "images/premium-action.jpg",
+                "description": "Combat-focused action and brawlers",
+                "ports": ["hyperlightdrifter.zip", "friendsofringo.zip", "tmntsr.zip", "half-life.zip"]
+            },
+            {
+                "name": "Puzzle Platformers",
+                "type": "ports",
+                "image": "images/premium-puzzle-platformers.jpg",
+                "description": "Platforming with brain-teasing elements",
+                "ports": ["vvvvvv.zip", "moonleap.zip", "love3.zip", "love.zip"]
+            },
+            {
+                "name": "Arcade Classics",
+                "type": "ports",
+                "image": "images/premium-arcade.jpg",
+                "description": "Retro-style arcade action and reflexes",
+                "ports": ["downwell.zip", "superhexagon.zip", "pulstario.zip"]
+            },
+            {
+                "name": "Racing & Flying",
+                "type": "ports",
+                "image": "images/premium-racing.jpg",
+                "description": "High-speed racing and aerial combat",
+                "ports": ["vhr.zip", "jetlancer.zip", "demonofsakurapass.zip"]
+            },
+            {
+                "name": "Unique Experiences",
+                "type": "ports",
+                "image": "images/premium-unique.jpg",
+                "description": "One-of-a-kind experimental games",
+                "ports": ["minit.zip", "voidstranger.zip", "ufo50.zip", "dudelingsarcadesportsball.zip"]
+            },
+            {
+                "name": "Simulation & Sandbox",
+                "type": "ports",
+                "image": "images/premium-simulation.jpg",
+                "description": "Build, create, and simulate worlds",
+                "ports": ["minecraftjava.zip", "stardewvalley.zip", "osmos.zip"]
+            }
         ]
     }
 ]
