@@ -6386,12 +6386,12 @@
       "name": "barhop.zip",
       "source": {
         "date_added": "2025-11-18",
-        "date_updated": "2025-11-18",
-        "md5": "744ce9b15f59cafd21c756664f69a1e9",
-        "release_id": "2025-11-18_1011",
+        "date_updated": "2025-12-02",
+        "md5": "710aa1c05b9d3f21289c1bdab299cbdf",
+        "release_id": "2025-12-02_1212",
         "repo": "main",
-        "size": 15491761,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/barhop.zip"
+        "size": 15476867,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/barhop.zip"
       },
       "version": 4
     },
@@ -24103,7 +24103,7 @@
     "derelict.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -24130,10 +24130,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -24142,6 +24146,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "free",
         "desc": "The Derelict is a scifi platformer developed by Programmancer for the GBJam5. Navigate the abandoned derelict spacecraft to restore power and stop the evil robot AI, the Master Circuit!",
         "desc_md": null,
         "exp": false,
@@ -24154,8 +24159,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game on https://programancer.itch.io/derelict and place the Derelict.zip to the port's gamedata folder. ",
-        "inst_md": null,
+        "inst": "Download the game from https://programancer.itch.io/derelict and place the Derelict.zip into the port's assets folder.",
+        "inst_md": "Download the game from [Itch.io](https://programancer.itch.io/derelict) and place the `Derelict.zip` into the port's `assets` folder.",
         "min_glibc": "",
         "porter": [
           "Ganimoth"
@@ -24163,6 +24168,13 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.patreon.com/programancer",
+            "gameurl": "https://programancer.itch.io/derelict",
+            "name": "Itch.io"
+          }
+        ],
         "title": "Derelict"
       },
       "items": [
@@ -24173,12 +24185,12 @@
       "name": "derelict.zip",
       "source": {
         "date_added": "2024-10-14",
-        "date_updated": "2024-10-15",
-        "md5": "00cddaf9aaf3290f329d77d30b83ea6f",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2025-12-02",
+        "md5": "a0d77767dc4d3ace3dc6698448d0a2a8",
+        "release_id": "2025-12-02_1212",
         "repo": "main",
-        "size": 10939465,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/derelict.zip"
+        "size": 4635247,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/derelict.zip"
       },
       "version": 4
     },
@@ -57281,12 +57293,12 @@
       "name": "maxpayne.zip",
       "source": {
         "date_added": "2025-10-22",
-        "date_updated": "2025-11-25",
-        "md5": "a0bf9b22e361ba21201f6bb4078e8d70",
-        "release_id": "2025-11-25_1116",
+        "date_updated": "2025-12-02",
+        "md5": "cd34b996da3da66ff292d621e734a9e0",
+        "release_id": "2025-12-02_1212",
         "repo": "main",
-        "size": 2930123,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-25_1116/maxpayne.zip"
+        "size": 2930008,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/maxpayne.zip"
       },
       "version": 4
     },
@@ -58625,7 +58637,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "MiceAmaze is a free video game that features a maze with mice and snakes.  Place your arrows to guide mice to your house, but watch out for snakes.  The Eagle can be obtained with a Gold Mouse which will protect your house from those pesky snakes.",
+        "desc": "MiceAmaze is a free video game that features a maze with mice and snakes.  Place your arrows to guide mice to your house, but watch out for snakes and sick mice.  The Eagle can be obtained with a Gold Mouse which will protect your house from those pesky snakes.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -58657,12 +58669,12 @@
       "name": "miceamaze.zip",
       "source": {
         "date_added": "2025-11-25",
-        "date_updated": "2025-11-25",
-        "md5": "8fa5108e6159ad64f12117ea00ea2790",
-        "release_id": "2025-11-25_1116",
+        "date_updated": "2025-12-02",
+        "md5": "6745d7170eb6c5936cf8c06410928882",
+        "release_id": "2025-12-02_1212",
         "repo": "main",
-        "size": 14542426,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-25_1116/miceamaze.zip"
+        "size": 14542427,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/miceamaze.zip"
       },
       "version": 4
     },
@@ -64822,12 +64834,12 @@
       },
       "source": {
         "date_added": "2025-07-01",
-        "date_updated": "2025-07-01",
-        "md5": "297c6c692b10ab7da7b8754462544d0c",
-        "release_id": "2025-07-01_0951",
+        "date_updated": "2025-12-02",
+        "md5": "794820d1ff058371eadff87ad91c0ffc",
+        "release_id": "2025-12-02_1212",
         "repo": "main",
-        "size": 13526558,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/noskin.zip"
+        "size": 13587552,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/noskin.zip"
       },
       "version": 4
     },
@@ -96021,6 +96033,101 @@
       },
       "version": 4
     },
+    "superpentagon.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "This is a fangame based on original game Super Hexagon by Terry Cavanagh, made for Nokia 3310 Jam 3. Be sure to give the original game a spin!.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.2.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://wingedadventurer.itch.io/super-pentagon",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Super Pentagon"
+      },
+      "items": [
+        "Super Pentagon.sh",
+        "superpentagon"
+      ],
+      "items_opt": null,
+      "name": "superpentagon.zip",
+      "source": {
+        "date_added": "2025-12-02",
+        "date_updated": "2025-12-02",
+        "md5": "fb3e797828b1e30eb1de961e203180be",
+        "release_id": "2025-12-02_1212",
+        "repo": "main",
+        "size": 1608970,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/superpentagon.zip"
+      },
+      "version": 4
+    },
     "superraftboatclassic.zip": {
       "attr": {
         "arch": [
@@ -106103,6 +106210,101 @@
         "repo": "main",
         "size": 913359,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/unlikely.zip"
+      },
+      "version": 4
+    },
+    "unwin.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Unwin is a one screen Sokoban puzzle game where you use the 'Unwin' button to uncollect stars, independent of Undo. Use the Stars to collect the Stars then make it to the exit.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://patashu.itch.io/unwin",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Unwin"
+      },
+      "items": [
+        "Unwin.sh",
+        "unwin"
+      ],
+      "items_opt": null,
+      "name": "unwin.zip",
+      "source": {
+        "date_added": "2025-12-02",
+        "date_updated": "2025-12-02",
+        "md5": "4aaf7d25fbb954d4cd5b9561ce10173b",
+        "release_id": "2025-12-02_1212",
+        "repo": "main",
+        "size": 6342837,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/unwin.zip"
       },
       "version": 4
     },
