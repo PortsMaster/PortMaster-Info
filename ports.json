@@ -10387,7 +10387,7 @@
           "r36s:ALL"
         ],
         "availability": "paid",
-        "desc": "Amass an army of undead to fight endless waves of heroes intent to end your boneraising ways! In this gothic auto-battler rogue-lite Survivor-like, use the bones of slain heroes to raise your minions, collect relics and spells, and unlock meta upgrades, all to survive King Gigald's crusade! \nThis works with v36.14",
+        "desc": "Amass an army of undead to fight endless waves of heroes intent to end your boneraising ways! In this gothic auto-battler rogue-lite Survivor-like, use the bones of slain heroes to raise your minions, collect relics and spells, and unlock meta upgrades, all to survive King Gigald's crusade! \nThis works with v37.9",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -10401,15 +10401,18 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from steam. Download the game and transfer all the game files to ports/boneraiserminions/assets.",
-        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1944570/Boneraiser_Minions/). Open steam console via Windows+R: Type: steam://open/console, download version 36.14 by typing: `download_depot 1944570 1944571 7846858657771989862` in the console. When the download is complete, it will tell you the location of the folder. Transfer all the game files to ports/boneraiserminions/assets.",
+        "inst": "Purchase the game from steam. Download the game via steam depot and transfer all the game files to ports/boneraiserminions/assets.",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1944570/Boneraiser_Minions/). Open steam console via Windows+R: Type: steam://open/console, download version 37.9 by typing: `download_depot 1944570 1944571 1079624835738126360` in the console. When the download is complete, it will tell you the location of the folder. Transfer all the game files to ports/boneraiserminions/assets.",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "store": [
           {
             "developerurl": "https://caiysware.com/",
@@ -10427,12 +10430,12 @@
       "name": "boneraiserminions.zip",
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2025-11-19",
-        "md5": "a71613893dd4feaa89fe37c5e3c78944",
-        "release_id": "2025-11-19_1302",
+        "date_updated": "2025-12-03",
+        "md5": "9f8b04b59190683c9171bd9801a25362",
+        "release_id": "2025-12-03_1034",
         "repo": "main",
-        "size": 15110795,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-19_1302/boneraiserminions.zip"
+        "size": 14409839,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-03_1034/boneraiserminions.zip"
       },
       "version": 4
     },
@@ -27785,6 +27788,94 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/drinkndrive.zip"
       },
       "version": 2
+    },
+    "drivenout.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Beautiful 16 bit retro art style with fluid animations and deliberate combat. Read the enemy and act accordingly in this seamless world without any load screens.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into assets folder. You can also use the free demo.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1054710/Driven_Out/) and copy all game files into `assets` folder. You can also use the free `demo`.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1054710/Driven_Out/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Driven Out"
+      },
+      "items": [
+        "Driven Out.sh",
+        "drivenout"
+      ],
+      "items_opt": null,
+      "name": "drivenout.zip",
+      "source": {
+        "date_added": "2025-12-03",
+        "date_updated": "2025-12-03",
+        "md5": "b16b144c91729444f0646493c50c8a07",
+        "release_id": "2025-12-03_1034",
+        "repo": "main",
+        "size": 4936728,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-03_1034/drivenout.zip"
+      },
+      "version": 4
     },
     "droid7.zip": {
       "attr": {
@@ -56319,7 +56410,7 @@
     "magnibox.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -56346,10 +56437,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -56372,7 +56467,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download download windows version from either the version from steam or itch.io:\nhttps://store.steampowered.com/app/999410/Magnibox/\nhttps://josephgribbin.itch.io/magnibox\nand place the data.win into /ports/magnibox/gamedata\nOn first startup, the game will patch the data.win",
+        "inst": "Download download windows version from either the version from steam or itch.io:\nhttps://store.steampowered.com/app/999410/Magnibox/\nhttps://josephgribbin.itch.io/magnibox\nand place the data.win into /ports/magnibox/assets\nOn first startup, the game will patch the data.win",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -56391,12 +56486,12 @@
       "name": "magnibox.zip",
       "source": {
         "date_added": "2024-03-27",
-        "date_updated": "2024-07-18",
-        "md5": "96d004c03c79ff01412d41141c1f8b6b",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2025-12-03",
+        "md5": "9973dd4190f2eb22be0c9d2ddd9e4af1",
+        "release_id": "2025-12-03_1034",
         "repo": "main",
-        "size": 5113915,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/magnibox.zip"
+        "size": 7164982,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-03_1034/magnibox.zip"
       },
       "version": 2
     },
@@ -59308,12 +59403,12 @@
       "name": "minesector.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2024-05-15",
-        "md5": "00efd8b70115d09400eee91d9a73f5b1",
-        "release_id": "2024-05-15_1207",
+        "date_updated": "2025-12-03",
+        "md5": "8b67f274d0df2a28a4fdac2313dc915e",
+        "release_id": "2025-12-03_1034",
         "repo": "main",
-        "size": 13673503,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-15_1207/minesector.zip"
+        "size": 13673475,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-03_1034/minesector.zip"
       },
       "version": 2
     },
@@ -85152,6 +85247,104 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/sevenkingdoms.zip"
       },
       "version": 2
+    },
+    "sft.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Build a team of demons and summon the right party to defeat your enemies. Each demon has a unique set of skills that determine their behavior in battle, so carefully consider their positioning as to not waste their talents, or worse .... If your team sucks, you can fuse your demons to make stronger ones, but even weak demons will shine with proper tactics. Enemies grow stronger as the FULL MOON approaches, and something awaits beyond that ...",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "casino/card"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "\n    Download SFT.zip from itch.io (https://jab-lao.itch.io/shin-fangame-tensei) and extract the contents to this port's gamedata folder",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.2.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://jab-lao.itch.io/",
+            "gameurl": "https://jab-lao.itch.io/shin-fangame-tensei",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Shin Fangame Tensei"
+      },
+      "items": [
+        "Shin Fangame Tensei.sh",
+        "sft"
+      ],
+      "items_opt": null,
+      "name": "sft.zip",
+      "source": {
+        "date_added": "2025-12-03",
+        "date_updated": "2025-12-03",
+        "md5": "08b8c267cd2dec4ac8b4764232e901c7",
+        "release_id": "2025-12-03_1034",
+        "repo": "main",
+        "size": 41269,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-03_1034/sft.zip"
+      },
+      "version": 4
     },
     "shackle.zip": {
       "attr": {
