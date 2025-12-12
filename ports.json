@@ -15233,12 +15233,12 @@
       "name": "catacomb.zip",
       "source": {
         "date_added": "2024-06-21",
-        "date_updated": "2025-07-24",
-        "md5": "f51d457c3f71f87fb730c4ebba6d7405",
-        "release_id": "2025-07-24_0745",
+        "date_updated": "2025-12-12",
+        "md5": "101f17fc24185f90a422ca228ed881fc",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 379922,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/catacomb.zip"
+        "size": 379908,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/catacomb.zip"
       },
       "version": 4
     },
@@ -15332,12 +15332,12 @@
       "name": "catacomb3d.zip",
       "source": {
         "date_added": "2024-10-24",
-        "date_updated": "2025-08-14",
-        "md5": "aaa9f50d061e9702f36f3587de328e0d",
-        "release_id": "2025-08-14_1207",
+        "date_updated": "2025-12-12",
+        "md5": "9af548947bab91cdedac9faff0fdafec",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 6774195,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/catacomb3d.zip"
+        "size": 6774182,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/catacomb3d.zip"
       },
       "version": 4
     },
@@ -15430,12 +15430,12 @@
       "name": "catacomb89.zip",
       "source": {
         "date_added": "2024-06-18",
-        "date_updated": "2025-07-24",
-        "md5": "b25ef2b0e0c25e144d49ed3ffe6c29a7",
-        "release_id": "2025-07-24_0745",
+        "date_updated": "2025-12-12",
+        "md5": "7a938032c36f29622792186593ba57bb",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 494252,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/catacomb89.zip"
+        "size": 494239,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/catacomb89.zip"
       },
       "version": 4
     },
@@ -19568,12 +19568,12 @@
       },
       "source": {
         "date_added": "2023-04-12",
-        "date_updated": "2025-09-08",
-        "md5": "5943ba2092d8f40f9b9ae4e526cb887e",
-        "release_id": "2025-09-08_0954",
+        "date_updated": "2025-12-12",
+        "md5": "c630b7578bec8a899841b756edfd5f90",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 1601995,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-08_0954/cosmo-engine.zip"
+        "size": 1601980,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/cosmo-engine.zip"
       },
       "version": 4
     },
@@ -41986,12 +41986,12 @@
       "name": "hallowe_en.zip",
       "source": {
         "date_added": "2024-11-07",
-        "date_updated": "2025-10-07",
-        "md5": "9987f0f29fab1e4ee8f0b6c1571fbeca",
-        "release_id": "2025-10-07_1437",
+        "date_updated": "2025-12-12",
+        "md5": "a74ba436823dba7af1c1b657d45cd8d3",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 6124701,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-07_1437/hallowe_en.zip"
+        "size": 6124674,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/hallowe_en.zip"
       },
       "version": 4
     },
@@ -43962,12 +43962,12 @@
       "name": "hexen2.zip",
       "source": {
         "date_added": "2022-11-17",
-        "date_updated": "2025-10-11",
-        "md5": "096c23dec82c7b2e22d75165bbd33919",
-        "release_id": "2025-10-11_1509",
+        "date_updated": "2025-12-12",
+        "md5": "d6e209b2b996ed1964ac87ff1b22bedf",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 45449785,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/hexen2.zip"
+        "size": 45449756,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/hexen2.zip"
       },
       "version": 2
     },
@@ -48072,12 +48072,12 @@
       "name": "ionfury.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2025-01-08",
-        "md5": "14660deb25f2e3bd5e961922e944409b",
-        "release_id": "2025-01-08_1341",
+        "date_updated": "2025-12-12",
+        "md5": "820efbd4306080b7a7772f4704dcb6fb",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 1568518,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/ionfury.zip"
+        "size": 1568503,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/ionfury.zip"
       },
       "version": 4
     },
@@ -50575,12 +50575,12 @@
       "name": "kenslabyrinth.zip",
       "source": {
         "date_added": "2023-12-14",
-        "date_updated": "2025-10-04",
-        "md5": "5cbdf5802f3a5a1576bcd3379f11a766",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2025-12-12",
+        "md5": "5636c377eede81ccc7b0b98c6d754a49",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 9838666,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/kenslabyrinth.zip"
+        "size": 9838552,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/kenslabyrinth.zip"
       },
       "version": 2
     },
@@ -68519,7 +68519,9 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Slayer366"
+          "Slayer366",
+          "Cebion",
+          "romadu"
         ],
         "reqs": [],
         "rtr": true,
@@ -68541,12 +68543,12 @@
       },
       "source": {
         "date_added": "2022-02-12",
-        "date_updated": "2025-11-04",
-        "md5": "9509a3939a53694bb8fe59a63ff8aefd",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2025-12-12",
+        "md5": "7bba9fbbc7c87fc985f53620cd0f9d5d",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 68230479,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/openttd.zip"
+        "size": 68230748,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/openttd.zip"
       },
       "version": 4
     },
@@ -72141,12 +72143,12 @@
       "name": "petsciirobotsmsx.zip",
       "source": {
         "date_added": "2025-09-22",
-        "date_updated": "2025-11-18",
-        "md5": "85dbc1e890b1185f9e29c24beb0c9a7e",
-        "release_id": "2025-11-18_1011",
+        "date_updated": "2025-12-12",
+        "md5": "97a17e421f8a38ce39a0087d29600721",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 14007357,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/petsciirobotsmsx.zip"
+        "size": 14007329,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/petsciirobotsmsx.zip"
       },
       "version": 4
     },
@@ -77372,12 +77374,12 @@
       },
       "source": {
         "date_added": "2021-09-14",
-        "date_updated": "2025-11-04",
-        "md5": "e71badc0b14bc3b951c44f04e73f7cff",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2025-12-12",
+        "md5": "29832c25c3f5ad161bf4948fd060acfd",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 39839920,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/quake.2.zip"
+        "size": 39839851,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/quake.2.zip"
       },
       "version": 4
     },
@@ -77654,12 +77656,12 @@
       "name": "quakespasm.zip",
       "source": {
         "date_added": "2023-10-23",
-        "date_updated": "2025-10-11",
-        "md5": "5b4f407e05ae07b3604c7001bc8d197f",
-        "release_id": "2025-10-11_1509",
+        "date_updated": "2025-12-12",
+        "md5": "4e659fe22c3fd357c2c482a1e3e606c4",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 40953947,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/quakespasm.zip"
+        "size": 40953886,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/quakespasm.zip"
       },
       "version": 2
     },
@@ -81830,12 +81832,12 @@
       },
       "source": {
         "date_added": "2024-12-16",
-        "date_updated": "2025-11-04",
-        "md5": "29f67858a559488e4b40d97e6b1ee859",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2025-12-12",
+        "md5": "42441bc35dcde7005880bfe6459b40ef",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 22298132,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/rockbot.zip"
+        "size": 22298117,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/rockbot.zip"
       },
       "version": 4
     },
@@ -82828,12 +82830,12 @@
       "name": "rott.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2025-11-18",
-        "md5": "d80e2dfee7b105c2b2adff4cf9b4ed07",
-        "release_id": "2025-11-18_1011",
+        "date_updated": "2025-12-12",
+        "md5": "eedd3291f6be282257ccf7f3bda1121c",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 20685323,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/rott.zip"
+        "size": 20685312,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/rott.zip"
       },
       "version": 4
     },
@@ -86617,6 +86619,107 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/shrubnaut.zip"
       },
       "version": 2
+    },
+    "sidescape.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Two old-school games collide in this Platformer/Dungeon Crawler hybrid. Join Captain Grisham and Sir Knight, as they set out to restore their worlds and stop the evil cyborg, Allegair. Switch at will between Captain Grisham and Sir Knight, each with a unique set of abilities; and perspective!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer",
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all files into the assets folder. You can also use the free demo from Itch.io. The game does have slowdowns on RK3326 devices.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2280510/Side_Scape/) and copy all files into the `assets` folder. You can also use the free demo from [Itch.io](https://mathangames.itch.io/side-scape-demo). The game does have slowdowns on RK3326 devices.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://mathangames.itch.io/side-scape-demo",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://mathangames.itch.io/side-scape-demo",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Side Scape"
+      },
+      "items": [
+        "Side Scape.sh",
+        "sidescape"
+      ],
+      "items_opt": null,
+      "name": "sidescape.zip",
+      "source": {
+        "date_added": "2025-12-12",
+        "date_updated": "2025-12-12",
+        "md5": "8f93027e9a64b6d103426411f3e3acb5",
+        "release_id": "2025-12-12_0744",
+        "repo": "main",
+        "size": 8796300,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/sidescape.zip"
+      },
+      "version": 4
     },
     "siegeofosaka.zip": {
       "attr": {
@@ -96125,12 +96228,12 @@
       },
       "source": {
         "date_added": "2024-10-22",
-        "date_updated": "2025-11-04",
-        "md5": "c5e30a1e5fb1d04d2ef08af0670ace7e",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2025-12-12",
+        "md5": "1742b6f8c2de6f450a36979a30be57fb",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 2025153,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/supermethanebros.zip"
+        "size": 2025141,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/supermethanebros.zip"
       },
       "version": 4
     },
@@ -101445,12 +101548,12 @@
       },
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2025-09-22",
-        "md5": "72cd6d5d766b7fd93feddab833c87dae",
-        "release_id": "2025-09-22_1747",
+        "date_updated": "2025-12-12",
+        "md5": "95c6081a0581a3100a20efe34df9427b",
+        "release_id": "2025-12-12_0744",
         "repo": "main",
-        "size": 30954238,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-22_1747/tileworld.zip"
+        "size": 30954229,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/tileworld.zip"
       },
       "version": 4
     },
@@ -108376,6 +108479,102 @@
         "repo": "main",
         "size": 1728425,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/vodovod.zip"
+      },
+      "version": 4
+    },
+    "voidbeat.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Voidbeat is a game of allegory. A world of greys, a beat that must be followed, and a series of voids that pulse to the rhythm. What you make of it is up to you.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "godot_4.2.2.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://bitbucket.org/JohnGabrielUK/voidbeat/src/master/",
+            "gameurl": "https://johngabrieluk.itch.io/voidbeat",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Voidbeat"
+      },
+      "items": [
+        "Voidbeat.sh",
+        "voidbeat"
+      ],
+      "items_opt": null,
+      "name": "voidbeat.zip",
+      "source": {
+        "date_added": "2025-12-12",
+        "date_updated": "2025-12-12",
+        "md5": "5cac75f40d4c6f57d6fee83e30bed9d6",
+        "release_id": "2025-12-12_0744",
+        "repo": "main",
+        "size": 1608416,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/voidbeat.zip"
       },
       "version": 4
     },
