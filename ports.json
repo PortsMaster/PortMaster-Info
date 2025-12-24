@@ -47,7 +47,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "Nara the frog has been cursed and can only make 100 jumps. Complete the challenge and break the curse ",
+        "desc": "Nara the frog has been cursed and can only make 100 jumps. Complete the challenge and break the curse.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -85,12 +85,12 @@
       "name": "100liljumps.zip",
       "source": {
         "date_added": "2025-11-09",
-        "date_updated": "2025-11-09",
-        "md5": "72cdadd1753e9110acf2c6fa1ca4caca",
-        "release_id": "2025-11-09_0736",
+        "date_updated": "2025-12-24",
+        "md5": "4564098cc201d6f6366bd05943d8cf8f",
+        "release_id": "2025-12-24_0552",
         "repo": "main",
         "size": 87022919,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-09_0736/100liljumps.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/100liljumps.zip"
       },
       "version": 4
     },
@@ -4770,6 +4770,105 @@
       },
       "version": 4
     },
+    "asteroludi.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Drifting through space, blasting rocks, enjoying the silence \u2014 it begins like a calm round of Asteroids.\n But you\u2019re not out here just for fun. You\u2019re mining.\n And soon, you realize... you\u2019re not alone.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Use the left stick or D-Pad to navigate your ship. Use the right stick or face buttons to aim and shoot your weapons. Extract minerals from asteroids by firing your mining laser and fly close to collect them. But be careful not to get too close to large asteroids or enemy ships, as collisions can easily damage or destroy your ship. Sometimes, collisions can be avoided by activating your shields (right shoulder button), but they consume energy quickly.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "eludi"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://eludi.itch.io",
+            "gameurl": "https://eludi.itch.io/asteroludi",
+            "name": "itch.io"
+          }
+        ],
+        "title": "asteroludi"
+      },
+      "items": [
+        "Asteroludi.sh",
+        "asteroludi"
+      ],
+      "items_opt": null,
+      "name": "asteroludi.zip",
+      "source": {
+        "date_added": "2025-12-24",
+        "date_updated": "2025-12-24",
+        "md5": "07f46332e55358c066333d01709b96d2",
+        "release_id": "2025-12-24_0552",
+        "repo": "main",
+        "size": 2054920,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/asteroludi.zip"
+      },
+      "version": 4
+    },
     "astoryaboutbirds.zip": {
       "attr": {
         "arch": [],
@@ -7822,12 +7921,12 @@
       "name": "binkystrashservice.zip",
       "source": {
         "date_added": "2025-11-19",
-        "date_updated": "2025-11-19",
-        "md5": "06f605f5fe0d9ac0a5c1415e95df19f8",
-        "release_id": "2025-11-19_1302",
+        "date_updated": "2025-12-24",
+        "md5": "3686b250e43994180ae8385b0b25adb9",
+        "release_id": "2025-12-24_0552",
         "repo": "main",
-        "size": 6874872,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-19_1302/binkystrashservice.zip"
+        "size": 6874921,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/binkystrashservice.zip"
       },
       "version": 4
     },
@@ -10963,12 +11062,12 @@
       "name": "botvice.zip",
       "source": {
         "date_added": "2024-02-12",
-        "date_updated": "2025-05-18",
-        "md5": "1aa7156fb77de8c6655a7410bcf1088b",
-        "release_id": "2025-05-18_2138",
+        "date_updated": "2025-12-24",
+        "md5": "53acbc7528b82544d4e822f4ec3d81a7",
+        "release_id": "2025-12-24_0552",
         "repo": "main",
-        "size": 22887231,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-18_2138/botvice.zip"
+        "size": 22887228,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/botvice.zip"
       },
       "version": 4
     },
@@ -39881,12 +39980,12 @@
       "name": "gravitystorm.zip",
       "source": {
         "date_added": "2025-11-18",
-        "date_updated": "2025-11-18",
-        "md5": "9192735e83d98a8e382bcb7227cd39fb",
-        "release_id": "2025-11-18_1011",
+        "date_updated": "2025-12-24",
+        "md5": "8b9e5629fd5946de0fbdae287e0dd8c7",
+        "release_id": "2025-12-24_0552",
         "repo": "main",
-        "size": 7215432,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/gravitystorm.zip"
+        "size": 12122670,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/gravitystorm.zip"
       },
       "version": 4
     },
@@ -53679,12 +53778,12 @@
       "name": "littlegptracker.zip",
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2025-10-22",
-        "md5": "4aa25438620cbbc76033d50233d85453",
-        "release_id": "2025-10-22_1131",
+        "date_updated": "2025-12-24",
+        "md5": "c950e4f248fe2370c565a69950230f40",
+        "release_id": "2025-12-24_0552",
         "repo": "main",
-        "size": 910038,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/littlegptracker.zip"
+        "size": 909736,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/littlegptracker.zip"
       },
       "version": 4
     },
@@ -62182,6 +62281,105 @@
       },
       "version": 2
     },
+    "mybigsister.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "My Big Sister is a game about Luzia and Sombria, two sisters who are trying to get back home after being kidnapped by strangers and Luzia takes it upon herself to ensure they both make it home.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "The port supports both original and remastered version. Just purchase either of those and copy all game files into the gamedata folder.",
+        "inst_md": "The port supports both [original](https://store.steampowered.com/app/733300/My_Big_Sister/) and [remastered](https://store.steampowered.com/app/2118540/My_Big_Sister_Remastered) version. Just purchase either of those and copy all game files into the gamedata folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2118540/My_Big_Sister_Remastered",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/733300/My_Big_Sister/",
+            "name": "Steam"
+          }
+        ],
+        "title": "My Big Sister"
+      },
+      "items": [
+        "My Big Sister.sh",
+        "mybigsister"
+      ],
+      "items_opt": null,
+      "name": "mybigsister.zip",
+      "source": {
+        "date_added": "2025-12-24",
+        "date_updated": "2025-12-24",
+        "md5": "bb81a2232d35ace5aa6d0c1a94da75f0",
+        "release_id": "2025-12-24_0552",
+        "repo": "main",
+        "size": 2312246,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/mybigsister.zip"
+      },
+      "version": 4
+    },
     "mystikbelle.zip": {
       "attr": {
         "arch": [
@@ -64041,6 +64239,105 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/nidhogg.zip"
       },
       "version": 2
+    },
+    "nightmareframes.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Nightmare Frames is a supernatural thriller where you'll step into the shoes of Alan Goldberg, in the search for the scariest horror film of all time. An enthralling journey through the streets of the Hollywood of the 80s, a small haunted town, and even Hell itself.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the free demo or purchase the game on Steam or Itch.io and copy English.tra and Nightmare Frames.exe (or Nightmare Frames Prologue.exe for the demo version) to gamedata folder.",
+        "inst_md": "Download the free demo or purchase the game on [Steam](https://store.steampowered.com/app/1650590/Nightmare_Frames/) or [Itch.io](https://postmodernadventures.itch.io/nightmare-frames) and copy `English.tra` and `Nightmare Frames.exe` (or `Nightmare Frames Prologue.exe` for the demo version) to `gamedata` folder. ",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://x.com/postmodernadv",
+            "gameurl": "https://store.steampowered.com/app/1650590/Nightmare_Frames/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://x.com/postmodernadv",
+            "gameurl": "https://postmodernadventures.itch.io/nightmare-frames",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Nightmare Frames"
+      },
+      "items": [
+        "Nightmare Frames.sh",
+        "nightmareframes"
+      ],
+      "items_opt": null,
+      "name": "nightmareframes.zip",
+      "source": {
+        "date_added": "2025-12-24",
+        "date_updated": "2025-12-24",
+        "md5": "01a098c55a45108b10a8c247127a27db",
+        "release_id": "2025-12-24_0552",
+        "repo": "main",
+        "size": 2285873,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/nightmareframes.zip"
+      },
+      "version": 4
     },
     "nightofelchupacabra.zip": {
       "attr": {
@@ -95954,12 +96251,12 @@
       },
       "source": {
         "date_added": "2025-02-15",
-        "date_updated": "2025-02-15",
-        "md5": "bb817dc0ee39e1eedad4056ae4035e03",
-        "release_id": "2025-02-15_2011",
+        "date_updated": "2025-12-24",
+        "md5": "0186928c38bfa26fed076da79fb4b126",
+        "release_id": "2025-12-24_0552",
         "repo": "main",
-        "size": 9638916,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-15_2011/superhexagon.zip"
+        "size": 9638936,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/superhexagon.zip"
       },
       "version": 4
     },
@@ -98857,12 +99154,12 @@
       },
       "source": {
         "date_added": "2025-07-01",
-        "date_updated": "2025-07-24",
-        "md5": "94a9ce781602d5b3c1e2fa551c9f628d",
-        "release_id": "2025-07-24_0745",
+        "date_updated": "2025-12-24",
+        "md5": "e904e7a3a3b6b4a57fd65ab6734f3ddd",
+        "release_id": "2025-12-24_0552",
         "repo": "main",
-        "size": 7240566,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/tboirebirth.zip"
+        "size": 7240557,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/tboirebirth.zip"
       },
       "version": 4
     },
@@ -105851,6 +106148,91 @@
       },
       "version": 2
     },
+    "ultracoredive.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "SHOOT AND DODGE your way through the underground arenas in this Dark Chaotic Arcade Twinstick Shooter! Don't get consumed by the noise! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3664120/ULTRA_CORE_DIVE/) and copy all files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/3664120/ULTRA_CORE_DIVE/",
+            "name": "Steam"
+          }
+        ],
+        "title": "ULTRA CORE DIVE"
+      },
+      "items": [
+        "ULTRA CORE DIVE.sh",
+        "ultracoredive"
+      ],
+      "items_opt": null,
+      "name": "ultracoredive.zip",
+      "source": {
+        "date_added": "2025-12-24",
+        "date_updated": "2025-12-24",
+        "md5": "d0181bafcc3d22465123a9b53f96caff",
+        "release_id": "2025-12-24_0552",
+        "repo": "main",
+        "size": 8826955,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/ultracoredive.zip"
+      },
+      "version": 4
+    },
     "unciv.zip": {
       "attr": {
         "arch": [],
@@ -106964,12 +107346,12 @@
       },
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2025-11-25",
-        "md5": "d6fe4240a0dced3e084ccff3e63eba8f",
-        "release_id": "2025-11-25_1116",
+        "date_updated": "2025-12-24",
+        "md5": "a2eb4341063d277e925052ed0c4d201b",
+        "release_id": "2025-12-24_0552",
         "repo": "main",
-        "size": 6166689,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-25_1116/utyellow.zip"
+        "size": 6167153,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/utyellow.zip"
       },
       "version": 2
     },
@@ -109470,6 +109852,97 @@
         "repo": "main",
         "size": 2707191,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-24_0854/walthrosrenewal.zip"
+      },
+      "version": 4
+    },
+    "wargus.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Wargus is a Warcraft 2 Mod that allows you to play Warcraft 2 with the Stratagus engine. The game looks and sounds almost exactly like Warcraft 2. The gameplay is very close to Warcraft 2\u2019s gameplay, with slight enhancements towards Starcraft and other more modern RTS games.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Please read until the end to see which versions are not supported. For the GOG version (2019) copy the setup_warcraft_ii_*.exe and setup_warcraft_ii_*.bin file to /wargus/gamefiles/. For the Warcraft II Battle.net Edition CD (1999) - Copy all the files from the CD into /wargus/gamefiles/ (All files NOT just INSTALL.EXE/MPQ). Then just run the game. This will take longer on first startup to extract the assets (15min to 60min). For the DOS floppy disk version - Copy all the files from the DOS game's data directory into /wargus/gamefiles/ to get the music working download FluidR3_GM.sf2 from https://member.keymusician.com/Member/FluidR3_GM/ and place it in /wargus/data/. The DOS CD version doesn't seem to work fails with 'INVALID TITLE WITH QUOTES' it may expect the original CD to extract audio tracks - there are some similar issues in the wargus github. WarCraft II Remastered (2024) asset extraction is not supported you must have an older copy of the game. Don't mix sources - if you try with another source backup your saves in conf, delete the wargus directory because the data directory may be tainted and start again.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "sookyboo",
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Wargus"
+      },
+      "items": [
+        "Wargus.sh",
+        "wargus"
+      ],
+      "items_opt": null,
+      "name": "wargus.zip",
+      "source": {
+        "date_added": "2025-12-24",
+        "date_updated": "2025-12-24",
+        "md5": "22463ee84b2fd6ada7187688364bbfd9",
+        "release_id": "2025-12-24_0552",
+        "repo": "main",
+        "size": 39793440,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/wargus.zip"
       },
       "version": 4
     },
