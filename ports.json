@@ -5944,6 +5944,105 @@
       },
       "version": 4
     },
+    "badendtheater.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Bad End Theater is a charmingly cruel little story game where everything goes wrong and that\u2019s exactly the point.\nYou guide a cast of cute-but-doomed characters through branching paths, knowing full well that every choice leads to another terrible ending. The fun comes from experimenting: change one role, replay the story, and watch how fate twists in new, often darkly funny ways.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Either buy the game on Steam https://store.steampowered.com/app/1764390/BAD_END_THEATER or GOG  https://www.gog.com/de/game/bad_end_theater and copy the \"game\" folder into the ports \"badendtheater\" folder\n",
+        "inst_md": "Either buy the game on [Steam](https://store.steampowered.com/app/1764390/BAD_END_THEATER) or [GOG](https://www.gog.com/de/game/bad_end_theater)  and copy the \"game\" folder into the ports ",
+        "min_glibc": "",
+        "porter": [
+          "Dia"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "renpy_8.3.4.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1764390/BAD_END_THEATER",
+            "name": "Steam "
+          },
+          {
+            "developerurl": "",
+            "gameurl": " https://www.gog.com/game/bad_end_theater",
+            "name": "GOG "
+          }
+        ],
+        "title": "BAD END THEATER"
+      },
+      "items": [
+        "BAD END THEATER.sh",
+        "badendtheater"
+      ],
+      "items_opt": null,
+      "name": "badendtheater.zip",
+      "source": {
+        "date_added": "2025-12-29",
+        "date_updated": "2025-12-29",
+        "md5": "9da5fdc54cb225dff5c62d8b17b6090b",
+        "release_id": "2025-12-29_0521",
+        "repo": "main",
+        "size": 575603,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/badendtheater.zip"
+      },
+      "version": 4
+    },
     "balatro.zip": {
       "attr": {
         "arch": [
@@ -34709,7 +34808,7 @@
     "forager.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -34732,7 +34831,11 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
           "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL"
@@ -34778,12 +34881,12 @@
       },
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2025-09-23",
-        "md5": "54a0488371111e9914e11f82910eed62",
-        "release_id": "2025-09-23_1014",
+        "date_updated": "2025-12-29",
+        "md5": "f9ce0aa131ac3b6f735169d0b5816cef",
+        "release_id": "2025-12-29_0521",
         "repo": "main",
-        "size": 49977517,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/forager.zip"
+        "size": 49977518,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/forager.zip"
       },
       "version": 2
     },
@@ -41053,6 +41156,86 @@
         "repo": "main",
         "size": 29644528,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gumgirlgb.zip"
+      },
+      "version": 4
+    },
+    "gungodz.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "full",
+        "desc": "GUN GODZ is a first person shooter about gun, gangster rap and the rich culture of Venus. Players try to escape the jail of a hotel, which is the only building on Venus and is owned by a record-label owner who happens to be the God of Guns.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run! Press R1/R2 to start the game at the splash screen, Use R Stick to control the cursor at the menu",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "power",
+          "analog_2"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.vlambeer.com/",
+            "gameurl": "https://store.steampowered.com/app/522940/GUN_GODZ/",
+            "name": "Steam"
+          }
+        ],
+        "title": "GUN GODZ"
+      },
+      "items": [
+        "GUN GODZ.sh",
+        "gungodz"
+      ],
+      "items_opt": null,
+      "name": "gungodz.zip",
+      "source": {
+        "date_added": "2025-12-29",
+        "date_updated": "2025-12-29",
+        "md5": "adef1e3e54bfc9c2d58ee52b486f2712",
+        "release_id": "2025-12-29_0521",
+        "repo": "main",
+        "size": 25947696,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/gungodz.zip"
       },
       "version": 4
     },
@@ -58554,7 +58737,7 @@
         "availability": "full",
         "desc": "Explore fields of warm grass and wildflowers. Glide through the sky with your leaf. Elude predating fauna, or make mischief instead.",
         "desc_md": null,
-        "exp": true,
+        "exp": false,
         "genres": [
           "adventure",
           "platformer",
@@ -58603,12 +58786,12 @@
       "name": "merpinmerpworld.zip",
       "source": {
         "date_added": "2025-11-25",
-        "date_updated": "2025-11-25",
-        "md5": "f237c7f8647b8276595192ade1c7ea10",
-        "release_id": "2025-11-25_1116",
+        "date_updated": "2025-12-29",
+        "md5": "7cc48adc9d25dbb10f3bd3a474631d93",
+        "release_id": "2025-12-29_0521",
         "repo": "main",
-        "size": 85379489,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-25_1116/merpinmerpworld.zip"
+        "size": 85386754,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/merpinmerpworld.zip"
       },
       "version": 4
     },
@@ -81507,6 +81690,131 @@
       },
       "version": 4
     },
+    "riseofthepenguinsgb.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A retro penguin platformer designed for Gameboy. Perfect for fans of penguins and anyone looking for a moderate challenge in a cold setting!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to play!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Pwoo"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "godot_4.5.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://billwoo.itch.io",
+            "gameurl": "https://billwoo.itch.io/rise-of-the-penguins-gb",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/curator/45549131",
+            "gameurl": "https://store.steampowered.com/app/3404520/Rise_of_the_Penguins_GB",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://store.epicgames.com",
+            "gameurl": "https://store.epicgames.com/en-US/p/rise-of-the-penguins-gb-e40916",
+            "name": "Epic Games Store"
+          },
+          {
+            "developerurl": "https://apps.microsoft.com",
+            "gameurl": "https://apps.microsoft.com/detail/9n27rwtgzsc4",
+            "name": "Microsoft Store"
+          },
+          {
+            "developerurl": "https://billwoo.newgrounds.com",
+            "gameurl": "https://www.newgrounds.com/portal/view/978420",
+            "name": "Newgrounds"
+          },
+          {
+            "developerurl": "https://gamejolt.com/@billwoo",
+            "gameurl": "https://gamejolt.com/games/riseofthepenguinsgb/990375",
+            "name": "Game Jolt"
+          }
+        ],
+        "title": "Rise of the Penguins GB"
+      },
+      "items": [
+        "Rise of the Penguins GB.sh",
+        "riseofthepenguinsgb"
+      ],
+      "items_opt": null,
+      "name": "riseofthepenguinsgb.zip",
+      "source": {
+        "date_added": "2025-12-29",
+        "date_updated": "2025-12-29",
+        "md5": "bfedf015e0f99356e63153323eb570ad",
+        "release_id": "2025-12-29_0521",
+        "repo": "main",
+        "size": 33197828,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/riseofthepenguinsgb.zip"
+      },
+      "version": 4
+    },
     "riskofrain.zip": {
       "attr": {
         "arch": [
@@ -86007,6 +86315,102 @@
         "repo": "main",
         "size": 11613084,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/shadowwrangler.zip"
+      },
+      "version": 4
+    },
+    "shamogu.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Shamanic Mountain Guardian (Shamogu) is a coffee-break roguelike game with a focus on tactical movement and careful timing of totemic spirit invocation and comestible consumption. Visibility and noise stealth mechanics also play an important role.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "monekyx-net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://codeberg.org/anaseto",
+            "gameurl": "https://codeberg.org/anaseto/shamogu",
+            "name": "codeberg"
+          }
+        ],
+        "title": "Shamogu"
+      },
+      "items": [
+        "Shamogu.sh",
+        "shamogu"
+      ],
+      "items_opt": null,
+      "name": "shamogu.zip",
+      "source": {
+        "date_added": "2025-12-29",
+        "date_updated": "2025-12-29",
+        "md5": "f1d84f2deb7752cb935f8bb52d45b4b9",
+        "release_id": "2025-12-29_0521",
+        "repo": "main",
+        "size": 3423276,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/shamogu.zip"
       },
       "version": 4
     },
@@ -100591,6 +100995,93 @@
       },
       "version": 4
     },
+    "thelastgame.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Traverse the dungeon in this awesome action / bullet-hell roguelite where every choice could make or break your run. Stack over 130 different items and create powerful synergies to become truly overpowered with 13 unique characters!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy TheLastGame.pck into the gamedata folder. You can also use the free demo. Devices with rk3326 cpu are not recommended because of low performance",
+        "inst_md": "Purchase the game on [Steam](store.steampowered.com/app/2563800/The_Last_Game/) and copy `TheLastGame.pck` into the `gamedata` folder. You can also use the free demo. Devices with rk3326 cpu are not recommended because of low performance",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [
+          "godot_4.5.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "store.steampowered.com/app/2563800/The_Last_Game/",
+            "name": "Steam"
+          }
+        ],
+        "title": "The Last Game"
+      },
+      "items": [
+        "The Last Game.sh",
+        "thelastgame"
+      ],
+      "items_opt": null,
+      "name": "thelastgame.zip",
+      "source": {
+        "date_added": "2025-12-29",
+        "date_updated": "2025-12-29",
+        "md5": "f644d8cc88c839fab6db30644829628c",
+        "release_id": "2025-12-29_0521",
+        "repo": "main",
+        "size": 184131,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/thelastgame.zip"
+      },
+      "version": 4
+    },
     "thelegendoflumina.zip": {
       "attr": {
         "arch": [],
@@ -109937,12 +110428,12 @@
       "name": "wargus.zip",
       "source": {
         "date_added": "2025-12-24",
-        "date_updated": "2025-12-24",
-        "md5": "22463ee84b2fd6ada7187688364bbfd9",
-        "release_id": "2025-12-24_0552",
+        "date_updated": "2025-12-29",
+        "md5": "d151ee66b4fba90273f92f21df2bd956",
+        "release_id": "2025-12-29_0521",
         "repo": "main",
-        "size": 39793440,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/wargus.zip"
+        "size": 39793451,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/wargus.zip"
       },
       "version": 4
     },
