@@ -19236,7 +19236,8 @@
     "commander.genius.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -19274,6 +19275,7 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -19322,12 +19324,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-07-27",
-        "md5": "8abda06f3b0fc45264d315f6fabed4e7",
-        "release_id": "2025-07-27_0947",
+        "date_updated": "2026-01-07",
+        "md5": "82ee502f9042b5e6cc706e6dc18c3a35",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 5153258,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/commander.genius.zip"
+        "size": 5153266,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/commander.genius.zip"
       },
       "version": 4
     },
@@ -27453,6 +27455,98 @@
       },
       "version": 4
     },
+    "dragondragonfirefire.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Play as a dragon and spit fire in this classic arcade platformer, creatively titled \"Dragon Dragon Fire Fire\"! Relive the charm of late-80s arcade games as you blast through destructible stages, incinerate your enemies, and chase the high score.\n\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Insert one quarter into your device.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Pyral"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.5.squashfs"
+        ],
+        "store": [],
+        "title": "Dragon Dragon Fire Fire"
+      },
+      "items": [
+        "Dragon Dragon Fire Fire.sh",
+        "dragondragonfirefire"
+      ],
+      "items_opt": null,
+      "name": "dragondragonfirefire.zip",
+      "source": {
+        "date_added": "2026-01-07",
+        "date_updated": "2026-01-07",
+        "md5": "567143959db1e5110b805fa43e10a22f",
+        "release_id": "2026-01-07_1231",
+        "repo": "main",
+        "size": 4022714,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/dragondragonfirefire.zip"
+      },
+      "version": 4
+    },
     "dragonvshunters.zip": {
       "attr": {
         "arch": [],
@@ -28725,12 +28819,12 @@
       "name": "duke3dawo.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2025-09-16",
-        "md5": "e146015188c507ecbc28f252c1fa064d",
-        "release_id": "2025-09-16_1252",
+        "date_updated": "2026-01-07",
+        "md5": "203e5ac7dc159573211aa53b3139d756",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 4320412,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-16_1252/duke3dawo.zip"
+        "size": 4320488,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/duke3dawo.zip"
       },
       "version": 4
     },
@@ -34864,7 +34958,10 @@
           "power"
         ],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "title": "Forager"
       },
       "items": [
@@ -34881,12 +34978,12 @@
       },
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2025-12-29",
-        "md5": "f9ce0aa131ac3b6f735169d0b5816cef",
-        "release_id": "2025-12-29_0521",
+        "date_updated": "2026-01-07",
+        "md5": "2e7ac6c4e716274d78dcfac0b2fcffe8",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 49977518,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/forager.zip"
+        "size": 47454618,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/forager.zip"
       },
       "version": 2
     },
@@ -40083,12 +40180,12 @@
       "name": "gravitystorm.zip",
       "source": {
         "date_added": "2025-11-18",
-        "date_updated": "2025-12-24",
-        "md5": "8b9e5629fd5946de0fbdae287e0dd8c7",
-        "release_id": "2025-12-24_0552",
+        "date_updated": "2026-01-07",
+        "md5": "fd79f11236794dbe72629f6fb45d8b50",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 12122670,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/gravitystorm.zip"
+        "size": 12028343,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/gravitystorm.zip"
       },
       "version": 4
     },
@@ -42997,6 +43094,104 @@
         "repo": "main",
         "size": 9567500,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/hargrave.zip"
+      },
+      "version": 4
+    },
+    "harmonist.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Harmonist is a stealth coffee-break roguelike game. The game has a heavy focus on tactical positioning, light and noise mechanisms, making use of various terrain types and cones of view for monsters. Aiming for a replayable streamlined experience, the game avoids complex inventory management and character building, relying on items and player adaptability for character progression.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "monkeyx-net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://codeberg.org/anaseto",
+            "gameurl": "https://codeberg.org/anaseto/harmonist",
+            "name": "codeberg"
+          }
+        ],
+        "title": "Harmonist"
+      },
+      "items": [
+        "Harmonist.sh",
+        "harmonist"
+      ],
+      "items_opt": null,
+      "name": "harmonist.zip",
+      "source": {
+        "date_added": "2026-01-07",
+        "date_updated": "2026-01-07",
+        "md5": "8e6fa21941cbf18b1b92add17cd51365",
+        "release_id": "2026-01-07_1231",
+        "repo": "main",
+        "size": 3182713,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/harmonist.zip"
       },
       "version": 4
     },
@@ -48354,12 +48549,12 @@
       "name": "ionfury.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2025-12-12",
-        "md5": "820efbd4306080b7a7772f4704dcb6fb",
-        "release_id": "2025-12-12_0744",
+        "date_updated": "2026-01-07",
+        "md5": "2074f03f998ab32a2e70f38583988e93",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 1568503,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/ionfury.zip"
+        "size": 1568578,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/ionfury.zip"
       },
       "version": 4
     },
@@ -48519,7 +48714,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy the game data from your Steam or Itch.io installation to ports/iosas/assets",
+        "inst": "For Itch.io version, download the game and extract the game data to ports/iosas/assets. For Steam version, enter the Steam console (steam://open/console) and use the following command to download a compatible version: download_depot 1233070 1233071 5882208673348681355, then copy those downloaded files to ports/iosas/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -48560,12 +48755,12 @@
       },
       "source": {
         "date_added": "2024-09-04",
-        "date_updated": "2025-10-07",
-        "md5": "4abc5254002e7a5c69efd59729e3f4a6",
-        "release_id": "2025-10-07_1437",
+        "date_updated": "2026-01-07",
+        "md5": "59dd232fe71dbcb10a3743629cea8547",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 7867357,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-07_1437/iosas.zip"
+        "size": 7868204,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/iosas.zip"
       },
       "version": 4
     },
@@ -57130,6 +57325,100 @@
       },
       "version": 4
     },
+    "marcotreasurequest.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Help our Hero called Marco to find a treasure...",
+        "desc_md": "Help our Hero called Marco to find a treasure...",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "MiguelTheDRMR"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://miguelthedrmr.itch.io/",
+            "gameurl": "https://miguelthedrmr.itch.io/marco-treasure-quest",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Marco's Treasure Quest"
+      },
+      "items": [
+        "Marco's Treasure Quest.sh",
+        "marcotreasurequest"
+      ],
+      "items_opt": null,
+      "name": "marcotreasurequest.zip",
+      "source": {
+        "date_added": "2026-01-07",
+        "date_updated": "2026-01-07",
+        "md5": "0b98dd0fca8b0958fc18b0f86760cc8e",
+        "release_id": "2026-01-07_1231",
+        "repo": "main",
+        "size": 211548850,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/marcotreasurequest.zip"
+      },
+      "version": 4
+    },
     "margot_beatrice_adventure.zip": {
       "attr": {
         "arch": [],
@@ -65409,12 +65698,12 @@
       },
       "source": {
         "date_added": "2025-07-01",
-        "date_updated": "2025-12-02",
-        "md5": "794820d1ff058371eadff87ad91c0ffc",
-        "release_id": "2025-12-02_1212",
+        "date_updated": "2026-01-07",
+        "md5": "8aa6b3c35b97356731f5cf130b37229c",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 13587552,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/noskin.zip"
+        "size": 11743301,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/noskin.zip"
       },
       "version": 4
     },
@@ -77192,12 +77481,12 @@
       "name": "putridshotultra.zip",
       "source": {
         "date_added": "2024-04-20",
-        "date_updated": "2025-10-04",
-        "md5": "67ca9ac414de8058c4a2a6ee7e5ae5fd",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-01-07",
+        "md5": "331549c933c84526dd83fdfb383fda49",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 3022751,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/putridshotultra.zip"
+        "size": 3022830,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/putridshotultra.zip"
       },
       "version": 2
     },
@@ -83435,12 +83724,12 @@
       "name": "rott.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2025-12-12",
-        "md5": "eedd3291f6be282257ccf7f3bda1121c",
-        "release_id": "2025-12-12_0744",
+        "date_updated": "2026-01-07",
+        "md5": "7db0f8bd3f5da4c11a7132d2d4358f34",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 20685312,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/rott.zip"
+        "size": 20685503,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/rott.zip"
       },
       "version": 4
     },
@@ -87609,7 +87898,7 @@
     "simonsqrev.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -87636,10 +87925,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -87648,10 +87941,12 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "A wonderful fanmade revamp of the classic NES title, Castlevania 2 Simon's Quest.",
+        "availability": "full",
+        "desc": "A fantastic fan-made revamp of Castlevania 2 Simon's Quest!",
         "desc_md": null,
         "exp": false,
         "genres": [
+          "action",
           "adventure",
           "platformer"
         ],
@@ -87663,32 +87958,34 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to Run",
+        "inst": "Ready to run",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "MadShmupper",
-          "Tekkenfede"
+          "Tekkenfede",
+          "Johnny on Flame"
         ],
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Castlevania 2 Simon's Quest Revamped"
       },
       "items": [
         "Castlevania 2 Simon's Quest Revamped.sh",
-        "simonsqrev/"
+        "simonsqrev"
       ],
       "items_opt": null,
       "name": "simonsqrev.zip",
       "source": {
         "date_added": "2023-10-31",
-        "date_updated": "2025-09-23",
-        "md5": "86b6dff5c0d4816600965cb136c9cd57",
-        "release_id": "2025-09-23_1014",
+        "date_updated": "2026-01-07",
+        "md5": "51f3452ea1f500323d87b420dd5a0611",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 69211938,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/simonsqrev.zip"
+        "size": 71156708,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/simonsqrev.zip"
       },
       "version": 4
     },
@@ -87972,6 +88269,100 @@
         "repo": "main",
         "size": 13749516,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/simutrans.zip"
+      },
+      "version": 4
+    },
+    "skautfoldinsanity.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Discover the secrets of the estate, as you look for answers among the violent inhabitants. A strange and repelling madness took hold of the servants roaming the halls, and they will attack on sight, for their madness is one rooted in a deeper understanding of cosmic insignificance.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all files into the assets folder. Only paid version is supported due to technical reasons.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/444590/Skautfold_Shrouded_in_Sanity/) and copy all files into the `assets` folder. Only `paid` version is supported due to technical reasons.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.facebook.com/pugwaredev",
+            "gameurl": "https://store.steampowered.com/app/444590/Skautfold_Shrouded_in_Sanity/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Skautfold: Shrouded in Sanity"
+      },
+      "items": [
+        "Skautfold - Shrouded in Sanity.sh",
+        "skautfoldinsanity"
+      ],
+      "items_opt": null,
+      "name": "skautfoldinsanity.zip",
+      "source": {
+        "date_added": "2026-01-07",
+        "date_updated": "2026-01-07",
+        "md5": "beaf89610e14c1e7ba6fdcba9391e182",
+        "release_id": "2026-01-07_1231",
+        "repo": "main",
+        "size": 5268843,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/skautfoldinsanity.zip"
       },
       "version": 4
     },
@@ -104738,6 +105129,100 @@
       },
       "version": 4
     },
+    "tripleswaptower.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Triple Swap Tower is a frantic roguelite which puts you in control of three different heroes. Swap fast between them as you fell waves of enemies, then power them up! How will you build your party?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Steam. Download the right version using the Steam console and copy all the game files to /ports/tripleswaptower/assets.",
+        "inst_md": "Purchase the game from Steam: https://store.steampowered.com/app/3971630/Triple_Swap_Tower  \nRun Steam console via Windows+R: Type: steam://open/console, download the 1.3 version by typing: `download_depot 3971630 3971631 1260866337614850807` in the console.   \nWhen the download is complete, it will tell you the location of the folder, copy all the game files to /ports/tripleswaptower/assets",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=LUJA%20Studio",
+            "gameurl": "https://store.steampowered.com/app/3971630/Triple_Swap_Tower/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Triple Swap Tower"
+      },
+      "items": [
+        "Triple Swap Tower.sh",
+        "tripleswaptower"
+      ],
+      "items_opt": null,
+      "name": "tripleswaptower.zip",
+      "source": {
+        "date_added": "2026-01-07",
+        "date_updated": "2026-01-07",
+        "md5": "6ed9fc6e69590fc909c297e7f196c675",
+        "release_id": "2026-01-07_1231",
+        "repo": "main",
+        "size": 7220314,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/tripleswaptower.zip"
+      },
+      "version": 4
+    },
     "tripletrouble.zip": {
       "attr": {
         "arch": [],
@@ -107098,12 +107583,12 @@
       },
       "source": {
         "date_added": "2025-05-23",
-        "date_updated": "2025-11-18",
-        "md5": "8dead727dc0650065aee0a4799c142a6",
-        "release_id": "2025-11-18_1011",
+        "date_updated": "2026-01-07",
+        "md5": "53f066020bb673b66fde209d866f99af",
+        "release_id": "2026-01-07_1231",
         "repo": "main",
-        "size": 44541964,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/undertaleredyellow.zip"
+        "size": 44541965,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/undertaleredyellow.zip"
       },
       "version": 4
     },
