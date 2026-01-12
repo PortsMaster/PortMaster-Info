@@ -286,6 +286,100 @@
       },
       "version": 4
     },
+    "8bitbuccaneer.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A pirate-themed roguelike game, in which you sail around, buy treasure maps, dig up treasure, and fight enemy ships and monsters.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://xenological.itch.io/",
+            "gameurl": "https://xenological.itch.io/8bitbuccaneer",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "8-BIT BUCCANEER"
+      },
+      "items": [
+        "8-BIT BUCCANEER.sh",
+        "8bitbuccaneer"
+      ],
+      "items_opt": null,
+      "name": "8bitbuccaneer.zip",
+      "source": {
+        "date_added": "2026-01-12",
+        "date_updated": "2026-01-12",
+        "md5": "d04d22a880c3b58cd906c6e087332d46",
+        "release_id": "2026-01-12_1145",
+        "repo": "main",
+        "size": 13074697,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-12_1145/8bitbuccaneer.zip"
+      },
+      "version": 4
+    },
     "a7xpg.zip": {
       "attr": {
         "arch": [
@@ -8202,6 +8296,100 @@
         "repo": "main",
         "size": 38993091,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/biomassgrowth.zip"
+      },
+      "version": 4
+    },
+    "biplanesrevival.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "An old cellphone arcade \\\"BlueTooth BiPlanes\\\" recreated for PC",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://regular-dev.itch.io/",
+            "gameurl": "https://regular-dev.itch.io/biplanes-revival",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Biplanes Revival"
+      },
+      "items": [
+        "Biplanes Revival.sh",
+        "biplanesrevival"
+      ],
+      "items_opt": null,
+      "name": "biplanesrevival.zip",
+      "source": {
+        "date_added": "2026-01-12",
+        "date_updated": "2026-01-12",
+        "md5": "e196fc39aac2a9918d7d02edbfedf545",
+        "release_id": "2026-01-12_1145",
+        "repo": "main",
+        "size": 506226,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-12_1145/biplanesrevival.zip"
       },
       "version": 4
     },
@@ -38198,6 +38386,100 @@
         "repo": "main",
         "size": 6657307,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-28_0902/ghostris.zip"
+      },
+      "version": 4
+    },
+    "ghosttrap.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "You've died and landed in purgatory, your options? Unending suffering or finding a way back to your world. GHOST TRAP is a free-to-play indie platformer created by a solo student developer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game for free from Steam and copy all game files into the assets folder.",
+        "inst_md": "Download the game for free from [Steam](https://store.steampowered.com/app/2006090/Ghost_Trap/) and copy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2006090/Ghost_Trap/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Ghost Trap"
+      },
+      "items": [
+        "Ghost Trap.sh",
+        "ghosttrap"
+      ],
+      "items_opt": null,
+      "name": "ghosttrap.zip",
+      "source": {
+        "date_added": "2026-01-12",
+        "date_updated": "2026-01-12",
+        "md5": "6eff02971f756a96b8aeff42b81d25fe",
+        "release_id": "2026-01-12_1145",
+        "repo": "main",
+        "size": 7084106,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-12_1145/ghosttrap.zip"
       },
       "version": 4
     },
@@ -83163,12 +83445,12 @@
       "name": "roguelight.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2025-09-23",
-        "md5": "4d3474d347576d648fe3ccf1c9498820",
-        "release_id": "2025-09-23_1014",
+        "date_updated": "2026-01-12",
+        "md5": "b5ed7863d0a9c035d3f5d422ca5dfb15",
+        "release_id": "2026-01-12_1145",
         "repo": "main",
         "size": 9807564,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/roguelight.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-12_1145/roguelight.zip"
       },
       "version": 2
     },
@@ -113047,6 +113329,98 @@
       },
       "version": 4
     },
+    "xargon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "An archaeologist named Malvineous Havershim was studying strange ruins in Madagascar, remnants of buildings constructed during the age of a long-forgotten civilization of the mysterious Blue Builders. One day Malvineous spotted glyphs on one of the structures. As he attempted to translate them, Malvineous was hit by a wave of gas and fainted. In his dream, a talking eagle named Silvertongue tried to warn him of upcoming dangers. The archaeologist awoke in a strange and hostile world, unable to understand anything. With Silvertongue's guidance, Malvineous will have to overcome all dangers and eventually confront Xargon, the tyrannical ruler of that world.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Everything is included and ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Xargon"
+      },
+      "items": [
+        "Xargon 1 - Beyond Reality.sh",
+        "Xargon 2 - The Secret Chamber.sh",
+        "Xargon 3 - Xargon's Fury.sh",
+        "xargon"
+      ],
+      "items_opt": null,
+      "name": "xargon.zip",
+      "source": {
+        "date_added": "2026-01-12",
+        "date_updated": "2026-01-12",
+        "md5": "9089a2be0d7ad4e7267c6f505597e752",
+        "release_id": "2026-01-12_1145",
+        "repo": "main",
+        "size": 2789649,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-12_1145/xargon.zip"
+      },
+      "version": 4
+    },
     "xenofightersr.zip": {
       "attr": {
         "arch": [
@@ -114157,6 +114531,107 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/yellowjacket.zip"
       },
       "version": 2
+    },
+    "yknytt.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A remake of the atmospheric platformer Knytt Stories, originally developed by Nifflas. With over 1200 community levels!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "clichev2",
+          "inaya",
+          "0xAda.3",
+          "youkaicountry",
+          "up-left"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "mono-6.12.0.122-aarch64.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://github.com/youkaicountry/yknytt",
+            "gameurl": "https://youkaicountry.itch.io/yknytt",
+            "name": "itch.io"
+          }
+        ],
+        "title": "YKnytt"
+      },
+      "items": [
+        "YKnytt.sh",
+        "yknytt"
+      ],
+      "items_opt": null,
+      "name": "yknytt.zip",
+      "source": {
+        "date_added": "2026-01-12",
+        "date_updated": "2026-01-12",
+        "md5": "71116697ba3bda887e2b801e66f8d8a0",
+        "release_id": "2026-01-12_1145",
+        "repo": "main",
+        "size": 83336446,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-12_1145/yknytt.zip"
+      },
+      "version": 4
     },
     "yolkheroes.zip": {
       "attr": {
