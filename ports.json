@@ -4229,6 +4229,105 @@
       },
       "version": 4
     },
+    "arco.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A Mesoamerican fantasy RPG that blends turn-based and real-time combat. Explore the world through three handcrafted stories forged in bloodshed, laced with magic, and united by revenge. This port does not work with the demo files!",
+        "desc_md": "A Mesoamerican fantasy RPG that blends turn-based and real-time combat. Explore the world through three handcrafted stories forged in bloodshed, laced with magic, and united by revenge. This port does not work with the demo files!.\n\n**Note: If the L2 toggle patch is applied, use L1/R1 to select combat actions.**",
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy arco.exe from your Steam download to ports/arco. A D-pad/L-stick toggle patch is available during installation.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2366970/Arco/). Copy `arco.exe` to `ports/arco`. On first startup, you can apply a D-pad/L-stick L2 toggle patch (Recommended for D-pad only devices).",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88",
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://arco.game/",
+            "gameurl": "https://store.steampowered.com/app/2366970/Arco/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Arco"
+      },
+      "items": [
+        "Arco.sh",
+        "arco"
+      ],
+      "items_opt": null,
+      "name": "arco.zip",
+      "source": {
+        "date_added": "2026-01-25",
+        "date_updated": "2026-01-25",
+        "md5": "7158068284e272d4d5c4c3370610d652",
+        "release_id": "2026-01-25_1827",
+        "repo": "main",
+        "size": 29586862,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/arco.zip"
+      },
+      "version": 4
+    },
     "area2048.zip": {
       "attr": {
         "arch": [
@@ -18077,6 +18176,7 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
+          "NEMESIS",
           "BenJuan26"
         ],
         "reqs": [],
@@ -18105,12 +18205,12 @@
       },
       "source": {
         "date_added": "2025-08-31",
-        "date_updated": "2025-08-31",
-        "md5": "14c52799a922c7de46891af4a1e19925",
-        "release_id": "2025-08-31_0235",
+        "date_updated": "2026-01-25",
+        "md5": "61234cc72f7f690bed9e9b3a7a3f1d04",
+        "release_id": "2026-01-25_1827",
         "repo": "main",
-        "size": 3838593,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/chromium_bsu.zip"
+        "size": 2699348,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/chromium_bsu.zip"
       },
       "version": 4
     },
@@ -32799,6 +32899,102 @@
       },
       "version": 4
     },
+    "farmkeeper.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A tile-based farming game where success means maximizing yields to survive the rent, expanding your farm through random tile choices.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation",
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy the FarmKeeper.pck into gamedata folder. You can also use the free demo version.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2458940/Farm_Keeper/) and copy the `FarmKeeper.pck` into `gamedata` folder. You can also use the free `demo` version.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2458940/Farm_Keeper/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Farm Keeper"
+      },
+      "items": [
+        "Farm Keeper.sh",
+        "farmkeeper"
+      ],
+      "items_opt": null,
+      "name": "farmkeeper.zip",
+      "source": {
+        "date_added": "2026-01-25",
+        "date_updated": "2026-01-25",
+        "md5": "c968b9dab78641ebd2c6a6f17d3bf9f1",
+        "release_id": "2026-01-25_1827",
+        "repo": "main",
+        "size": 919772,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/farmkeeper.zip"
+      },
+      "version": 4
+    },
     "farmner.zip": {
       "attr": {
         "arch": [],
@@ -44085,6 +44281,107 @@
       },
       "version": 2
     },
+    "heirloom.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A small 2D platformer. Run, jump and avoid obstacles through 4 challenging levels. Explore a beautiful, hand-crafted pixel world. Meet captivating NPCs and reach the Old Summit to retrieve the family Heirloom.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch.io and copy all files into the assets folder. You can also download the free demo from Steam.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2315570/Heirloom/) or [Itch.io](https://atticusfinn.itch.io/heirloom) and copy all files into the `assets` folder. You can also download the free demo from Steam.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://atticusfinn.itch.io/heirloom",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2315570/Heirloom/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Heirloom"
+      },
+      "items": [
+        "Heirloom.sh",
+        "heirloom"
+      ],
+      "items_opt": null,
+      "name": "heirloom.zip",
+      "source": {
+        "date_added": "2026-01-25",
+        "date_updated": "2026-01-25",
+        "md5": "f240ec0ba223e0a85c32121380eb92e3",
+        "release_id": "2026-01-25_1827",
+        "repo": "main",
+        "size": 10523951,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/heirloom.zip"
+      },
+      "version": 4
+    },
     "hellfire.zip": {
       "attr": {
         "arch": [
@@ -47417,12 +47714,12 @@
       },
       "source": {
         "date_added": "2021-11-16",
-        "date_updated": "2025-05-04",
-        "md5": "f1d3e3897167701f8bdb5119cc9be7e2",
-        "release_id": "2025-05-04_0401",
+        "date_updated": "2026-01-25",
+        "md5": "0bc91259a8de3633fecb52f9a94e9135",
+        "release_id": "2026-01-25_1827",
         "repo": "main",
-        "size": 4533434,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-04_0401/iconoclasts.zip"
+        "size": 4533413,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/iconoclasts.zip"
       },
       "version": 2
     },
@@ -53135,12 +53432,12 @@
       },
       "source": {
         "date_added": "2024-10-07",
-        "date_updated": "2025-10-22",
-        "md5": "9464a1180faa4022173a6cddbbb9fc0c",
-        "release_id": "2025-10-22_1131",
+        "date_updated": "2026-01-25",
+        "md5": "89bc0488cde203423a12b6c47dc4f1a5",
+        "release_id": "2026-01-25_1827",
         "repo": "main",
-        "size": 8287793,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/librespot.zip"
+        "size": 8297842,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/librespot.zip"
       },
       "version": 4
     },
@@ -85449,6 +85746,96 @@
       },
       "version": 2
     },
+    "scavenger.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "SDL Scavenger A fun 2-D game like Lode Runner. With 196 very good puzzle screens to solve.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to play",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "monkeyx-net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Scavenger"
+      },
+      "items": [
+        "Scavenger.sh",
+        "scavenger"
+      ],
+      "items_opt": null,
+      "name": "scavenger.zip",
+      "source": {
+        "date_added": "2026-01-25",
+        "date_updated": "2026-01-25",
+        "md5": "e96a2a5d4e3acb743037a6a0798e524f",
+        "release_id": "2026-01-25_1827",
+        "repo": "main",
+        "size": 877813,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/scavenger.zip"
+      },
+      "version": 4
+    },
     "sdlbomber.zip": {
       "attr": {
         "arch": [
@@ -90217,7 +90604,7 @@
     "snout.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -90244,10 +90631,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -90289,12 +90680,12 @@
       "name": "snout.zip",
       "source": {
         "date_added": "2024-03-15",
-        "date_updated": "2024-07-18",
-        "md5": "769ac6a01f4706aa2a1a2d848e20e031",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2026-01-25",
+        "md5": "0c12d1e75399d5d096ebb53427e81e7a",
+        "release_id": "2026-01-25_1827",
         "repo": "main",
-        "size": 42110548,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/snout.zip"
+        "size": 29709304,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/snout.zip"
       },
       "version": 2
     },
@@ -91131,6 +91522,96 @@
         "repo": "main",
         "size": 20529264,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_1301/somnokid.zip"
+      },
+      "version": 4
+    },
+    "songo5.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A music player app focused on a clean and fast UI/UX. Currently supporting Mp3, Flac, and Ogg.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "After installation just ensure you have your music somewhere on your device. Start up the app and go to settings to tell Songo where your music is stored. After this it will scan that directory for new music on startup.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Riley"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Songo #5"
+      },
+      "items": [
+        "Songo5.sh",
+        "songo5"
+      ],
+      "items_opt": null,
+      "name": "songo5.zip",
+      "source": {
+        "date_added": "2026-01-25",
+        "date_updated": "2026-01-25",
+        "md5": "845af3bfde4b041b4c86cfb975eb9c63",
+        "release_id": "2026-01-25_1827",
+        "repo": "main",
+        "size": 31891345,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/songo5.zip"
       },
       "version": 4
     },
@@ -95980,6 +96461,99 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/strikeysisters.zip"
       },
       "version": 2
+    },
+    "stuntcarracer.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "This is a port to Linux and OpenPandora of Stunt Car Racer Remake, a windows remake of the old Stunt Car Racer from the AtariST/Amiga time.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to play",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tekkenfede",
+          "monkeyx-net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Stunt Car Racer"
+      },
+      "items": [
+        "Stunt Car Racer.sh",
+        "stuntcarracer"
+      ],
+      "items_opt": null,
+      "name": "stuntcarracer.zip",
+      "source": {
+        "date_added": "2026-01-25",
+        "date_updated": "2026-01-25",
+        "md5": "7eb3ed4b3c198c9f99e9495783fcbae4",
+        "release_id": "2026-01-25_1827",
+        "repo": "main",
+        "size": 1939860,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/stuntcarracer.zip"
+      },
+      "version": 4
     },
     "submachinelegacy.zip": {
       "attr": {
@@ -104964,6 +105538,88 @@
       },
       "version": 4
     },
+    "toziuha2.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg353m:ALL",
+          "rg552:ALL",
+          "rg34xx-sp:ALL",
+          "x55:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "rp5:ALL",
+          "rpmini:ALL"
+        ],
+        "availability": "paid",
+        "desc": "This is the story of Xandria, an iron alchemist. She seeks revenge regardless of the consequences. To achieve it, Xandria fights with a powerful whip and the power of chemical elements. Find out more about her in this modern metroidvania adventure",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Itch.io, GOG or Steam, download and extract the tn_oota.pck into the gamedata folder. You can also use the demo from Itch.io. This game requires a device with 2GB RAM.",
+        "inst_md": "Purchase the game on [Itch.io](https://dannygaray60.itch.io/toziuha-night-order-of-the-alchemists), [GOG](https://www.gog.com/en/game/toziuha_night_order_of_the_alchemists) or [Steam](https://store.steampowered.com/app/2112750/Toziuha_Night_Order_of_the_Alchemists/), download and extract the `tn_oota.pck` into the `gamedata` folder. You can also use the demo from `Itch.io`. This game requires a device with 2GB RAM.",
+        "min_glibc": "",
+        "porter": [
+          "Danny Garay",
+          "Ganimoth"
+        ],
+        "reqs": [
+          "2gb",
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [
+          "frt_3.6.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://dannygaray60.itch.io/toziuha-night-order-of-the-alchemists",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2112750/Toziuha_Night_Order_of_the_Alchemists/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/toziuha_night_order_of_the_alchemists",
+            "name": "GOG"
+          }
+        ],
+        "title": "Toziuha Night - Order of the Alchemists"
+      },
+      "items": [
+        "Toziuha Night - Order of the Alchemists.sh",
+        "toziuha2"
+      ],
+      "items_opt": null,
+      "name": "toziuha2.zip",
+      "source": {
+        "date_added": "2026-01-25",
+        "date_updated": "2026-01-25",
+        "md5": "3b1ba8e243ce19fdd8efe659597d017d",
+        "release_id": "2026-01-25_1827",
+        "repo": "main",
+        "size": 240359,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/toziuha2.zip"
+      },
+      "version": 4
+    },
     "treehouse.zip": {
       "attr": {
         "arch": [
@@ -113596,6 +114252,92 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/xenonvalkyrie.zip"
       },
       "version": 2
+    },
+    "xenosensory.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Xenosensory is a short incremental casual game with horror themes. Use your cursor to bust Xenos and save convicts, then spend your research points on skill tree upgrades, actions, gadgets, and uncover the true horrifying nature of this space station nightmare.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder. Devices with RK3326 cpu are not recommended for performance reasons.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/4037830/Xenosensory/) and copy all game files into the `assets` folder. Devices with `RK3326` cpu are `not recommended` for performance reasons.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "http://caiysware.com/",
+            "gameurl": "https://store.steampowered.com/app/4037830/Xenosensory/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Xenosensory"
+      },
+      "items": [
+        "Xenosensory.sh",
+        "xenosensory"
+      ],
+      "items_opt": null,
+      "name": "xenosensory.zip",
+      "source": {
+        "date_added": "2026-01-25",
+        "date_updated": "2026-01-25",
+        "md5": "161993e9022918a45694168bebb54f87",
+        "release_id": "2026-01-25_1827",
+        "repo": "main",
+        "size": 7149219,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/xenosensory.zip"
+      },
+      "version": 4
     },
     "xess.zip": {
       "attr": {
