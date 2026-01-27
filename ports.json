@@ -52168,6 +52168,77 @@
       },
       "version": 4
     },
+    "koboo.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg353m:ALL",
+          "rg552:ALL",
+          "rg34xx-sp:ALL",
+          "x55:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "rp5:ALL",
+          "rpmini:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Koboo is a fast paced action rogue-lite platformer where you battle against towering hunters as a small tree spirit by attacking their weak points. Forge powerful synergies, explore the Ancient Forest's branching paths, fish, catch bugs and garden to rebuild your home!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder. This game requires a device with 2GB RAM.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/718190/Koboo_The_Tree_Spirit/) and copy all game files into the `assets` folder. This game requires a device with `2GB` RAM.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "2gb",
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/718190/Koboo_The_Tree_Spirit/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Koboo: The Tree Spirit"
+      },
+      "items": [
+        "Koboo - The Tree Spirit.sh",
+        "koboo"
+      ],
+      "items_opt": null,
+      "name": "koboo.zip",
+      "source": {
+        "date_added": "2026-01-27",
+        "date_updated": "2026-01-27",
+        "md5": "dd8fc505ee200e06c0f368b189df305d",
+        "release_id": "2026-01-27_2358",
+        "repo": "main",
+        "size": 6350289,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-27_2358/koboo.zip"
+      },
+      "version": 4
+    },
     "koreader.zip": {
       "attr": {
         "arch": [
@@ -57288,6 +57359,100 @@
         "repo": "main",
         "size": 7706915,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-24_1333/madhouse.zip"
+      },
+      "version": 4
+    },
+    "magerecall.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A short (1 - 2 Hour) experimental Gameboy-styled adventure inspired by the likes of Golden Sun. Vrin is a mage down on her luck as she finds herself in a small town on the brink of rebellion.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Thank you to Nion for allowing PortMaster to make this game Ready to Run.",
+        "inst_md": "Thank you to Nion for allowing PortMaster to make this game Ready to Run.",
+        "min_glibc": "",
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://nion.moe",
+            "gameurl": "https://nion-ne.itch.io/mage-recall",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Mage Recall"
+      },
+      "items": [
+        "Mage Recall.sh",
+        "magerecall"
+      ],
+      "items_opt": null,
+      "name": "magerecall.zip",
+      "source": {
+        "date_added": "2026-01-27",
+        "date_updated": "2026-01-27",
+        "md5": "bf9bdbf98de77f75efc0b092368f318d",
+        "release_id": "2026-01-27_2358",
+        "repo": "main",
+        "size": 40645905,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-27_2358/magerecall.zip"
       },
       "version": 4
     },
@@ -74768,12 +74933,12 @@
       "name": "pixelwheels.zip",
       "source": {
         "date_added": "2025-11-04",
-        "date_updated": "2025-11-04",
-        "md5": "9088991c704d25a122a1af8077c1921d",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2026-01-27",
+        "md5": "c566fbadca586f68cc24f8b9c1ac54a0",
+        "release_id": "2026-01-27_2358",
         "repo": "main",
-        "size": 37435685,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/pixelwheels.zip"
+        "size": 37435684,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-27_2358/pixelwheels.zip"
       },
       "version": 4
     },
@@ -101079,9 +101244,45 @@
           "aarch64"
         ],
         "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
-          "rp5:rocknix",
-          "rpmini:rocknix"
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
         ],
         "availability": "full",
         "desc": "Your dojo has been attacked by mysterious armed men in black. You have to take it back! Fight enemies, collect DEATH MARKS (ie. skulls) and tag enemies with these marks. Every 10 seconds, marked enemies will die. Some stronger enemies will require more marks to get rid of.",
@@ -101102,12 +101303,10 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Jeod"
+          "Jeod",
+          "bmdhacks"
         ],
-        "reqs": [
-          "opengl",
-          "ultra"
-        ],
+        "reqs": [],
         "rtr": true,
         "runtime": [],
         "store": [],
@@ -101121,12 +101320,12 @@
       "name": "tenjutsu48h.zip",
       "source": {
         "date_added": "2025-06-09",
-        "date_updated": "2025-06-09",
-        "md5": "60139b04ffae97d2b9e363a0d2f830b2",
-        "release_id": "2025-06-09_2012",
+        "date_updated": "2026-01-27",
+        "md5": "695acaf562ddaecb1bb616926f2a5be1",
+        "release_id": "2026-01-27_2358",
         "repo": "main",
-        "size": 26215969,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/tenjutsu48h.zip"
+        "size": 12514934,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-27_2358/tenjutsu48h.zip"
       },
       "version": 4
     },
@@ -115732,6 +115931,104 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-31_0235/youhave10s2023.zip"
       },
       "version": 2
+    },
+    "yugioh2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Yugioh 2 is a roguelike SRPG based on the Yugioh card game. Before each duel, you spend SOULS to summon monsters to your team, and if you win the match, you either get more monsters or more souls (so you can summon more monsters). Also, more powerful monsters COST more souls to summon, so you need to decide if you want MORE guys or STRONGER guys. The game ends if you win 15 duels (good) or lose 3 duels (bad). Along these duels, you will also face 4 randomly selected bosses from your favorite children's card game.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download YGO2.zip from itch.io (https://jab-lao.itch.io/yu-gi-oh-2) and extract the contents to this port's gamedata folder.",
+        "inst_md": "Download YGO2.zip from [itch.io](https://jab-lao.itch.io/yu-gi-oh-2) and extract the contents to this port's `gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.2.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://jab-lao.itch.io/",
+            "gameurl": "https://jab-lao.itch.io/yu-gi-oh-2",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Yugioh 2"
+      },
+      "items": [
+        "Yugioh 2.sh",
+        "yugioh2"
+      ],
+      "items_opt": null,
+      "name": "yugioh2.zip",
+      "source": {
+        "date_added": "2026-01-27",
+        "date_updated": "2026-01-27",
+        "md5": "2073b3df0ba3898908b2bbc796a18075",
+        "release_id": "2026-01-27_2358",
+        "repo": "main",
+        "size": 96297,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-27_2358/yugioh2.zip"
+      },
+      "version": 4
     },
     "z-warp.zip": {
       "attr": {
