@@ -1221,12 +1221,12 @@
       "name": "aestheta.zip",
       "source": {
         "date_added": "2025-09-08",
-        "date_updated": "2025-11-04",
-        "md5": "59a9bb3db4fd637ad7fb98cc05304599",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2026-02-07",
+        "md5": "3439bf8a16161c254e63e8d39519b3f9",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 9139903,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/aestheta.zip"
+        "size": 9139982,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/aestheta.zip"
       },
       "version": 4
     },
@@ -5151,12 +5151,12 @@
       "name": "astoryaboutbirds.zip",
       "source": {
         "date_added": "2025-07-09",
-        "date_updated": "2025-07-09",
-        "md5": "5624e10f496c8b23977219fa6d783920",
-        "release_id": "2025-07-09_0745",
+        "date_updated": "2026-02-07",
+        "md5": "455d33c094798165e9e2bdf714ec9f05",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 180638,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-09_0745/astoryaboutbirds.zip"
+        "size": 181807,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/astoryaboutbirds.zip"
       },
       "version": 4
     },
@@ -8445,7 +8445,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "An old cellphone arcade \\\"BlueTooth BiPlanes\\\" recreated for PC",
+        "desc": "An old cellphone arcade *BlueTooth BiPlanes* recreated for PC",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -8483,12 +8483,12 @@
       "name": "biplanesrevival.zip",
       "source": {
         "date_added": "2026-01-12",
-        "date_updated": "2026-01-12",
-        "md5": "e196fc39aac2a9918d7d02edbfedf545",
-        "release_id": "2026-01-12_1145",
+        "date_updated": "2026-02-07",
+        "md5": "451533893adf7219c57fcb56dd765ece",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 506226,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-12_1145/biplanesrevival.zip"
+        "size": 506224,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/biplanesrevival.zip"
       },
       "version": 4
     },
@@ -26412,12 +26412,12 @@
       },
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2025-05-08",
-        "md5": "54c0370da45e603c8411dda9bcdb7ccc",
-        "release_id": "2025-05-08_2151",
+        "date_updated": "2026-02-07",
+        "md5": "8264799a9863842865344645b50abf93",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 58474292,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/dokimon.zip"
+        "size": 58465187,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/dokimon.zip"
       },
       "version": 4
     },
@@ -28913,12 +28913,12 @@
       "name": "duelingdragons.zip",
       "source": {
         "date_added": "2025-02-27",
-        "date_updated": "2025-02-27",
-        "md5": "c88b0faa64a4410f9f0d4c3c48bccc41",
-        "release_id": "2025-02-27_2241",
+        "date_updated": "2026-02-07",
+        "md5": "bfdf624718bd5f6733dfa7b150e43de2",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 15487778,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/duelingdragons.zip"
+        "size": 15487763,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/duelingdragons.zip"
       },
       "version": 4
     },
@@ -39749,12 +39749,12 @@
       "name": "goldenwarden.zip",
       "source": {
         "date_added": "2025-07-24",
-        "date_updated": "2025-07-24",
-        "md5": "e92d0fba19654f496283a90cabb82758",
-        "release_id": "2025-07-24_0745",
+        "date_updated": "2026-02-07",
+        "md5": "1bea8b7247772c35174f6cfa5f81f33a",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 8992366,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/goldenwarden.zip"
+        "size": 8992310,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/goldenwarden.zip"
       },
       "version": 4
     },
@@ -59345,6 +59345,102 @@
       },
       "version": 4
     },
+    "megaserval.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Serval's friends are in danger and it's up to her to save the day! Progress through 12 action-packed platforming stages in this \"Kemono Friends Project\" derivative work!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2009720/Mega_Serval",
+            "name": "Steam"
+          }
+        ],
+        "title": "Mega Serval"
+      },
+      "items": [
+        "Mega Serval.sh",
+        "megaserval"
+      ],
+      "items_opt": null,
+      "name": "megaserval.zip",
+      "source": {
+        "date_added": "2026-02-07",
+        "date_updated": "2026-02-07",
+        "md5": "16f769081c98b1f83b3113228f9c3958",
+        "release_id": "2026-02-07_0859",
+        "repo": "main",
+        "size": 27445245,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/megaserval.zip"
+      },
+      "version": 4
+    },
     "megawitter.zip": {
       "attr": {
         "arch": [
@@ -65084,12 +65180,12 @@
       "name": "nextdoor.zip",
       "source": {
         "date_added": "2024-11-02",
-        "date_updated": "2024-11-03",
-        "md5": "1503f974e2026feaf18544bf7fdf865e",
-        "release_id": "2024-11-03_1903",
+        "date_updated": "2026-02-07",
+        "md5": "794fc02c7c2ae2e12d3b6eb3934f1e1f",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 12174052,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-03_1903/nextdoor.zip"
+        "size": 12174190,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/nextdoor.zip"
       },
       "version": 4
     },
@@ -68824,7 +68920,8 @@
     "openggs.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -68862,11 +68959,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "Open Great Giana Sisters is a Free Software/Open Source implementation/remake of The Great Giana Sisters.",
         "desc_md": null,
         "exp": false,
@@ -68888,11 +68987,12 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Open Great Giana Sisters"
       },
       "items": [
         "Open Great Giana Sisters.sh",
-        "openggs/"
+        "openggs"
       ],
       "items_opt": null,
       "name": "openggs.zip",
@@ -68904,14 +69004,14 @@
       },
       "source": {
         "date_added": "2023-05-14",
-        "date_updated": "2025-10-04",
-        "md5": "1c456973d96bd02234a5a66664478c83",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-02-07",
+        "md5": "9311872fda459ee7785cf83f60f8808d",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 1524756,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/openggs.zip"
+        "size": 1601628,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/openggs.zip"
       },
-      "version": 2
+      "version": 4
     },
     "openhexagon.zip": {
       "attr": {
@@ -81908,6 +82008,96 @@
       },
       "version": 2
     },
+    "retrohighway.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Return to the days of pure arcade fun!  \nRetro Highway is a throwback racing game aiming to combine the accessibility of modern titles with the high-skill challenge and charming aesthetics of old.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Itch.io.\nDownload the Windows version and place RetroHighway.zip in ports/retrohighway/assets",
+        "inst_md": "Purchase the game from [Itch.io](https://nicolaigd.itch.io/retro-highway).\nDownload the Windows version and place RetroHighway.zip in ports/retrohighway/assets.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://nicolaigd.itch.io/",
+            "gameurl": "https://nicolaigd.itch.io/retro-highway",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Retro Highway"
+      },
+      "items": [
+        "Retro Highway.sh",
+        "retrohighway"
+      ],
+      "items_opt": null,
+      "name": "retrohighway.zip",
+      "source": {
+        "date_added": "2026-02-07",
+        "date_updated": "2026-02-07",
+        "md5": "e5dfbef1ecc5678d2e8bebe324a4dbd8",
+        "release_id": "2026-02-07_0859",
+        "repo": "main",
+        "size": 9177719,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/retrohighway.zip"
+      },
+      "version": 4
+    },
     "retrotime.zip": {
       "attr": {
         "arch": [
@@ -82511,7 +82701,7 @@
           "covers": [
             "cover.jpg"
           ],
-          "screenshot": "screenshot.jpg",
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
@@ -82540,12 +82730,12 @@
       "name": "riddledcorpses.zip",
       "source": {
         "date_added": "2025-04-11",
-        "date_updated": "2025-04-11",
-        "md5": "d14997052167b9c3346961812280f32b",
-        "release_id": "2025-04-11_0650",
+        "date_updated": "2026-02-07",
+        "md5": "3af082017c646705e962d44272edd024",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 6539548,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-11_0650/riddledcorpses.zip"
+        "size": 6459153,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/riddledcorpses.zip"
       },
       "version": 4
     },
@@ -88637,7 +88827,8 @@
     "signus.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -88675,11 +88866,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "Classic turn-based strategy war game similar to the old Battle Isle series. Commercially released in 1998, open-sourced by the original authors in 2002.",
         "desc_md": null,
         "exp": false,
@@ -88704,6 +88897,7 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Signus - The Artefact Wars"
       },
       "items": [
@@ -88720,12 +88914,12 @@
       },
       "source": {
         "date_added": "2025-02-13",
-        "date_updated": "2025-02-19",
-        "md5": "4dea418f73118bbe555beab10cd89ef4",
-        "release_id": "2025-02-19_1252",
+        "date_updated": "2026-02-07",
+        "md5": "234d4688cc8ecd24c10481f1fded8965",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 707841683,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-19_1252/signus.zip"
+        "size": 709451499,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/signus.zip"
       },
       "version": 4
     },
@@ -102488,8 +102682,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on Steam and copy TheLastGame.pck into the gamedata folder. You can also use the free demo. Devices with rk3326 cpu are not recommended because of low performance",
-        "inst_md": "Purchase the game on [Steam](store.steampowered.com/app/2563800/The_Last_Game/) and copy `TheLastGame.pck` into the `gamedata` folder. You can also use the free demo. Devices with rk3326 cpu are not recommended because of low performance",
+        "inst": "Purchase the game on Steam, open the Steam console and paste the folowing text to download a compatible version: download_depot 2563800 2563801 879463373856549854 and copy TheLastGame.pck into the gamedata folder. You can also use the free demo, add it into your Steam library and use this Steam console command to download a compatible version: download_depot download_depot 2964420 2964421 3185082754256006513. Devices with rk3326 cpu are not recommended because of low performance",
+        "inst_md": "Purchase the game on [Steam](store.steampowered.com/app/2563800/The_Last_Game/), open the Steam console and paste the folowing text to download a compatible version: `download_depot 2563800 2563801 879463373856549854` and copy `TheLastGame.pck` into the `gamedata` folder. You can also use the free demo, add it into your Steam library and use this Steam console command to download a compatible version: `download_depot download_depot 2964420 2964421 3185082754256006513`. Devices with rk3326 cpu are not recommended because of low performance",
         "min_glibc": "",
         "porter": [
           "Ganimoth"
@@ -102519,12 +102713,12 @@
       "name": "thelastgame.zip",
       "source": {
         "date_added": "2025-12-29",
-        "date_updated": "2025-12-29",
-        "md5": "f644d8cc88c839fab6db30644829628c",
-        "release_id": "2025-12-29_0521",
+        "date_updated": "2026-02-07",
+        "md5": "a187ae9760beacfaab4173017050f62f",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 184131,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/thelastgame.zip"
+        "size": 184287,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/thelastgame.zip"
       },
       "version": 4
     },
@@ -110796,12 +110990,12 @@
       "name": "vitasnake.zip",
       "source": {
         "date_added": "2024-09-24",
-        "date_updated": "2025-05-12",
-        "md5": "0be47f79fc1f9c8d3e24ea1c11b90e2a",
-        "release_id": "2025-05-12_1413",
+        "date_updated": "2026-02-07",
+        "md5": "bb7297b40cae1ce760964c475ea603bf",
+        "release_id": "2026-02-07_0859",
         "repo": "main",
-        "size": 17793346,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/vitasnake.zip"
+        "size": 17793128,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/vitasnake.zip"
       },
       "version": 4
     },
