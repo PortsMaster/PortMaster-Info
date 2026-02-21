@@ -4878,6 +4878,103 @@
       },
       "version": 4
     },
+    "ascentdx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Crashed on a desolate but mysterious planet you find yourself eye to eye with an ancient civilisation. Explore the planet, find powerful upgrades, and fulfill your destiny.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This game is ready to run! \nSpecial thanks to Johan Peitz for allowing PortMaster to distribute the game!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88",
+          "Doronimmo"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://apskeppet.se/",
+            "gameurl": "https://store.steampowered.com/app/3384890/Ascent_DX/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Ascent DX"
+      },
+      "items": [
+        "Ascent DX.sh",
+        "ascentdx"
+      ],
+      "items_opt": null,
+      "name": "ascentdx.zip",
+      "source": {
+        "date_added": "2026-02-21",
+        "date_updated": "2026-02-21",
+        "md5": "2535f23df9fd116490e8e5e4c922f045",
+        "release_id": "2026-02-21_1055",
+        "repo": "main",
+        "size": 5569694,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/ascentdx.zip"
+      },
+      "version": 4
+    },
     "assaultshell.zip": {
       "attr": {
         "arch": [
@@ -19701,6 +19798,99 @@
       },
       "version": 4
     },
+    "corsairs.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "J2ME pirate trading and naval combat game originally developed by Akella for Nokia 6230i. Trade, sail, and fight naval battles in a pixel-art Caribbean setting. Includes English translation (original game is Russian only).",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place the original Corsairs JAR as corsairs.jar into ports/corsairs/. The game JAR can be found in J2ME game archives.",
+        "inst_md": "Place the original Corsairs JAR as `corsairs.jar` into `ports/corsairs/`. The game JAR can be found in J2ME game archives.",
+        "min_glibc": "",
+        "porter": [
+          "Viktor"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "zulu11.48.21-ca-jdk11.0.11-linux.squashfs"
+        ],
+        "store": [],
+        "title": "Corsairs"
+      },
+      "items": [
+        "Corsairs.sh",
+        "corsairs"
+      ],
+      "items_opt": null,
+      "name": "corsairs.zip",
+      "source": {
+        "date_added": "2026-02-21",
+        "date_updated": "2026-02-21",
+        "md5": "620e034032f5da24d598461363e3c93a",
+        "release_id": "2026-02-21_1055",
+        "repo": "main",
+        "size": 147262,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/corsairs.zip"
+      },
+      "version": 4
+    },
     "corsixth.zip": {
       "attr": {
         "arch": [
@@ -20248,6 +20438,105 @@
         "repo": "main",
         "size": 6690526,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-07_1957/crashlands.zip"
+      },
+      "version": 4
+    },
+    "crashpsychedout.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Crash Bandicoot is back in another fan-game adventure! This time the evil N.Trance has brainwashed the entire planet and brought his army of interdimensional aliens to wreak havoc across the globe. Only Crash and his nemesis Dr. Neo Cortex are spared from being N.Trance's slaves, and must once again team up to put an end to his twisted reign! Play as both characters as you travel the planet and quite literally pick the brains of your favorite characters from the crash-verse! Are you ready to get psyched?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from Gamejolt and extract all game files into the assets folder.",
+        "inst_md": "Download the game from [Gamejolt](https://gamejolt.com/games/Crash_Bandicoot_Psyched_Out/532023) and extract all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://gamejolt.com/games/Crash_Bandicoot_Psyched_Out/532023",
+            "name": "Gamejolt"
+          }
+        ],
+        "title": "Crash Bandicoot Psyched Out"
+      },
+      "items": [
+        "Crash Bandicoot Psyched Out.sh",
+        "crashpsychedout"
+      ],
+      "items_opt": null,
+      "name": "crashpsychedout.zip",
+      "source": {
+        "date_added": "2026-02-21",
+        "date_updated": "2026-02-21",
+        "md5": "3bca507af0871b7625ac245e81d8561a",
+        "release_id": "2026-02-21_1055",
+        "repo": "main",
+        "size": 12326503,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/crashpsychedout.zip"
       },
       "version": 4
     },
@@ -22454,6 +22743,116 @@
         "repo": "main",
         "size": 47391687,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-09_2009/darkmoon.zip"
+      },
+      "version": 4
+    },
+    "darkplaces.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "demo",
+        "desc": "DarkPlaces is a Quake engine source port by LadyHavoc that has greatly improved graphics and image quality. The realism of shell casings falling to the floor, much improved bullet impacts, 32bit color alpha blended explosions, blood flying everywhere and sticking to the walls...",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You will need to populate the id1, hipnotic, rogue, and dopa directories with your pak files and music tracks. Details can be found in the included text documents. The shareware version of Quake is included, but most expansions and mods will require the full registered version.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2310/Quake/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/quake_the_offering",
+            "name": "GOG"
+          }
+        ],
+        "title": "DarkPlaces"
+      },
+      "items": [
+        "DarkPlaces - Quake.sh",
+        "DarkPlaces - Aftershock.sh",
+        "DarkPlaces - Dimension of the Past.sh",
+        "DarkPlaces - Dissolution of Eternity.sh",
+        "DarkPlaces - Insomnia.sh",
+        "DarkPlaces - QZone.sh",
+        "DarkPlaces - Scourge of Armagon.sh",
+        "darkplaces"
+      ],
+      "items_opt": null,
+      "name": "darkplaces.zip",
+      "source": {
+        "date_added": "2026-02-21",
+        "date_updated": "2026-02-21",
+        "md5": "e37ab7cc5e7ebf25f9e1d299125b4d0f",
+        "release_id": "2026-02-21_1055",
+        "repo": "main",
+        "size": 38380671,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/darkplaces.zip"
       },
       "version": 4
     },
@@ -41998,6 +42397,94 @@
         "repo": "main",
         "size": 25476487,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/gungungun.zip"
+      },
+      "version": 4
+    },
+    "gunpowder.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Mega hardcore! In this game you will receive damage first, and only then you will locate the enemy. The implementation of military operations in the classic mechanics of platformer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder. You can also use the free demo. Devices with RK3326 CPU are not recommended due to frequent slowdowns. ",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/994860/Gunpowder_on_The_Teeth_Arcade/) and copy all game files into the `assets` folder. You can also use the free demo. Devices with `RK3326` CPU are not recommended due to frequent slowdowns. ",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://x.com/R23rer",
+            "gameurl": "https://store.steampowered.com/app/994860/Gunpowder_on_The_Teeth_Arcade/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Gunpowder on The Teeth: Arcade"
+      },
+      "items": [
+        "Gunpowder on The Teeth - Arcade.sh",
+        "gunpowder"
+      ],
+      "items_opt": null,
+      "name": "gunpowder.zip",
+      "source": {
+        "date_added": "2026-02-21",
+        "date_updated": "2026-02-21",
+        "md5": "ee3c60380b79708ece8fff73d29cfb58",
+        "release_id": "2026-02-21_1055",
+        "repo": "main",
+        "size": 4664838,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/gunpowder.zip"
       },
       "version": 4
     },
@@ -61548,12 +62035,12 @@
       "name": "minit.zip",
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2025-11-09",
-        "md5": "74c1e605846b19abe1372c49f2f931f5",
-        "release_id": "2025-11-09_0618",
+        "date_updated": "2026-02-21",
+        "md5": "9b320acb3491c19bf239f1e24b010b06",
+        "release_id": "2026-02-21_1055",
         "repo": "main",
-        "size": 4741562,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-09_0618/minit.zip"
+        "size": 4741554,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/minit.zip"
       },
       "version": 2
     },
@@ -66640,12 +67127,12 @@
       },
       "source": {
         "date_added": "2025-07-01",
-        "date_updated": "2026-01-07",
-        "md5": "8aa6b3c35b97356731f5cf130b37229c",
-        "release_id": "2026-01-07_1231",
+        "date_updated": "2026-02-21",
+        "md5": "0df1050170687f10ffb299ca84b48c01",
+        "release_id": "2026-02-21_1055",
         "repo": "main",
-        "size": 11743301,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/noskin.zip"
+        "size": 11757541,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/noskin.zip"
       },
       "version": 4
     },
@@ -67087,12 +67574,12 @@
       "name": "nox-decomp.zip",
       "source": {
         "date_added": "2026-02-14",
-        "date_updated": "2026-02-14",
-        "md5": "4ad08288b55447fd3008b36dabdd1628",
-        "release_id": "2026-02-14_0306",
+        "date_updated": "2026-02-21",
+        "md5": "9e2b4b4c640cb67c955a6da2d60ac24c",
+        "release_id": "2026-02-21_1055",
         "repo": "main",
-        "size": 45400677,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-14_0306/nox-decomp.zip"
+        "size": 45400813,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/nox-decomp.zip"
       },
       "version": 4
     },
@@ -69602,12 +70089,12 @@
       },
       "source": {
         "date_added": "2023-07-24",
-        "date_updated": "2026-02-14",
-        "md5": "4970081e4a5a9e2b9508ab6a2326b11f",
-        "release_id": "2026-02-14_0306",
+        "date_updated": "2026-02-21",
+        "md5": "021298214992fe229480120a861741f4",
+        "release_id": "2026-02-21_1055",
         "repo": "main",
-        "size": 5665537,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-14_0306/openmrac.zip"
+        "size": 5666190,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/openmrac.zip"
       },
       "version": 4
     },
@@ -90259,6 +90746,103 @@
         "repo": "main",
         "size": 42205295,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-14_1048/slime3k.zip"
+      },
+      "version": 4
+    },
+    "slimecrown.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Slime Crown is a colorful Pixel Art Game with a unique but challenging Gameplay. The Colors Green, Blue, Red and Yellow are the Key to Success.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1519820/Slime_Crown/) and copy all game files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://misteryjay.itch.io/",
+            "gameurl": "https://store.steampowered.com/app/1519820/Slime_Crown/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Slime Crown"
+      },
+      "items": [
+        "Slime Crown.sh",
+        "slimecrown"
+      ],
+      "items_opt": null,
+      "name": "slimecrown.zip",
+      "source": {
+        "date_added": "2026-02-21",
+        "date_updated": "2026-02-21",
+        "md5": "975097f1db45b75c9b4e69742162eca6",
+        "release_id": "2026-02-21_1055",
+        "repo": "main",
+        "size": 4828818,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/slimecrown.zip"
       },
       "version": 4
     },
