@@ -55905,7 +55905,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You can change controls in the options (cog) menu, but you must **plug in a mouse to assign the gamepad inputs.**\n\nFor the CD soundtrack, download the DLC here: https://mmr.quarkrobot.com/manual/get-started#soundtrack -- place the LR_AUDIO.PRS file in the port's savadata folder.",
+        "inst": "You can change controls in the options (cog) menu, but you must **plug in a mouse to assign the gamepad inputs.**\n\nFor the CD soundtrack, download the DLC here: https://mmr.quarkrobot.com/manual/get-started#soundtrack -- place the LR_AUDIO.PRS file in the port's gamedata/DATA folder.",
         "inst_md": "You can change controls in the options (cog) menu, but you must **plug in a mouse to assign the gamepad inputs.**\n\nFor the CD soundtrack, download the DLC here: [https://mmr.quarkrobot.com/manual/get-started#soundtrack](https://mmr.quarkrobot.com/manual/get-started#soundtrack) -- place the `LR_AUDIO.PRS` file in the port's `savadata` folder.",
         "min_glibc": "",
         "porter": [
@@ -55934,12 +55934,12 @@
       "name": "loderunneronline.zip",
       "source": {
         "date_added": "2024-03-12",
-        "date_updated": "2025-06-09",
-        "md5": "d2c528a55a91f77f39aa846326c9b670",
-        "release_id": "2025-06-09_1813",
+        "date_updated": "2026-02-24",
+        "md5": "cb5091e94b24f43ad13a665bc4f48192",
+        "release_id": "2026-02-24_1300",
         "repo": "multiverse",
         "size": 30491889,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-06-09_1813/loderunneronline.zip"
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-02-24_1300/loderunneronline.zip"
       },
       "version": 4
     },
@@ -67854,7 +67854,7 @@
     "nuclearthronemobile.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -67881,10 +67881,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -67893,8 +67897,9 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "free",
         "desc": "This is an open source recreation and is based on Nuclear Throne u19, featuring everything from the final release of u9. Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
-        "desc_md": null,
+        "desc_md": "This is an open source recreation and is based on Nuclear Throne u19, featuring everything from the final release of u9. Nuclear Throne is a post-apocalyptic roguelike-like top-down shooter. Fight your way through the wastelands with powerful weaponry, collecting radiation to mutate some new limbs and abilities. All these things and more you could do if only you were good at this game. Can you reach the Nuclear Throne?",
         "exp": false,
         "genres": [
           "action"
@@ -67907,15 +67912,23 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the `(OLDER, HAS MULTIPLAYER)` apk from https://toncho.itch.io/nuclear-throne-mobile and add to ports/nuclearthronemobile",
-        "inst_md": null,
+        "inst": "Download the apk from https://toncho.itch.io/nuclear-throne-mobile and add to ports/nuclearthronemobile",
+        "inst_md": "Download the `apk` from [Itch.io](https://toncho.itch.io/nuclear-throne-mobile) and add to `ports/nuclearthronemobile`",
         "min_glibc": "",
         "porter": [
-          "mattyj513"
+          "mattyj513",
+          "Ganimoth"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://x.com/toarch7",
+            "gameurl": "https://toncho.itch.io/nuclear-throne-mobile",
+            "name": "Itch.io"
+          }
+        ],
         "title": "Nuclear Throne Mobile"
       },
       "items": [
@@ -67926,14 +67939,14 @@
       "name": "nuclearthronemobile.zip",
       "source": {
         "date_added": "2023-10-21",
-        "date_updated": "2025-05-22",
-        "md5": "494303f055af3aea485fe41b063a5abc",
-        "release_id": "2025-05-22_1232",
+        "date_updated": "2026-02-24",
+        "md5": "8518de7f678fb4106e15f6ff5f9e4a55",
+        "release_id": "2026-02-24_1300",
         "repo": "multiverse",
-        "size": 1519238,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-22_1232/nuclearthronemobile.zip"
+        "size": 2342709,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-02-24_1300/nuclearthronemobile.zip"
       },
-      "version": 2
+      "version": 4
     },
     "nulldrifter.zip": {
       "attr": {
@@ -92018,7 +92031,8 @@
     "soh.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -92056,11 +92070,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "A source port of Ocarina of Time &amp; Master Quest. Ship of Harkinian features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.",
         "desc_md": null,
         "exp": false,
@@ -92076,16 +92092,18 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Follow the guide at https://www.shipofharkinian.com/setup-guide for your desired platform to create your oot.otr and/or oot-mq.otr files. Once created put in the ports/soh folder.",
+        "inst": "Follow the guide at https://www.shipofharkinian.com/setup-guide for your desired platform to create your oot.o2r and/or oot-mq.o2r files. Once created put in the ports/soh/baseroms folder.",
         "inst_md": null,
-        "min_glibc": "",
+        "min_glibc": null,
         "porter": [
           "Jeod",
-          "beniamino"
+          "beniamino",
+          "monkeyx-net"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [],
         "title": "Ship of Harkinian"
       },
       "items": [
@@ -92102,14 +92120,14 @@
       },
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2025-05-04",
-        "md5": "6b3148a470578b3ccc1baac3664db36a",
-        "release_id": "2025-05-04_0203",
+        "date_updated": "2026-02-24",
+        "md5": "c165e6f20c61dd78e870f56030233ddd",
+        "release_id": "2026-02-24_1300",
         "repo": "multiverse",
-        "size": 18457445,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-04_0203/soh.zip"
+        "size": 56260550,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-02-24_1300/soh.zip"
       },
-      "version": 2
+      "version": 4
     },
     "soh2.zip": {
       "attr": {
