@@ -4229,6 +4229,102 @@
       },
       "version": 4
     },
+    "arcadespirits.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Arcade Spirits is a Visual novel that takes place in an alternative future where the Video Game Crash of 1983 did not happen. You will be working at an Arcade, and who knows, maybe romance would bloom? ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "visual novel"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download Arcade Spirits from Steam (https://store.steampowered.com/app/910630/Arcade_Spirits/), Get the \"game\" folder from the files, and put that inside the ports/arcadespirits/ folder.",
+        "inst_md": "**Notes**:\nIf you want to name your player character something other than Ari Cader, connect a Keyboard to your device\n\nAlso Please note that at the current time, the best way to leave the game is to rely on the in-game quit menu\n\n\n**Thanks to**:\n[Fiction Factory Games](https://www.arcadespirits.com/) for creating this lovely game\n\nThe testers for helping getting this port to it's current state\n",
+        "min_glibc": "",
+        "porter": [
+          "Pixel Databite"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "renpy_8.1.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.fictionfactorygames.com/",
+            "gameurl": "https://store.steampowered.com/app/910630/Arcade_Spirits/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Arcade Spirits"
+      },
+      "items": [
+        "Arcade Spirits.sh",
+        "arcadespirits"
+      ],
+      "items_opt": null,
+      "name": "arcadespirits.zip",
+      "source": {
+        "date_added": "2026-02-26",
+        "date_updated": "2026-02-26",
+        "md5": "e8922dcfeb21c06a08bc0ede5c7d2e06",
+        "release_id": "2026-02-26_2317",
+        "repo": "main",
+        "size": 620914,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-26_2317/arcadespirits.zip"
+      },
+      "version": 4
+    },
     "arco.zip": {
       "attr": {
         "arch": [
@@ -9024,6 +9120,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/blastius.zip"
       },
       "version": 2
+    },
+    "blazeofstorm.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Blaze of Storm is an arcade-style vertical scrolling shmup featuring cyber-inspired pixel art, exhilarating fast-scrolling and a variety of sub-weapons.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into assets folder. You can also use the free demo.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3513070/Blaze_of_Storm/) and copy all game files into `assets` folder. You can also use the free demo.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.teraringames.com/",
+            "gameurl": "https://store.steampowered.com/app/3513070/Blaze_of_Storm/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Blaze of Storm"
+      },
+      "items": [
+        "Blaze of Storm.sh",
+        "blazeofstorm"
+      ],
+      "items_opt": null,
+      "name": "blazeofstorm.zip",
+      "source": {
+        "date_added": "2026-02-26",
+        "date_updated": "2026-02-26",
+        "md5": "588ffaf14712051a27bf005a828bd379",
+        "release_id": "2026-02-26_2317",
+        "repo": "main",
+        "size": 7294749,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-26_2317/blazeofstorm.zip"
+      },
+      "version": 4
     },
     "blazingbeaks.zip": {
       "attr": {
@@ -40871,7 +41063,8 @@
     "gravitycircuit.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -40909,11 +41102,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "Gravity Circuit - a flashy action packed 2d platformer in the spirit of console classics.",
         "desc_md": null,
         "exp": false,
@@ -40928,16 +41123,34 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Drop GravityCircuit.exe from either your GOG or Steam copy of the game into /roms/ports/gravitycircuit/gamedata",
+        "inst": "Drop GravityCircuit.exe from either your Epic, GOG or Steam copy of the game into /roms/ports/gravitycircuit/gamedata",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "Kompaan",
-          "Wark91"
+          "Wark91",
+          "ImCoKeMaN"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.epicgames.com/en-US/p/gravity-circuit-489baa",
+            "name": "Epic"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Domesticated%20Ant%20Games",
+            "gameurl": "https://store.steampowered.com/app/858710/Gravity_Circuit/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.gog.com/en/games?developers=domesticated-ant-games",
+            "gameurl": "https://www.gog.com/en/game/gravity_circuit",
+            "name": "GOG"
+          }
+        ],
         "title": "Gravity Circuit"
       },
       "items": [
@@ -40954,14 +41167,14 @@
       },
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2024-04-25",
-        "md5": "456f8e2388ac97e6a4eb3c5b97f03efc",
-        "release_id": "2024-04-25_1154",
+        "date_updated": "2026-02-26",
+        "md5": "db9ac118209ffc369dd0d985d5dc6b17",
+        "release_id": "2026-02-26_2317",
         "repo": "main",
-        "size": 2439051,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-25_1154/gravitycircuit.zip"
+        "size": 408432,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-26_2317/gravitycircuit.zip"
       },
-      "version": 2
+      "version": 4
     },
     "gravitydefied.zip": {
       "attr": {
@@ -81249,7 +81462,7 @@
     "redhandsomehood.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -81276,10 +81489,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -81322,12 +81539,12 @@
       "name": "redhandsomehood.zip",
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2024-07-18",
-        "md5": "d264b6464fe211f7e8d1648b325801da",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2026-02-26",
+        "md5": "494ed9bb5564a79271dc0a2442b041af",
+        "release_id": "2026-02-26_2317",
         "repo": "main",
-        "size": 41405133,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/redhandsomehood.zip"
+        "size": 20172709,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-26_2317/redhandsomehood.zip"
       },
       "version": 2
     },
