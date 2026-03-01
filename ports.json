@@ -20533,6 +20533,91 @@
       },
       "version": 4
     },
+    "counter-strike.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "An iconic tactical shooter that shaped online multiplayer gaming, Counter-Strike delivers fast-paced, objective-based combat built around teamwork and skill.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "1. Buy the game on Steam https://store.steampowered.com/app/10/CounterStrike.\n\n2. Copy your valve folder into: /roms/ports/counter-strike/valve\n\n3. Copy your cstrike folder into: /roms/ports/counter-strike/cstrike\n\n4. Do not overwrite existing port files when copying game data. If prompted, choose Skip / Keep existing files.\n\n5. Launch Counter-Strike from PortMaster.",
+        "inst_md": "1. Buy the game on Steam [https://store.steampowered.com/app/10/CounterStrike](https://store.steampowered.com/app/10/CounterStrike).\n\n2. Copy your **`valve`** folder into: `/roms/ports/counter-strike/valve`\n\n3. Copy your **`cstrike`** folder into: `/roms/ports/counter-strike/cstrike`\n\n4. **Do not overwrite existing port files** when copying game data. If prompted, choose **Skip / Keep existing files**.\n\n5. Launch **Counter-Strike** from PortMaster.",
+        "min_glibc": "",
+        "porter": [
+          "ryangunn313"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.valvesoftware.com/",
+            "gameurl": "https://store.steampowered.com/app/10/CounterStrike/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Counter-Strike 1.6"
+      },
+      "items": [
+        "Counter-Strike.sh",
+        "counter-strike"
+      ],
+      "items_opt": null,
+      "name": "counter-strike.zip",
+      "source": {
+        "date_added": "2026-03-01",
+        "date_updated": "2026-03-01",
+        "md5": "2d4c899aa2b104b55f4f3e448c204340",
+        "release_id": "2026-03-01_1237",
+        "repo": "main",
+        "size": 21906005,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-01_1237/counter-strike.zip"
+      },
+      "version": 4
+    },
     "crashlands.zip": {
       "attr": {
         "arch": [
@@ -23485,6 +23570,108 @@
         "repo": "main",
         "size": 7359822,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/dayofdrift.zip"
+      },
+      "version": 4
+    },
+    "deadcells.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Dead Cells is a roguelike-metroidvania action platformer where you explore an ever-changing castle, fighting through procedurally generated levels with tight, fluid combat and a vast array of weapons and abilities. Death is permanent but progression carries over, unlocking new gear and paths that make each run feel fresh and rewarding.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "See the README.md for installation instructions",
+        "inst_md": "### GoG Instructions\nPlace the **LINUX** version installer (eg: `dead_cells_1_26_0_75679.sh`) in the port's `gamedata` folder.\nIf you have installed the **linux** version already, you can copy the `res.pak`\nand `hlboot.dat` files from the installations `game` folder into the port's `gamedata` folder.\n### GoG DLC\nYou can copy the GoG DLC installers into the `gamedata` folder too.\n### Steam Instructions\n* Open Steam console: `steam://open/console`\n* Copy and paste command: `download_depot 588650 588653 5814907161645516281`\n* Open the folder where this depot was downloaded and copy `res.pak`\n  and `hlboot.dat` into the port's `gamedata` folder.  On windows this folder will be `C:\\Program Files (x86)\\Steam\\steamapps\\content\\app_588650\\depot_588653`\n",
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/dead_cells",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/588650/Dead_Cells/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Dead Cells"
+      },
+      "items": [
+        "Dead Cells.sh",
+        "deadcells"
+      ],
+      "items_opt": null,
+      "name": "deadcells.zip",
+      "source": {
+        "date_added": "2026-03-01",
+        "date_updated": "2026-03-01",
+        "md5": "f3c96a1e73d635eb7483b515c6fa9e5c",
+        "release_id": "2026-03-01_1237",
+        "repo": "main",
+        "size": 169234135,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-01_1237/deadcells.zip"
       },
       "version": 4
     },
