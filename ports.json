@@ -20590,7 +20590,7 @@
         "reqs": [
           "analog_2"
         ],
-        "rtr": true,
+        "rtr": false,
         "runtime": [],
         "store": [
           {
@@ -20610,11 +20610,11 @@
       "source": {
         "date_added": "2026-03-01",
         "date_updated": "2026-03-01",
-        "md5": "2d4c899aa2b104b55f4f3e448c204340",
-        "release_id": "2026-03-01_1237",
+        "md5": "e95ef4dc53656cdd4415df357c041ec2",
+        "release_id": "2026-03-01_1657",
         "repo": "main",
-        "size": 21906005,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-01_1237/counter-strike.zip"
+        "size": 21906001,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-01_1657/counter-strike.zip"
       },
       "version": 4
     },
@@ -23667,11 +23667,11 @@
       "source": {
         "date_added": "2026-03-01",
         "date_updated": "2026-03-01",
-        "md5": "f3c96a1e73d635eb7483b515c6fa9e5c",
-        "release_id": "2026-03-01_1237",
+        "md5": "d82ac3c3cea74ef4804a10acbf0779ff",
+        "release_id": "2026-03-01_1657",
         "repo": "main",
-        "size": 169234135,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-01_1237/deadcells.zip"
+        "size": 169234966,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-01_1657/deadcells.zip"
       },
       "version": 4
     },
