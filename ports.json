@@ -23314,7 +23314,8 @@
     "davegnukem.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -23352,11 +23353,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "Dave Gnukem is a cross-platform 2D scrolling platform shooter inspired by Duke Nukem 1.",
         "desc_md": null,
         "exp": false,
@@ -23376,29 +23379,31 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Bamboozler"
+          "Bamboozler",
+          "Slayer366"
         ],
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Dave Gnukem"
       },
       "items": [
         "Dave Gnukem.sh",
-        "davegnukem/"
+        "davegnukem"
       ],
       "items_opt": null,
       "name": "davegnukem.zip",
       "source": {
         "date_added": "2023-03-27",
-        "date_updated": "2025-10-04",
-        "md5": "08147495a586da0cd767eca021c3248c",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-05",
+        "md5": "2044319cfff656836f2bbf5d2a932c63",
+        "release_id": "2026-03-05_1348",
         "repo": "main",
-        "size": 199426,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/davegnukem.zip"
+        "size": 21455147,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/davegnukem.zip"
       },
-      "version": 2
+      "version": 4
     },
     "daydreamer.zip": {
       "attr": {
@@ -23666,12 +23671,12 @@
       "name": "deadcells.zip",
       "source": {
         "date_added": "2026-03-01",
-        "date_updated": "2026-03-01",
-        "md5": "d82ac3c3cea74ef4804a10acbf0779ff",
-        "release_id": "2026-03-01_1657",
+        "date_updated": "2026-03-05",
+        "md5": "584014edca250a723d0a2e84d422acb0",
+        "release_id": "2026-03-05_1348",
         "repo": "main",
-        "size": 169234966,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-01_1657/deadcells.zip"
+        "size": 169236523,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/deadcells.zip"
       },
       "version": 4
     },
@@ -28146,6 +28151,102 @@
         "repo": "main",
         "size": 74653987,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-29_1057/doomengines.zip"
+      },
+      "version": 4
+    },
+    "doomies3.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Doomies: Bloody Fur is a third entry in an intense, super gory game series about killing mutant animals and overcoming your previous hi-score!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.braindeadrabbit.com/",
+            "gameurl": "https://elrichie.itch.io/doomies-bloody-fur",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Doomies: Bloody Fur"
+      },
+      "items": [
+        "Doomies - Bloody Fur.sh",
+        "doomies3"
+      ],
+      "items_opt": null,
+      "name": "doomies3.zip",
+      "source": {
+        "date_added": "2026-03-05",
+        "date_updated": "2026-03-05",
+        "md5": "b340f5c4174ca93bd287b913ca481afe",
+        "release_id": "2026-03-05_1348",
+        "repo": "main",
+        "size": 25669272,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/doomies3.zip"
       },
       "version": 4
     },
@@ -64094,7 +64195,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Metal Slug SB Fanthology is a fan game developed by SuperBlinky, which has been in development since 2020. The latest version of the project is 0.7.2 The main goal of the project is to create 8 new Metal Slug experiences based on the 8 mainline games.",
+        "desc": "Metal Slug SB Fanthology is a fan game developed by SuperBlinky, which has been in development since 2020. The latest version of the project is 0.8.4 The main goal of the project is to create 8 new Metal Slug experiences based on the 8 mainline games.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -64110,7 +64211,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from  [GameJolt](https://gamejolt.com/games/MslugSBFan/478697) and put all the files from the `Files` folder (the one with all the audiogroups) into the `ports/mslugsbf/assets` folder.",
+        "inst": "Download the game from  [GameJolt](https://gamejolt.com/games/MslugSBFan/478697) and put all the files from the `GAME` folder (the one with all the audiogroups) into the `ports/mslugsbf/assets` folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -64130,12 +64231,12 @@
       "name": "mslugsbf.zip",
       "source": {
         "date_added": "2024-08-31",
-        "date_updated": "2025-10-04",
-        "md5": "a226b43318f34dc58b1ab47b5f81fbf9",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-05",
+        "md5": "b5bd754542958a00f2531f7677bdc0ef",
+        "release_id": "2026-03-05_1348",
         "repo": "main",
-        "size": 5450718,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/mslugsbf.zip"
+        "size": 5450769,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/mslugsbf.zip"
       },
       "version": 4
     },
@@ -78648,6 +78749,105 @@
       },
       "version": 4
     },
+    "projectshmoop.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Project S.H.M.O.O.P is a horizontal shoot-em-up (shmup) that hearkens back to shmups of the 90's. It features 5 levels, 14 bosses, 2 playable ships, and 0 original assets.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Shmoop.rar from https://sinoc.itch.io/shmoop and extract Shmoop.exe into assets folder.",
+        "inst_md": "Download the `Shmoop.rar` from [Itch.io](https://sinoc.itch.io/shmoop) and extract `Shmoop.exe` into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://shmoopdev.tumblr.com/",
+            "gameurl": "https://sinoc.itch.io/shmoop",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Project S.H.M.O.O.P"
+      },
+      "items": [
+        "Project S.H.M.O.O.P.sh",
+        "projectshmoop"
+      ],
+      "items_opt": null,
+      "name": "projectshmoop.zip",
+      "source": {
+        "date_added": "2026-03-05",
+        "date_updated": "2026-03-05",
+        "md5": "65d14f9bfa8dacf43431b6043d5ab330",
+        "release_id": "2026-03-05_1348",
+        "repo": "main",
+        "size": 4967777,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/projectshmoop.zip"
+      },
+      "version": 4
+    },
     "projectstarship.zip": {
       "attr": {
         "arch": [
@@ -81307,6 +81507,104 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/raptor.zip"
       },
       "version": 2
+    },
+    "ratcheteerdx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Explore the interconnected caverns below the frozen surface and a vast Snowcean above as you set out to rescue friend, foe, and stranger alike in this lo-fi action-adventure!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on steam and copy linux version game assets to gamedata folder with the following steam console command steam console command: download_depot 3166150 3166153 332929171642174417",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "ImCoKeMaN"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Shaun%20Inman",
+            "gameurl": "https://store.steampowered.com/app/3166150/Ratcheteer_DX/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Ratcheteer DX"
+      },
+      "items": [
+        "Ratcheteer DX.sh",
+        "ratcheteerdx"
+      ],
+      "items_opt": null,
+      "name": "ratcheteerdx.zip",
+      "source": {
+        "date_added": "2026-03-05",
+        "date_updated": "2026-03-05",
+        "md5": "77d4be48ace8f5cbb44007fc2e7ec189",
+        "release_id": "2026-03-05_1348",
+        "repo": "main",
+        "size": 3500117,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/ratcheteerdx.zip"
+      },
+      "version": 4
     },
     "ravenshike.zip": {
       "attr": {
@@ -117264,7 +117562,7 @@
     "youdiedbanry.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -117291,10 +117589,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -117317,7 +117619,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from https://bolhut.itch.io/you-died-but-a-necromancer-revived-you OR https://store.steampowered.com/app/1037100/You_Died_but_a_Necromancer_revived_you/\n\nSteam:\nRun steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 1037100 1037102 in the console, when the download is complete, it will tell you the location of the folder,  copy the game.unx from the assets folder to /ports/youdiedbanry/gamedata\n\nItch:\nDownload YouDied_BaNRY_linux.zip an copy the game.unx from the assets folder to /ports/youdiedbanry/gamedata",
+        "inst": "Purchase the game from https://bolhut.itch.io/you-died-but-a-necromancer-revived-you OR https://store.steampowered.com/app/1037100/You_Died_but_a_Necromancer_revived_you/\n\n  Steam: Run steam console via Windows+R: Type: steam://open/console, download the linux version by typing: download_depot 1037100 1037102 in the console, when the download is complete, it will tell you the location of the folder, copy the game files from the assets folder to /ports/youdiedbanry/assets\n\n  Itch: Download YouDied_BaNRY_linux.zip an copy the game files from the assets folder to /ports/youdiedbanry/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -117326,7 +117628,10 @@
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "title": "You Died But a Necromancer Revived You"
       },
       "items": [
@@ -117337,12 +117642,12 @@
       "name": "youdiedbanry.zip",
       "source": {
         "date_added": "2024-05-02",
-        "date_updated": "2024-12-07",
-        "md5": "f07be5ea7f31f0f9527b395631074237",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2026-03-05",
+        "md5": "ce53ec7d100ca10b46d8e7a5c4e63719",
+        "release_id": "2026-03-05_1348",
         "repo": "main",
-        "size": 5286185,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/youdiedbanry.zip"
+        "size": 7411136,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/youdiedbanry.zip"
       },
       "version": 2
     },
