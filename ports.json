@@ -81569,7 +81569,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Buy the game on steam and copy linux version game assets to gamedata folder with the following steam console command steam console command: download_depot 3166150 3166153 332929171642174417",
+        "inst": "Buy the game on steam and copy linux version game assets to gamedata folder with the following steam console command steam console command: download_depot 3166150 3166153 7362828488398565453",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -81598,11 +81598,11 @@
       "source": {
         "date_added": "2026-03-05",
         "date_updated": "2026-03-05",
-        "md5": "77d4be48ace8f5cbb44007fc2e7ec189",
-        "release_id": "2026-03-05_1348",
+        "md5": "7710ef6a3a5a62568bc43b12af594b26",
+        "release_id": "2026-03-05_1518",
         "repo": "main",
-        "size": 3500117,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/ratcheteerdx.zip"
+        "size": 3500120,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1518/ratcheteerdx.zip"
       },
       "version": 4
     },
