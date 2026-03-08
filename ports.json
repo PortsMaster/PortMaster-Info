@@ -23671,12 +23671,12 @@
       "name": "deadcells.zip",
       "source": {
         "date_added": "2026-03-01",
-        "date_updated": "2026-03-05",
-        "md5": "584014edca250a723d0a2e84d422acb0",
-        "release_id": "2026-03-05_1348",
+        "date_updated": "2026-03-08",
+        "md5": "27d2d0e8c1ad0cc3c546cc5bf49c5dbb",
+        "release_id": "2026-03-08_1343",
         "repo": "main",
-        "size": 169236523,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/deadcells.zip"
+        "size": 169236623,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-08_1343/deadcells.zip"
       },
       "version": 4
     },
