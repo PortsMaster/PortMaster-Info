@@ -92920,19 +92920,20 @@
       },
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2026-02-24",
-        "md5": "c165e6f20c61dd78e870f56030233ddd",
-        "release_id": "2026-02-24_1300",
+        "date_updated": "2026-03-16",
+        "md5": "259c1f936aece64128d08aee29f3e21a",
+        "release_id": "2026-03-16_2253",
         "repo": "multiverse",
-        "size": 56260550,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-02-24_1300/soh.zip"
+        "size": 56341266,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-03-16_2253/soh.zip"
       },
       "version": 4
     },
     "soh2.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -92970,11 +92971,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "A source port of Majora's Mask. 2Ship2Harkinian (aka SoH2) features extensive and significant enhancements over the original game, such as improved performance, increased frame-rate, native ultra-widescreen support, and extensive mod support (especially compared to emulated versions of the original), among other features.",
         "desc_md": null,
         "exp": false,
@@ -92992,14 +92995,16 @@
         },
         "inst": "Follow the guide in the readme to generate your mm.o2r file.",
         "inst_md": null,
-        "min_glibc": "",
+        "min_glibc": null,
         "porter": [
           "Jeod",
-          "beniamino"
+          "beniamino",
+          "monkeyx.net"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [],
         "title": "Ship of Harkinian 2"
       },
       "items": [
@@ -93016,14 +93021,14 @@
       },
       "source": {
         "date_added": "2024-06-10",
-        "date_updated": "2025-04-10",
-        "md5": "1ecbbbaae5f73d5cfcd5bfc842db9453",
-        "release_id": "2025-04-10_0720",
+        "date_updated": "2026-03-16",
+        "md5": "c469d3209bcfb65cfb881623dfcb7719",
+        "release_id": "2026-03-16_2253",
         "repo": "multiverse",
-        "size": 10372404,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-04-10_0720/soh2.zip"
+        "size": 24005320,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-03-16_2253/soh2.zip"
       },
-      "version": 2
+      "version": 4
     },
     "sokobos.zip": {
       "attr": {
