@@ -3478,12 +3478,12 @@
       "name": "anodyne.zip",
       "source": {
         "date_added": "2023-10-28",
-        "date_updated": "2025-10-04",
-        "md5": "a08f6497a1cb9fb4af49317fdee21ced",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "ca9ab90561c3cd9414a91a7d7ea463ea",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 1582945,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/anodyne.zip"
+        "size": 1582939,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/anodyne.zip"
       },
       "version": 2
     },
@@ -6059,12 +6059,12 @@
       "name": "avp.zip",
       "source": {
         "date_added": "2022-11-06",
-        "date_updated": "2025-10-04",
-        "md5": "7a0159b6485e50a92c6f97c04fd58d07",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "f19e1d4483e62d60a400329ef8e0c7a0",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 1545118,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/avp.zip"
+        "size": 1545114,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/avp.zip"
       },
       "version": 4
     },
@@ -9483,12 +9483,12 @@
       "name": "bleed.zip",
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2025-10-04",
-        "md5": "196d527e6e5ecee24bc5c1c8c328c12c",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "b445104b6460d51134961ba62533d9b8",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 2849407,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/bleed.zip"
+        "size": 2849400,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/bleed.zip"
       },
       "version": 2
     },
@@ -9578,12 +9578,12 @@
       },
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2025-10-04",
-        "md5": "b8eca914f78ec5e508a40d7fb6f3cb0e",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "28b0408f5442d8a9d02a00571ecfa606",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 2251265,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/bleed2.zip"
+        "size": 2251253,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/bleed2.zip"
       },
       "version": 2
     },
@@ -10575,12 +10575,12 @@
       },
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2025-10-04",
-        "md5": "71fa598131aa0bcfcdb879a8f47a027a",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "b5d479f3bba14e77a6355e6c41a2f2fc",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 5382548,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/blossomtales2.zip"
+        "size": 5382527,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/blossomtales2.zip"
       },
       "version": 2
     },
@@ -27383,12 +27383,12 @@
       },
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2026-02-07",
-        "md5": "8264799a9863842865344645b50abf93",
-        "release_id": "2026-02-07_0859",
+        "date_updated": "2026-03-22",
+        "md5": "05b01f60d48e8b7345e9d18dd5ce5ba9",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 58465187,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/dokimon.zip"
+        "size": 58465183,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/dokimon.zip"
       },
       "version": 4
     },
@@ -30630,6 +30630,102 @@
         "repo": "main",
         "size": 24765501,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/dungeoncrawlstonesoup.zip"
+      },
+      "version": 4
+    },
+    "dungeoninabottle.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Dungeon in a Bottle is a precision platformer about choosing the right kind of jump. The acrobatic thief, Reya, has gotten himself trapped in a magic bottle, and now he must use every jump at his disposal to escape the treacherous dungeon within! Hopefully he'll grab some treasure while he's at it.",
+        "desc_md": "Dungeon in a Bottle is a precision platformer about choosing the right kind of jump. The acrobatic thief, Reya, has gotten himself trapped in a magic bottle, and now he must use every jump at his disposal to escape the treacherous dungeon within! Hopefully he'll grab some treasure while he's at it.\n\n**Note: Game is tested with the Steam version only!**",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam. Copy diab.exe to ports/dungeoninabottle.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2128300/Dungeon_in_a_Bottle/). Copy diab.exe to ports/dungeoninabottle.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://veryhandsome.itch.io/",
+            "gameurl": "https://store.steampowered.com/app/2128300/Dungeon_in_a_Bottle/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Dungeon in a Bottle"
+      },
+      "items": [
+        "Dungeon in a Bottle.sh",
+        "dungeoninabottle"
+      ],
+      "items_opt": null,
+      "name": "dungeoninabottle.zip",
+      "source": {
+        "date_added": "2026-03-22",
+        "date_updated": "2026-03-22",
+        "md5": "34f7bc1d7b4189df0dc7c08f3b5a0da7",
+        "release_id": "2026-03-22_1256",
+        "repo": "main",
+        "size": 987515,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/dungeoninabottle.zip"
       },
       "version": 4
     },
@@ -35501,12 +35597,12 @@
       "name": "flare.zip",
       "source": {
         "date_added": "2023-03-23",
-        "date_updated": "2024-05-13",
-        "md5": "13e1fd70201028bbe265699ac2126fa9",
-        "release_id": "2024-05-13_1155",
+        "date_updated": "2026-03-22",
+        "md5": "76db3cd4950ac3ecf404b6011a9b1093",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 134672050,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-13_1155/flare.zip"
+        "size": 134672052,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/flare.zip"
       },
       "version": 2
     },
@@ -38129,12 +38225,12 @@
       "name": "freesynd.zip",
       "source": {
         "date_added": "2023-11-17",
-        "date_updated": "2025-10-04",
-        "md5": "afe63d2d141889299d0a2aa9779b0389",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "b9473c3a093758f830932d66f1b854e1",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 4946387,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/freesynd.zip"
+        "size": 4946383,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/freesynd.zip"
       },
       "version": 2
     },
@@ -45015,6 +45111,110 @@
         "repo": "main",
         "size": 16679447,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/hatchwell.zip"
+      },
+      "version": 4
+    },
+    "hauntedlands.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Slay grim cultists, infernal minions, and nightmarish creatures in this dark and bloody retro-inspired action platformer. Uncover secrets, acquire powerful artifacts, and face challenging bosses in the Haunted Lands.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into assets folder. Alternatively you can download the original Episode Alpha from https://alevgor.itch.io/haunted-lands and place the Haunted_Lands_EA.exe into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2980900/Haunted_Lands/) and copy all game files into `assets` folder. Alternatively you can download the original **Episode Alpha** from [Itch.io](https://alevgor.itch.io/haunted-lands) and place the `Haunted_Lands_EA.exe` into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://x.com/AlevG0r",
+            "gameurl": "https://store.steampowered.com/app/2980900/Haunted_Lands/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://alevgor.itch.io/haunted-lands",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Haunted Lands"
+      },
+      "items": [
+        "Haunted Lands.sh",
+        "hauntedlands"
+      ],
+      "items_opt": null,
+      "name": "hauntedlands.zip",
+      "source": {
+        "date_added": "2026-03-22",
+        "date_updated": "2026-03-22",
+        "md5": "008bcf9ea735447acfbf1f02227be625",
+        "release_id": "2026-03-22_1256",
+        "repo": "main",
+        "size": 9663550,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/hauntedlands.zip"
       },
       "version": 4
     },
@@ -74227,12 +74427,12 @@
       "name": "panzerpaladin.zip",
       "source": {
         "date_added": "2024-04-09",
-        "date_updated": "2025-10-04",
-        "md5": "60beda9045f28c22caa701a6408466da",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "323f87ad5df81f2e70ceaf0e033bb7b3",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 3067326,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/panzerpaladin.zip"
+        "size": 3067315,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/panzerpaladin.zip"
       },
       "version": 2
     },
@@ -76811,12 +77011,12 @@
       "name": "planetarian.zip",
       "source": {
         "date_added": "2024-07-21",
-        "date_updated": "2024-11-12",
-        "md5": "fef5d8b01bee65897d80db417884ef37",
-        "release_id": "2024-11-12_1249",
+        "date_updated": "2026-03-22",
+        "md5": "c923815432e660bf4fdcbf138651f66b",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 608656,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/planetarian.zip"
+        "size": 608664,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/planetarian.zip"
       },
       "version": 2
     },
@@ -77087,6 +77287,103 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-18_0913/planetwaves.zip"
       },
       "version": 2
+    },
+    "plantsvszombiesnd.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Plants vs Zombies Neighborhood Defense is a PVZ fangame with high difficulty and new content!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth",
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://gamejolt.com/games/pvznd/641658",
+            "name": "Gamejolt"
+          }
+        ],
+        "title": "Plants vs Zombies Neighborhood Defense"
+      },
+      "items": [
+        "Plants vs Zombies Neighborhood Defense.sh",
+        "plantsvszombiesnd"
+      ],
+      "items_opt": null,
+      "name": "plantsvszombiesnd.zip",
+      "source": {
+        "date_added": "2026-03-22",
+        "date_updated": "2026-03-22",
+        "md5": "b11dc4b733c3afe5c3f0fa9359f794c8",
+        "release_id": "2026-03-22_1256",
+        "repo": "main",
+        "size": 54081558,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/plantsvszombiesnd.zip"
+      },
+      "version": 4
     },
     "plaqueattackremake.zip": {
       "attr": {
@@ -84514,12 +84811,12 @@
       "name": "rigelengine.zip",
       "source": {
         "date_added": "2021-12-02",
-        "date_updated": "2025-10-04",
-        "md5": "773bc7ed903118973e4875df6d74fb90",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "7f57af276d6c75cf06e26c4cce074edf",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 1400938,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/rigelengine.zip"
+        "size": 1400932,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/rigelengine.zip"
       },
       "version": 2
     },
@@ -89971,12 +90268,12 @@
       "name": "shipwreck.zip",
       "source": {
         "date_added": "2022-05-26",
-        "date_updated": "2025-10-04",
-        "md5": "35b2bf9f4b1ea843855334ff798a29f2",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "518ecc7f3a4458304a98e941d48aa1d6",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 1353426,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/shipwreck.zip"
+        "size": 1353409,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/shipwreck.zip"
       },
       "version": 2
     },
@@ -98169,12 +98466,12 @@
       },
       "source": {
         "date_added": "2022-03-18",
-        "date_updated": "2025-10-04",
-        "md5": "d29b857542440cd0e83ef4fe8e2931dd",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "fde1265e6f8efffec364d9cd7588471b",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 2606223,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/steelassault.zip"
+        "size": 2606207,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/steelassault.zip"
       },
       "version": 2
     },
@@ -107740,12 +108037,12 @@
       "name": "towerfall.zip",
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2025-10-04",
-        "md5": "6e89e1018a90dea7adfbc156a28683c2",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-03-22",
+        "md5": "2fedbec434066b7993b9102ea9486d31",
+        "release_id": "2026-03-22_1256",
         "repo": "main",
-        "size": 2219422,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/towerfall.zip"
+        "size": 2219415,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/towerfall.zip"
       },
       "version": 2
     },
