@@ -7075,6 +7075,105 @@
       },
       "version": 4
     },
+    "barrelroll.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Barrel roll is a puzzle game that makes you think outside the barrel to find solutions to each level.\n\nYou're a cute little guy named Bruno who just woke up in this abandoned castle, your mission is to go around sorting all kinds of button puzzles with your trusty barrel!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game directly from the itch.io website. Extract the files and place them in the ports/barrelroll/assets directory.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "watheusctavares"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://misaeuu.itch.io",
+            "gameurl": "https://misaeuu.itch.io/barrelroll",
+            "name": "itch.io"
+          }
+        ],
+        "title": "barrel roll"
+      },
+      "items": [
+        "barrel roll.sh",
+        "barrelroll"
+      ],
+      "items_opt": null,
+      "name": "barrelroll.zip",
+      "source": {
+        "date_added": "2026-03-25",
+        "date_updated": "2026-03-25",
+        "md5": "1b7e8b2690e931606d40162aacd89e51",
+        "release_id": "2026-03-25_1003",
+        "repo": "main",
+        "size": 7185580,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/barrelroll.zip"
+      },
+      "version": 4
+    },
     "battalion.zip": {
       "attr": {
         "arch": [
@@ -30720,12 +30819,12 @@
       "name": "dungeoninabottle.zip",
       "source": {
         "date_added": "2026-03-22",
-        "date_updated": "2026-03-22",
-        "md5": "34f7bc1d7b4189df0dc7c08f3b5a0da7",
-        "release_id": "2026-03-22_1256",
+        "date_updated": "2026-03-25",
+        "md5": "12f09d74c4017d1ec9e2728c2e4f749f",
+        "release_id": "2026-03-25_1003",
         "repo": "main",
-        "size": 987515,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/dungeoninabottle.zip"
+        "size": 987606,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/dungeoninabottle.zip"
       },
       "version": 4
     },
@@ -67498,6 +67597,104 @@
       },
       "version": 4
     },
+    "ninjasenkidx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "On its 5th anniversary, Ninja Senki leaps from the shadows onto Steam to become Ninja Senki DX! When Princess Kinuhime is slain by a demon, Hayate becomes obsessed with revenge! Casting aside the art of invisibility, the blue ninja unleashes the power of shurikenjutsu upon mythological creatures, demons and other adversaries in his action-filled quest for vengeance!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy the NinjaSenkiDX.exe into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/405540/Ninja_Senki_DX/) and copy the `NinjaSenkiDX.exe` into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Jareth247",
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://tributegames.com/",
+            "gameurl": "https://store.steampowered.com/app/405540/Ninja_Senki_DX/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Ninja Senki DX"
+      },
+      "items": [
+        "Ninja Senki DX.sh",
+        "ninjasenkidx"
+      ],
+      "items_opt": null,
+      "name": "ninjasenkidx.zip",
+      "source": {
+        "date_added": "2026-03-25",
+        "date_updated": "2026-03-25",
+        "md5": "68690018d0a92ad3b18a546ba7fe1fca",
+        "release_id": "2026-03-25_1003",
+        "repo": "main",
+        "size": 4993187,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/ninjasenkidx.zip"
+      },
+      "version": 4
+    },
     "njam.zip": {
       "attr": {
         "arch": [
@@ -68753,6 +68950,108 @@
         "repo": "main",
         "size": 33231837,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/nubbysnumberfactory.zip"
+      },
+      "version": 4
+    },
+    "nuclearblaze.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Nuclear Blaze is a 2D action firefighting game by Deepnight Games. Fight through a mysterious military facility as an elite firefighter, rescuing survivors and battling increasingly dangerous blazes.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "See the readme for details",
+        "inst_md": "### Steam Instructions\nCopy `linux/hlboot.dat` and `res.pak` from the Steam install into the port's `gamedata` folder.\n### Itch.io Instructions\nCopy `hlboot.dat` and `res.pak` from the itch.io download into the port's `gamedata` folder.\n\nThe patcher will automatically patch the bytecode and compress textures on first launch. This takes about 15-30 minutes.\n",
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1662480/Nuclear_Blaze/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://deepnight.itch.io/nuclear-blaze",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Nuclear Blaze"
+      },
+      "items": [
+        "Nuclear Blaze.sh",
+        "nuclearblaze"
+      ],
+      "items_opt": null,
+      "name": "nuclearblaze.zip",
+      "source": {
+        "date_added": "2026-03-25",
+        "date_updated": "2026-03-25",
+        "md5": "616bc0a7a2a39d087fa1b4ec0d84456c",
+        "release_id": "2026-03-25_1003",
+        "repo": "main",
+        "size": 30979674,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/nuclearblaze.zip"
       },
       "version": 4
     },
@@ -70073,6 +70372,115 @@
       },
       "version": 4
     },
+    "omnispeak.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "OmniSpeak is an open-source re-implementation of \"Commander Keen in Goodbye Galaxy\".",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade",
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your respective GAMEMAPS.CK#, EGAGRAPH.CK#, and AUDIO.CK# files into the respective keen directories and match the required supported versions (v1.4 for Keen 5 and v1.4 OR v1.5 for Keen 6).  Episode 4 (shareware) and the fan-made episode 7 modded for OmniSpeak are included and ready to play.  You will still need to provide your purchased copies for episodes 5 and 6 (5 is available from Steam and GoG).",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/9180/Commander_Keen/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/commander_keen_complete_pack",
+            "name": "GOG"
+          }
+        ],
+        "title": "OmniSpeak"
+      },
+      "items": [
+        "OmniSpeak - Keen 4.sh",
+        "OmniSpeak - Keen 5.sh",
+        "OmniSpeak - Keen 6.sh",
+        "OmniSpeak - Keen 7.sh",
+        "omnispeak"
+      ],
+      "items_opt": null,
+      "name": "omnispeak.zip",
+      "source": {
+        "date_added": "2026-03-25",
+        "date_updated": "2026-03-25",
+        "md5": "0dc61a8d21e86b03566b633662181ddc",
+        "release_id": "2026-03-25_1003",
+        "repo": "main",
+        "size": 1860504,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/omnispeak.zip"
+      },
+      "version": 4
+    },
     "onceuponamobiusstrip.zip": {
       "attr": {
         "arch": [],
@@ -70885,7 +71293,8 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Jetup"
+          "Jetup",
+          "ImCoKeMaN"
         ],
         "reqs": [],
         "rtr": true,
@@ -70900,12 +71309,12 @@
       "name": "openjazz.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-07-16",
-        "md5": "9d3cfd770dc12800f71ab855f322b2cf",
-        "release_id": "2025-07-16_2108",
+        "date_updated": "2026-03-25",
+        "md5": "ff71405ca8f6d4516d0032f706ed070e",
+        "release_id": "2026-03-25_1003",
         "repo": "main",
-        "size": 2819652,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/openjazz.zip"
+        "size": 2825963,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/openjazz.zip"
       },
       "version": 4
     },
@@ -82040,7 +82449,6 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
-          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
@@ -82068,9 +82476,7 @@
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [
-          "weston_pkg_0.2.squashfs"
-        ],
+        "runtime": [],
         "store": [
           {
             "developerurl": "https://store.steampowered.com/search/?developer=Shaun%20Inman",
@@ -82088,12 +82494,12 @@
       "name": "ratcheteerdx.zip",
       "source": {
         "date_added": "2026-03-05",
-        "date_updated": "2026-03-05",
-        "md5": "7710ef6a3a5a62568bc43b12af594b26",
-        "release_id": "2026-03-05_1518",
+        "date_updated": "2026-03-25",
+        "md5": "a62ffe72fccac0f2d5d3082902fb7a6c",
+        "release_id": "2026-03-25_1003",
         "repo": "main",
-        "size": 3500120,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1518/ratcheteerdx.zip"
+        "size": 3500080,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/ratcheteerdx.zip"
       },
       "version": 4
     },
@@ -111208,6 +111614,99 @@
         "repo": "main",
         "size": 44541965,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/undertaleredyellow.zip"
+      },
+      "version": 4
+    },
+    "undivine.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A dark metroidvania with RPG elements, Undivine challenges you to explore, battle, and uncover secrets in a desolate, interconnected world. Customize your abilities, wield unique weapons, and delve into deep lore filled with mystery.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder. You can also use the free demo.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3087910/Undivine/) and copy all game files into the `assets` folder. You can also use the `free demo`.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "analog_1"
+        ],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/3087910/Undivine/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Undivine"
+      },
+      "items": [
+        "Undivine.sh",
+        "undivine"
+      ],
+      "items_opt": null,
+      "name": "undivine.zip",
+      "source": {
+        "date_added": "2026-03-25",
+        "date_updated": "2026-03-25",
+        "md5": "45e946fd4f69e6fb6eb1ae4acb4adc37",
+        "release_id": "2026-03-25_1003",
+        "repo": "main",
+        "size": 12676972,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/undivine.zip"
       },
       "version": 4
     },
