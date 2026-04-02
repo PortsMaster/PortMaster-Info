@@ -7165,12 +7165,12 @@
       "name": "barrelroll.zip",
       "source": {
         "date_added": "2026-03-25",
-        "date_updated": "2026-03-25",
-        "md5": "1b7e8b2690e931606d40162aacd89e51",
-        "release_id": "2026-03-25_1003",
+        "date_updated": "2026-04-02",
+        "md5": "bcee172f23a92863b943c92ab391fd69",
+        "release_id": "2026-04-02_0757",
         "repo": "main",
-        "size": 7185580,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/barrelroll.zip"
+        "size": 7185733,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-02_0757/barrelroll.zip"
       },
       "version": 4
     },
@@ -23875,6 +23875,104 @@
       },
       "version": 4
     },
+    "deadendcity.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A post-apocalyptic arcade shooter. Collect fuel and dodge enemy fire as you fight back against the evil Scorpio gang. Mixes cars, shmups and themes that would have been right at home in 80's anime and arcades.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1880840/Dead_End_City/) and copy all game files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "http://www.pixellicker.com",
+            "gameurl": "https://store.steampowered.com/app/1880840/Dead_End_City/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Dead End City"
+      },
+      "items": [
+        "Dead End City.sh",
+        "deadendcity"
+      ],
+      "items_opt": null,
+      "name": "deadendcity.zip",
+      "source": {
+        "date_added": "2026-04-02",
+        "date_updated": "2026-04-02",
+        "md5": "e2a75946be63696d072a4d893d7e98d9",
+        "release_id": "2026-04-02_0757",
+        "repo": "main",
+        "size": 20431671,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-02_0757/deadendcity.zip"
+      },
+      "version": 4
+    },
     "deadicedeluxe.zip": {
       "attr": {
         "arch": [
@@ -27482,12 +27580,12 @@
       },
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2026-03-22",
-        "md5": "05b01f60d48e8b7345e9d18dd5ce5ba9",
-        "release_id": "2026-03-22_1256",
+        "date_updated": "2026-04-02",
+        "md5": "981bebc23e4e87a62a820bf525e0ace5",
+        "release_id": "2026-04-02_0757",
         "repo": "main",
-        "size": 58465183,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/dokimon.zip"
+        "size": 58464630,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-02_0757/dokimon.zip"
       },
       "version": 4
     },
@@ -32606,6 +32704,109 @@
         "repo": "main",
         "size": 5518266,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/everpatch.zip"
+      },
+      "version": 4
+    },
+    "evoland.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Evoland Legendary Edition contains both Evoland 1 and 2. Travel through the history of gaming as gameplay and graphics evolve from 2D to 3D across multiple genres.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "rpg",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place the GOG installer files (setup_evoland_legendary_edition_1.0_(57388).exe and .bin) into evoland/gamedata/. Alternatively, copy sdlboot.dat and all .pak files from a Steam Linux install into evoland/gamedata/.",
+        "inst_md": "The patcher will automatically patch the bytecode and compress textures on first launch. This takes about 10-30 minutes.\n\n### Steam Instructions\n* Open Steam console: `steam://open/console`\n* Copy and paste command: `download_depot 1020470 1020471`\n* Open the folder where this depot was downloaded and copy `sdlboot.dat` and all `.pak` files into the port's `gamedata` folder.\n### GOG Instructions\nPlace the GOG installer files (setup_evoland_legendary_edition_1.0_(57388).exe and .bin) into evoland/gamedata/.\n",
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1020470/Evoland_Legendary_Edition/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/evoland_legendary_edition",
+            "name": "GOG"
+          }
+        ],
+        "title": "Evoland Legendary Edition"
+      },
+      "items": [
+        "Evoland Legendary Edition.sh",
+        "evoland"
+      ],
+      "items_opt": null,
+      "name": "evoland.zip",
+      "source": {
+        "date_added": "2026-04-02",
+        "date_updated": "2026-04-02",
+        "md5": "d58bb5fe05b9b84a7901830cf515540c",
+        "release_id": "2026-04-02_0757",
+        "repo": "main",
+        "size": 30536823,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-02_0757/evoland.zip"
       },
       "version": 4
     },
@@ -72272,7 +72473,8 @@
     "opentyrian.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -72310,11 +72512,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "OpenTyrian is an open-source port of the DOS game Tyrian.  ",
         "desc_md": null,
         "exp": false,
@@ -72338,6 +72542,7 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "OpenTyrian"
       },
       "items": [
@@ -72354,14 +72559,14 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-12-27",
-        "md5": "c6883093ee73ec3d2cb43272047053f7",
-        "release_id": "2024-12-27_1725",
+        "date_updated": "2026-04-02",
+        "md5": "749b4765627786604f4f3b3bfd1a47fd",
+        "release_id": "2026-04-02_0757",
         "repo": "main",
-        "size": 5096961,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-27_1725/opentyrian.zip"
+        "size": 5374583,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-02_0757/opentyrian.zip"
       },
-      "version": 2
+      "version": 4
     },
     "opentyrian2000.zip": {
       "attr": {
@@ -86604,98 +86809,6 @@
       },
       "version": 4
     },
-    "romm.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "demo",
-        "desc": "An app for custom firmwares that connects to your RomM instance and allows you to fetch games wirelessly from your handheld device.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "other"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Ready to run with demo server. Follow the readme and edit the `.env` file to use your own server instance.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": true,
-        "runtime": [
-          "python_3.11.squashfs"
-        ],
-        "store": [],
-        "title": "RomM App"
-      },
-      "items": [
-        "RomM App.sh",
-        "romm"
-      ],
-      "items_opt": null,
-      "name": "romm.zip",
-      "source": {
-        "date_added": "2025-05-12",
-        "date_updated": "2025-05-21",
-        "md5": "94242ddff2bc42263a31ab8ac0f8275c",
-        "release_id": "2025-05-21_0130",
-        "repo": "main",
-        "size": 4465473,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/romm.zip"
-      },
-      "version": 4
-    },
     "roswyn.zip": {
       "attr": {
         "arch": [
@@ -97929,12 +98042,12 @@
       },
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2025-10-04",
-        "md5": "136d2f4bc5b21b5021ddc4fe7402ce7a",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-04-02",
+        "md5": "dfe8d2b4ece300f9aaebd7b83d261937",
+        "release_id": "2026-04-02_0757",
         "repo": "main",
-        "size": 3930651,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/stardewvalley.zip"
+        "size": 3930748,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-02_0757/stardewvalley.zip"
       },
       "version": 2
     },
@@ -98390,95 +98503,6 @@
         "repo": "main",
         "size": 11749582,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/static.zip"
-      },
-      "version": 4
-    },
-    "steamlink.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353ps:rocknix",
-          "rg503:rocknix",
-          "rg552:rocknix",
-          "rgcubexx:ALL",
-          "rg40xx-h:rocknix",
-          "rg40xx-v:rocknix",
-          "rg35xx-plus:rocknix",
-          "rg35xx-h:rocknix",
-          "rg35xx-sp:rocknix",
-          "rg34xx-h:rocknix",
-          "rg34xx-sp:rocknix",
-          "rg28xx:rocknix",
-          "rg351p:rocknix",
-          "rg351v:rocknix",
-          "rgb10:ALL",
-          "rk2023:rocknix",
-          "rgb10max3pro:ALL",
-          "oga:rocknix",
-          "ogs:rocknix",
-          "ogu:rocknix",
-          "ace:ALL",
-          "rp5:rocknix",
-          "rpmini:rocknix",
-          "xu10:rocknix",
-          "r33s:rocknix",
-          "r35s:rocknix",
-          "r36s:rocknix"
-        ],
-        "availability": "full",
-        "desc": "SteamLink is a hardware and software product developed by Valve Corporation for streaming Steam content from a personal computer or Steam Machine wirelessly to a mobile device or other monitor.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "other"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "This SteamLink wrapper automatically checks for a SteamLink binary and, if one is found, it checks a `version.txt` file and compares the contents to the latest available. If there is no `version.txt` file or there is a new version, SteamLink is downloaded automatically with wget.\n\nDon't have wget or curl? See the README.md file for manual installation steps.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Noxwell",
-          "Jeod"
-        ],
-        "reqs": [
-          "opengl"
-        ],
-        "rtr": true,
-        "runtime": [],
-        "store": [],
-        "title": "SteamLink"
-      },
-      "items": [
-        "SteamLink.sh",
-        "steamlink"
-      ],
-      "items_opt": null,
-      "name": "steamlink.zip",
-      "rating": {
-        "average_rating": 1.0,
-        "max_rating": "1",
-        "min_rating": "1",
-        "total_ratings": 3
-      },
-      "source": {
-        "date_added": "2025-03-11",
-        "date_updated": "2025-11-25",
-        "md5": "130fb79cdca67be64dae1f5760bce9a1",
-        "release_id": "2025-11-25_1116",
-        "repo": "main",
-        "size": 38625923,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-25_1116/steamlink.zip"
       },
       "version": 4
     },
