@@ -32801,12 +32801,12 @@
       "name": "evoland.zip",
       "source": {
         "date_added": "2026-04-02",
-        "date_updated": "2026-04-02",
-        "md5": "d58bb5fe05b9b84a7901830cf515540c",
-        "release_id": "2026-04-02_0757",
+        "date_updated": "2026-04-04",
+        "md5": "3c6d7c7fcd264da5b7e9db8f043f6c8d",
+        "release_id": "2026-04-04_2141",
         "repo": "main",
-        "size": 30536823,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-02_0757/evoland.zip"
+        "size": 30537308,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-04_2141/evoland.zip"
       },
       "version": 4
     },
@@ -88273,11 +88273,9 @@
     "savant.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -88285,33 +88283,29 @@
           "rg552:ALL",
           "rgcubexx:ALL",
           "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
           "rg34xx-sp:ALL",
-          "rg28xx:ALL",
           "rg351p:ALL",
-          "rg351v:ALL",
           "rgb10:ALL",
           "rgb20s:ALL",
           "rgb30:ALL",
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
-          "oga:ALL",
+          "rgb10max3pro:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
           "xu10:ALL",
-          "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "A malicious orb has cast Savant out of his tower and transformed his surroundings into dangerous enemies!\n\nDodge and shoot your way back up the tower, and blast down waves of enemies as you make your way towards the top! As you progress, you unlock CDs that not only give you new tracks to play to, but also grant you powerful new abilities!\n\nCan you make it to the top?",
         "desc_md": null,
         "exp": false,
@@ -88319,20 +88313,35 @@
           "action"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Make sure to buy the original version of Savant Ascent: https://store.steampowered.com/app/259530/Savant__Ascent/\n\nNote: dual analog sticks are required for this game!\n\nGo to your steam directory and copy all files from Savant Ascent into the gamedata folder. \n",
+        "inst": "Make sure to buy the original version of Savant Ascent: https://store.steampowered.com/app/259530/Savant__Ascent/\n\nNote: dual analog sticks are required for this game!\n\nGo to your steam directory and copy all files from Savant Ascent into the assets folder. \n",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "JanTrueno"
+          "JanTrueno",
+          "Ganimoth"
         ],
-        "reqs": [],
+        "reqs": [
+          "analog_2"
+        ],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.savantgame.com/",
+            "gameurl": "https://store.steampowered.com/app/259530/Savant__Ascent",
+            "name": "Steam"
+          }
+        ],
         "title": "Savant Ascent"
       },
       "items": [
@@ -88343,14 +88352,14 @@
       "name": "savant.zip",
       "source": {
         "date_added": "2024-03-06",
-        "date_updated": "2024-06-15",
-        "md5": "48af440037a3a1aeaf2324b4ca1d8ff7",
-        "release_id": "2024-06-15_1740",
+        "date_updated": "2026-04-04",
+        "md5": "abc003f8e8fe2d4b1e520d3ed3fb7e6b",
+        "release_id": "2026-04-04_2141",
         "repo": "main",
-        "size": 11733857,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-15_1740/savant.zip"
+        "size": 4769536,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-04_2141/savant.zip"
       },
-      "version": 2
+      "version": 4
     },
     "savingprincess.zip": {
       "attr": {
