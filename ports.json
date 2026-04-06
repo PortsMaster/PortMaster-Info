@@ -32801,12 +32801,12 @@
       "name": "evoland.zip",
       "source": {
         "date_added": "2026-04-02",
-        "date_updated": "2026-04-04",
-        "md5": "3c6d7c7fcd264da5b7e9db8f043f6c8d",
-        "release_id": "2026-04-04_2141",
+        "date_updated": "2026-04-06",
+        "md5": "c4d0c8f78a7976ed998c9cbe35bf1bc4",
+        "release_id": "2026-04-06_0219",
         "repo": "main",
-        "size": 30537308,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-04_2141/evoland.zip"
+        "size": 30541464,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-06_0219/evoland.zip"
       },
       "version": 4
     },
@@ -36479,7 +36479,7 @@
     "flywrench.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -36506,10 +36506,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -36532,8 +36536,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase and download the game from steam. Copy all the game files to /ports/flywrench/gamedata",
-        "inst_md": "Purchase the game from steam: https://store.steampowered.com/app/337350/Flywrench/\n\nDownload the game and from your Steam library,  right click on Flywrench >  Manage > Browse local files. Copy all the files from the folder to /ports/flywrench/gamedata",
+        "inst": "Purchase and download the game from steam. Copy all the game files to /ports/flywrench/assets",
+        "inst_md": "Purchase the game from steam: https://store.steampowered.com/app/337350/Flywrench/\n\nDownload the game and from your Steam library,  right click on Flywrench >  Manage > Browse local files. Copy all the files from the folder to /ports/flywrench/assets",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -36551,12 +36555,12 @@
       "name": "flywrench.zip",
       "source": {
         "date_added": "2024-07-09",
-        "date_updated": "2024-07-18",
-        "md5": "787fe0a8abb4a9fc36e837b807bc4ad9",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2026-04-06",
+        "md5": "b1749dfde3eea026c83e4c086722f3ef",
+        "release_id": "2026-04-06_0219",
         "repo": "main",
-        "size": 4878979,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/flywrench.zip"
+        "size": 8911624,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-06_0219/flywrench.zip"
       },
       "version": 4
     },
@@ -79045,7 +79049,7 @@
     "powerlevel.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -79072,10 +79076,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -79084,6 +79092,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "free",
         "desc": "You have 5 minutes to explore a randomly generated dungeon and gear up for a tough boss fight. Search for treasure, upgrades, and that glorious EXP in this quick-paced action game!",
         "desc_md": null,
         "exp": false,
@@ -79096,8 +79105,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download game from https://smithmanc.itch.io/power-level,  copy all files except the .exe to /ports/powerlevel/gamedata",
-        "inst_md": null,
+        "inst": "Download Power Level v1.2.zip from https://smithmanc.itch.io/power-level, Place Power Level v1.2.zip into  /ports/powerlevel/assets.",
+        "inst_md": "Download Power Level v1.2.zip from [Itch.io](https://smithmanc.itch.io/power-level) and place it into /ports/powerlevel/assets.",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -79105,6 +79114,13 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://smithmanc.itch.io/",
+            "gameurl": "https://smithmanc.itch.io/power-level",
+            "name": "Itch.io"
+          }
+        ],
         "title": "Power Level"
       },
       "items": [
@@ -79115,14 +79131,14 @@
       "name": "powerlevel.zip",
       "source": {
         "date_added": "2024-02-01",
-        "date_updated": "2025-10-04",
-        "md5": "75262285258f5e0ffc3f57eaf62be6d6",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-04-06",
+        "md5": "2d0f64216ee6c25e8d9e39e49077645a",
+        "release_id": "2026-04-06_0219",
         "repo": "main",
-        "size": 17415443,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/powerlevel.zip"
+        "size": 7092191,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-06_0219/powerlevel.zip"
       },
-      "version": 2
+      "version": 4
     },
     "powerputtlegend.zip": {
       "attr": {
@@ -115533,6 +115549,95 @@
         "repo": "main",
         "size": 1051448,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/wetspot2.zip"
+      },
+      "version": 2
+    },
+    "whichsausagemate.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Papers Please-style cashier sim in a Polish convenience store. Scan groceries, verify IDs, grill hot dogs, survive 30 days at \u017bopka. 9 endings, 50+ characters, 127 products, 69 achievements.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "koksny"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "title": "Which Sausage, Mate"
+      },
+      "items": [
+        "Which Sausage, Mate.sh",
+        "whichsausagemate"
+      ],
+      "items_opt": null,
+      "name": "whichsausagemate.zip",
+      "source": {
+        "date_added": "2026-04-06",
+        "date_updated": "2026-04-06",
+        "md5": "02d4811b51b472d23d459d474d521cb5",
+        "release_id": "2026-04-06_0219",
+        "repo": "main",
+        "size": 208349900,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-06_0219/whichsausagemate.zip"
       },
       "version": 2
     },
