@@ -18058,12 +18058,12 @@
       },
       "source": {
         "date_added": "2023-08-02",
-        "date_updated": "2025-10-07",
-        "md5": "57bd4d22b63f1cc20573a424bc7960c2",
-        "release_id": "2025-10-07_1437",
+        "date_updated": "2026-04-08",
+        "md5": "c26e0143a3e7fbd091ad91ea080cf352",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 1985898,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-07_1437/chasm.zip"
+        "size": 1985930,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/chasm.zip"
       },
       "version": 2
     },
@@ -23866,12 +23866,12 @@
       "name": "deadcells.zip",
       "source": {
         "date_added": "2026-03-01",
-        "date_updated": "2026-03-08",
-        "md5": "27d2d0e8c1ad0cc3c546cc5bf49c5dbb",
-        "release_id": "2026-03-08_1343",
+        "date_updated": "2026-04-08",
+        "md5": "d053f06534ea0ee02f230e4cff9c2369",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
         "size": 169236623,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-08_1343/deadcells.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/deadcells.zip"
       },
       "version": 4
     },
@@ -28438,12 +28438,12 @@
       },
       "source": {
         "date_added": "2025-02-04",
-        "date_updated": "2025-05-29",
-        "md5": "11d782f7d82d971c8b335190d07d3cdb",
-        "release_id": "2025-05-29_1057",
+        "date_updated": "2026-04-08",
+        "md5": "73ce0b28ef3d7d5ad554e2476a9c4c10",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 74653987,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-29_1057/doomengines.zip"
+        "size": 75208151,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/doomengines.zip"
       },
       "version": 4
     },
@@ -35260,12 +35260,12 @@
       "name": "finding_paradise.zip",
       "source": {
         "date_added": "2024-02-07",
-        "date_updated": "2025-10-04",
-        "md5": "bf9ad9ee23b9b98d25b7b8a131f6644b",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-04-08",
+        "md5": "29bf89da0a037a2f309afb7d28221ec0",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 5155882,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/finding_paradise.zip"
+        "size": 5155901,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/finding_paradise.zip"
       },
       "version": 2
     },
@@ -42943,12 +42943,12 @@
       "name": "guacamelee.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-12-03",
-        "md5": "a514ca224b6e89ae07b3f390ba87a71c",
-        "release_id": "2024-12-03_1159",
+        "date_updated": "2026-04-08",
+        "md5": "d8e4e110501e463677462d6db2eb8675",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 4557146,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/guacamelee.zip"
+        "size": 4557187,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/guacamelee.zip"
       },
       "version": 4
     },
@@ -54295,12 +54295,12 @@
       },
       "source": {
         "date_added": "2025-03-22",
-        "date_updated": "2025-05-08",
-        "md5": "83388c1851342b50d7001996665699f6",
-        "release_id": "2025-05-08_2151",
+        "date_updated": "2026-04-08",
+        "md5": "ded954275febd9919029ae81e44a6ae9",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 9286043,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-08_2151/la-mulana.zip"
+        "size": 9286071,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/la-mulana.zip"
       },
       "version": 4
     },
@@ -68968,12 +68968,12 @@
       "name": "nox-decomp.zip",
       "source": {
         "date_added": "2026-02-14",
-        "date_updated": "2026-02-21",
-        "md5": "9e2b4b4c640cb67c955a6da2d60ac24c",
-        "release_id": "2026-02-21_1055",
+        "date_updated": "2026-04-08",
+        "md5": "e0ae503870866472c24e360a4f6e3602",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 45400813,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-21_1055/nox-decomp.zip"
+        "size": 31701595,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/nox-decomp.zip"
       },
       "version": 4
     },
@@ -83787,12 +83787,12 @@
       "name": "redstrings.zip",
       "source": {
         "date_added": "2025-05-12",
-        "date_updated": "2025-05-12",
-        "md5": "10767e93208ed99803f91ccf866d9c1d",
-        "release_id": "2025-05-12_1432",
+        "date_updated": "2026-04-08",
+        "md5": "af85a06bd65ee65b3ae113611c3127fb",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 7783842,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1432/redstrings.zip"
+        "size": 7783869,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/redstrings.zip"
       },
       "version": 4
     },
@@ -98173,45 +98173,9 @@
     "stargrovescramble.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aatch64"
         ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
+        "avail": [],
         "desc": "Your son has been taken! Sling your eggs at foes and platform through three unique worlds in search of his captor. Though tread lightly, his henchmen will try to stop you at every turn.",
         "desc_md": null,
         "exp": false,
@@ -98251,12 +98215,12 @@
       },
       "source": {
         "date_added": "2024-03-09",
-        "date_updated": "2024-07-18",
-        "md5": "92c87b4cf86119e6034c2c0d04b2433f",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2026-04-08",
+        "md5": "ca3248dda710b70f16125410052c8ad8",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 26325643,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/stargrovescramble.zip"
+        "size": 25811014,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/stargrovescramble.zip"
       },
       "version": 2
     },
@@ -107598,12 +107562,12 @@
       "name": "to_the_moon.zip",
       "source": {
         "date_added": "2024-02-06",
-        "date_updated": "2025-10-04",
-        "md5": "ba0e982d7e35938ac46eb09994f33918",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-04-08",
+        "md5": "1d37028d0a945549826fc721867066c9",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 9093940,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/to_the_moon.zip"
+        "size": 9093960,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/to_the_moon.zip"
       },
       "version": 2
     },
@@ -108492,12 +108456,12 @@
       "name": "towerfall.zip",
       "source": {
         "date_added": "2024-03-30",
-        "date_updated": "2026-03-22",
-        "md5": "2fedbec434066b7993b9102ea9486d31",
-        "release_id": "2026-03-22_1256",
+        "date_updated": "2026-04-08",
+        "md5": "6d99e4e34320edecbaf7ffd53102f64c",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 2219415,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/towerfall.zip"
+        "size": 2219437,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/towerfall.zip"
       },
       "version": 2
     },
@@ -116922,12 +116886,12 @@
       },
       "source": {
         "date_added": "2024-02-03",
-        "date_updated": "2025-10-04",
-        "md5": "dd5c610974619d7995e471b86c0571cb",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-04-08",
+        "md5": "8a16e90f76fbc3a609fee48ab6090f3c",
+        "release_id": "2026-04-08_0939",
         "repo": "main",
-        "size": 4958781,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/worldofgoo.zip"
+        "size": 4958800,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-08_0939/worldofgoo.zip"
       },
       "version": 2
     },
