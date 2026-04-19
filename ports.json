@@ -55650,6 +55650,98 @@
       },
       "version": 4
     },
+    "linovictus.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Linovictus is a twin stick arcade shootemup where you play the role of Linovictus: An immune response of the second manifold. Autonomous beings from another world are infiltrating your domain to strip mine resources, threatening the stability of every higher dimension.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Nightmareaxd",
+          "transmutrix"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Linovictus: Portable Edition"
+      },
+      "items": [
+        "Linovictus Portable.sh",
+        "linovictus/"
+      ],
+      "items_opt": null,
+      "name": "linovictus.zip",
+      "source": {
+        "date_added": "2026-04-19",
+        "date_updated": "2026-04-19",
+        "md5": "c2df41fea4133b46fc498a0c6b7c4d21",
+        "release_id": "2026-04-19_0213",
+        "repo": "main",
+        "size": 35086067,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-19_0213/linovictus.zip"
+      },
+      "version": 4
+    },
     "lisathebashful.zip": {
       "attr": {
         "arch": [
@@ -62656,7 +62748,8 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "An open-source voxel sandbox game engine. Lots of free community-made games and mods to download straight from the client. Inspired by InfiniMiner, Minecraft, and the like.",
+        "availability": "full",
+        "desc": "Luanti (formerly Minetest) is a free software game engine to create various games based on voxel gameplay, inspired by InfiniMiner, Minecraft, and the like.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -62670,16 +62763,18 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to run.\n\nSome menus extend off-screen for some devices, however all configuration options can be adjusted at `/path/to/your/ports/minetest/minetest.conf`. Settings options are described here: http://doxy.minetest.net/settings.html\n\nSingle-player play requires >1 GB in order to run both the host and client instances. So 1 GB devices should stick to server play because RAM requirements are only ~700 MB. There are public servers available or you can host your own private server!",
+        "inst": "If you have a 1gb device you will need to either enable zram (recommended) or enable swap space as this game requires more ram.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Captain_Barge"
+          "Captain_Barge",
+          "Justin Rosetto"
         ],
         "reqs": [],
         "rtr": true,
         "runtime": [],
-        "title": "Minetest"
+        "store": [],
+        "title": "Luanti / Minetest - Mineclonia"
       },
       "items": [
         "Minetest.sh",
@@ -62695,14 +62790,14 @@
       },
       "source": {
         "date_added": "2024-04-24",
-        "date_updated": "2025-10-22",
-        "md5": "b3983500a941647744e868a32323d0d7",
-        "release_id": "2025-10-22_1131",
+        "date_updated": "2026-04-19",
+        "md5": "cc20815f842fea8285afa3f34073c23d",
+        "release_id": "2026-04-19_0213",
         "repo": "main",
-        "size": 47670954,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/minetest.zip"
+        "size": 37855758,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-19_0213/minetest.zip"
       },
-      "version": 2
+      "version": 4
     },
     "minidoom.zip": {
       "attr": {
@@ -84411,6 +84506,117 @@
       },
       "version": 4
     },
+    "repose.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "In the facility, each step, each shot, each mistake costs precious energy. Rendered entirely in black and white, this mystery can be unravelled. The puzzle can be solved. Don't ask who tried to solve it before. Do the job. Find oxygen and sleep. Go deeper. And don't ask about Aaron.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on store of your preference (GOG, Steam or Itch.io) and copy all game files into assets folder.",
+        "inst_md": "Purchase the game on store of your preference ([GOG](https://www.gog.com/en/game/repose), [Steam](https://store.steampowered.com/app/3002510/REPOSE/) or [Itch.io](https://akuparagames.itch.io/repose)) and copy all game files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "tabreturn",
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://x.com/0atis0?lang=en",
+            "gameurl": "store.steampowered.com/app/3002510/REPOSE/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://x.com/0atis0?lang=en",
+            "gameurl": "https://akuparagames.itch.io/repose",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "https://x.com/0atis0?lang=en",
+            "gameurl": "https://www.gog.com/en/game/repose",
+            "name": "GOG"
+          }
+        ],
+        "title": "REPOSE"
+      },
+      "items": [
+        "REPOSE.sh",
+        "repose"
+      ],
+      "items_opt": null,
+      "name": "repose.zip",
+      "source": {
+        "date_added": "2026-04-19",
+        "date_updated": "2026-04-19",
+        "md5": "92edd4c309e60d2dc0d4e2a22e8e3d8d",
+        "release_id": "2026-04-19_0213",
+        "repo": "main",
+        "size": 8909929,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-19_0213/repose.zip"
+      },
+      "version": 4
+    },
     "residentvania.zip": {
       "attr": {
         "arch": [
@@ -94796,12 +95002,12 @@
       "name": "songo5.zip",
       "source": {
         "date_added": "2026-01-25",
-        "date_updated": "2026-02-14",
-        "md5": "7f66dfc00a79cf309cd1b3fa2a993ce6",
-        "release_id": "2026-02-14_0306",
+        "date_updated": "2026-04-19",
+        "md5": "797e55c56be0c85c9c2372768963c3cf",
+        "release_id": "2026-04-19_0213",
         "repo": "main",
-        "size": 59224072,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-14_0306/songo5.zip"
+        "size": 70993925,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-19_0213/songo5.zip"
       },
       "version": 4
     },
@@ -104778,7 +104984,7 @@
     "thecurseofissyos.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -104805,10 +105011,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -104817,49 +105027,52 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "free",
         "desc": "Defkalion was fishing on a quiet blue sea when he heard the voice of the Goddess Athena. Hurry up, she said, the isle of Issyos has been cursed by the Olympus. And so, fearing for his daughter Delia, his only family left, the fisherman sails back to his home, where the adventure is about to begin.",
-        "desc_md": null,
+        "desc_md": "Download the game from https://locomalito.com/games/the-curse-of-issyos and extract all game files into the assets folder.",
         "exp": false,
         "genres": [
           "action",
-          "other"
+          "platformer"
         ],
         "image": {
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.jpg",
+          "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "To succesfully boot the game copy the data.win file into the gamedata folder, then boot the game from Coi.sh",
+        "inst": "Download the game from [official website](https://locomalito.com/games/the-curse-of-issyos) and extract all game files into the `assets` folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
+          "Johnny on Flame",
           "Tekkenfede",
-          "Johnny on Flame"
+          "Ganimoth"
         ],
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [],
         "title": "The Curse Of Issyos"
       },
       "items": [
-        "The Curse of Issyos.sh",
-        "thecurseofissyos/"
+        "The Curse Of Issyos.sh",
+        "thecurseofissyos"
       ],
       "items_opt": null,
       "name": "thecurseofissyos.zip",
       "source": {
         "date_added": "2023-09-06",
-        "date_updated": "2024-07-18",
-        "md5": "63f546be0931ed0d3fbab09760d172ce",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2026-04-19",
+        "md5": "d8852bcce7ff878c6720b729fa08b182",
+        "release_id": "2026-04-19_0213",
         "repo": "main",
-        "size": 12576231,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/thecurseofissyos.zip"
+        "size": 5469892,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-19_0213/thecurseofissyos.zip"
       },
-      "version": 2
+      "version": 4
     },
     "thedeadprince.zip": {
       "attr": {
