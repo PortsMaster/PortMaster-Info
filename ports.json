@@ -10597,6 +10597,96 @@
       },
       "version": 4
     },
+    "bloonstdx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Bloons TD X is a bloons tower defense fan game made by Ramaf Party.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Bloons TD X"
+      },
+      "items": [
+        "Bloons TD X.sh",
+        "bloonstdx"
+      ],
+      "items_opt": null,
+      "name": "bloonstdx.zip",
+      "source": {
+        "date_added": "2026-04-22",
+        "date_updated": "2026-04-22",
+        "md5": "a37f87ca47a152b5d444ec0e85e43af0",
+        "release_id": "2026-04-22_1207",
+        "repo": "main",
+        "size": 57472764,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/bloonstdx.zip"
+      },
+      "version": 4
+    },
     "blossomtales2.zip": {
       "attr": {
         "arch": [],
@@ -32801,12 +32891,12 @@
       "name": "evoland.zip",
       "source": {
         "date_added": "2026-04-02",
-        "date_updated": "2026-04-12",
-        "md5": "3a08a4403eb31972ecbcce8f2427849b",
-        "release_id": "2026-04-12_1606",
+        "date_updated": "2026-04-22",
+        "md5": "0e7f718f32673918c232f4e27a74bfe7",
+        "release_id": "2026-04-22_1207",
         "repo": "main",
-        "size": 28453721,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-12_1606/evoland.zip"
+        "size": 35589780,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/evoland.zip"
       },
       "version": 4
     },
@@ -38814,6 +38904,102 @@
         "repo": "main",
         "size": 28557309,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/frogfall.zip"
+      },
+      "version": 4
+    },
+    "frogforce.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Frog Force! Long ago the frog nations lived in harmony, but then the bug nation attacked. Protect the unseen flower field from the dastardly bugs with your froggy companions, tongues at the ready.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://pinapl.itch.io/frog-force",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Frog Force"
+      },
+      "items": [
+        "Frog Force.sh",
+        "frogforce"
+      ],
+      "items_opt": null,
+      "name": "frogforce.zip",
+      "source": {
+        "date_added": "2026-04-22",
+        "date_updated": "2026-04-22",
+        "md5": "0c13a538d7362b01d223e48c96501c0d",
+        "release_id": "2026-04-22_1207",
+        "repo": "main",
+        "size": 13244948,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/frogforce.zip"
       },
       "version": 4
     },
@@ -53427,6 +53613,108 @@
       },
       "version": 2
     },
+    "khimera.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Khimera: Destroy All Monster Girls is your premiere monster girl beat-em-up platformer experience! Use Suits &amp; Sandals' patented (not actually patented) GIANT STONE FIST technology to punch your way through hordes of monster-pirates to reclaim your home's stolen treasure. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://ko-fi.com/syaxamaphone",
+            "gameurl": "https://suits-sandals.itch.io/khimera-destroy-all-monster-girls",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "https://ko-fi.com/syaxamaphone",
+            "gameurl": "https://store.steampowered.com/app/467380/Khimera_Destroy_All_Monster_Girls/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Khimera: Destroy All Monster Girls"
+      },
+      "items": [
+        "Khimera - Destroy All Monster Girls.sh",
+        "khimera"
+      ],
+      "items_opt": null,
+      "name": "khimera.zip",
+      "source": {
+        "date_added": "2026-04-22",
+        "date_updated": "2026-04-22",
+        "md5": "a950fdf862a502c340150410678998ae",
+        "release_id": "2026-04-22_1207",
+        "repo": "main",
+        "size": 26866641,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/khimera.zip"
+      },
+      "version": 4
+    },
     "kikai.zip": {
       "attr": {
         "arch": [
@@ -58585,12 +58873,12 @@
       "name": "lugaruhd.zip",
       "source": {
         "date_added": "2025-02-04",
-        "date_updated": "2025-02-04",
-        "md5": "922109c2f3984197097562708731b102",
-        "release_id": "2025-02-04_1954",
+        "date_updated": "2026-04-22",
+        "md5": "443ed28e0d5e780daf82e4d63ac1489d",
+        "release_id": "2026-04-22_1207",
         "repo": "main",
-        "size": 41488794,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-04_1954/lugaruhd.zip"
+        "size": 41488793,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/lugaruhd.zip"
       },
       "version": 4
     },
@@ -64987,7 +65275,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Metal Slug SB Fanthology is a fan game developed by SuperBlinky, which has been in development since 2020. The latest version of the project is 0.8.4 The main goal of the project is to create 8 new Metal Slug experiences based on the 8 mainline games.",
+        "desc": "Metal Slug SB Fanthology is a fan game developed by SuperBlinky, which has been in development since 2020.  The main goal of the project is to create 8 new Metal Slug experiences based on the 8 mainline games.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -65012,7 +65300,10 @@
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "title": "Metal Slug FB Fanthology"
       },
       "items": [
@@ -65023,12 +65314,12 @@
       "name": "mslugsbf.zip",
       "source": {
         "date_added": "2024-08-31",
-        "date_updated": "2026-03-05",
-        "md5": "b5bd754542958a00f2531f7677bdc0ef",
-        "release_id": "2026-03-05_1348",
+        "date_updated": "2026-04-22",
+        "md5": "17b780a7e0512fad069475a1f557ceec",
+        "release_id": "2026-04-22_1207",
         "repo": "main",
-        "size": 5450769,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-05_1348/mslugsbf.zip"
+        "size": 5456311,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/mslugsbf.zip"
       },
       "version": 4
     },
@@ -66461,6 +66752,109 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/nebulus.zip"
       },
       "version": 2
+    },
+    "necrodancer.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Award-winning rhythm roguelike. Move to the music and slay to the beat!",
+        "desc_md": "Crypt of the NecroDancer is an award-winning hardcore roguelike rhythm game. Move to the music and deliver beatdowns to the beat! Groove to the epic Danny Baranowsky soundtrack, or choose from the collection of remixes.\n\nThis port uses [Machismo](https://github.com/bmdhacks/machismo) to run the native Apple Silicon (arm64) Mac build directly on aarch64 Linux \u2014 no CPU emulation needed.",
+        "exp": false,
+        "genres": [
+          "action",
+          "rhythm",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Requires macOS game files from GOG (.pkg installers) or Steam (two Mac depots). DLC (Amplified/Synchrony) supported via GOG only. See README.md for details.",
+        "inst_md": "## Installation\n\nRequires the **macOS** version from GOG or Steam.\n\n### GOG (recommended)\n1. Purchase on [GOG](https://www.gog.com/game/crypt_of_the_necrodancer)\n2. Download the **macOS** `.pkg` installer(s) \u2014 base game plus any DLC\n3. Place all `.pkg` files in `necrodancer/gamedata/`\n4. Launch \u2014 extraction happens automatically (may take 10+ minutes per .pkg)\n\n### Steam\n1. Purchase on [Steam](https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/)\n2. Download both Mac depots: `download_depot 247080 247082` and `download_depot 247080 247086`\n3. Place `depot_247082/` and `depot_247086/` in `necrodancer/gamedata/`\n4. Launch \u2014 the patcher merges the depots automatically",
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://braceyourselfgames.com/",
+            "gameurl": "https://www.gog.com/game/crypt_of_the_necrodancer",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://braceyourselfgames.com/",
+            "gameurl": "https://store.steampowered.com/app/247080/Crypt_of_the_NecroDancer/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Crypt of the NecroDancer"
+      },
+      "items": [
+        "Crypt of the NecroDancer.sh",
+        "necrodancer"
+      ],
+      "items_opt": null,
+      "name": "necrodancer.zip",
+      "source": {
+        "date_added": "2026-04-22",
+        "date_updated": "2026-04-22",
+        "md5": "5e7afad129ac71455931f23b06b2ceca",
+        "release_id": "2026-04-22_1207",
+        "repo": "main",
+        "size": 5179795,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/necrodancer.zip"
+      },
+      "version": 4
     },
     "nehonobasa.zip": {
       "attr": {
@@ -82784,11 +83178,12 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Buy the game on steam and copy linux version game assets to gamedata folder with the following steam console command steam console command: download_depot 3166150 3166153 7362828488398565453",
+        "inst": "Buy the game on steam and copy linux version game assets to gamedata folder with the following steam console command steam console command: download_depot 3166150 3166153 7362828488398565453, alternatively see the README / website for instructions on installing the macOS Steam or itch.io versions.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "ImCoKeMaN"
+          "ImCoKeMaN",
+          "kloptops"
         ],
         "reqs": [],
         "rtr": false,
@@ -82798,6 +83193,11 @@
             "developerurl": "https://store.steampowered.com/search/?developer=Shaun%20Inman",
             "gameurl": "https://store.steampowered.com/app/3166150/Ratcheteer_DX/",
             "name": "Steam"
+          },
+          {
+            "developerurl": "https://panic.itch.io/",
+            "gameurl": "https://panic.itch.io/ratcheteer-dx",
+            "name": "itch.io"
           }
         ],
         "title": "Ratcheteer DX"
@@ -82810,12 +83210,12 @@
       "name": "ratcheteerdx.zip",
       "source": {
         "date_added": "2026-03-05",
-        "date_updated": "2026-03-25",
-        "md5": "a62ffe72fccac0f2d5d3082902fb7a6c",
-        "release_id": "2026-03-25_1003",
+        "date_updated": "2026-04-22",
+        "md5": "74ab7810308dd820294c4e62368ed2a1",
+        "release_id": "2026-04-22_1207",
         "repo": "main",
-        "size": 3500080,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-25_1003/ratcheteerdx.zip"
+        "size": 3686239,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/ratcheteerdx.zip"
       },
       "version": 4
     },
@@ -91208,6 +91608,108 @@
       },
       "version": 4
     },
+    "shotgunking.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Shotgun King: The Final Checkmate is a roguelike where you're the Black King and your only weapon is a shotgun. Blast enemy chess pieces across procedurally generated boards, collecting upgrades and adapting your strategy each run.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "rpg",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "README.md for download and install instructions.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://punkcake.itch.io/",
+            "gameurl": "https://store.steampowered.com/app/1972440/Shotgun_King_The_Final_Checkmate/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://punkcake.itch.io/",
+            "gameurl": "https://punkcake.itch.io/shotgun-king",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Shotgun King: The Final Checkmate"
+      },
+      "items": [
+        "Shotgun King.sh",
+        "shotgunking"
+      ],
+      "items_opt": null,
+      "name": "shotgunking.zip",
+      "source": {
+        "date_added": "2026-04-22",
+        "date_updated": "2026-04-22",
+        "md5": "660e325ea3a1458d6b91c37c0b27c7b0",
+        "release_id": "2026-04-22_1207",
+        "repo": "main",
+        "size": 13610758,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/shotgunking.zip"
+      },
+      "version": 4
+    },
     "shovel.knight.zip": {
       "attr": {
         "arch": [
@@ -97743,6 +98245,95 @@
         "repo": "main",
         "size": 8159843,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/sprout.zip"
+      },
+      "version": 4
+    },
+    "sprucechat.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A tiny AI chat app that runs entirely on-device. Qwen2.5-0.5B via llama.cpp, no internet required. The AI has the personality of a spruce tree: patient, unhurried, quietly amazed by everything.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run. First launch loads the model into RAM (~60s).",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Sundownersport",
+          "Cassius Oldenburg"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "SpruceChat"
+      },
+      "items": [
+        "Spruce Chat.sh",
+        "sprucechat"
+      ],
+      "items_opt": null,
+      "name": "sprucechat.zip",
+      "source": {
+        "date_added": "2026-04-22",
+        "date_updated": "2026-04-22",
+        "md5": "e9533c829a0b58dcdb8c7c89a3cd07c6",
+        "release_id": "2026-04-22_1207",
+        "repo": "main",
+        "size": 464367379,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/sprucechat.zip"
       },
       "version": 4
     },
