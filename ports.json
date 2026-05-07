@@ -18512,6 +18512,114 @@
       },
       "version": 2
     },
+    "chocolate-keen.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "demo",
+        "desc": "Chocolate Keen is a reverse engineering of Commander Keen in C/C++ and SDL. The goal is to be as accurate to the original as possible.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade",
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your respective *.CK2 and *.CK3 files into the respective keen directories for Keen 2 and Keen 3.  Episode 1 (shareware) is included and ready to play.  You will still need to provide your purchased copies for episodes 2 and 3 and should work by copying the entire contents of those two episodes (you can use your old DOS copies and 2 & 3 are also available from Steam and GoG) into GAMEDATA/KEEN2 and GAMEDATA/KEEN3.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/9180/Commander_Keen/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://www.gog.com/en/game/commander_keen_complete_pack",
+            "name": "GOG"
+          }
+        ],
+        "title": "Chocolate Keen"
+      },
+      "items": [
+        "Chocolate Keen - Keen 1.sh",
+        "Chocolate Keen - Keen 2.sh",
+        "Chocolate Keen - Keen 3.sh",
+        "chocolate-keen"
+      ],
+      "items_opt": null,
+      "name": "chocolate-keen.zip",
+      "source": {
+        "date_added": "2026-05-07",
+        "date_updated": "2026-05-07",
+        "md5": "e6a5ac464bc25f5214c4089aebae0aad",
+        "release_id": "2026-05-07_1504",
+        "repo": "main",
+        "size": 1337250,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/chocolate-keen.zip"
+      },
+      "version": 4
+    },
     "chroma.zip": {
       "attr": {
         "arch": [
@@ -20903,6 +21011,100 @@
       },
       "version": 4
     },
+    "crabjuice.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Play as the monster for once in this fast-paced action game where you consume, smash, and escape through increasingly chaotic levels, featuring tight gameplay and addictive speedrun potential.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://dev-dwarf.itch.io",
+            "gameurl": "https://dev-dwarf.itch.io/crabjuice",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Crabjuice"
+      },
+      "items": [
+        "Crabjuice.sh",
+        "crabjuice"
+      ],
+      "items_opt": null,
+      "name": "crabjuice.zip",
+      "source": {
+        "date_added": "2026-05-07",
+        "date_updated": "2026-05-07",
+        "md5": "f24f8631a7d948d235c9c98b71e42c53",
+        "release_id": "2026-05-07_1504",
+        "repo": "main",
+        "size": 25465807,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/crabjuice.zip"
+      },
+      "version": 4
+    },
     "crashlands.zip": {
       "attr": {
         "arch": [
@@ -21282,12 +21484,12 @@
       "name": "criticalcore2.zip",
       "source": {
         "date_added": "2026-04-28",
-        "date_updated": "2026-04-28",
-        "md5": "e54aec164b6ffb1e88071c1d6f0831c7",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-05-07",
+        "md5": "7b6f49301ab9c532e9303b3e773d3f46",
+        "release_id": "2026-05-07_1504",
         "repo": "main",
-        "size": 19385409,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/criticalcore2.zip"
+        "size": 19385412,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/criticalcore2.zip"
       },
       "version": 4
     },
@@ -38179,12 +38381,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-10-27",
-        "md5": "2568c6a87b8b6f52c55c1da6a35482fe",
-        "release_id": "2024-10-27_1327",
+        "date_updated": "2026-05-07",
+        "md5": "b920aa2180250c25c022db8b8bd422f3",
+        "release_id": "2026-05-07_1504",
         "repo": "main",
-        "size": 3267085,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/freedom.planet.zip"
+        "size": 3505447,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/freedom.planet.zip"
       },
       "version": 2
     },
@@ -54597,6 +54799,110 @@
         "repo": "main",
         "size": 43795686,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/koreader.zip"
+      },
+      "version": 4
+    },
+    "kudamonomerge.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Kudamono Merge is a retro-style puzzle game made with Pyxel. Drop and merge identical fruits to evolve them into bigger ones. Keep stacking and aim for a high score! Inspired by Suika Game, but with a classic 8-bit twist.\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game  at https://takeshic.itch.io/kudamono-merge, and place the KudamonoMerge.pyxapp file in the kudamonomerge/gamedata folder.",
+        "inst_md": "Download the game  at [https://takeshic.itch.io/kudamono-merge](https://takeshic.itch.io/kudamono-merge), and place the **KudamonoMerge.pyxapp** file in the kudamonomerge/gamedata folder.",
+        "min_glibc": "",
+        "porter": [
+          "takeshich"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "pyxel_2.4.6._python_3.11.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://takeshic.itch.io/",
+            "gameurl": "https://takeshic.itch.io/kudamono-merge",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "",
+            "name": ""
+          }
+        ],
+        "title": "Kudamono Merge"
+      },
+      "items": [
+        "Kudamono Merge.sh",
+        "kudamonomerge"
+      ],
+      "items_opt": null,
+      "name": "kudamonomerge.zip",
+      "source": {
+        "date_added": "2026-05-07",
+        "date_updated": "2026-05-07",
+        "md5": "c78bcf91e6e078b153ad166f20af2f38",
+        "release_id": "2026-05-07_1504",
+        "repo": "main",
+        "size": 1468833,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/kudamonomerge.zip"
       },
       "version": 4
     },
@@ -76944,6 +77250,107 @@
       },
       "version": 2
     },
+    "pigments.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Be a fruit locked in a room, dodge circular saws and paint as much of the level as you can! It's a pretty addictive score-attack game with very short runs, perfect for a coffee break!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Itch.io or Steam. For Itch.io, download the MacOS version and extract the game files into gamedata folder. For Steam, download the MacOS depot via the Steam console using this command: download_depot 2339080 2339082 577923055002199486, then copy the files into gamedata folder.",
+        "inst_md": "Purchase the game on [Itch.io](https://punkcake.itch.io/pigments) or [Steam](https://store.steampowered.com/app/2339080/Pigments/). For `Itch.io`, download the `MacOS` version and extract the game files into `gamedata` folder. For `Steam`, download the `MacOS` depot via the [Steam console](steam://open/console) using this command: `download_depot 2339080 2339082 577923055002199486`, then copy the files into gamedata folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://punkcake.itch.io/pigments",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2339080/Pigments/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Pigments"
+      },
+      "items": [
+        "Pigments.sh",
+        "pigments"
+      ],
+      "items_opt": null,
+      "name": "pigments.zip",
+      "source": {
+        "date_added": "2026-05-07",
+        "date_updated": "2026-05-07",
+        "md5": "da5944d275843a220384181acc0b9236",
+        "release_id": "2026-05-07_1504",
+        "repo": "main",
+        "size": 4539139,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/pigments.zip"
+      },
+      "version": 4
+    },
     "pillarsofdust.zip": {
       "attr": {
         "arch": [
@@ -81622,6 +82029,100 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/puztrix_playdate.zip"
       },
       "version": 2
+    },
+    "puzzlescriptpm.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Minimalist, text-based engine for creating grid-based puzzle games, often in the Sokoban style, where simple rules produce deep emergent gameplay. This port includes 50+ games and supports adding more.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.increpare.com",
+            "gameurl": "https://www.puzzlescript.net",
+            "name": "puzzlescript.net"
+          }
+        ],
+        "title": "Puzzle Script PM"
+      },
+      "items": [
+        "Puzzle Script PM.sh",
+        "puzzlescriptpm"
+      ],
+      "items_opt": null,
+      "name": "puzzlescriptpm.zip",
+      "source": {
+        "date_added": "2026-05-07",
+        "date_updated": "2026-05-07",
+        "md5": "3658c7444b0ff41173f1b9915eba284c",
+        "release_id": "2026-05-07_1504",
+        "repo": "main",
+        "size": 22854432,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/puzzlescriptpm.zip"
+      },
+      "version": 4
     },
     "pyk.zip": {
       "attr": {
@@ -91998,12 +92499,12 @@
       "name": "shotgunking.zip",
       "source": {
         "date_added": "2026-04-22",
-        "date_updated": "2026-04-28",
-        "md5": "33a84275cdab6ab42acafff71239ca14",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-05-07",
+        "md5": "c4900c12f34b88318fd6a30bf5bea39c",
+        "release_id": "2026-05-07_1504",
         "repo": "main",
-        "size": 3094840,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/shotgunking.zip"
+        "size": 3074566,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/shotgunking.zip"
       },
       "version": 4
     },
@@ -92934,6 +93435,102 @@
         "repo": "main",
         "size": 13749516,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/simutrans.zip"
+      },
+      "version": 4
+    },
+    "singoubreaka.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Look carefully at the red and blue signals, and DESTROY them. It's an eccentric action puzzle game where you destroy blocks modeled after pedestrian traffic lights. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder. You can also use the free demo version.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3506550/_SINGOU_BREAKA/) and copy all game files into the `assets` folder. You can also use the free demo version.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://yanaboh.bokunenjin.com/",
+            "gameurl": "https://store.steampowered.com/app/3506550/_SINGOU_BREAKA",
+            "name": "Steam"
+          }
+        ],
+        "title": "SINGOU BREAKA \u30b7\u30f3\u30b4\u30a6\u30d6\u30ec\u30a4\u30ab"
+      },
+      "items": [
+        "SINGOU BREAKA.sh",
+        "singoubreaka"
+      ],
+      "items_opt": null,
+      "name": "singoubreaka.zip",
+      "source": {
+        "date_added": "2026-05-07",
+        "date_updated": "2026-05-07",
+        "md5": "3a564508638f93eeccb105c2d06e168d",
+        "release_id": "2026-05-07_1504",
+        "repo": "main",
+        "size": 7928040,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/singoubreaka.zip"
       },
       "version": 4
     },
@@ -94216,8 +94813,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smbll.png",
-            "cover.smb1.png"
+            "cover.smb1.png",
+            "cover.smbll.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -106797,6 +107394,100 @@
       },
       "version": 4
     },
+    "thesaloon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Another reverse-sheepherder game. Rolling rolls your gun; rolling reloads your gun.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://mmatt-ugh.itch.io",
+            "gameurl": "https://mmatt-ugh.itch.io/the-saloon",
+            "name": "itch.io"
+          }
+        ],
+        "title": "The Saloon"
+      },
+      "items": [
+        "The Saloon.sh",
+        "thesaloon"
+      ],
+      "items_opt": null,
+      "name": "thesaloon.zip",
+      "source": {
+        "date_added": "2026-05-07",
+        "date_updated": "2026-05-07",
+        "md5": "7bdbbe7f72f5a1c9e923df4727a26be1",
+        "release_id": "2026-05-07_1504",
+        "repo": "main",
+        "size": 15722161,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/thesaloon.zip"
+      },
+      "version": 4
+    },
     "thesphinxoftime.zip": {
       "attr": {
         "arch": [
@@ -107968,12 +108659,12 @@
       "name": "tinamp.zip",
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2025-11-04",
-        "md5": "9d757bbbde9f108789bbbed1679676d0",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2026-05-07",
+        "md5": "0f2a6b24237b2fea536613e0dd10bcdd",
+        "release_id": "2026-05-07_1504",
         "repo": "main",
-        "size": 89898184,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/tinamp.zip"
+        "size": 90785050,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/tinamp.zip"
       },
       "version": 4
     },
@@ -117533,6 +118224,97 @@
       },
       "version": 4
     },
+    "wizball.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A remake of the classic Commodore 64 Wizball game by Sensible Software.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Craig Chandler"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Wizball"
+      },
+      "items": [
+        "WizBall.sh",
+        "wizball"
+      ],
+      "items_opt": null,
+      "name": "wizball.zip",
+      "source": {
+        "date_added": "2026-05-07",
+        "date_updated": "2026-05-07",
+        "md5": "51628b46423c625324664beb2aded7ac",
+        "release_id": "2026-05-07_1504",
+        "repo": "main",
+        "size": 27685929,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/wizball.zip"
+      },
+      "version": 4
+    },
     "wizznic.zip": {
       "attr": {
         "arch": [
@@ -122166,7 +122948,7 @@
     "ziiaol.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -122193,10 +122975,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -122205,6 +122991,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "free",
         "desc": "Zelda II Enhanced adds a ton of QoL improvements, widescreen, new areas, and new collectibles. The game is arguably much easier to play through.",
         "desc_md": null,
         "exp": false,
@@ -122221,15 +123008,18 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the .zip from https://hoverbat.itch.io/ziiaol and put in the assets folder.",
-        "inst_md": "Download the .zip from https://hoverbat.itch.io/ziiaol and put in the assets folder.",
-        "min_glibc": "",
+        "inst": "Download the .zip from https://hoverbat.itch.io/ziiaol and put it in the ziiaol/assets folder.",
+        "inst_md": "Download the .zip from [Itch.io](https://hoverbat.itch.io/ziiaol) and put it in the `ziiaol/assets` folder.",
+        "min_glibc": null,
         "porter": [
           "Jeod"
         ],
         "reqs": [],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "gmtoolkit.squashfs"
+        ],
+        "store": [],
         "title": "Zelda II: Enhanced"
       },
       "items": [
@@ -122240,12 +123030,12 @@
       "name": "ziiaol.zip",
       "source": {
         "date_added": "2024-08-06",
-        "date_updated": "2025-10-07",
-        "md5": "e185c904336e5f2206eff57453da7f86",
-        "release_id": "2025-10-07_1242",
+        "date_updated": "2026-05-07",
+        "md5": "b580498ca07981dd7f06fb165abe0ec2",
+        "release_id": "2026-05-07_1311",
         "repo": "multiverse",
-        "size": 15087850,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-10-07_1242/ziiaol.zip"
+        "size": 5099334,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-05-07_1311/ziiaol.zip"
       },
       "version": 4
     },
