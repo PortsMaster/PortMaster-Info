@@ -6580,8 +6580,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Either buy the game on Steam https://store.steampowered.com/app/1764390/BAD_END_THEATER or GOG  https://www.gog.com/de/game/bad_end_theater and copy the \"game\" folder into the ports \"badendtheater\" folder\n",
-        "inst_md": "Either buy the game on [Steam](https://store.steampowered.com/app/1764390/BAD_END_THEATER) or [GOG](https://www.gog.com/de/game/bad_end_theater)  and copy the \"game\" folder into the ports ",
+        "inst": "Either buy the game on Steam https://store.steampowered.com/app/1764390/BAD_END_THEATER or GOG  https://www.gog.com/de/game/bad_end_theater. For Steam version, open the Steam console and enter the following command to get a compatible version: download_depot 1764390 1764391 5823322159234091361, then copy the \"game\" folder into the ports \"badendtheater\" folder. From GOG installation, just copy the \"game\" folder into the ports \"badendtheater\" folder",
+        "inst_md": "Either buy the game on [Steam](https://store.steampowered.com/app/1764390/BAD_END_THEATER) or [GOG](https://www.gog.com/de/game/bad_end_theater).  For Steam version, open the [Steam console](steam://open/console) and enter the following command to get a compatible version: `download_depot 1764390 1764391 5823322159234091361`, then copy the \"game\" folder into the ports \"badendtheater\" folder. From GOG installation, just copy the \"game\" folder into the ports \"badendtheater\" folder",
         "min_glibc": "",
         "porter": [
           "Dia"
@@ -6613,12 +6613,12 @@
       "name": "badendtheater.zip",
       "source": {
         "date_added": "2025-12-29",
-        "date_updated": "2025-12-29",
-        "md5": "9da5fdc54cb225dff5c62d8b17b6090b",
-        "release_id": "2025-12-29_0521",
+        "date_updated": "2026-05-24",
+        "md5": "7b0c62825839a0ef50e398b77eb92443",
+        "release_id": "2026-05-24_0536",
         "repo": "main",
-        "size": 575603,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/badendtheater.zip"
+        "size": 575735,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/badendtheater.zip"
       },
       "version": 4
     },
@@ -7965,12 +7965,12 @@
       "name": "belleboomerang.zip",
       "source": {
         "date_added": "2024-09-26",
-        "date_updated": "2024-09-26",
-        "md5": "9b5e3be67c9cae02b6a59720158b2865",
-        "release_id": "2024-09-26_1748",
+        "date_updated": "2026-05-24",
+        "md5": "09fad45fe57736eb70da93db57cdd23e",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 14736213,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-26_1748/belleboomerang.zip"
+        "size": 8530586,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/belleboomerang.zip"
       },
       "version": 4
     },
@@ -8604,12 +8604,12 @@
       "name": "binarystarinfinity.zip",
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2024-10-31",
-        "md5": "89786640cdbe09848bc43e117d409b3b",
-        "release_id": "2024-10-31_1458",
+        "date_updated": "2026-05-24",
+        "md5": "81c20a4d6fcbeab836e488aba89edf04",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 12322020,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-31_1458/binarystarinfinity.zip"
+        "size": 6835541,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/binarystarinfinity.zip"
       },
       "version": 4
     },
@@ -8672,8 +8672,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from itch.io (https://ondydev.itch.io/binkys-trash-service). Download, extract, and copy the game files to the binkystrashservice/assets directory.",
-        "inst_md": "Purchase the game from [itch.io](https://ondydev.itch.io/binkys-trash-service). Download, extract, and copy the game files to the `binkystrashservice/assets` directory.",
+        "inst": "Purchase the game from itch.io (https://ondydev.itch.io/binkys-trash-service) or Steam (https://store.steampowered.com/app/1498940/Binkys_Trash_Service/). For Steam, use the console and enter download_depot 1498940 1498941 7126354185184625380. Download, extract, and copy the game files to the binkystrashservice/assets directory.",
+        "inst_md": "Purchase the game from [itch.io](https://ondydev.itch.io/binkys-trash-service) or [Steam](https://store.steampowered.com/app/1498940/Binkys_Trash_Service/). For Steam, open the [console](steam://open/console) and enter `download_depot 1498940 1498941 7126354185184625380`. Download, extract, and copy the game files to the `binkystrashservice/assets` directory.",
         "min_glibc": "",
         "porter": [
           "tabreturn"
@@ -8686,6 +8686,11 @@
             "developerurl": "https://ondydev.itch.io",
             "gameurl": "https://ondydev.itch.io/binkys-trash-service",
             "name": "itch.io"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/developer/ondydev",
+            "gameurl": "https://store.steampowered.com/app/1498940/Binkys_Trash_Service/",
+            "name": "Steam"
           }
         ],
         "title": "Binky's Trash Service"
@@ -8698,12 +8703,12 @@
       "name": "binkystrashservice.zip",
       "source": {
         "date_added": "2025-11-19",
-        "date_updated": "2025-12-24",
-        "md5": "3686b250e43994180ae8385b0b25adb9",
-        "release_id": "2025-12-24_0552",
+        "date_updated": "2026-05-24",
+        "md5": "8f8ef02c76602baf463702ba04ee2b27",
+        "release_id": "2026-05-24_0536",
         "repo": "main",
-        "size": 6874921,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/binkystrashservice.zip"
+        "size": 6875076,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/binkystrashservice.zip"
       },
       "version": 4
     },
@@ -12381,12 +12386,12 @@
       "name": "boxspace.zip",
       "source": {
         "date_added": "2024-10-02",
-        "date_updated": "2024-10-02",
-        "md5": "1332bfa682d44f26b8e9ffa74b32b511",
-        "release_id": "2024-10-02_2052",
+        "date_updated": "2026-05-24",
+        "md5": "d6053597ec0cfda5b82ae8de12c2faa5",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 21762596,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-02_2052/boxspace.zip"
+        "size": 6704523,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/boxspace.zip"
       },
       "version": 4
     },
@@ -13104,12 +13109,12 @@
       "name": "brokenpipes.zip",
       "source": {
         "date_added": "2024-10-01",
-        "date_updated": "2024-10-01",
-        "md5": "974ea46b436d288dcc41d56bb7378eee",
-        "release_id": "2024-10-01_1021",
+        "date_updated": "2026-05-24",
+        "md5": "40c801569b47c66bb7b7e1c045bc1ac6",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 15253729,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-01_1021/brokenpipes.zip"
+        "size": 6347399,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/brokenpipes.zip"
       },
       "version": 4
     },
@@ -20471,12 +20476,12 @@
       "name": "cookservedelicious.zip",
       "source": {
         "date_added": "2024-10-17",
-        "date_updated": "2024-10-21",
-        "md5": "affb2430c9cb954f4ce7cdb220a2758f",
-        "release_id": "2024-10-21_0653",
+        "date_updated": "2026-05-24",
+        "md5": "d6f9345382fd7bfe40ae8fcbe5cf7eb5",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 36931952,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/cookservedelicious.zip"
+        "size": 35471322,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/cookservedelicious.zip"
       },
       "version": 4
     },
@@ -25636,12 +25641,12 @@
       "name": "demodome.zip",
       "source": {
         "date_added": "2024-10-15",
-        "date_updated": "2024-10-15",
-        "md5": "0fa3c67a0614a0eba87425887a4973ab",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2026-05-24",
+        "md5": "9614c8c9565a275f5e41f1310561a035",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 15384532,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/demodome.zip"
+        "size": 7745375,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/demodome.zip"
       },
       "version": 4
     },
@@ -32209,12 +32214,12 @@
       "name": "elechead.zip",
       "source": {
         "date_added": "2024-09-16",
-        "date_updated": "2024-09-17",
-        "md5": "3c119b0ec6d98282c1f9af2708b4f626",
-        "release_id": "2024-09-17_0942",
+        "date_updated": "2026-05-24",
+        "md5": "5e369bbe9d733c04b98cfe58cf9e1f09",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 12474517,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-17_0942/elechead.zip"
+        "size": 6983625,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/elechead.zip"
       },
       "version": 4
     },
@@ -36657,12 +36662,12 @@
       "name": "flipclock.zip",
       "source": {
         "date_added": "2025-11-04",
-        "date_updated": "2025-11-04",
-        "md5": "77c690396391400874067b0a92527bb2",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2026-05-24",
+        "md5": "55882928a0aa42b770e02d84d54587c2",
+        "release_id": "2026-05-24_0536",
         "repo": "main",
-        "size": 151656,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/flipclock.zip"
+        "size": 151685,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/flipclock.zip"
       },
       "version": 4
     },
@@ -39291,12 +39296,12 @@
       "name": "frogfall.zip",
       "source": {
         "date_added": "2024-09-27",
-        "date_updated": "2025-04-03",
-        "md5": "ab3e3fb3c46cb7975c9e39d7b00e6962",
-        "release_id": "2025-04-03_1456",
+        "date_updated": "2026-05-24",
+        "md5": "48e4eeb9f5532a408fb104b04fc517d4",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 28557309,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/frogfall.zip"
+        "size": 29807234,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/frogfall.zip"
       },
       "version": 4
     },
@@ -41074,12 +41079,12 @@
       "name": "globeba.zip",
       "source": {
         "date_added": "2024-09-10",
-        "date_updated": "2024-10-09",
-        "md5": "adac94869f36f0b58c4c128ea762ddf7",
-        "release_id": "2024-10-09_1802",
+        "date_updated": "2026-05-24",
+        "md5": "28f3e2dd99e0c88ce3ee46a17e214b8a",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 44822937,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-09_1802/globeba.zip"
+        "size": 41992275,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/globeba.zip"
       },
       "version": 4
     },
@@ -45994,12 +45999,12 @@
       "name": "hatchwell.zip",
       "source": {
         "date_added": "2024-10-24",
-        "date_updated": "2024-10-24",
-        "md5": "8952b498ce723feeb95bf512b5fa3c05",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2026-05-24",
+        "md5": "603af44cd431e4961eb4ea839de1c783",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 16679447,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/hatchwell.zip"
+        "size": 11742183,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/hatchwell.zip"
       },
       "version": 4
     },
@@ -46269,12 +46274,12 @@
       "name": "hawkisland.zip",
       "source": {
         "date_added": "2024-10-10",
-        "date_updated": "2024-10-10",
-        "md5": "382ee8385759f8978af1e59ba521af49",
-        "release_id": "2024-10-10_2118",
+        "date_updated": "2026-05-24",
+        "md5": "5a15c57235c2a0c9cec143ca47aa034d",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 23898139,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-10_2118/hawkisland.zip"
+        "size": 23653766,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/hawkisland.zip"
       },
       "version": 4
     },
@@ -48562,12 +48567,12 @@
       "name": "hordes.zip",
       "source": {
         "date_added": "2024-10-03",
-        "date_updated": "2024-10-03",
-        "md5": "4600eb4612f2766e2a26985c6520db6f",
-        "release_id": "2024-10-03_1624",
+        "date_updated": "2026-05-24",
+        "md5": "e05325fc15ae44b0934ba4d5ca3bed2b",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 15254828,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-03_1624/hordes.zip"
+        "size": 7841802,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/hordes.zip"
       },
       "version": 4
     },
@@ -49985,12 +49990,12 @@
       "name": "ichorous.zip",
       "source": {
         "date_added": "2024-11-18",
-        "date_updated": "2024-11-18",
-        "md5": "442d452ab0b79e39a24a6c5d7884e068",
-        "release_id": "2024-11-18_0913",
+        "date_updated": "2026-05-24",
+        "md5": "83532b63583a4e6f59d6e84c8a4c3345",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 14535428,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-18_0913/ichorous.zip"
+        "size": 8651079,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/ichorous.zip"
       },
       "version": 4
     },
@@ -58020,12 +58025,12 @@
       },
       "source": {
         "date_added": "2024-10-05",
-        "date_updated": "2024-10-05",
-        "md5": "026ddc53677065c40ae4e6b6aa59100d",
-        "release_id": "2024-10-05_0853",
+        "date_updated": "2026-05-24",
+        "md5": "2a59cba28d49d3552db8b9867bd00361",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 31289439,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-05_0853/locust.zip"
+        "size": 18783023,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/locust.zip"
       },
       "version": 4
     },
@@ -58760,12 +58765,12 @@
       },
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-10-21",
-        "md5": "d3b659fc1afd1dcc17c2cdcb11638425",
-        "release_id": "2024-10-21_0653",
+        "date_updated": "2026-05-24",
+        "md5": "dee0775cba4d78b17e64047d7ba6435f",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 25869426,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/lose95.zip"
+        "size": 21000617,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/lose95.zip"
       },
       "version": 4
     },
@@ -60653,12 +60658,106 @@
       "name": "mago.zip",
       "source": {
         "date_added": "2024-10-07",
-        "date_updated": "2026-04-28",
-        "md5": "bfb147312420967bcd5d54ff35d3f899",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-05-24",
+        "md5": "aa4aa6ca47c4acca40cde8ce4c224565",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 25709452,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/mago.zip"
+        "size": 24252709,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/mago.zip"
+      },
+      "version": 4
+    },
+    "makenewfriends.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "The people of LudumDare Land are lonely and in need of friends! Use the Friend-o-matic to summon new friends out of thin air! Will you be able to create friends for everyone before you die?!?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://benjamin-halko.itch.io/make-new-friends",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Make New Friends"
+      },
+      "items": [
+        "Make New Friends.sh",
+        "makenewfriends"
+      ],
+      "items_opt": null,
+      "name": "makenewfriends.zip",
+      "source": {
+        "date_added": "2026-05-24",
+        "date_updated": "2026-05-24",
+        "md5": "e825fe2555817a928c82e7fa9f3ae335",
+        "release_id": "2026-05-24_0536",
+        "repo": "main",
+        "size": 14121379,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/makenewfriends.zip"
       },
       "version": 4
     },
@@ -65085,6 +65184,105 @@
       },
       "version": 4
     },
+    "moonchildfe.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A modern source port of the 1997 Windows 95 classic, Moon Child. This (FE) Friend Edition is designed as a definitive way to experience the game on modern hardware. Remember, you've got the power to be his friend!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://github.com/MorsGames",
+            "gameurl": "https://github.com/MorsGames/MoonChildFE",
+            "name": "GitHub"
+          },
+          {
+            "developerurl": "https://mors-games.itch.io",
+            "gameurl": "https://mors-games.itch.io/moon-child-fe",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Moon Child FE"
+      },
+      "items": [
+        "Moon Child FE.sh",
+        "moonchildfe"
+      ],
+      "items_opt": null,
+      "name": "moonchildfe.zip",
+      "source": {
+        "date_added": "2026-05-24",
+        "date_updated": "2026-05-24",
+        "md5": "13f9d53834f88125ea2eebf1308e73a2",
+        "release_id": "2026-05-24_0536",
+        "repo": "main",
+        "size": 76333600,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/moonchildfe.zip"
+      },
+      "version": 4
+    },
     "moonleap.zip": {
       "attr": {
         "arch": [
@@ -68243,12 +68441,12 @@
       "name": "nextdoor.zip",
       "source": {
         "date_added": "2024-11-02",
-        "date_updated": "2026-02-07",
-        "md5": "794fc02c7c2ae2e12d3b6eb3934f1e1f",
-        "release_id": "2026-02-07_0859",
+        "date_updated": "2026-05-24",
+        "md5": "7cdfc5672e081084beff392d223e7bf5",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 12174190,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/nextdoor.zip"
+        "size": 8095120,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/nextdoor.zip"
       },
       "version": 4
     },
@@ -80498,12 +80696,12 @@
       "name": "powerputtlegend.zip",
       "source": {
         "date_added": "2024-10-15",
-        "date_updated": "2025-09-23",
-        "md5": "be5a2db3c9a41ab94e8e50466f85cc1d",
-        "release_id": "2025-09-23_1014",
+        "date_updated": "2026-05-24",
+        "md5": "a5117edadf5375ea7d39058541654174",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 26924717,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/powerputtlegend.zip"
+        "size": 16174133,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/powerputtlegend.zip"
       },
       "version": 4
     },
@@ -81608,12 +81806,12 @@
       "name": "psrl.zip",
       "source": {
         "date_added": "2024-10-07",
-        "date_updated": "2024-10-27",
-        "md5": "d5761768f2294f90f4ede59ebdc3d121",
-        "release_id": "2024-10-27_1327",
+        "date_updated": "2026-05-24",
+        "md5": "baddc7c76a4f507a85f37e013d1b7ee4",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 48052261,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-27_1327/psrl.zip"
+        "size": 46429525,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/psrl.zip"
       },
       "version": 4
     },
@@ -81702,12 +81900,12 @@
       },
       "source": {
         "date_added": "2024-10-17",
-        "date_updated": "2024-10-17",
-        "md5": "6fc6b01ba8a983006cd95f637b966e93",
-        "release_id": "2024-10-17_0726",
+        "date_updated": "2026-05-24",
+        "md5": "0fdb1a836a3b803a849c4dff30fecdee",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 24518288,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-17_0726/pullywog.zip"
+        "size": 17986624,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/pullywog.zip"
       },
       "version": 4
     },
@@ -83553,12 +83751,12 @@
       "name": "qyoblaster.zip",
       "source": {
         "date_added": "2024-12-03",
-        "date_updated": "2025-06-16",
-        "md5": "06e8e2b0b7d9e06489f3b16152f77df5",
-        "release_id": "2025-06-16_0931",
+        "date_updated": "2026-05-24",
+        "md5": "f10f2f99af03f7b72ac10a73569b919e",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 16033444,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/qyoblaster.zip"
+        "size": 7174761,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/qyoblaster.zip"
       },
       "version": 4
     },
@@ -90070,7 +90268,7 @@
     "savingprincess.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -90097,10 +90295,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -90123,8 +90325,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Head to https://brainos.itch.io/savingprincess.\nPurchase the game and download Saving Princess.exe and place it into ports/\nWorks with Saving Princess - DEMO - Windows.exe too!",
-        "inst_md": "Head to https://brainos.itch.io/savingprincess.\nPurchase the game and download Saving Princess.exe and place it into ports/\nWorks with Saving Princess - DEMO - Windows.exe too.",
+        "inst": "Head to https://brainos.itch.io/savingprincess.  \nPurchase the game and download Saving Princess.exe and place it into ports/savingprincess/assets.  \nWorks with Saving Princess - DEMO - Windows.exe too!",
+        "inst_md": null,
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -90142,12 +90344,12 @@
       "name": "savingprincess.zip",
       "source": {
         "date_added": "2024-09-26",
-        "date_updated": "2024-09-27",
-        "md5": "aaeab65e53f2f957ca4cc72690ec0b96",
-        "release_id": "2024-09-27_2150",
+        "date_updated": "2026-05-24",
+        "md5": "4f8c742aa542ec138c7712ee84d7c5f8",
+        "release_id": "2026-05-24_0536",
         "repo": "main",
-        "size": 7148478,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-27_2150/savingprincess.zip"
+        "size": 9086380,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/savingprincess.zip"
       },
       "version": 4
     },
@@ -92234,12 +92436,12 @@
       "name": "sheepo.zip",
       "source": {
         "date_added": "2024-12-13",
-        "date_updated": "2025-01-02",
-        "md5": "4a1222a6d44e48b3b6243eea35f3ba88",
-        "release_id": "2025-01-02_1923",
+        "date_updated": "2026-05-24",
+        "md5": "333966aec8fde33a5fbd7e7b323352f1",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 29698955,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/sheepo.zip"
+        "size": 28221930,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/sheepo.zip"
       },
       "version": 4
     },
@@ -92588,12 +92790,12 @@
       "name": "shirobimetal.zip",
       "source": {
         "date_added": "2024-10-21",
-        "date_updated": "2024-10-21",
-        "md5": "f732cb644f3abbd7b99f5ec55fb9e16f",
-        "release_id": "2024-10-21_0653",
+        "date_updated": "2026-05-24",
+        "md5": "16a2b1d0af5b1287bac79df57b26cca0",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 13952475,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-21_0653/shirobimetal.zip"
+        "size": 6313324,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/shirobimetal.zip"
       },
       "version": 4
     },
@@ -96499,12 +96701,12 @@
       },
       "source": {
         "date_added": "2024-10-22",
-        "date_updated": "2024-10-22",
-        "md5": "e29bebc2b695c2ca4dae6f852bacc30d",
-        "release_id": "2024-10-22_1301",
+        "date_updated": "2026-05-24",
+        "md5": "fc0d2f069100f3e21da30f8df8d32c1a",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 20529264,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-22_1301/somnokid.zip"
+        "size": 15647469,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/somnokid.zip"
       },
       "version": 4
     },
@@ -98415,6 +98617,107 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/spectralslash.zip"
       },
       "version": 2
+    },
+    "spectrumforces.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Make up your squads out of 9 unique ships and save 3 planets from hordes of robots in this colorful horizontal shoot-em-up! Each of the 9 pilots in the Spectrum Forces has unique capacities. It's up to you to select the right ones for the right job. You've been commissioned to clear 3 planets from the residing Abandonware. Try your best to not lose anyone while doing so!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Itch.io or Steam. For Itch.io, download the MacOS version and extract the game files into gamedata folder. For Steam, download the MacOS depot via the Steam console using this command: download_depot 2319550 2319552 7814243358072475815, then copy the files into gamedata folder.\"",
+        "inst_md": "Purchase the game on [Itch.io](https://punkcake.itch.io/spectrum-forces) or [Steam](https://store.steampowered.com/app/2319550/Spectrum_Forces/). For Itch.io, download the MacOS version and extract the game files into `gamedata` folder. For Steam, download the MacOS depot via the [Steam console](steam://open/console) using this command: `download_depot 2319550 2319552 7814243358072475815`, then copy the files into `gamedata` folder.\"",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://punkcake.itch.io/spectrum-forces",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2319550/Spectrum_Forces/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Spectrum Forces"
+      },
+      "items": [
+        "Spectrum Forces.sh",
+        "spectrumforces"
+      ],
+      "items_opt": null,
+      "name": "spectrumforces.zip",
+      "source": {
+        "date_added": "2026-05-24",
+        "date_updated": "2026-05-24",
+        "md5": "a98acb4c40469184571f155c883ae656",
+        "release_id": "2026-05-24_0536",
+        "repo": "main",
+        "size": 4576698,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/spectrumforces.zip"
+      },
+      "version": 4
     },
     "spellsling.zip": {
       "attr": {
@@ -101683,12 +101986,12 @@
       "name": "sudokul.zip",
       "source": {
         "date_added": "2024-04-12",
-        "date_updated": "2026-05-14",
-        "md5": "57d4df6f9eef54bcc0ad57b8454702ca",
-        "release_id": "2026-05-14_1654",
+        "date_updated": "2026-05-24",
+        "md5": "0e8507c68067d80d9dafc0aa6a829a7f",
+        "release_id": "2026-05-24_0536",
         "repo": "main",
-        "size": 2809494,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/sudokul.zip"
+        "size": 2809857,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/sudokul.zip"
       },
       "version": 4
     },
@@ -102386,12 +102689,12 @@
       "name": "superdungeonmuncher.zip",
       "source": {
         "date_added": "2024-08-19",
-        "date_updated": "2024-10-04",
-        "md5": "14a0cc4ceebb430adf7495cdccb38f02",
-        "release_id": "2024-10-04_1330",
+        "date_updated": "2026-05-24",
+        "md5": "23a2b6ed3d3dcfc54c53e998d779aa2d",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 10037519,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-04_1330/superdungeonmuncher.zip"
+        "size": 8516050,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/superdungeonmuncher.zip"
       },
       "version": 4
     },
@@ -104826,12 +105129,12 @@
       },
       "source": {
         "date_added": "2024-10-24",
-        "date_updated": "2024-10-24",
-        "md5": "4f4064bc3a6973ac23302b909d8affcd",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2026-05-24",
+        "md5": "2b7899234bf5b22ef5f2a1d6663f73d4",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 10273555,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/tabletanks.zip"
+        "size": 6499577,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/tabletanks.zip"
       },
       "version": 4
     },
@@ -104999,12 +105302,12 @@
       },
       "source": {
         "date_added": "2024-10-09",
-        "date_updated": "2024-10-15",
-        "md5": "beb5d5af303736f057cdbc98179180aa",
-        "release_id": "2024-10-15_2128",
+        "date_updated": "2026-05-24",
+        "md5": "3607a18adbc274103898b9525573c4ce",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 27876540,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/tailspin.zip"
+        "size": 17786613,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/tailspin.zip"
       },
       "version": 4
     },
@@ -105466,12 +105769,12 @@
       "name": "tamiku.zip",
       "source": {
         "date_added": "2024-10-24",
-        "date_updated": "2024-10-24",
-        "md5": "7e7d19e5d1461096407bee570fadab95",
-        "release_id": "2024-10-24_1300",
+        "date_updated": "2026-05-24",
+        "md5": "e59f428107a3132139c8ae1ed06ea944",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 25902230,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-24_1300/tamiku.zip"
+        "size": 12683777,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/tamiku.zip"
       },
       "version": 4
     },
@@ -107227,6 +107530,98 @@
         "repo": "main",
         "size": 19575148,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-03_0511/thefoundersofredacted.zip"
+      },
+      "version": 4
+    },
+    "theimpossiblegame.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The Impossible Game is a brutally challenging rhythm-based platformer where you control a square navigating a course of obstacles. One wrong move and you start from the very beginning. With pulse-pounding music, pixel-perfect timing, and a built-in level editor, it's simple to learn but nearly impossible to master.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the Linux game files from Steam to the ports/theimpossiblegame/gamedata directory. To get the Linux files from Steam, open the Steam console steam://open/console and run: \"download_depot 251630 251632\", then copy the contents of the downloaded depot into ports/theimpossiblegame/gamedata/.",
+        "inst_md": "Copy the Linux game files from Steam to the ports/theimpossiblegame/gamedata directory.\nTo get the Linux files from Steam, open the [Steam console](steam://open/console) and run:\n```\ndownload_depot 251630 251632\n```\nThen copy the contents of the downloaded depot into ports/theimpossiblegame/gamedata/.",
+        "min_glibc": "",
+        "porter": [
+          "kirbylife"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/251630/The_Impossible_Game/",
+            "name": "Steam"
+          }
+        ],
+        "title": "The Impossible Game"
+      },
+      "items": [
+        "The Impossible Game.sh",
+        "theimpossiblegame"
+      ],
+      "items_opt": null,
+      "name": "theimpossiblegame.zip",
+      "source": {
+        "date_added": "2026-05-24",
+        "date_updated": "2026-05-24",
+        "md5": "162178742abb793fa6408534928db1d3",
+        "release_id": "2026-05-24_0536",
+        "repo": "main",
+        "size": 3142082,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/theimpossiblegame.zip"
       },
       "version": 4
     },
@@ -109791,6 +110186,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "An open source port of Tomb Raider 1 using OpenLara engine by xProger.",
         "desc_md": null,
         "exp": false,
@@ -109806,7 +110202,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Just add your steam or gog Tomb Raider 1 files to the ports/tombraider1 folder.",
+        "inst": "Just add your Steam, Epic Games, or GOG Tomb Raider 1 files to the ports/tombraider1 subfolders: .phd under level, .ogg under audio and .rpl or .fmv under video. Also works with Tomb Raider I-III Remastered files.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -109815,7 +110211,34 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
-        "title": "Tomb Raider 1"
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Core%20Design",
+            "gameurl": "https://store.steampowered.com/app/224960/Tomb_Raider_I_1996/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/developer/Aspyr",
+            "gameurl": "https://store.steampowered.com/app/2478970/Tomb_Raider_IIII_Remastered_Starring_Lara_Croft/",
+            "name": "Steam (Remastered)"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.epicgames.com/p/tomb-raider-iiii-remastered-538640",
+            "name": "Epic Games (Remastered)"
+          },
+          {
+            "developerurl": "https://www.gog.com/en/games?developers=core-design",
+            "gameurl": "https://www.gog.com/en/game/tomb_raider_123",
+            "name": "GoG"
+          },
+          {
+            "developerurl": "https://www.gog.com/games?publishers=aspyr",
+            "gameurl": "https://www.gog.com/en/game/tomb_raider_i_to_iii_remastered",
+            "name": "GoG (Remastered)"
+          }
+        ],
+        "title": "Tomb Raider I"
       },
       "items": [
         "Tomb Raider 1.sh",
@@ -109831,14 +110254,14 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-01-15",
-        "md5": "06ce3c8138ce05a23525b22a2031835b",
-        "release_id": "2025-01-15_1237",
+        "date_updated": "2026-05-24",
+        "md5": "368f2320a39abd56d0c15b0e5c387244",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 688675,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-15_1237/tomb.raider.1.zip"
+        "size": 689058,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/tomb.raider.1.zip"
       },
-      "version": 2
+      "version": 4
     },
     "tombrobo.zip": {
       "attr": {
@@ -110106,12 +110529,12 @@
       "name": "topnep.zip",
       "source": {
         "date_added": "2024-11-07",
-        "date_updated": "2024-11-07",
-        "md5": "ee2c70f23e11c2ba886d4bd86c121939",
-        "release_id": "2024-11-07_1955",
+        "date_updated": "2026-05-24",
+        "md5": "234ab8faf3c2416884994b27371a2f19",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 12267768,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/topnep.zip"
+        "size": 8158356,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/topnep.zip"
       },
       "version": 4
     },
@@ -111485,6 +111908,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "Trogdor Reburninated is a fan-made recreation of Trogdor for PC and consoles.",
         "desc_md": null,
         "exp": false,
@@ -111510,6 +111934,7 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Trogdor Reburninated"
       },
       "items": [
@@ -111520,14 +111945,14 @@
       "name": "trogdorrb.zip",
       "source": {
         "date_added": "2024-04-22",
-        "date_updated": "2025-08-25",
-        "md5": "6a13d206f58aba18d3ce3c0114f3486f",
-        "release_id": "2025-08-25_1043",
+        "date_updated": "2026-05-24",
+        "md5": "1bec119a450365e36d9379abee78398e",
+        "release_id": "2026-05-24_0536",
         "repo": "main",
-        "size": 8880628,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-25_1043/trogdorrb.zip"
+        "size": 8417680,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/trogdorrb.zip"
       },
-      "version": 2
+      "version": 4
     },
     "trolley.delayma.zip": {
       "attr": {
@@ -111970,12 +112395,12 @@
       "name": "tumbledown.zip",
       "source": {
         "date_added": "2024-10-03",
-        "date_updated": "2026-04-28",
-        "md5": "77707a579f93937d8793913c707ae9a8",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-05-24",
+        "md5": "a8e02ac5519cd9ac3a4736b1a9a5bbef",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 14114931,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/tumbledown.zip"
+        "size": 6735682,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/tumbledown.zip"
       },
       "version": 4
     },
@@ -113978,12 +114403,12 @@
       },
       "source": {
         "date_added": "2024-11-13",
-        "date_updated": "2025-06-16",
-        "md5": "5f333bdb923fc08e908497001c3ec18f",
-        "release_id": "2025-06-16_0931",
+        "date_updated": "2026-05-24",
+        "md5": "957043e337a52bb28269612a6ab88f74",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 29302549,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/ungratefulbirdsngd.zip"
+        "size": 8378755,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/ungratefulbirdsngd.zip"
       },
       "version": 4
     },
@@ -114539,8 +114964,6 @@
       "attr": {
         "arch": [],
         "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -114548,14 +114971,8 @@
           "rg552:ALL",
           "rgcubexx:ALL",
           "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
           "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351v:ALL",
           "rgb10:ALL",
           "rgb20s:ALL",
           "rgb30:ALL",
@@ -114568,18 +114985,16 @@
           "ace:ALL",
           "chi:ALL",
           "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
           "steamdeck:ALL",
           "xu10:ALL",
-          "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "You are four guys, but you only have two thumbs. This \"single-player co-op\" game will test the relationship between your brain and your hands. Each of the four guys is bound to a different input cluster \u2014 left stick, right stick, dpad, face buttons \u2014 and you control them all simultaneously. Survive waves of foes, climb the leaderboard, and clear the game to unlock a secret.",
+        "desc": "You are four guys, but you only have two thumbs. This \"single-player co-op\" game will test the relationship between your brain and your hands. Each of the four guys is bound to a different input (left stick, right stick, dpad, face buttons), and you control them all simultaneously. Survive waves of foes, climb the leaderboard, and clear the game to unlock a secret.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -114600,7 +115015,8 @@
           "Wolfman Digital"
         ],
         "reqs": [
-          "!lowres"
+          "!lowres",
+          "analog_2"
         ],
         "rtr": true,
         "runtime": [
@@ -114623,12 +115039,12 @@
       "name": "urguys.zip",
       "source": {
         "date_added": "2026-05-14",
-        "date_updated": "2026-05-14",
-        "md5": "eb060b3299b8c2c9035f7180e2033143",
-        "release_id": "2026-05-14_1654",
+        "date_updated": "2026-05-24",
+        "md5": "fc6365937bde1ad4c6effa35bde1547c",
+        "release_id": "2026-05-24_0536",
         "repo": "main",
-        "size": 11682982,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/urguys.zip"
+        "size": 11746646,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/urguys.zip"
       },
       "version": 4
     },
@@ -115985,7 +116401,7 @@
     "vitasnake.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -116012,10 +116428,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -116058,12 +116478,12 @@
       "name": "vitasnake.zip",
       "source": {
         "date_added": "2024-09-24",
-        "date_updated": "2026-02-07",
-        "md5": "bb7297b40cae1ce760964c475ea603bf",
-        "release_id": "2026-02-07_0859",
+        "date_updated": "2026-05-24",
+        "md5": "e1be900b37438f5fc676e3b38f24fb05",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 17793128,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/vitasnake.zip"
+        "size": 7637833,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/vitasnake.zip"
       },
       "version": 4
     },
@@ -118775,12 +119195,12 @@
       },
       "source": {
         "date_added": "2024-09-27",
-        "date_updated": "2026-04-28",
-        "md5": "61c0f169729c7865c6c566a3d871a874",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-05-24",
+        "md5": "83b9133c609bfe99af1e5fd080ffe8c1",
+        "release_id": "2026-05-24_0536",
         "repo": "main",
-        "size": 7152881,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/wolf3d.zip"
+        "size": 7152973,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/wolf3d.zip"
       },
       "version": 4
     },
@@ -122942,12 +123362,12 @@
       "name": "zeroptianinvasion.zip",
       "source": {
         "date_added": "2024-10-30",
-        "date_updated": "2025-06-16",
-        "md5": "2750f3ca4770b15f1c387dce7d41320d",
-        "release_id": "2025-06-16_0931",
+        "date_updated": "2026-05-24",
+        "md5": "f83e298d1c84f5b180d2c5d5af3b1960",
+        "release_id": "2026-05-24_0547",
         "repo": "main",
-        "size": 14528448,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/zeroptianinvasion.zip"
+        "size": 8652047,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/zeroptianinvasion.zip"
       },
       "version": 4
     },
