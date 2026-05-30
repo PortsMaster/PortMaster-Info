@@ -13658,6 +13658,103 @@
       },
       "version": 2
     },
+    "bulletbeat.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Bullet Beat is a shoot'em up, where everything at the levels is in tune with the music, even shooting. You can also upload your track and enjoy the experimental generated levels! Keep the combo to get stronger!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Itch.io. Download Bullet Beat.exe and place it in ports/bulletbeat/assets.\nYou can add your own music files in the .ogg format to ports/bulletbeat/saves.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "MadShmupper",
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://ternoxgames.com/",
+            "gameurl": "https://ternox.itch.io/bulletbeat",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Bullet Beat"
+      },
+      "items": [
+        "Bullet Beat.sh",
+        "bulletbeat"
+      ],
+      "items_opt": null,
+      "name": "bulletbeat.zip",
+      "source": {
+        "date_added": "2026-05-30",
+        "date_updated": "2026-05-30",
+        "md5": "7af054f91c8b5b21d9e7c3425a40defb",
+        "release_id": "2026-05-30_1707",
+        "repo": "main",
+        "size": 7302314,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/bulletbeat.zip"
+      },
+      "version": 4
+    },
     "bumpersbroadswords.zip": {
       "attr": {
         "arch": [
@@ -28068,12 +28165,12 @@
       },
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2026-04-28",
-        "md5": "8daa9086e3531b81d4ce63083db33d28",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-05-30",
+        "md5": "55c8b95a29adb65be2c6e2e77ba038ee",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 58464633,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/dokimon.zip"
+        "size": 58937163,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/dokimon.zip"
       },
       "version": 4
     },
@@ -30859,12 +30956,12 @@
       "name": "duke3dawo.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2026-01-07",
-        "md5": "203e5ac7dc159573211aa53b3139d756",
-        "release_id": "2026-01-07_1231",
+        "date_updated": "2026-05-30",
+        "md5": "f190a165f9e2c5d8cf41f1a88224e49f",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 4320488,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/duke3dawo.zip"
+        "size": 4320453,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/duke3dawo.zip"
       },
       "version": 4
     },
@@ -51593,12 +51690,12 @@
       "name": "ionfury.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2026-01-07",
-        "md5": "2074f03f998ab32a2e70f38583988e93",
-        "release_id": "2026-01-07_1231",
+        "date_updated": "2026-05-30",
+        "md5": "83a0d07adf9676d0c7e18b3097f42c92",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 1568578,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/ionfury.zip"
+        "size": 1568542,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/ionfury.zip"
       },
       "version": 4
     },
@@ -65274,12 +65371,12 @@
       "name": "moonchildfe.zip",
       "source": {
         "date_added": "2026-05-24",
-        "date_updated": "2026-05-24",
-        "md5": "13f9d53834f88125ea2eebf1308e73a2",
-        "release_id": "2026-05-24_0536",
+        "date_updated": "2026-05-30",
+        "md5": "e9c2bae94d675474858e866ba8601782",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 76333600,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/moonchildfe.zip"
+        "size": 60250932,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/moonchildfe.zip"
       },
       "version": 4
     },
@@ -70823,7 +70920,7 @@
     "nulldrifter.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg353m:ALL",
@@ -70842,9 +70939,12 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -70852,7 +70952,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "Null Drifter is a 1BIT LO-FI shooter, a journey into the void inside a computer simulation!\nLose yourself in this frenetic yet chill experience!\n\nA Minimalistic twin-stick shooter!\nA Simulation for space-fighter pilots!\nMade to train them to defeat the awakened forces of the void!\nSecretly part of the \u201cProject Starship\u201d World, used by the poor 4 souls of \u201cProject Starship X\u201d, before embarking for their mission: defeating the army of Cthulhu!",
+        "desc": "Null Drifter is a 1BIT LO-FI shooter, a journey into the void inside a computer simulation!  \nLose yourself in this frenetic yet chill experience!\n\nA Minimalistic twin-stick shooter!\nA Simulation for space-fighter pilots!\nMade to train them to defeat the awakened forces of the void!\nSecretly part of the \u201cProject Starship\u201d World, used by the poor 4 souls of \u201cProject Starship X\u201d, before embarking for their mission: defeating the army of Cthulhu!",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -70866,7 +70966,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from https://store.steampowered.com/app/1170050/Null_Drifter/\nFrom your Steam Library, Right-Click Null Drifter > Manage > Browse local files\nCopy the data.win into ports/nulldrifter/gamedata",
+        "inst": "Purchase the game from https://store.steampowered.com/app/1170050/Null_Drifter/  \nFrom your Steam Library, Right-Click Null Drifter > Manage > Browse local files  \nCopy the game files into ports/nulldrifter/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -70876,7 +70976,10 @@
           "analog_2"
         ],
         "rtr": false,
-        "runtime": [],
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
         "title": "Null Drifter"
       },
       "items": [
@@ -70887,12 +70990,12 @@
       "name": "nulldrifter.zip",
       "source": {
         "date_added": "2024-04-20",
-        "date_updated": "2024-09-29",
-        "md5": "9e14dc00b25078d57411095615ab1b8e",
-        "release_id": "2024-09-29_1340",
+        "date_updated": "2026-05-30",
+        "md5": "40b727d937e56f1ac50720e3a1519cfd",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 5578335,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-29_1340/nulldrifter.zip"
+        "size": 7873090,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/nulldrifter.zip"
       },
       "version": 2
     },
@@ -73282,7 +73385,8 @@
     "openomf.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -73320,11 +73424,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "An Open Source remake of 'One Must Fall 2097' by Diversions Entertainment.",
         "desc_md": null,
         "exp": false,
@@ -73343,16 +73449,18 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Cebion"
+          "Cebion",
+          "Slayer366"
         ],
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "OpenOMF"
       },
       "items": [
-        "openomf/",
-        "Openomf.sh"
+        "Openomf.sh",
+        "openomf"
       ],
       "items_opt": null,
       "name": "openomf.zip",
@@ -73364,14 +73472,14 @@
       },
       "source": {
         "date_added": "2021-11-06",
-        "date_updated": "2025-05-21",
-        "md5": "76a8d3adef19bcb109a9d4e1c4e555f5",
-        "release_id": "2025-05-21_0130",
+        "date_updated": "2026-05-30",
+        "md5": "8ac12aab6fcdce5a832a69f56f1816e1",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 6616542,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-21_0130/openomf.zip"
+        "size": 7167953,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/openomf.zip"
       },
-      "version": 2
+      "version": 4
     },
     "openra.zip": {
       "attr": {
@@ -74591,6 +74699,106 @@
         "repo": "main",
         "size": 5378680,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/orbo.zip"
+      },
+      "version": 4
+    },
+    "orcishskies.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Orcish Skies blends Roguelike deckbuilding, turn-based, Slay The Spire-styled gameplay with a grid-based map. Fire a missile into a cluster of enemies. Rain down lightning on an enemy Carrier from afar. Fly past a swarm of frigates to pick off the sniper shooting you from across the map.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all games files into assets folder. You can also use the free demo.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2510680/Orcish_Skies/) and copy all games files into `assets` folder. You can also use the free `demo`.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2510680/Orcish_Skies/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Orcish Skies"
+      },
+      "items": [
+        "Orcish Skies.sh",
+        "orcishskies"
+      ],
+      "items_opt": null,
+      "name": "orcishskies.zip",
+      "source": {
+        "date_added": "2026-05-30",
+        "date_updated": "2026-05-30",
+        "md5": "5d6db666a50dcd75ea7c6717c6ad2fda",
+        "release_id": "2026-05-30_1707",
+        "repo": "main",
+        "size": 24925501,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/orcishskies.zip"
       },
       "version": 4
     },
@@ -76039,6 +76247,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "A clone of the original regular ol' Pacman by Namco.  This version is inspired by Paul Neave's Pacman.",
         "desc_md": null,
         "exp": false,
@@ -76062,6 +76271,7 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Pacman"
       },
       "items": [
@@ -76072,12 +76282,12 @@
       "name": "pacman.zip",
       "source": {
         "date_added": "2024-05-15",
-        "date_updated": "2025-10-04",
-        "md5": "2d42ce5db2dfaad989fe4375d37a07f6",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-05-30",
+        "md5": "7c4c557e5f6ca51400382146d089faa1",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 9897889,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/pacman.zip"
+        "size": 11515805,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/pacman.zip"
       },
       "version": 4
     },
@@ -81812,6 +82022,100 @@
         "repo": "main",
         "size": 46429525,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/psrl.zip"
+      },
+      "version": 4
+    },
+    "pullchain.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Carry a light source with you. Attract moths, weigh down buttons, and more.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://steven-miller.itch.io",
+            "gameurl": "https://steven-miller.itch.io/pull-chain",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Pull Chain"
+      },
+      "items": [
+        "Pull Chain.sh",
+        "pullchain"
+      ],
+      "items_opt": null,
+      "name": "pullchain.zip",
+      "source": {
+        "date_added": "2026-05-30",
+        "date_updated": "2026-05-30",
+        "md5": "440bab618e8f82028972c279a8710fc8",
+        "release_id": "2026-05-30_1707",
+        "repo": "main",
+        "size": 19068109,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/pullchain.zip"
       },
       "version": 4
     },
@@ -88333,7 +88637,7 @@
     "roguelight.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -88360,10 +88664,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -88390,7 +88698,8 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "mattyj513"
+          "mattyj513",
+          "Fraxinus88"
         ],
         "reqs": [],
         "rtr": false,
@@ -88405,12 +88714,12 @@
       "name": "roguelight.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2026-01-12",
-        "md5": "b5ed7863d0a9c035d3f5d422ca5dfb15",
-        "release_id": "2026-01-12_1145",
+        "date_updated": "2026-05-30",
+        "md5": "8eaf56c04e3461e7e0842c66427d54aa",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 9807564,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-12_1145/roguelight.zip"
+        "size": 10175461,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/roguelight.zip"
       },
       "version": 2
     },
@@ -88874,12 +89183,12 @@
       "name": "rott.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2026-01-07",
-        "md5": "7db0f8bd3f5da4c11a7132d2d4358f34",
-        "release_id": "2026-01-07_1231",
+        "date_updated": "2026-05-30",
+        "md5": "3346b1e42ee24f4574e782d3791003d3",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 20685503,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/rott.zip"
+        "size": 20685428,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/rott.zip"
       },
       "version": 4
     },
@@ -99716,12 +100025,12 @@
       "name": "sprucechat.zip",
       "source": {
         "date_added": "2026-04-22",
-        "date_updated": "2026-04-28",
-        "md5": "4d0464d1bcd755e3a4e2f04ffba417d5",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-05-30",
+        "md5": "7c4c3d4412fcb201d9b859f02e2ab090",
+        "release_id": "2026-05-30_1707",
         "repo": "main",
-        "size": 866812011,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/sprucechat.zip"
+        "size": 464367379,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/sprucechat.zip"
       },
       "version": 4
     },
