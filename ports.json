@@ -6340,12 +6340,12 @@
       },
       "source": {
         "date_added": "2023-04-13",
-        "date_updated": "2024-12-16",
-        "md5": "6127d31e233ebb10710fc0ff77fb8940",
-        "release_id": "2024-12-16_1130",
+        "date_updated": "2026-06-07",
+        "md5": "5d9f7ae9cf0ef9b7dffb0f4fdde96f56",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 5442084,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-16_1130/axiom.verge.zip"
+        "size": 5442085,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/axiom.verge.zip"
       },
       "version": 2
     },
@@ -24967,8 +24967,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Take the Windows/Linux game files from your game folder, then dump them straight into /ports/deathroad/. From there, just go launch the game via your console",
-        "inst_md": "Take the Windows/Linux game files from your game folder, then dump them straight into /ports/deathroad/.",
+        "inst": "STEAM:Open the Steam Console and use 'download_depot 252610 252612 5968100789458006612' to download the correct version of the game. The Steam Console will tell you where the location to find these files is after the download. GOG:Using GOG, you'll need to go to your games list and find 'Manage' for this game. Turn off automatic downloads and then download the version that is from 04-02-2026 (or closest to this). Use those game files. Then dump them straight into /ports/deathroad/. From there, just go launch the game via your device",
+        "inst_md": "STEAM:Open the Steam Console and use 'download_depot 252610 252612 5968100789458006612' to download the correct version of the game. The Steam Console will tell you where the location to find these files is after the download. GOG:Using GOG, you'll need to go to your games list and find 'Manage' for this game. Turn off automatic downloads and then download the version that is from 04-02-2026 (or closest to this). Use those game files. Then dump them straight into /ports/deathroad/. From there, just go launch the game via your device",
         "min_glibc": "",
         "porter": [
           "Rehex"
@@ -25002,12 +25002,12 @@
       },
       "source": {
         "date_added": "2025-03-26",
-        "date_updated": "2026-04-28",
-        "md5": "4fa2f4a159054c2e63d06604506cce6f",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-06-07",
+        "md5": "927b7448d2f48cc4a33f8fae793f27a8",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 6023682,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/deathroad.zip"
+        "size": 6023884,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/deathroad.zip"
       },
       "version": 4
     },
@@ -28746,12 +28746,12 @@
       "name": "doom2d.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2025-08-04",
-        "md5": "c6a4ba40f2afc4c7573fbf536551881f",
-        "release_id": "2025-08-04_1325",
+        "date_updated": "2026-06-07",
+        "md5": "9edb2cb9618faeadd43c1f59e550e864",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 8330334,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-04_1325/doom2d.zip"
+        "size": 8576049,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/doom2d.zip"
       },
       "version": 4
     },
@@ -38580,19 +38580,20 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2026-05-07",
-        "md5": "b920aa2180250c25c022db8b8bd422f3",
-        "release_id": "2026-05-07_1504",
+        "date_updated": "2026-06-07",
+        "md5": "04eec8be26982f163f2a23a096b1f95f",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 3505447,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/freedom.planet.zip"
+        "size": 3505491,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/freedom.planet.zip"
       },
       "version": 2
     },
     "freedroid.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -38630,11 +38631,13 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "The game tells the story of a world destroyed by a conflict between robots and their human masters. Play as Tux in a quest to save the world from the murderous rebel bots who know no mercy. You get to choose which path you wish to follow, and freedom of choice is everywhere in the game.",
         "desc_md": null,
         "exp": false,
@@ -38651,29 +38654,31 @@
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "Cebion"
+          "Cebion",
+          "Slayer366"
         ],
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "FreedroidRPG"
       },
       "items": [
         "Freedroid.sh",
-        "freedroid/"
+        "freedroid"
       ],
       "items_opt": null,
       "name": "freedroid.zip",
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-04-06",
-        "md5": "b98b942965bbcaada39fcaf74199a99b",
-        "release_id": "2025-04-06_2309",
+        "date_updated": "2026-06-07",
+        "md5": "d53455575fe9f220a3852ce6143d78c1",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 245480443,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-06_2309/freedroid.zip"
+        "size": 255234476,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/freedroid.zip"
       },
-      "version": 2
+      "version": 4
     },
     "freegemas.zip": {
       "attr": {
@@ -42722,12 +42727,12 @@
       },
       "source": {
         "date_added": "2024-04-25",
-        "date_updated": "2026-02-26",
-        "md5": "db9ac118209ffc369dd0d985d5dc6b17",
-        "release_id": "2026-02-26_2317",
+        "date_updated": "2026-06-07",
+        "md5": "2a74a6bc98c0cead5d259e5f6190a56c",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 408432,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-26_2317/gravitycircuit.zip"
+        "size": 408531,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/gravitycircuit.zip"
       },
       "version": 4
     },
@@ -45362,12 +45367,12 @@
       "name": "halloween3d.zip",
       "source": {
         "date_added": "2025-10-22",
-        "date_updated": "2025-10-22",
-        "md5": "57ffecd2e6097edf72b8100c8c495aaf",
-        "release_id": "2025-10-22_1131",
+        "date_updated": "2026-06-07",
+        "md5": "8da33cb75a05c849032eb89057971852",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 46305028,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/halloween3d.zip"
+        "size": 46305034,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/halloween3d.zip"
       },
       "version": 4
     },
@@ -47475,12 +47480,12 @@
       "name": "hexen2.zip",
       "source": {
         "date_added": "2022-11-17",
-        "date_updated": "2025-12-12",
-        "md5": "d6e209b2b996ed1964ac87ff1b22bedf",
-        "release_id": "2025-12-12_0744",
+        "date_updated": "2026-06-07",
+        "md5": "4a75d30d6f0bfcdae1ad4b34de069b56",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 45449756,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/hexen2.zip"
+        "size": 45536072,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/hexen2.zip"
       },
       "version": 2
     },
@@ -52875,6 +52880,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/jetsetwilly.zip"
       },
       "version": 2
+    },
+    "jimmyslostfruits.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Welcome to Jimmy's Lost Fruits Journey! It's a game inspired by NES classics, such as Super Mario Bros., Mega Man 2 and Ice Climbers. It's about a young boy named Jimmy, who wants to save his own lands from starvation. Dr. Vegg has lost in the food contest, and is now trying to get rid of every single possible fruit tree in the fruit plains in order to prevent the citizens of the said place from winning in the contest ever again. Can you prevent Dr. Vegg's evil plans and return the peace once and for all? Find out in Jimmy's Lost Fruits Journey!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://swackygcf.itch.io/jimmys-lost-fruits-journey",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Jimmy's Lost Fruits Journey"
+      },
+      "items": [
+        "Jimmy's Lost Fruits Journey.sh",
+        "jimmyslostfruits"
+      ],
+      "items_opt": null,
+      "name": "jimmyslostfruits.zip",
+      "source": {
+        "date_added": "2026-06-07",
+        "date_updated": "2026-06-07",
+        "md5": "d09c3ada9fc61f94f86181afcc50fdcd",
+        "release_id": "2026-06-07_0548",
+        "repo": "main",
+        "size": 45395811,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/jimmyslostfruits.zip"
+      },
+      "version": 4
     },
     "jubilee.zip": {
       "attr": {
@@ -63227,12 +63328,12 @@
       "name": "miceamaze.zip",
       "source": {
         "date_added": "2025-11-25",
-        "date_updated": "2025-12-02",
-        "md5": "6745d7170eb6c5936cf8c06410928882",
-        "release_id": "2025-12-02_1212",
+        "date_updated": "2026-06-07",
+        "md5": "bada64932f5b9a84e9a973eb02c068d4",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 14542427,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/miceamaze.zip"
+        "size": 14543232,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/miceamaze.zip"
       },
       "version": 4
     },
@@ -63866,12 +63967,12 @@
       "name": "minesector.zip",
       "source": {
         "date_added": "2024-01-26",
-        "date_updated": "2025-12-03",
-        "md5": "8b67f274d0df2a28a4fdac2313dc915e",
-        "release_id": "2025-12-03_1034",
+        "date_updated": "2026-06-07",
+        "md5": "34c2eee903b49fb2c17843886d961fe6",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 13673475,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-03_1034/minesector.zip"
+        "size": 13880618,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/minesector.zip"
       },
       "version": 2
     },
@@ -68813,12 +68914,12 @@
       "name": "nicechess.zip",
       "source": {
         "date_added": "2025-10-22",
-        "date_updated": "2025-11-04",
-        "md5": "9b1ef68f51ecde0ef49d229aef341d36",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2026-06-07",
+        "md5": "cabaf5cb03bd1aab019cdb52dfc4a771",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 2952609,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/nicechess.zip"
+        "size": 2960095,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/nicechess.zip"
       },
       "version": 4
     },
@@ -83193,12 +83294,12 @@
       "name": "q2pro.zip",
       "source": {
         "date_added": "2025-01-23",
-        "date_updated": "2025-11-09",
-        "md5": "783b91e428b1b42644348b2c9803a4e6",
-        "release_id": "2025-11-09_0618",
+        "date_updated": "2026-06-07",
+        "md5": "2a044dba4bb5dfe806bc021c70941d22",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 62134661,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-09_0618/q2pro.zip"
+        "size": 62260866,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/q2pro.zip"
       },
       "version": 4
     },
@@ -83665,12 +83766,12 @@
       "name": "quakespasm.zip",
       "source": {
         "date_added": "2023-10-23",
-        "date_updated": "2026-04-12",
-        "md5": "207ac5134ca0fbf07ef016345f469a90",
-        "release_id": "2026-04-12_1606",
+        "date_updated": "2026-06-07",
+        "md5": "b391530111fb22ddee3e03af2aa3993c",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 40954898,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-12_1606/quakespasm.zip"
+        "size": 41028140,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/quakespasm.zip"
       },
       "version": 2
     },
@@ -88272,12 +88373,12 @@
       },
       "source": {
         "date_added": "2024-12-16",
-        "date_updated": "2025-12-12",
-        "md5": "42441bc35dcde7005880bfe6459b40ef",
-        "release_id": "2025-12-12_0744",
+        "date_updated": "2026-06-07",
+        "md5": "6e204403ebb9a6fd736b6649ed3250b4",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 22298117,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/rockbot.zip"
+        "size": 22875517,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/rockbot.zip"
       },
       "version": 4
     },
@@ -89183,12 +89284,12 @@
       "name": "rott.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2026-05-30",
-        "md5": "3346b1e42ee24f4574e782d3791003d3",
-        "release_id": "2026-05-30_1707",
+        "date_updated": "2026-06-07",
+        "md5": "c503b400b0e062fa3a2c563b50fc2ecf",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 20685428,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/rott.zip"
+        "size": 21473459,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/rott.zip"
       },
       "version": 4
     },
@@ -89376,7 +89477,7 @@
     "russiansubwaydogs.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -89403,10 +89504,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -89427,11 +89532,12 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game from https://store.steampowered.com/app/762610/Russian_Subway_Dogs/ copy data.win and all .ini files to /ports/russiansubwaydogs/gamedata",
+        "inst": "Download the game from https://store.steampowered.com/app/762610/Russian_Subway_Dogs/ copy all the game files to /ports/russiansubwaydogs/assets",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "mattyj513"
+          "mattyj513",
+          "Fraxinus88"
         ],
         "reqs": [],
         "rtr": false,
@@ -89446,12 +89552,12 @@
       "name": "russiansubwaydogs.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2025-10-04",
-        "md5": "787954ac3ab2f8cfa528068e6162bcff",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-06-07",
+        "md5": "9fc8d6b50b83836416646755b8ff61d8",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 11162762,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/russiansubwaydogs.zip"
+        "size": 11223193,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/russiansubwaydogs.zip"
       },
       "version": 2
     },
@@ -109332,6 +109438,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "full",
         "desc": "Tile World is a source port clone of Chip's Challenge.\n\nHandheld edition based on: https://github.com/senquack/tileworld-for-handhelds \nUpdated to use 640x480: https://github.com/Slayer366/tileworld-for-handhelds",
         "desc_md": null,
         "exp": false,
@@ -109353,11 +109460,12 @@
         "reqs": [],
         "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "Tile World"
       },
       "items": [
         "Tile World.sh",
-        "tileworld/"
+        "tileworld"
       ],
       "items_opt": null,
       "name": "tileworld.zip",
@@ -109369,12 +109477,12 @@
       },
       "source": {
         "date_added": "2022-06-03",
-        "date_updated": "2025-12-12",
-        "md5": "95c6081a0581a3100a20efe34df9427b",
-        "release_id": "2025-12-12_0744",
+        "date_updated": "2026-06-07",
+        "md5": "7e1ec4095419915cb5d42d94bca60aca",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 30954229,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/tileworld.zip"
+        "size": 32876920,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/tileworld.zip"
       },
       "version": 4
     },
@@ -118416,12 +118524,12 @@
       },
       "source": {
         "date_added": "2025-04-06",
-        "date_updated": "2025-07-16",
-        "md5": "80bdae6b78ef12221fcd8963cd4e899b",
-        "release_id": "2025-07-16_2108",
+        "date_updated": "2026-06-07",
+        "md5": "b4d67e40d5a5f893c36b9665ee452e25",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 473831407,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/wesnoth.zip"
+        "size": 473831468,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/wesnoth.zip"
       },
       "version": 4
     },
@@ -120899,12 +121007,12 @@
       },
       "source": {
         "date_added": "2025-05-14",
-        "date_updated": "2026-05-14",
-        "md5": "afa355f698447ee7289a6cbe5a7bb13c",
-        "release_id": "2026-05-14_1654",
+        "date_updated": "2026-06-07",
+        "md5": "89a8cab8383a46978627758d643d8ea3",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 78737838,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/xga.zip"
+        "size": 52835657,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/xga.zip"
       },
       "version": 4
     },
@@ -121277,12 +121385,12 @@
       "name": "xye.zip",
       "source": {
         "date_added": "2024-11-16",
-        "date_updated": "2025-07-27",
-        "md5": "8d0401d1c662b0be7b98048d337d90fd",
-        "release_id": "2025-07-27_0947",
+        "date_updated": "2026-06-07",
+        "md5": "f2b88729c969bffb93d98b8a4ba97388",
+        "release_id": "2026-06-07_0548",
         "repo": "main",
-        "size": 10289969,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-27_0947/xye.zip"
+        "size": 10620381,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/xye.zip"
       },
       "version": 4
     },
