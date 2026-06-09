@@ -25002,12 +25002,12 @@
       },
       "source": {
         "date_added": "2025-03-26",
-        "date_updated": "2026-06-07",
-        "md5": "927b7448d2f48cc4a33f8fae793f27a8",
-        "release_id": "2026-06-07_0548",
+        "date_updated": "2026-06-09",
+        "md5": "397cac0ab3eb4e167baca854e36e6e0b",
+        "release_id": "2026-06-09_1411",
         "repo": "main",
-        "size": 6023884,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/deathroad.zip"
+        "size": 6024095,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/deathroad.zip"
       },
       "version": 4
     },
@@ -43197,6 +43197,105 @@
         "repo": "main",
         "size": 6534217,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-07_1955/grielsquest.zip"
+      },
+      "version": 4
+    },
+    "grimdungeon.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Grim Dungeon is a vertical slice of a JRPG project, made with Godot.\nCrawl through the dungeon and defeat the final boss by using your abilities intelligently.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download Grim Dungeon LINUX.zip from https://efilheim.itch.io/grimdungeon, extract, and copy the GrimDungeon.pck to the grimdungeon/gamedata folder on your device.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://efilheim.itch.io",
+            "gameurl": "https://efilheim.itch.io/grimdungeon",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Grim Dungeon"
+      },
+      "items": [
+        "Grim Dungeon.sh",
+        "grimdungeon"
+      ],
+      "items_opt": null,
+      "name": "grimdungeon.zip",
+      "source": {
+        "date_added": "2026-06-09",
+        "date_updated": "2026-06-09",
+        "md5": "bbe5e2d9dd9d8df0f96940dda213a1d4",
+        "release_id": "2026-06-09_1411",
+        "repo": "main",
+        "size": 283763,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/grimdungeon.zip"
       },
       "version": 4
     },
@@ -85670,12 +85769,12 @@
       "name": "redronin.zip",
       "source": {
         "date_added": "2025-04-21",
-        "date_updated": "2025-05-01",
-        "md5": "7bc35796ba1260c9ac912aacc81aa65f",
-        "release_id": "2025-05-01_1304",
+        "date_updated": "2026-06-09",
+        "md5": "5b5af101823c9186dae31962029aa1cf",
+        "release_id": "2026-06-09_1411",
         "repo": "main",
-        "size": 13033656,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/redronin.zip"
+        "size": 13034561,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/redronin.zip"
       },
       "version": 4
     },
@@ -91035,6 +91134,108 @@
       },
       "version": 4
     },
+    "scavengerofdunomini.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Wall-E meets tetris meets tower-defense game.  Match tiles, build resources, defend your trash pile!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Requires MAC game files from itch.io or Steam. See README.md for install instructions.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://punkcake.itch.io/",
+            "gameurl": "https://punkcake.itch.io/scavenger-of-dunomini",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://punkcake.itch.io/",
+            "gameurl": "https://store.steampowered.com/app/2320410/Scavenger_of_Dunomini/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Scavenger of Dunomini"
+      },
+      "items": [
+        "Scavenger of Dunomini.sh",
+        "scavengerofdunomini"
+      ],
+      "items_opt": null,
+      "name": "scavengerofdunomini.zip",
+      "source": {
+        "date_added": "2026-06-09",
+        "date_updated": "2026-06-09",
+        "md5": "c73c6cd922982e7a879ce531bae70a74",
+        "release_id": "2026-06-09_1411",
+        "repo": "main",
+        "size": 4656857,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/scavengerofdunomini.zip"
+      },
+      "version": 4
+    },
     "sdlbomber.zip": {
       "attr": {
         "arch": [
@@ -92107,6 +92308,98 @@
         "repo": "main",
         "size": 41269,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-03_1034/sft.zip"
+      },
+      "version": 4
+    },
+    "sgsquadronext.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Super Galaxy Squadron is a fast-paced vertical shooter designed for human beings as well as SHMUP veterans. Featuring multiple game modes, a challenging but merciful difficulty curve, forgiving health system, and SEVENTEEN playable ships.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy Super Galaxy Squadron EX.exe or Super Galaxy Squadron.exe into assets folder. For users outside of Windows, use this Steam console command to download the correct version: download_depot 345860 345861 8087376341108724441\nNote: this is a 32bit game.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/345860/Super_Galaxy_Squadron_EX_Turbo/) and copy `Super Galaxy Squadron EX.exe` or `Super Galaxy Squadron.exe`  into `assets` folder. For users outside of Windows, use this [Steam console](steam://open/console) command to download the correct version: `download_depot 345860 345861 8087376341108724441`\nNote: this is a 32bit game.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/345860/Super_Galaxy_Squadron_EX_Turbo/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Super Galaxy Squadron EX Turbo"
+      },
+      "items": [
+        "Super Galaxy Squadron EX Turbo.sh",
+        "sgsquadronext"
+      ],
+      "items_opt": null,
+      "name": "sgsquadronext.zip",
+      "source": {
+        "date_added": "2026-06-09",
+        "date_updated": "2026-06-09",
+        "md5": "ae61f164dd0d76ad5cab634b8ffe549a",
+        "release_id": "2026-06-09_1411",
+        "repo": "main",
+        "size": 10071044,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/sgsquadronext.zip"
       },
       "version": 4
     },
@@ -95088,6 +95381,104 @@
         "repo": "main",
         "size": 45820512,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-07_1437/slashjump.zip"
+      },
+      "version": 4
+    },
+    "slaythespire.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Ascend a mysterious spire filled with deadly enemies, bizarre events, and powerful relics. Build your deck one card at a time, discover devastating synergies, and adapt your strategy with every run. No two climbs are ever the same.\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install the Steam version of the game - Doesnt matter for what OS and then copy the desktop-1.0.jar to the slaythespire folder!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Dia"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "zulu17.48.15-ca-jdk17.0.10-linux.aarch64.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/646570/Slay_the_Spire/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Slay the Spire"
+      },
+      "items": [
+        "Slay the Spire.sh",
+        "slaythespire"
+      ],
+      "items_opt": null,
+      "name": "slaythespire.zip",
+      "source": {
+        "date_added": "2026-06-09",
+        "date_updated": "2026-06-09",
+        "md5": "f8d351f09c7d86ccc280289fa160f3cc",
+        "release_id": "2026-06-09_1411",
+        "repo": "main",
+        "size": 18401911,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/slaythespire.zip"
       },
       "version": 4
     },
@@ -100131,12 +100522,12 @@
       "name": "sprucechat.zip",
       "source": {
         "date_added": "2026-04-22",
-        "date_updated": "2026-05-30",
-        "md5": "7c4c3d4412fcb201d9b859f02e2ab090",
-        "release_id": "2026-05-30_1707",
+        "date_updated": "2026-06-09",
+        "md5": "23b5cb3ae494f25d70da6fe484f4c4c6",
+        "release_id": "2026-06-09_1411",
         "repo": "main",
-        "size": 464367379,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/sprucechat.zip"
+        "size": 866812011,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/sprucechat.zip"
       },
       "version": 4
     },
@@ -120177,6 +120568,107 @@
       },
       "version": 2
     },
+    "wratchsden.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Turn-based dungeon-keeper roguelite by PUNKCAKE Delicieux. Design rooms, summon minions, and defend your den from heroes.",
+        "desc_md": "The Wratch's Den is a turn-based dungeon-keeper roguelite: design rooms, summon and upgrade minions, and defend your den from waves of heroes.\n\nThis port uses [Machismo](https://github.com/bmdhacks/machismo) to run the native Apple Silicon (arm64) Mac build directly on aarch64 Linux \u2014 no CPU emulation needed.",
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Requires game files from itch.io or Steam. See README.md for install instructions.",
+        "inst_md": "## Installation\n\n1. Buy the game on [itch.io](https://punkcake.itch.io/wratchs-den) or [Steam](https://store.steampowered.com/app/2881260/The_Wratchs_Den/)\n2. Download the macOS build\n3. Place `the_wratchs_den.app/` in `wratchsden/gamedata/`\n4. Launch the game",
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://punkcake.itch.io/",
+            "gameurl": "https://punkcake.itch.io/wratchs-den",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://punkcake.itch.io/",
+            "gameurl": "https://store.steampowered.com/app/1820470/The_Wratchs_Den/",
+            "name": "Steam"
+          }
+        ],
+        "title": "The Wratch's Den"
+      },
+      "items": [
+        "The Wratch's Den.sh",
+        "wratchsden"
+      ],
+      "items_opt": null,
+      "name": "wratchsden.zip",
+      "source": {
+        "date_added": "2026-06-09",
+        "date_updated": "2026-06-09",
+        "md5": "88ce696f0eede52e7cec2fea0eca8a58",
+        "release_id": "2026-06-09_1411",
+        "repo": "main",
+        "size": 4580969,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/wratchsden.zip"
+      },
+      "version": 4
+    },
     "wrestlejump2.zip": {
       "attr": {
         "arch": [],
@@ -123698,6 +124190,102 @@
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-11-21_1538/zeldoschallenge2.zip"
       },
       "version": 2
+    },
+    "zenodeath.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Zenodeath is the final entry in the Zeno series, the final evolution, featuring a modern OST by HeavyViper and two gameplay types.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/761920/Zenodeath/) and copy all game files into the `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://steamcommunity.com/groups/TeamGrybanserFox",
+            "gameurl": "https://store.steampowered.com/app/761920/Zenodeath/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Zenodeath"
+      },
+      "items": [
+        "Zenodeath.sh",
+        "zenodeath"
+      ],
+      "items_opt": null,
+      "name": "zenodeath.zip",
+      "source": {
+        "date_added": "2026-06-09",
+        "date_updated": "2026-06-09",
+        "md5": "d97191ea54f1a5d01455c16f8d270127",
+        "release_id": "2026-06-09_1411",
+        "repo": "main",
+        "size": 5160391,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/zenodeath.zip"
+      },
+      "version": 4
     },
     "zeroptianinvasion.zip": {
       "attr": {
