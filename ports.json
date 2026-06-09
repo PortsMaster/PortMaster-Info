@@ -95453,7 +95453,7 @@
         "reqs": [],
         "rtr": false,
         "runtime": [
-          "zulu17.48.15-ca-jdk17.0.10-linux.aarch64.squashfs",
+          "weston_pkg_0.2.squashfs",
           "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
         ],
         "store": [
@@ -95474,11 +95474,11 @@
       "source": {
         "date_added": "2026-06-09",
         "date_updated": "2026-06-09",
-        "md5": "f8d351f09c7d86ccc280289fa160f3cc",
-        "release_id": "2026-06-09_1411",
+        "md5": "2f8cc3fe3fd89a207135bc853cbe44c6",
+        "release_id": "2026-06-09_2128",
         "repo": "main",
-        "size": 18401911,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/slaythespire.zip"
+        "size": 18401625,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_2128/slaythespire.zip"
       },
       "version": 4
     },
@@ -100523,11 +100523,11 @@
       "source": {
         "date_added": "2026-04-22",
         "date_updated": "2026-06-09",
-        "md5": "23b5cb3ae494f25d70da6fe484f4c4c6",
-        "release_id": "2026-06-09_1411",
+        "md5": "f825b86e6d691eb70e733e4edbfb2454",
+        "release_id": "2026-06-09_2128",
         "repo": "main",
-        "size": 866812011,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/sprucechat.zip"
+        "size": 464367379,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_2128/sprucechat.zip"
       },
       "version": 4
     },
