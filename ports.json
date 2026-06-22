@@ -187,6 +187,96 @@
       },
       "version": 2
     },
+    "2048plus.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A feature-packed implementation of the classic puzzle game 2048 for PortMaster, built using the L\u00d6VE framework.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Use the D-Pad to move tiles, L1/R1 for power-ups, B to undo, and Y to switch themes.",
+        "inst_md": "Ready to run. Use the **D-Pad** to move tiles, **L1/R1** for power-ups, **B** to undo, and **Y** to switch themes.",
+        "min_glibc": "",
+        "porter": [
+          "saitamasahil"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "2048 Plus"
+      },
+      "items": [
+        "2048 Plus.sh",
+        "2048plus"
+      ],
+      "items_opt": null,
+      "name": "2048plus.zip",
+      "source": {
+        "date_added": "2026-06-22",
+        "date_updated": "2026-06-22",
+        "md5": "ab803100ba6f9d802ced27e308fa2dbf",
+        "release_id": "2026-06-22_1100",
+        "repo": "main",
+        "size": 326854,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/2048plus.zip"
+      },
+      "version": 4
+    },
     "6feetunder.zip": {
       "attr": {
         "arch": [
@@ -3486,6 +3576,107 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-22_1256/anodyne.zip"
       },
       "version": 2
+    },
+    "antecrypt.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Shoot corrupting monsters and save mankind's last hard-drive with your rechargeable laser-beam! ... But your aiming has a mind of its own, so you'll have to make do! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch.io. For Itch.io, download the MacOS version and copy the antecrypt.app into gamedata. For Steam, download the MacOS version using the following Steam console command: download_depot 1659920 1659922 959787945917647264, and then copy the files into gamedata.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1659920/Antecrypt) or [itch.io](https://punkcake.itch.io/antecrypt). For Itch.io, download the MacOS version and copy the antecrypt.app into `gamedata`. For Steam, download the MacOS version using the following [Steam console](steam://open/console) command: `download_depot 1659920 1659922 959787945917647264`, and then copy the files into `gamedata`.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://punkcake.itch.io/antecrypt",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1659920/Antecrypt/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Antecrypt"
+      },
+      "items": [
+        "Antecrypt.sh",
+        "antecrypt"
+      ],
+      "items_opt": null,
+      "name": "antecrypt.zip",
+      "source": {
+        "date_added": "2026-06-22",
+        "date_updated": "2026-06-22",
+        "md5": "691e119a2239f698e4b10403c0171030",
+        "release_id": "2026-06-22_1100",
+        "repo": "main",
+        "size": 4580808,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/antecrypt.zip"
+      },
+      "version": 4
     },
     "antonballclassic.zip": {
       "attr": {
@@ -24319,8 +24510,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on Steam and copy all files into the assets folder.",
-        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3650050/DAY_OF_DRIFT/) and copy all files into the `assets` folder.",
+        "inst": "Purchase the game on Steam and use this Steam console command to get correct game files: download_depot 3650050 3650051 7183993842836823568. Copy all these files into the assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3650050/DAY_OF_DRIFT/) and use this [Steam console](steam://open/console) command to get correct game files: `download_depot 3650050 3650051 7183993842836823568`. Copy all these files into the `assets` folder.",
         "min_glibc": "",
         "porter": [
           "Ganimoth"
@@ -24349,12 +24540,12 @@
       "name": "dayofdrift.zip",
       "source": {
         "date_added": "2025-11-18",
-        "date_updated": "2025-11-18",
-        "md5": "f4ea83e5004e7ecbc3b7f4bacb383c3b",
-        "release_id": "2025-11-18_1011",
+        "date_updated": "2026-06-22",
+        "md5": "e20557d29aea7e826c05bc93e974f92c",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
-        "size": 7359822,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/dayofdrift.zip"
+        "size": 7359917,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/dayofdrift.zip"
       },
       "version": 4
     },
@@ -24451,12 +24642,12 @@
       "name": "deadcells.zip",
       "source": {
         "date_added": "2026-03-01",
-        "date_updated": "2026-04-28",
-        "md5": "246b04373a127634d7666e6635fc4942",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-06-22",
+        "md5": "2daef0cbc03eeb93272046464e30a682",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
-        "size": 169236624,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/deadcells.zip"
+        "size": 169236622,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/deadcells.zip"
       },
       "version": 4
     },
@@ -26780,7 +26971,7 @@
     "destructivator2.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -26803,7 +26994,11 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
           "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL"
@@ -26822,8 +27017,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from steam: https://store.steampowered.com/app/1124990/Destructivator_2/\nDownload the game and from your Steam library, right click on Destructivator 2>  Manage > Browse local files. Copy the data.win to /ports/destructivator2/gamedata",
-        "inst_md": null,
+        "inst": "Purchase the game from Steam or Itch. Copy the data.win to /ports/destructivator2/assets",
+        "inst_md": "Purchase the game from [Steam](https://store.steampowered.com/app/1124990/Destructivator_2/) or [Itch](https://thalamusdigital.itch.io/destructivator-2). Copy the data.win to /ports/destructivator2/assets",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -26843,12 +27038,12 @@
       "name": "destructivator2.zip",
       "source": {
         "date_added": "2024-06-18",
-        "date_updated": "2024-07-18",
-        "md5": "6fe26a6e52ff00e43a06a23d60a7a78a",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2026-06-22",
+        "md5": "8a9e1d976d1a1000c008b337c031bb20",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
-        "size": 5872442,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/destructivator2.zip"
+        "size": 9003802,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/destructivator2.zip"
       },
       "version": 4
     },
@@ -31329,6 +31524,108 @@
       },
       "version": 4
     },
+    "dungeonantiqua2.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Dungeon Antiqua 2 is a 2D dungeon hack-and-slash RPG featuring SNES-style pixel art and sound.\nA retro-flavored adventure awaits you, blending strategic exploration with a highly flexible character building system.",
+        "desc_md": "**Dungeon Antiqua 2** is a **2D dungeon hack-and-slash RPG ** featuring SNES-style pixel art and sound.\nA retro-flavored adventure awaits you, blending strategic exploration with a highly flexible character building system.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on https://store.steampowered.com/app/4005090/Dungeon_Antiqua_2/ , install it and copy dungeon-antiqua2.pyxapp in the dungeonantiqua2/gamedata directory on your device.",
+        "inst_md": "Buy the game on [Steam](https://store.steampowered.com/app/4005090/Dungeon_Antiqua_2/), install it and copy `dungeon-antiqua2.pyxapp` in the `dungeonantiqua2/gamedata` directory on your device.",
+        "min_glibc": "",
+        "porter": [
+          "takeshich"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "pyxel_2.9.5_python_3.11.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://dungeon-antiqua.com/",
+            "gameurl": "https://store.steampowered.com/app/4005090/Dungeon_Antiqua_2/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "",
+            "name": ""
+          }
+        ],
+        "title": "Dungeon Antiqua 2"
+      },
+      "items": [
+        "Dungeon Antiqua 2.sh",
+        "dungeonantiqua2"
+      ],
+      "items_opt": null,
+      "name": "dungeonantiqua2.zip",
+      "source": {
+        "date_added": "2026-06-22",
+        "date_updated": "2026-06-22",
+        "md5": "ab70474add92b710ae488c25cc26b9b9",
+        "release_id": "2026-06-22_1100",
+        "repo": "main",
+        "size": 15595058,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/dungeonantiqua2.zip"
+      },
+      "version": 4
+    },
     "dungeoncrawlstonesoup.zip": {
       "attr": {
         "arch": [
@@ -33392,6 +33689,95 @@
         "repo": "main",
         "size": 35450055,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/evoland.zip"
+      },
+      "version": 4
+    },
+    "exactchinesechess.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A controller-first Xiangqi / Chinese Chess port using a GPLv3-compatible rules engine and optional Pikafish AI.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Controls\n\nD-pad: Move board cursor\nA: Select piece / move\nB: Cancel selection / close dropdown\nX: Undo\nY: New game\nL1: Previous reviewed move\nR2: Next reviewed move\nRight stick: Move UI pointer\nR1: Click UI pointer\nStart: Cycle Main / Moves / Help panel\nSelect / Back: Quit\n\nAI Levels\n\nEasy: Pikafish MultiPV 4, depth 1; sometimes chooses candidates 2\u20134\nMedium: Pikafish MultiPV 4, depth 1; less often chooses candidates 2\u20134\nHard: Pikafish MultiPV 1, movetime 1200 ms",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "jckhng"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Exact Chinese Chess"
+      },
+      "items": [
+        "Exact Chinese Chess.sh",
+        "exactchinesechess"
+      ],
+      "items_opt": null,
+      "name": "exactchinesechess.zip",
+      "source": {
+        "date_added": "2026-06-22",
+        "date_updated": "2026-06-22",
+        "md5": "818c8dfd505832f066fea35d7eccdada",
+        "release_id": "2026-06-22_1100",
+        "repo": "main",
+        "size": 52715328,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/exactchinesechess.zip"
       },
       "version": 4
     },
@@ -73202,6 +73588,112 @@
       },
       "version": 4
     },
+    "openjkdf2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The 1997 LucasArts FPS that launched Kyle Katarn into the Jedi Knight saga. Native OpenJKDF2 engine port for ARM handhelds (GLES) and x86_64 Linux (RetroDECK / PortMaster PC). Requires original game files from GOG or Steam.",
+        "desc_md": "The 1997 LucasArts FPS that launched Kyle Katarn into the Jedi Knight saga. Native OpenJKDF2 engine port for ARM handhelds (GLES) and x86_64 Linux (RetroDECK / PortMaster PC). Requires original game files from GOG or Steam.",
+        "exp": false,
+        "genres": [
+          "fps",
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy JKDF2 files to openjkdf2/jk1/ from GOG or Steam as-is (Episode/, Resource/, etc.). Optional MOTS to openjkdf2/mots/. Use the MOTS launcher or switch in-game via Expansions & Mods.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "juanvillacortac"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=LucasArts",
+            "gameurl": "https://store.steampowered.com/app/32380",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.gog.com/en/games?developers=lucasfilm",
+            "gameurl": "https://www.gog.com/en/game/star_wars_jedi_knight_dark_forces_ii",
+            "name": "GOG"
+          }
+        ],
+        "title": "Star Wars Jedi Knight: Dark Forces II"
+      },
+      "items": [
+        "Star Wars Jedi Knight - Dark Forces II.sh",
+        "openjkdf2"
+      ],
+      "items_opt": [
+        "Star Wars Jedi Knight - Mysteries of the Sith.sh"
+      ],
+      "name": "openjkdf2.zip",
+      "source": {
+        "date_added": "2026-06-22",
+        "date_updated": "2026-06-22",
+        "md5": "1e67e30435ffbcfbdee8a33477d367cf",
+        "release_id": "2026-06-22_1100",
+        "repo": "main",
+        "size": 27154927,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/openjkdf2.zip"
+      },
+      "version": 4
+    },
     "openmohaa.zip": {
       "attr": {
         "arch": [
@@ -83008,12 +83500,12 @@
       "name": "puzzlescriptpm.zip",
       "source": {
         "date_added": "2026-05-07",
-        "date_updated": "2026-05-14",
-        "md5": "4344d70c3599cb31e08056d31f830245",
-        "release_id": "2026-05-14_1654",
+        "date_updated": "2026-06-22",
+        "md5": "e6a785223ba4408a16e8b3e5fcd5bb70",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
-        "size": 22854487,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/puzzlescriptpm.zip"
+        "size": 22854638,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/puzzlescriptpm.zip"
       },
       "version": 4
     },
@@ -89651,12 +90143,12 @@
       "name": "russiansubwaydogs.zip",
       "source": {
         "date_added": "2023-10-11",
-        "date_updated": "2026-06-07",
-        "md5": "9fc8d6b50b83836416646755b8ff61d8",
-        "release_id": "2026-06-07_0548",
+        "date_updated": "2026-06-22",
+        "md5": "c226726c9bc0040855fa2d515b70e655",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
         "size": 11223193,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/russiansubwaydogs.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/russiansubwaydogs.zip"
       },
       "version": 2
     },
@@ -91227,12 +91719,12 @@
       "name": "scavengerofdunomini.zip",
       "source": {
         "date_added": "2026-06-09",
-        "date_updated": "2026-06-09",
-        "md5": "c73c6cd922982e7a879ce531bae70a74",
-        "release_id": "2026-06-09_1411",
+        "date_updated": "2026-06-22",
+        "md5": "54075548535251f71cbd175fc4412616",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
-        "size": 4656857,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_1411/scavengerofdunomini.zip"
+        "size": 4657201,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/scavengerofdunomini.zip"
       },
       "version": 4
     },
@@ -100522,12 +101014,12 @@
       "name": "sprucechat.zip",
       "source": {
         "date_added": "2026-04-22",
-        "date_updated": "2026-06-09",
-        "md5": "f825b86e6d691eb70e733e4edbfb2454",
-        "release_id": "2026-06-09_2128",
+        "date_updated": "2026-06-22",
+        "md5": "0221513e24f1d37181af5b749b5f0ba4",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
-        "size": 464367379,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-09_2128/sprucechat.zip"
+        "size": 866812011,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/sprucechat.zip"
       },
       "version": 4
     },
@@ -101137,7 +101629,7 @@
         "runtime": [
           "mono-6.12.0.122-aarch64.squashfs"
         ],
-        "title": "Stardew Valley"
+        "title": "Stardew Valley Compatibility"
       },
       "items": [
         "stardewvalley/",
@@ -101153,14 +101645,112 @@
       },
       "source": {
         "date_added": "2022-07-03",
-        "date_updated": "2026-04-02",
-        "md5": "dfe8d2b4ece300f9aaebd7b83d261937",
-        "release_id": "2026-04-02_0757",
+        "date_updated": "2026-06-22",
+        "md5": "e035d5e62186507fc59470da7bd8b4ee",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
-        "size": 3930748,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-02_0757/stardewvalley.zip"
+        "size": 3930759,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/stardewvalley.zip"
       },
       "version": 2
+    },
+    "stardewvalleymainline.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+        "desc_md": null,
+        "exp": true,
+        "genres": [
+          "rpg",
+          "simulation"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Requires the Windows Steam version of Stardew Valley. Copy all game files into stardewvalleymainline/gamedata. Leave stardewvalleymainline/Mods empty for vanilla play, or add SMAPI mods there to launch through the bundled SMAPI loader automatically.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Producdevity",
+          "Johnny on Flame"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.stardewvalley.net/",
+            "gameurl": "https://store.steampowered.com/app/413150/Stardew_Valley/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Stardew Valley"
+      },
+      "items": [
+        "StardewValleyMainline.sh",
+        "stardewvalleymainline"
+      ],
+      "items_opt": null,
+      "name": "stardewvalleymainline.zip",
+      "source": {
+        "date_added": "2026-06-22",
+        "date_updated": "2026-06-22",
+        "md5": "21e117adaeef9df88f27728f4983cf4a",
+        "release_id": "2026-06-22_1100",
+        "repo": "main",
+        "size": 35250092,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/stardewvalleymainline.zip"
+      },
+      "version": 4
     },
     "starfighter.zip": {
       "attr": {
@@ -106954,6 +107544,97 @@
         "repo": "main",
         "size": 376971,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-15_2128/techmaniac.zip"
+      },
+      "version": 4
+    },
+    "tecnoballz.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "This is a Breakout or Arkanoid like game with a lot of bonus stages. You can buy weapons and bonus between stages. Sometimes you have to defeat a guardian.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to play!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion",
+          "Slayer366"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "TecnoballZ"
+      },
+      "items": [
+        "TecnoballZ.sh",
+        "tecnoballz"
+      ],
+      "items_opt": null,
+      "name": "tecnoballz.zip",
+      "source": {
+        "date_added": "2026-06-22",
+        "date_updated": "2026-06-22",
+        "md5": "8cfbfd913a84451eca03177edc5cc2fb",
+        "release_id": "2026-06-22_1100",
+        "repo": "main",
+        "size": 8473915,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/tecnoballz.zip"
       },
       "version": 4
     },
@@ -114265,7 +114946,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on Steam, download the compatible depot by entering the following command into the Steam console: `download_depot 1147860 1147861 4292022415970196822` and add downloaded files to `ports/ufo50/assets`.",
+        "inst": "Purchase the game on Steam and copy all the data to `ports/ufo50/assets`. On first run the game will be patched.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -114290,12 +114971,12 @@
       },
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2026-04-28",
-        "md5": "073635cbcf514765aaf84d4ff5136b1a",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-06-22",
+        "md5": "f8ced9373390da9fa991971eefc21bbd",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
-        "size": 10923400,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/ufo50.zip"
+        "size": 8771610,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/ufo50.zip"
       },
       "version": 4
     },
@@ -119831,6 +120512,111 @@
       },
       "version": 4
     },
+    "wizorb.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The once peaceful Kingdom of Gorudo is threatened by an evil presence. The only hope for salvation is Cyrus, a wizard versed in a secret magic art called Wizorb! Explore many strange places from the derelict monster infested town of Clover to Gorudo Castle atop Cauldron Peak. Danger lurks around every corner so you'll need to keep your wits about you and have quick reflexes in order to survive.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game from Humble or Steam.  \nFor Humble, download and place the linux installer(wizorb-06232015-bin) in ports/wizorb/gamedata.  \nFor Steam, download the linux game files and place them in ports/wizorb/gamedata.",
+        "inst_md": "Purchase the game from [Humble](https://www.humblebundle.com/store/wizorb) or [Steam](https://store.steampowered.com/app/207420/Wizorb/).  \nFor Humble, download and place the linux installer(wizorb-06232015-bin) in ports/wizorb/gamedata.  \nFor Steam, download the linux game files and place them in ports/wizorb/gamedata.",
+        "min_glibc": "",
+        "porter": [
+          "CEpeep",
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "mono-6.12.0.122-aarch64.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://tributegames.com",
+            "gameurl": "https://www.humblebundle.com/store/wizorb",
+            "name": "Humble"
+          },
+          {
+            "developerurl": "https://tributegames.com",
+            "gameurl": "https://store.steampowered.com/app/207420/Wizorb/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Wizorb"
+      },
+      "items": [
+        "Wizorb.sh",
+        "wizorb"
+      ],
+      "items_opt": null,
+      "name": "wizorb.zip",
+      "source": {
+        "date_added": "2026-06-22",
+        "date_updated": "2026-06-22",
+        "md5": "9913d4566b21621b7fe8ca7d78364e5a",
+        "release_id": "2026-06-22_1100",
+        "repo": "main",
+        "size": 2381412,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/wizorb.zip"
+      },
+      "version": 4
+    },
     "wizznic.zip": {
       "attr": {
         "arch": [
@@ -124287,6 +125073,102 @@
       },
       "version": 4
     },
+    "zenohell.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Zenohell is a 90s inspired shoot-em'up (shmup) that is all about simple gameplay, just dodge, shoot, score, with vibrant pixel visuals and a kicking 28 track soundtrack, with lots of content to boot.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on Steam and copy all game files into assets folder.",
+        "inst_md": "Buy the game on [Steam](https://store.steampowered.com/app/402030/Zenohell/) and copy all game files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/402030/Zenohell/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Zenohell"
+      },
+      "items": [
+        "Zenohell.sh",
+        "zenohell"
+      ],
+      "items_opt": null,
+      "name": "zenohell.zip",
+      "source": {
+        "date_added": "2026-06-22",
+        "date_updated": "2026-06-22",
+        "md5": "43bdeead519b4d7f1143da09ca9b1e65",
+        "release_id": "2026-06-22_1100",
+        "repo": "main",
+        "size": 7502172,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/zenohell.zip"
+      },
+      "version": 4
+    },
     "zeroptianinvasion.zip": {
       "attr": {
         "arch": [
@@ -124979,10 +125861,10 @@
         "porter": [
           "ohol-vitaliy"
         ],
-        "reqs": null,
+        "reqs": [],
         "rtr": true,
         "runtime": [],
-        "store": null,
+        "store": [],
         "title": "ZZT"
       },
       "items": [
@@ -124993,12 +125875,12 @@
       "name": "zzt.zip",
       "source": {
         "date_added": "2025-05-13",
-        "date_updated": "2025-05-13",
-        "md5": "155988b456538976dc08dce33470ef42",
-        "release_id": "2025-05-13_0844",
+        "date_updated": "2026-06-22",
+        "md5": "296bea452bb5c8b73a04f8bf9ad6ee37",
+        "release_id": "2026-06-22_1100",
         "repo": "main",
-        "size": 1285490,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-13_0844/zzt.zip"
+        "size": 1285489,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/zzt.zip"
       },
       "version": 4
     }
