@@ -3669,12 +3669,12 @@
       "name": "antecrypt.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-06-22",
-        "md5": "691e119a2239f698e4b10403c0171030",
-        "release_id": "2026-06-22_1100",
+        "date_updated": "2026-06-23",
+        "md5": "d4546dc7eaa42e1e87eb5e33a6fed7e9",
+        "release_id": "2026-06-23_0402",
         "repo": "main",
-        "size": 4580808,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/antecrypt.zip"
+        "size": 4580799,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-23_0402/antecrypt.zip"
       },
       "version": 4
     },
@@ -64191,6 +64191,108 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/mimisdeliverydash.zip"
       },
       "version": 2
+    },
+    "mina.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Mina the Hollower is a top-down action-adventure from Yacht Club Games, set in a richly detailed 8-bit world. Play as Mina, a resourceful engineer-hero, whipping foes and solving dungeon puzzles across the cursed island of Tenebrous Isle.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Requires the macOS game files from GOG (a .pkg installer) or Steam (the Mac depot). See README.md for details.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "bmdhacks"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.yachtclubgames.com/",
+            "gameurl": "https://www.gog.com/game/mina_the_hollower",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://www.yachtclubgames.com/",
+            "gameurl": "https://store.steampowered.com/app/1875580/Mina_the_Hollower/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Mina the Hollower"
+      },
+      "items": [
+        "Mina the Hollower.sh",
+        "mina"
+      ],
+      "items_opt": null,
+      "name": "mina.zip",
+      "source": {
+        "date_added": "2026-06-23",
+        "date_updated": "2026-06-23",
+        "md5": "133dad6f7c0959f57333e4a4bf114406",
+        "release_id": "2026-06-23_0402",
+        "repo": "main",
+        "size": 8024639,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-23_0402/mina.zip"
+      },
+      "version": 4
     },
     "mindustry.zip": {
       "attr": {
