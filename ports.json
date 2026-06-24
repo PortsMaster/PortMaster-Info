@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-06-22",
-        "md5": "ab803100ba6f9d802ced27e308fa2dbf",
-        "release_id": "2026-06-22_1100",
+        "date_updated": "2026-06-24",
+        "md5": "79eb9245ea8e8a461e164255be3972df",
+        "release_id": "2026-06-24_1306",
         "repo": "main",
-        "size": 326854,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/2048plus.zip"
+        "size": 330931,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-24_1306/2048plus.zip"
       },
       "version": 4
     },
@@ -73787,12 +73787,12 @@
       "name": "openjkdf2.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-06-22",
-        "md5": "1e67e30435ffbcfbdee8a33477d367cf",
-        "release_id": "2026-06-22_1100",
+        "date_updated": "2026-06-24",
+        "md5": "2a4f09a71d3c03a0bf03ed11923f81b0",
+        "release_id": "2026-06-24_1306",
         "repo": "main",
-        "size": 27154927,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/openjkdf2.zip"
+        "size": 27204182,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-24_1306/openjkdf2.zip"
       },
       "version": 4
     },
@@ -122675,12 +122675,12 @@
       },
       "source": {
         "date_added": "2025-07-16",
-        "date_updated": "2025-07-16",
-        "md5": "7c0fe35bbb7038d133c54a78e548bc5d",
-        "release_id": "2025-07-16_2108",
+        "date_updated": "2026-06-24",
+        "md5": "bf0fde0d15bd02be0cc20fd2ecb68c2a",
+        "release_id": "2026-06-24_1306",
         "repo": "main",
-        "size": 4217346,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-16_2108/xroar.zip"
+        "size": 4325535,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-24_1306/xroar.zip"
       },
       "version": 4
     },
