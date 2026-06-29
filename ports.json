@@ -24612,7 +24612,7 @@
           "video": null
         },
         "inst": "See the README.md for installation instructions",
-        "inst_md": "### GoG Instructions\nPlace the **LINUX** version installer (eg: `dead_cells_1_26_0_75679.sh`) in the port's `gamedata` folder.\nIf you have installed the **linux** version already, you can copy the `res.pak`\nand `hlboot.dat` files from the installations `game` folder into the port's `gamedata` folder.\n### GoG DLC\nYou can copy the GoG DLC installers into the `gamedata` folder too.\n### Steam Instructions\n* Open Steam console: `steam://open/console`\n* Copy and paste command: `download_depot 588650 588653 5814907161645516281`\n* Open the folder where this depot was downloaded and copy `res.pak`\n  and `hlboot.dat` into the port's `gamedata` folder.  On windows this folder will be `C:\\Program Files (x86)\\Steam\\steamapps\\content\\app_588650\\depot_588653`\n",
+        "inst_md": "### GoG Instructions\nPlace the **LINUX** version installer (eg: `dead_cells_1_26_0_75679.sh`) in the port's `gamedata` folder.\nIf you have installed the **linux** version already, you can copy the `res.pak`\nand `hlboot.dat` files from the installations `game` folder into the port's `gamedata` folder.\n### GoG DLC\nYou can copy the GoG DLC installers into the `gamedata` folder too.\n### Steam Instructions\n* Open Steam console: `steam://open/console`\n* Copy and paste command: `download_depot 588650 588653 325905742812183616`\n* Open the folder where this depot was downloaded and copy `res.pak`\n  and `hlboot.dat` into the port's `gamedata` folder.  On windows this folder will be `C:\\Program Files (x86)\\Steam\\steamapps\\content\\app_588650\\depot_588653`\n",
         "min_glibc": "",
         "porter": [
           "bmdhacks"
@@ -24642,12 +24642,12 @@
       "name": "deadcells.zip",
       "source": {
         "date_added": "2026-03-01",
-        "date_updated": "2026-06-22",
-        "md5": "2daef0cbc03eeb93272046464e30a682",
-        "release_id": "2026-06-22_1100",
+        "date_updated": "2026-06-29",
+        "md5": "da3fa5dffb3321e6ecd49c3cd182d18f",
+        "release_id": "2026-06-29_2233",
         "repo": "main",
         "size": 169236622,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/deadcells.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-29_2233/deadcells.zip"
       },
       "version": 4
     },
@@ -55664,7 +55664,7 @@
         "reqs": [],
         "rtr": false,
         "runtime": [
-          "pyxel_2.4.6._python_3.11.squashfs"
+          "pyxel_2.4.6_python_3.11.squashfs"
         ],
         "store": [
           {
@@ -55688,12 +55688,12 @@
       "name": "kudamonomerge.zip",
       "source": {
         "date_added": "2026-05-07",
-        "date_updated": "2026-05-07",
-        "md5": "c78bcf91e6e078b153ad166f20af2f38",
-        "release_id": "2026-05-07_1504",
+        "date_updated": "2026-06-29",
+        "md5": "6e20d6ae4c2c12fb372167817274eca5",
+        "release_id": "2026-06-29_2233",
         "repo": "main",
-        "size": 1468833,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/kudamonomerge.zip"
+        "size": 1468832,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-29_2233/kudamonomerge.zip"
       },
       "version": 4
     },
@@ -64285,12 +64285,12 @@
       "name": "mina.zip",
       "source": {
         "date_added": "2026-06-23",
-        "date_updated": "2026-06-23",
-        "md5": "133dad6f7c0959f57333e4a4bf114406",
-        "release_id": "2026-06-23_0402",
+        "date_updated": "2026-06-29",
+        "md5": "f00ae2a20c3692048e3434f367ccb989",
+        "release_id": "2026-06-29_2233",
         "repo": "main",
-        "size": 8024639,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-23_0402/mina.zip"
+        "size": 8025391,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-29_2233/mina.zip"
       },
       "version": 4
     },
@@ -76989,99 +76989,6 @@
         "repo": "main",
         "size": 830853,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/pachycefalosaurus.zip"
-      },
-      "version": 4
-    },
-    "pacman.zip": {
-      "attr": {
-        "arch": [
-          "aarch64",
-          "armhf",
-          "x86_64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "steamdeck:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "full",
-        "desc": "A clone of the original regular ol' Pacman by Namco.  This version is inspired by Paul Neave's Pacman.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "arcade"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Everything is included and ready to run!",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Slayer366"
-        ],
-        "reqs": [],
-        "rtr": true,
-        "runtime": [],
-        "store": [],
-        "title": "Pacman"
-      },
-      "items": [
-        "Pacman.sh",
-        "pacman"
-      ],
-      "items_opt": null,
-      "name": "pacman.zip",
-      "source": {
-        "date_added": "2024-05-15",
-        "date_updated": "2026-05-30",
-        "md5": "7c4c557e5f6ca51400382146d089faa1",
-        "release_id": "2026-05-30_1707",
-        "repo": "main",
-        "size": 11515805,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/pacman.zip"
       },
       "version": 4
     },
@@ -94285,12 +94192,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2025-01-07",
-        "md5": "d461522ffe7478a885949cf43945610a",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2026-06-29",
+        "md5": "ba9d9a6ff2d94a171cef4cf8a845b595",
+        "release_id": "2026-06-29_2233",
         "repo": "main",
-        "size": 3569108,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/shovel.knight.zip"
+        "size": 3087877,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-29_2233/shovel.knight.zip"
       },
       "version": 2
     },
@@ -109179,7 +109086,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy the Linux game files from Steam to the ports/theimpossiblegame/gamedata directory. To get the Linux files from Steam, open the Steam console steam://open/console and run: \"download_depot 251630 251632\", then copy the contents of the downloaded depot into ports/theimpossiblegame/gamedata/.",
+        "inst": "Copy the Linux game files from Steam to the ports/theimpossiblegame/gamedata directory. To get the Linux files from Steam, open the Steam console steam://open/console and run: download_depot 251630 251632, then copy the contents of the downloaded depot into ports/theimpossiblegame/gamedata/.",
         "inst_md": "Copy the Linux game files from Steam to the ports/theimpossiblegame/gamedata directory.\nTo get the Linux files from Steam, open the [Steam console](steam://open/console) and run:\n```\ndownload_depot 251630 251632\n```\nThen copy the contents of the downloaded depot into ports/theimpossiblegame/gamedata/.",
         "min_glibc": "",
         "porter": [
@@ -109205,12 +109112,12 @@
       "name": "theimpossiblegame.zip",
       "source": {
         "date_added": "2026-05-24",
-        "date_updated": "2026-05-24",
-        "md5": "162178742abb793fa6408534928db1d3",
-        "release_id": "2026-05-24_0536",
+        "date_updated": "2026-06-29",
+        "md5": "12fcded857cabf8faeee48bad309adae",
+        "release_id": "2026-06-29_2233",
         "repo": "main",
-        "size": 3142082,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/theimpossiblegame.zip"
+        "size": 3142079,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-29_2233/theimpossiblegame.zip"
       },
       "version": 4
     },
@@ -110836,12 +110743,12 @@
       "name": "tinamp.zip",
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2026-05-14",
-        "md5": "d5c298d61a10231a3b919e15dd8faa7a",
-        "release_id": "2026-05-14_1654",
+        "date_updated": "2026-06-29",
+        "md5": "dfcc8c68688f8ddfba4218e4c1c28812",
+        "release_id": "2026-06-29_2233",
         "repo": "main",
-        "size": 90785707,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/tinamp.zip"
+        "size": 90788441,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-29_2233/tinamp.zip"
       },
       "version": 4
     },
