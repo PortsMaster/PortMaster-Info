@@ -17429,6 +17429,88 @@
       },
       "version": 2
     },
+    "caveblazers.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Caveblazers is a challenging and brutal roguelike platformer. Journey into a mysterious cave, fighting orcs and goblins with an abundance of weapons and magical items! Make friends along the way, then watch in despair as they are crushed in to a bloody pulp under a troll's fist.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam, open the Steam console and use this command to download the compatible version: download_depot 452060 452061 848592866728747997. Copy downloaded files into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/452060/Caveblazers/), open the [Steam console](steam://open/console) and use this command to download the compatible version: `download_depot 452060 452061 848592866728747997`. Copy downloaded files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "!lowres",
+          "power",
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.deadpangames.com/",
+            "gameurl": "https://store.steampowered.com/app/452060/Caveblazers/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Caveblazers"
+      },
+      "items": [
+        "Caveblazers.sh",
+        "caveblazers"
+      ],
+      "items_opt": null,
+      "name": "caveblazers.zip",
+      "source": {
+        "date_added": "2026-07-05",
+        "date_updated": "2026-07-05",
+        "md5": "25cdfd05aa01ce5953b7b5d24990d294",
+        "release_id": "2026-07-05_0841",
+        "repo": "main",
+        "size": 4866835,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/caveblazers.zip"
+      },
+      "version": 4
+    },
     "cavebuster.zip": {
       "attr": {
         "arch": [
@@ -31151,12 +31233,12 @@
       "name": "duke3dawo.zip",
       "source": {
         "date_added": "2024-04-11",
-        "date_updated": "2026-05-30",
-        "md5": "f190a165f9e2c5d8cf41f1a88224e49f",
-        "release_id": "2026-05-30_1707",
+        "date_updated": "2026-07-05",
+        "md5": "234bb5893c6eb3ce486ab16184a71f30",
+        "release_id": "2026-07-05_0841",
         "repo": "main",
-        "size": 4320453,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/duke3dawo.zip"
+        "size": 4320492,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/duke3dawo.zip"
       },
       "version": 4
     },
@@ -40950,6 +41032,93 @@
         "repo": "main",
         "size": 13734988,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gcrash.zip"
+      },
+      "version": 4
+    },
+    "geminiarms.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "GeminiArms is a side scrolling 2D shoot'em up with a twinstick twist. Get inside the ultimate weapon, GEMINI ARMS, and save the world from the Federal force deadly laser weapon.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into assets folder. Devices with H700 cpu and above are recommended for performance reasons. ",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/981450/GeminiArms/) and copy all game files into `assets` folder. Devices with `H700` cpus and above are recommended for performance reasons. ",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.teraringames.com/",
+            "gameurl": "https://store.steampowered.com/app/981450/GeminiArms/",
+            "name": "Steam"
+          }
+        ],
+        "title": "GeminiArms"
+      },
+      "items": [
+        "GeminiArms.sh",
+        "geminiarms"
+      ],
+      "items_opt": null,
+      "name": "geminiarms.zip",
+      "source": {
+        "date_added": "2026-07-05",
+        "date_updated": "2026-07-05",
+        "md5": "9665068a56ae2fc2dc0af41bdcd5bc49",
+        "release_id": "2026-07-05_0841",
+        "repo": "main",
+        "size": 12277598,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/geminiarms.zip"
       },
       "version": 4
     },
@@ -52180,12 +52349,12 @@
       "name": "ionfury.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2026-05-30",
-        "md5": "83a0d07adf9676d0c7e18b3097f42c92",
-        "release_id": "2026-05-30_1707",
+        "date_updated": "2026-07-05",
+        "md5": "28e6edfdd68b4f43b890056d26bfa306",
+        "release_id": "2026-07-05_0841",
         "repo": "main",
-        "size": 1568542,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/ionfury.zip"
+        "size": 1568583,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/ionfury.zip"
       },
       "version": 4
     },
@@ -73125,6 +73294,106 @@
       },
       "version": 2
     },
+    "openchaos.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Fan Modernization of Urban Chaos. Urban Chaos throws you into the heart of a modern urban jungle at the turn of the millenium. To succeed you'll need a lethal combination of stealth, physical agility and martial art skills as you interact with the city around you.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This package does not include Urban Chaos game data. Copy your own game resources into `openchaos/assets/` before launching, including:\n\n- `clumps/`\n- `data/`\n- `text/`\n- `config.ini`\n- the other resource folders from the original game install\n\nWhen those resources are present, the launcher runs Open Chaos from `openchaos/assets/`. At minimum, the game expects `clumps/frontend.txc`, `data/DARCI1.all`, and a language file such as `text/lang_english.txt`. Steam game files have been verified to work with this package.\n",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "jckhng"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.gog.com/games?developers=mucky-foot-productions",
+            "gameurl": "https://www.gog.com/en/game/urban_chaos",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Mucky%20Foot%20Productions%20Ltd&snr=1_5_9__2000",
+            "gameurl": "https://store.steampowered.com/app/243060/Urban_Chaos/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Open Chaos"
+      },
+      "items": [
+        "Open Chaos.sh",
+        "openchaos"
+      ],
+      "items_opt": null,
+      "name": "openchaos.zip",
+      "source": {
+        "date_added": "2026-07-05",
+        "date_updated": "2026-07-05",
+        "md5": "2b638635e81aac980dd38d2fb2a3772a",
+        "release_id": "2026-07-05_0841",
+        "repo": "main",
+        "size": 38501151,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/openchaos.zip"
+      },
+      "version": 4
+    },
     "openclaw.zip": {
       "attr": {
         "arch": [
@@ -73787,12 +74056,12 @@
       "name": "openjkdf2.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-06-24",
-        "md5": "2a4f09a71d3c03a0bf03ed11923f81b0",
-        "release_id": "2026-06-24_1306",
+        "date_updated": "2026-07-05",
+        "md5": "f3debc7263bc02cbbea1698aad111964",
+        "release_id": "2026-07-05_0841",
         "repo": "main",
-        "size": 27204182,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-24_1306/openjkdf2.zip"
+        "size": 27204253,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/openjkdf2.zip"
       },
       "version": 4
     },
@@ -89884,12 +90153,12 @@
       "name": "rott.zip",
       "source": {
         "date_added": "2021-10-24",
-        "date_updated": "2026-06-07",
-        "md5": "c503b400b0e062fa3a2c563b50fc2ecf",
-        "release_id": "2026-06-07_0548",
+        "date_updated": "2026-07-05",
+        "md5": "5e287d0dfb7535c02ffd11d0148e615d",
+        "release_id": "2026-07-05_0841",
         "repo": "main",
-        "size": 21473459,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/rott.zip"
+        "size": 21473542,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/rott.zip"
       },
       "version": 4
     },
@@ -113226,7 +113495,7 @@
           "video": null
         },
         "inst": "Purchase the game from Steam. Download the right version using the Steam console and copy all the game files to /ports/tripleswaptower/assets.",
-        "inst_md": "Purchase the game from Steam: https://store.steampowered.com/app/3971630/Triple_Swap_Tower  \nRun Steam console via Windows+R: Type: steam://open/console, download the 1.3 version by typing: `download_depot 3971630 3971631 1260866337614850807` in the console.   \nWhen the download is complete, it will tell you the location of the folder, copy all the game files to /ports/tripleswaptower/assets",
+        "inst_md": "Purchase the game from Steam: https://store.steampowered.com/app/3971630/Triple_Swap_Tower  \nRun Steam console via Windows+R: Type: steam://open/console, download the 4.0 version by typing: `download_depot 3971630 3971631 5164187858749778076` in the console.   \nWhen the download is complete, it will tell you the location of the folder, copy all the game files to /ports/tripleswaptower/assets",
         "min_glibc": "",
         "porter": [
           "Fraxinus88"
@@ -113251,12 +113520,12 @@
       "name": "tripleswaptower.zip",
       "source": {
         "date_added": "2026-01-07",
-        "date_updated": "2026-01-07",
-        "md5": "6ed9fc6e69590fc909c297e7f196c675",
-        "release_id": "2026-01-07_1231",
+        "date_updated": "2026-07-05",
+        "md5": "63a6072833d7e78d85c70065699e0850",
+        "release_id": "2026-07-05_0841",
         "repo": "main",
-        "size": 7220314,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/tripleswaptower.zip"
+        "size": 7305042,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/tripleswaptower.zip"
       },
       "version": 4
     },
@@ -114700,12 +114969,12 @@
       "name": "ubermoshcollection.zip",
       "source": {
         "date_added": "2023-09-22",
-        "date_updated": "2025-02-06",
-        "md5": "1163a45e832e7e1446bc3dd6645d7cf6",
-        "release_id": "2025-02-06_0046",
+        "date_updated": "2026-07-05",
+        "md5": "cc275a8cb5218e0a87b956485d6d11a1",
+        "release_id": "2026-07-05_0841",
         "repo": "main",
-        "size": 62057128,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_0046/ubermoshcollection.zip"
+        "size": 62057556,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/ubermoshcollection.zip"
       },
       "version": 2
     },
@@ -114980,12 +115249,12 @@
       },
       "source": {
         "date_added": "2024-10-06",
-        "date_updated": "2026-06-22",
-        "md5": "f8ced9373390da9fa991971eefc21bbd",
-        "release_id": "2026-06-22_1100",
+        "date_updated": "2026-07-05",
+        "md5": "b967b53106cf1ba907cbc1b7d86ff391",
+        "release_id": "2026-07-05_0841",
         "repo": "main",
-        "size": 8771610,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/ufo50.zip"
+        "size": 8771627,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/ufo50.zip"
       },
       "version": 4
     },
