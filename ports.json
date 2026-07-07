@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-06-24",
-        "md5": "79eb9245ea8e8a461e164255be3972df",
-        "release_id": "2026-06-24_1306",
+        "date_updated": "2026-07-07",
+        "md5": "d2d631236bedc0173f6ad3dd95691c48",
+        "release_id": "2026-07-07_1030",
         "repo": "main",
-        "size": 330931,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-24_1306/2048plus.zip"
+        "size": 63437405,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/2048plus.zip"
       },
       "version": 4
     },
@@ -6197,74 +6197,6 @@
       },
       "version": 2
     },
-    "aurascope.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "ace:ALL",
-          "rp5:ALL",
-          "rpmini:ALL"
-        ],
-        "availability": "full",
-        "desc": "Aurascope is a 2D action-adventure collectathon platformer with light puzzle and RPG elements. Join our friends Trace and Aurora to uncover the secrets surrounding the Aurascope, a mysterious drive from beyond the stars!",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action",
-          "adventure"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "This is a port for the DEMO!! Download the DEMO at https://store.steampowered.com/app/1547880/Aurascope/ or https://nick64.itch.io/aurascope and add all the data to `ports/aurascope/assets`.\n\nIf you enjoy the demo, visit the [Kickstarter Page](https://www.kickstarter.com/projects/aurascope/aurascope) to follow the game and back the developer!",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [
-          "ultra"
-        ],
-        "rtr": false,
-        "runtime": [],
-        "store": [
-          {
-            "developerurl": "https://aurascope.net",
-            "gameurl": "https://store.steampowered.com/app/1547880/Aurascope",
-            "name": "Steam"
-          },
-          {
-            "developerurl": "https://aurascope.net",
-            "gameurl": "https://nick64.itch.io/aurascope",
-            "name": "Itch.io"
-          }
-        ],
-        "title": "Aurascope Demo"
-      },
-      "items": [
-        "Aurascope.sh",
-        "aurascope"
-      ],
-      "items_opt": null,
-      "name": "aurascope.zip",
-      "source": {
-        "date_added": "2025-05-01",
-        "date_updated": "2025-05-01",
-        "md5": "31592d9490c153057336030dca67384e",
-        "release_id": "2025-05-01_1304",
-        "repo": "main",
-        "size": 5016852,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-01_1304/aurascope.zip"
-      },
-      "version": 4
-    },
     "avp.zip": {
       "attr": {
         "arch": [
@@ -8164,94 +8096,6 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/belleboomerang.zip"
       },
       "version": 4
-    },
-    "benboquest.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "\ud83d\udd25THE GATES OF HELL\ud83d\udd25 have opened, the Infinite Skeleton Hell Army from Hell has began the Ultimate InvasionWorld leaders come together to combat the Skeleton Menacehot new indie retro anime pixel platformer that all the cool kids are talking about. Smash your way through a handful of levels and defeat all of the bad dudes, THE GAME SUPER BENBO QUEST TURBO DELUX/SUPER BENBO QUERST CLASSIC",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "platformer"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Ready to run!",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": true,
-        "runtime": [],
-        "title": "Benbo Quest"
-      },
-      "items": [
-        "benboquest/",
-        "Benbo Quest.sh"
-      ],
-      "items_opt": null,
-      "name": "benboquest.zip",
-      "source": {
-        "date_added": "2024-07-29",
-        "date_updated": "2025-05-14",
-        "md5": "c675f0b01cc544929d4f3c82310e1066",
-        "release_id": "2025-05-14_0927",
-        "repo": "main",
-        "size": 36908780,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-14_0927/benboquest.zip"
-      },
-      "version": 2
     },
     "benwas.zip": {
       "attr": {
@@ -23878,118 +23722,6 @@
       },
       "version": 4
     },
-    "darkdeity.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [],
-        "desc": "Step into the world of Terrazael and lead soon-to-be legendary heroes in a quest to restore a land fractured by broken oaths, reckless wars, and untamed magic. Fight back in turn-based battles, manage character relationships, collect dangerous artifacts, and hopefully restore the world...",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "other"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.jpg",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Buy the game on gog or steam. Copy all game assets to `darkdeity/assets`.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [
-          "2GB"
-        ],
-        "rtr": false,
-        "runtime": [
-          "dotnet-8.0.12.squashfs",
-          "gmtoolkit.squashfs"
-        ],
-        "title": "Dark Deity"
-      },
-      "items": [
-        "Dark Deity.sh",
-        "darkdeity"
-      ],
-      "items_opt": null,
-      "name": "darkdeity.zip",
-      "source": {
-        "date_added": "2024-12-07",
-        "date_updated": "2026-04-28",
-        "md5": "9e26d7ba3227807255cf7d7320bff5b8",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 8053263,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/darkdeity.zip"
-      },
-      "version": 4
-    },
-    "darkdeity2.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [],
-        "desc": "Verroa is a peaceful continent on the brink of war as the Asverellian Empire seeks to expand - at your homeland\u2019s expense. Command unlikely heroes, fight challenging turn-based battles, and watch hardship forge iron into steel. Dark Deity is back, bigger and better than before!",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "other"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Buy the game on steam. Copy all game assets to `darkdeity2/assets`.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [
-          "2GB"
-        ],
-        "rtr": false,
-        "runtime": [
-          "dotnet-8.0.12.squashfs",
-          "gmtoolkit.squashfs"
-        ],
-        "title": "Dark Deity II"
-      },
-      "items": [
-        "Dark Deity 2.sh",
-        "darkdeity2"
-      ],
-      "items_opt": null,
-      "name": "darkdeity2.zip",
-      "rating": {
-        "average_rating": 4.0,
-        "max_rating": "4",
-        "min_rating": "4",
-        "total_ratings": 1
-      },
-      "source": {
-        "date_added": "2025-05-12",
-        "date_updated": "2026-04-28",
-        "md5": "e5d354d49f9d4336c88f575200543352",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 8342818,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/darkdeity2.zip"
-      },
-      "version": 4
-    },
     "darkmoon.zip": {
       "attr": {
         "arch": [
@@ -25925,12 +25657,12 @@
       },
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2026-05-14",
-        "md5": "73ab798d42ffc5d346eb8984f521e315",
-        "release_id": "2026-05-14_1654",
+        "date_updated": "2026-07-07",
+        "md5": "7f9ebf9fa3082b197cff339dabd53464",
+        "release_id": "2026-07-07_1030",
         "repo": "main",
-        "size": 6772896,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/deltarune.zip"
+        "size": 17088720,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/deltarune.zip"
       },
       "version": 4
     },
@@ -27798,85 +27530,6 @@
         "repo": "main",
         "size": 536086,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/digger.zip"
-      },
-      "version": 4
-    },
-    "digitaltamersreborn.zip": {
-      "attr": {
-        "arch": [
-          "armhf"
-        ],
-        "avail": [
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "Train, fight, evolve! Digital Tamers: ReBorn is a casual fighting game for all Digimon fans. Your mission is to take care of your partner, keep it strong, healthy in order to evolve and win battles and several prizes! Excel and win the 12 Championships that will take place throughout the year in order to become a true Digimon Tamer! Live this experience and welcome, to the Digital World!",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Download the Windows executable from https://dragonrod342.itch.io/digital-tamers-reborn and put in the `ports/digitamersreborn/assets` folder..",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [
-          "analog_1|analog_2"
-        ],
-        "rtr": false,
-        "runtime": [],
-        "title": "DigitalTamers Reborn"
-      },
-      "items": [
-        "DigitalTamers Reborn.sh",
-        "digitamersreborn"
-      ],
-      "items_opt": null,
-      "name": "digitaltamersreborn.zip",
-      "source": {
-        "date_added": "2025-02-27",
-        "date_updated": "2026-04-28",
-        "md5": "71260bfdb65aaf9cac647318c3f15ca9",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 220949083,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/digitaltamersreborn.zip"
       },
       "version": 4
     },
@@ -33225,6 +32878,99 @@
         "repo": "main",
         "size": 64800559,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_0915/entwined.zip"
+      },
+      "version": 4
+    },
+    "environmentalstationalpha.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Environmental Station Alpha is an action-adventure platformer with a retro aesthetic and heavy emphasis on exploration. In the game the player controls a robot sent to investigate a mysterious, abandoned space station with the mission to find out what exactly took place there.",
+        "desc_md": "*Environmental Station Alpha* is an action-adventure platformer with a retro aesthetic and heavy emphasis on exploration. In the game the player controls a robot sent to investigate a mysterious, abandoned space station with the mission to find out what exactly took place there.",
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "1. Purchase your copy of the game on Steam.\n2. Use the Steam console to download the required version of the game with \"download_depot 350070 350073 7502940888771481801\".\n3. Copy all of the files from the depot into the \"environmentalstationalpha/gamedata/\" folder.\n4. Launch the port. The \"gamedata\" files will be relocated to their required locations on first launch. Note that the game can take a bit of time to launch. It may take twenty seconds or more in some cases.",
+        "inst_md": "1. Purchase your copy of the game on [Steam](https://store.steampowered.com/app/350070/Environmental_Station_Alpha/).\n2. Use the [Steam console](steam://open/console) to download the required version of the game with `download_depot 350070 350073 7502940888771481801`.\n3. Copy all of the files from the depot into the `environmentalstationalpha/gamedata/` folder.\n    * The resulting file/folder structure should look something like this:\n        ```\n        environmentalstationalpha/\n        \u2514\u2500\u2500 gamedata/\n         \u00a0\u00a0 \u251c\u2500\u2500 Assets.dat\n         \u00a0\u00a0 \u251c\u2500\u2500 Data/\n         \u00a0\u00a0 \u2502\u00a0\u00a0 \u251c\u2500\u2500 0-1.arr\n          \u00a0 \u2502   \u251c\u2500\u2500 <MANY MORE FILES HERE>\n         \u00a0\u00a0 \u2502\u00a0\u00a0 \u2514\u2500\u2500 ztesttileset.png\n         \u00a0\u00a0 \u251c\u2500\u2500 bin64/\n         \u00a0\u00a0 \u2502\u00a0\u00a0 \u251c\u2500\u2500 Chowdren\n         \u00a0\u00a0 \u2502\u00a0\u00a0 \u2514\u2500\u2500 libsteam_api.so\n         \u00a0\u00a0 \u251c\u2500\u2500 gamecontrollerdb.txt\n         \u00a0\u00a0 \u251c\u2500\u2500 icon.bmp\n         \u00a0\u00a0 \u2514\u2500\u2500 run.sh\n        ```\n4. Launch the game. The `gamedata` files will be relocated to their required locations on first launch. **Note that the game can take a bit of time to launch. It may take twenty seconds or more in some cases.**",
+        "min_glibc": "",
+        "porter": [
+          "xikteny"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Arvi%20Teikari",
+            "gameurl": "https://store.steampowered.com/app/350070/Environmental_Station_Alpha/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Environmental Station Alpha"
+      },
+      "items": [
+        "Environmental Station Alpha.sh",
+        "environmentalstationalpha"
+      ],
+      "items_opt": null,
+      "name": "environmentalstationalpha.zip",
+      "source": {
+        "date_added": "2026-07-07",
+        "date_updated": "2026-07-07",
+        "md5": "e2fa61a1247f24ec57eb39082a952114",
+        "release_id": "2026-07-07_1030",
+        "repo": "main",
+        "size": 6493358,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/environmentalstationalpha.zip"
       },
       "version": 4
     },
@@ -39689,106 +39435,6 @@
       },
       "version": 4
     },
-    "friendsofringo.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "paid",
-        "desc": "The Friends of Ringo Ishikawa is a blend of a beat-em up and a slice of life take on mid 80's Japan. Take control of Ringo as he lives his final season of Autumn before high school graduation.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action",
-          "adventure"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Add all files to `ports/friendsofringo/assets/install`.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [
-          "dotnet-8.0.12.squashfs",
-          "gmtoolkit.squashfs"
-        ],
-        "store": [
-          {
-            "developerurl": "",
-            "gameurl": "https://store.steampowered.com/app/846110/The_friends_of_Ringo_Ishikawa",
-            "name": "Steam"
-          }
-        ],
-        "title": "The Friends of Ringo Ishikawa"
-      },
-      "items": [
-        "The Friends of Ringo Ishikawa.sh",
-        "friendsofringo"
-      ],
-      "items_opt": null,
-      "name": "friendsofringo.zip",
-      "source": {
-        "date_added": "2025-07-01",
-        "date_updated": "2026-04-28",
-        "md5": "17c2f12c9ce6389f9c8a709a159fa01c",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 6322577,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/friendsofringo.zip"
-      },
-      "version": 4
-    },
     "frogfall.zip": {
       "attr": {
         "arch": [
@@ -45085,109 +44731,6 @@
       },
       "version": 4
     },
-    "gunsoffury.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "paid",
-        "desc": "Guns of Fury is a retro-inspired action platformer that combines the run & gun and Metroidvania genres. Explore a vast interconnected world, gain new abilities and weapons, battle epic bosses and stop the plans of an evil corporation before it\u2019s too late!",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action",
-          "adventure"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Buy the game on Steam and add the data to gunsoffury/assets",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [],
-        "store": [
-          {
-            "developerurl": "http://www.gelatogames.com/p/guns-of-fury.html",
-            "gameurl": "https://store.steampowered.com/app/3099000/Guns_of_Fury/",
-            "name": "Steam"
-          }
-        ],
-        "title": "Guns of Fury"
-      },
-      "items": [
-        "Guns of Fury.sh",
-        "gunsoffury"
-      ],
-      "items_opt": null,
-      "name": "gunsoffury.zip",
-      "rating": {
-        "average_rating": 5.0,
-        "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 3
-      },
-      "source": {
-        "date_added": "2025-04-14",
-        "date_updated": "2026-04-28",
-        "md5": "4ca215bd6135048f26434af87c91520a",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 8332689,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/gunsoffury.zip"
-      },
-      "version": 4
-    },
     "gyrobossdx.zip": {
       "attr": {
         "arch": [
@@ -46113,95 +45656,6 @@
       },
       "version": 4
     },
-    "hallowseve.zip": {
-      "attr": {
-        "arch": [],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "On Halloween, the barrier between human world and the spirit world thins. The spirits play tricks, the dead can be seen, and monsters can run their human world errands.\n\nSet in the 90s, play as Ichabod, a pumpkin man who uses his chance to enter the human world to try and rent Jurassic Park from the video store. Unfortunately, the only copy has been rented by a teen who\u2019s brought a witch\u2019s curse upon the town.\n\nGameplay is inspired by the classics and the modern classics \u2014 a Zeldalike sense of exploration, with the tight, fast combat of Hyper Light Drifter. All soaked in a charming pixel art atmosphere and a dumb sense of humor. Playtime is around 1-2 hours.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action",
-          "adventure"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Buy the game from https://maxatrillionator.itch.io/hallows-eve and place the .solarus file in the ports/hallowseve folder.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [
-          "solarus-1.6.5.squashfs"
-        ],
-        "title": "Hallow's Eve"
-      },
-      "items": [
-        "Hallow's Eve.sh",
-        "hallowseve/"
-      ],
-      "items_opt": null,
-      "name": "hallowseve.zip",
-      "source": {
-        "date_added": "2024-01-26",
-        "date_updated": "2025-09-23",
-        "md5": "caf57adcececb7f973ccfe9aac8c030a",
-        "release_id": "2025-09-23_1014",
-        "repo": "main",
-        "size": 438300,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/hallowseve.zip"
-      },
-      "version": 2
-    },
     "hammerwatch.zip": {
       "attr": {
         "arch": [
@@ -46385,109 +45839,6 @@
         "repo": "main",
         "size": 11447382,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/happyhills.zip"
-      },
-      "version": 4
-    },
-    "haque.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "paid",
-        "desc": "Haque is a glitch fantasy roguelike adventure about cute monsters, low-bit hauntings, and a suspiciously talkative narrator. Choose your character and battle through forests, deserts and dungeons to defeat a mysterious evil. Die often. Try again!",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "rpg",
-          "strategy"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Buy the game on Steam or Itch.io and copy all the data to `haque/assets`.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod",
-          "Troidem"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [],
-        "store": [
-          {
-            "developerurl": "https://store.steampowered.com/search/?developer=SuperTry%20Studios",
-            "gameurl": "https://store.steampowered.com/app/662540/Haque/",
-            "name": "Steam"
-          },
-          {
-            "developerurl": "https://supertry.itch.io/",
-            "gameurl": "https://supertry.itch.io/haque",
-            "name": "Itch.io"
-          }
-        ],
-        "title": "Haque"
-      },
-      "items": [
-        "Haque.sh",
-        "haque"
-      ],
-      "items_opt": null,
-      "name": "haque.zip",
-      "source": {
-        "date_added": "2025-04-24",
-        "date_updated": "2026-04-28",
-        "md5": "e7f6cbd91f2124f57ba5d71d88a97037",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 5338247,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/haque.zip"
       },
       "version": 4
     },
@@ -52451,118 +51802,6 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-17_0428/iortcw.zip"
       },
       "version": 2
-    },
-    "iosas.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "paid",
-        "desc": "A fantastic, oceanic, open world puzzle adventure. Solve innovative block puzzles while unearthing a mystifying story and unlock powers that provide more options for how you choose to progress through the enigmatic Isles of Sea and Sky!",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "adventure",
-          "puzzle"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "For Itch.io version, download the game and extract the game data to ports/iosas/assets. For Steam version, enter the Steam console (steam://open/console) and use the following command to download a compatible version: download_depot 1233070 1233071 5508707897788945939, then copy those downloaded files to ports/iosas/assets",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod",
-          "kotzebuedog"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [
-          "dotnet-8.0.12.squashfs",
-          "gmtoolkit.squashfs"
-        ],
-        "store": [
-          {
-            "developerurl": "https://www.cicadasoft.com/",
-            "gameurl": "https://store.steampowered.com/app/1233070/Isles_of_Sea_and_Sky/",
-            "name": "Steam"
-          },
-          {
-            "developerurl": "https://www.cicadasoft.com/",
-            "gameurl": "https://cicada-games-official.itch.io/isles-of-sea-and-sky",
-            "name": "Itch.io"
-          }
-        ],
-        "title": "Isles of Sea and Sky"
-      },
-      "items": [
-        "Isles of Sea and Sky.sh",
-        "iosas"
-      ],
-      "items_opt": null,
-      "name": "iosas.zip",
-      "rating": {
-        "average_rating": 5.0,
-        "max_rating": "5",
-        "min_rating": "5",
-        "total_ratings": 2
-      },
-      "source": {
-        "date_added": "2024-09-04",
-        "date_updated": "2026-03-17",
-        "md5": "9fbdc9974388ce4a9bb6c59a46bf9314",
-        "release_id": "2026-03-17_0428",
-        "repo": "main",
-        "size": 16199046,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-17_0428/iosas.zip"
-      },
-      "version": 4
     },
     "ironferret.zip": {
       "attr": {
@@ -60512,96 +59751,6 @@
       },
       "version": 4
     },
-    "lunarlux.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "Experience a sci-fi action-adventure RPG on the Moon in the year 30XX! Join Bella in a story of science, truth, justice, and trust, as she travels the silver globe to find a way to save humanity from Comet Coda! It's time to unleash your Lux!",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action",
-          "adventure",
-          "rpg"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.jpg",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Use `download_depot 1932680 1932681 4860005663388923912` with Steam Console to download the game and add the data to `lunarlux/assets`",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [
-          "!lowres"
-        ],
-        "rtr": false,
-        "runtime": [],
-        "title": "Lunar Lux"
-      },
-      "items": [
-        "Lunar Lux.sh",
-        "lunarlux"
-      ],
-      "items_opt": null,
-      "name": "lunarlux.zip",
-      "source": {
-        "date_added": "2024-12-13",
-        "date_updated": "2026-04-28",
-        "md5": "a04746614fab709946e4c328f3848ee9",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 46690199,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/lunarlux.zip"
-      },
-      "version": 4
-    },
     "lxdredhoney.zip": {
       "attr": {
         "arch": [
@@ -60973,105 +60122,6 @@
         "repo": "main",
         "size": 9124032,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-09_2012/maddeningeu.zip"
-      },
-      "version": 4
-    },
-    "madhouse.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "free",
-        "desc": "MADHOUSE is a horror action RPG where chibi characters slash and blast enemies in blood-soaked combat. Explore a dreary open world in the story campaign, or fight friends in the chaotic local 4-player versus mode. With retro pixel art and punk horror grit, it delivers macabre, thrilling action. WARNING! This game contains depictions of violence and foul language!",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action",
-          "rpg"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Download the DEMO from Steam and add the game files to `madhouse/assets`. Wishlist the game!",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [
-          "!rk3326"
-        ],
-        "rtr": false,
-        "runtime": [],
-        "store": [
-          {
-            "developerurl": "",
-            "gameurl": "https://store.steampowered.com/app/3727130/MADHOUSE/",
-            "name": "Steam"
-          }
-        ],
-        "title": "Madhouse"
-      },
-      "items": [
-        "Madhouse.sh",
-        "madhouse"
-      ],
-      "items_opt": null,
-      "name": "madhouse.zip",
-      "source": {
-        "date_added": "2025-05-24",
-        "date_updated": "2026-04-28",
-        "md5": "c9b2beb44362ea745d2b65aa53902072",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 7706915,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/madhouse.zip"
       },
       "version": 4
     },
@@ -71393,101 +70443,6 @@
       },
       "version": 2
     },
-    "nubbysnumberfactory.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "demo",
-        "desc": "A plinko-style roguelike where you work at a number factory. Launch your spherical friend, Nubby, down a pegboard to make bigger and bigger numbers! But beware, if you fail to meet your number quota, the sun will explode.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "rpg"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Ready to run!.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [
-          "!lowres"
-        ],
-        "rtr": true,
-        "runtime": [],
-        "store": [
-          {
-            "name": "Steam",
-            "url": "https://store.steampowered.com/app/3191030"
-          }
-        ],
-        "title": "Nubby's Number Factory"
-      },
-      "items": [
-        "Nubby's Number Factory.sh",
-        "nubbysnumberfactory"
-      ],
-      "items_opt": null,
-      "name": "nubbysnumberfactory.zip",
-      "source": {
-        "date_added": "2025-05-21",
-        "date_updated": "2026-04-28",
-        "md5": "5c314390684ad49548e94895167ba6b7",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 33231837,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/nubbysnumberfactory.zip"
-      },
-      "version": 4
-    },
     "nuclearblaze.zip": {
       "attr": {
         "arch": [
@@ -72107,95 +71062,6 @@
         "repo": "main",
         "size": 5152493,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/ocda.zip"
-      },
-      "version": 2
-    },
-    "oceansheart.zip": {
-      "attr": {
-        "arch": [],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "When pirates attacked Limestone Island, it fell to Tilia\u2019s father to go after them and rescue the young woman they kidnapped. When he hasn\u2019t returned six months later, Tilia decides it\u2019s up to her to track down her dad and find out what went wrong.\n\nPlay as Tilia as she travels across an archipelago full of pirate forts, forgotten magic, abominable beasts, and a diverse cast of people trying to find their place in it all. As Tilia follows her dad\u2019s trail, she becomes entrangled in the pirates\u2019 plot to use an old magic to control the ocean. And maybe along the way, she\u2019ll play in a tick-tack-toe championship, prevent an art heist, or impresonate a piano tuner. It\u2019s a large world full of secrets, dangers, and quirky wierdos for you to explore.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action",
-          "adventure"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Buy the game from GOG or Steam and place the data.solarus file in the ports/oceansheart folder.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [
-          "solarus-1.6.5.squashfs"
-        ],
-        "title": "Ocean's Heart"
-      },
-      "items": [
-        "Ocean's Heart.sh",
-        "oceansheart/"
-      ],
-      "items_opt": null,
-      "name": "oceansheart.zip",
-      "source": {
-        "date_added": "2024-01-26",
-        "date_updated": "2025-09-23",
-        "md5": "7702b01ead3c1618d3839199f04dd986",
-        "release_id": "2025-09-23_1014",
-        "repo": "main",
-        "size": 1175959,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/oceansheart.zip"
       },
       "version": 2
     },
@@ -74056,12 +72922,12 @@
       "name": "openjkdf2.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-07-05",
-        "md5": "f3debc7263bc02cbbea1698aad111964",
-        "release_id": "2026-07-05_0841",
+        "date_updated": "2026-07-07",
+        "md5": "8f983242c1de9097a7d94d9d745dfa5c",
+        "release_id": "2026-07-07_1030",
         "repo": "main",
-        "size": 27204253,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/openjkdf2.zip"
+        "size": 27205766,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/openjkdf2.zip"
       },
       "version": 4
     },
@@ -80204,96 +79070,6 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/plague.zip"
       },
       "version": 4
-    },
-    "planetarian.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "Planetarian is a visual novel set in a post-apocalyptic world where a lone survivor encounters a malfunctioning robot attendant named Yumemi Hoshino in an abandoned planetarium. Through their interactions, themes of hope, humanity, and the enduring power of memories are explored.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "visual novel"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Add your game assets to `ports/planetarian/gamedata`.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [
-          "rlvm.squashfs"
-        ],
-        "title": "Planetarian"
-      },
-      "items": [
-        "Planetarian.sh",
-        "planetarian/"
-      ],
-      "items_opt": null,
-      "name": "planetarian.zip",
-      "source": {
-        "date_added": "2024-07-21",
-        "date_updated": "2026-04-28",
-        "md5": "5882492563d787b162738de9c4da7730",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 608665,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/planetarian.zip"
-      },
-      "version": 2
     },
     "planetd4rk.zip": {
       "attr": {
@@ -102021,12 +100797,12 @@
       "name": "stardewvalleymainline.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-06-22",
-        "md5": "21e117adaeef9df88f27728f4983cf4a",
-        "release_id": "2026-06-22_1100",
+        "date_updated": "2026-07-07",
+        "md5": "8557782b70cd56dbbe897f8e980ddc32",
+        "release_id": "2026-07-07_1030",
         "repo": "main",
-        "size": 35250092,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/stardewvalleymainline.zip"
+        "size": 35252310,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/stardewvalleymainline.zip"
       },
       "version": 4
     },
@@ -103839,92 +102615,6 @@
         "repo": "main",
         "size": 36602859,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/sunsetshaped.zip"
-      },
-      "version": 2
-    },
-    "sunsetwitchclassic.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "Sunset Witch is traveling over the ocean when an army of Bob fish attack. The more she takes down the faster things get, and it's up to her to bring peace to the ocean's surface!",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "arcade"
-        ],
-        "image": {
-          "covers": [],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Download the game from https://angusbeer.itch.io/sunset-witch-classic and add the exe file to the sunsetwitchclassic/gamedata folder.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [],
-        "title": "Sunset Witch Classic"
-      },
-      "items": [
-        "Sunset_Witch_Classic.sh",
-        "sunsetwitchclassic/"
-      ],
-      "items_opt": null,
-      "name": "sunsetwitchclassic.zip",
-      "source": {
-        "date_added": "2024-03-06",
-        "date_updated": "2025-10-04",
-        "md5": "b488a2475cfac436189c097d2ce38314",
-        "release_id": "2025-10-04_1030",
-        "repo": "main",
-        "size": 4506625,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/sunsetwitchclassic.zip"
       },
       "version": 2
     },
@@ -109211,6 +107901,110 @@
       },
       "version": 4
     },
+    "theforceengine.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "LucasArts 1995 FPS starring Kyle Katarn. Runs on The Force Engine (native Jedi Engine reimplementation) for ARM handhelds and x86_64 Linux. Requires original game files from GOG or Steam.",
+        "desc_md": "LucasArts 1995 FPS starring Kyle Katarn. Runs on The Force Engine (native Jedi Engine reimplementation) for ARM handhelds and x86_64 Linux. Requires original game files from GOG or Steam.",
+        "exp": false,
+        "genres": [
+          "fps",
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy Dark Forces files to theforceengine/game/ (must include DARK.GOB). GOG and Steam installs work if you copy the game folder contents as-is.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "juanvillacortac"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=LucasArts",
+            "gameurl": "https://store.steampowered.com/app/32400",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.gog.com/games?developers=lucasfilm",
+            "gameurl": "https://www.gog.com/en/game/star_wars_dark_forces_remaster",
+            "name": "GOG"
+          }
+        ],
+        "title": "Star Wars: Dark Forces"
+      },
+      "items": [
+        "Star Wars - Dark Forces.sh",
+        "theforceengine"
+      ],
+      "items_opt": null,
+      "name": "theforceengine.zip",
+      "source": {
+        "date_added": "2026-07-07",
+        "date_updated": "2026-07-07",
+        "md5": "74608e7ef6ac1b0bb8cce4396ab54850",
+        "release_id": "2026-07-07_1030",
+        "repo": "main",
+        "size": 11526329,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/theforceengine.zip"
+      },
+      "version": 4
+    },
     "thefoundersofredacted.zip": {
       "attr": {
         "arch": [],
@@ -112126,96 +110920,6 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/tombrobo.zip"
       },
       "version": 4
-    },
-    "tomoyo_after.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "Tomoyo After continues the story of Tomoyo Sakagami after the events of Clannad, focusing on her relationship with Tomoya Okazaki and the challenges they face together. It explores themes of love, loss, and redemption against a backdrop of personal growth and emotional healing.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "visual novel"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Add your game assets to `ports/tomoyo_after/gamedata`.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [
-          "rlvm.squashfs"
-        ],
-        "title": "Clannad: Tomoyo After - It's A Wonderful Life"
-      },
-      "items": [
-        "Clannad Tomoyo After.sh.sh",
-        "tomoyo_after/"
-      ],
-      "items_opt": null,
-      "name": "tomoyo_after.zip",
-      "source": {
-        "date_added": "2024-07-21",
-        "date_updated": "2026-04-28",
-        "md5": "87ca23e84a2a1a0df3ff935089406b5f",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 541305,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/tomoyo_after.zip"
-      },
-      "version": 2
     },
     "topnep.zip": {
       "attr": {
@@ -115164,100 +113868,6 @@
       },
       "version": 4
     },
-    "ufo50.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "From the developer, Mossmouth: \"UFO 50 is a collection of 50 single and multiplayer games that span a variety of genres, from platformers and shoot 'em ups to puzzle games, roguelites, and RPGs. Our goal is to combine a familiar 8-bit aesthetic with new ideas and modern game design.\"",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "other"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Purchase the game on Steam and copy all the data to `ports/ufo50/assets`. On first run the game will be patched.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [],
-        "title": "UFO 50"
-      },
-      "items": [
-        "UFO 50.sh",
-        "ufo50"
-      ],
-      "items_opt": null,
-      "name": "ufo50.zip",
-      "rating": {
-        "average_rating": 4.75,
-        "max_rating": "5",
-        "min_rating": "4",
-        "total_ratings": 4
-      },
-      "source": {
-        "date_added": "2024-10-06",
-        "date_updated": "2026-07-05",
-        "md5": "b967b53106cf1ba907cbc1b7d86ff391",
-        "release_id": "2026-07-05_0841",
-        "repo": "main",
-        "size": 8771627,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-05_0841/ufo50.zip"
-      },
-      "version": 4
-    },
     "ultimatestunts.zip": {
       "attr": {
         "arch": [
@@ -115793,110 +114403,6 @@
         "repo": "main",
         "size": 20591043,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-01_1308/undertale.zip"
-      },
-      "version": 4
-    },
-    "undertaleredyellow.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "paid",
-        "desc": "Undertale Red & Yellow is a mod for the game Undertale that incorporates elements from Undertale Yellow. It features Frisk, accompanied by two ghosts Chara and Clover, as they navigate through the Underground. The mod includes additional content such as new interactions, minigames, and mini-bosses, which significantly extend the gameplay experience.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "rpg"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Copy the contents of your Steam or GOG Windows Undertale install and the ut-red-and-yellow.zip file to ports/undertale/assets.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [
-          "dotnet-8.0.12.squashfs",
-          "gmtoolkit.squashfs"
-        ],
-        "store": [
-          {
-            "name": "Steam",
-            "url": "https://store.steampowered.com/app/391540/Undertale/"
-          }
-        ],
-        "title": "Undertale Red & Yellow"
-      },
-      "items": [
-        "Undertale Red & Yellow.sh",
-        "undertaleredyellow"
-      ],
-      "items_opt": null,
-      "name": "undertaleredyellow.zip",
-      "rating": {
-        "average_rating": 3.0,
-        "max_rating": "5",
-        "min_rating": "1",
-        "total_ratings": 2
-      },
-      "source": {
-        "date_added": "2025-05-23",
-        "date_updated": "2026-05-14",
-        "md5": "8d49f74b02759ebd7c607d045f4eea35",
-        "release_id": "2026-05-14_1654",
-        "repo": "main",
-        "size": 44517917,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/undertaleredyellow.zip"
       },
       "version": 4
     },
@@ -116814,104 +115320,6 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0536/urguys.zip"
       },
       "version": 4
-    },
-    "utyellow.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "free",
-        "desc": "When a child named Clover sets out on a mission, they find themself deep within the Underground. In this foreign land, monsters lurk around every corner, but are they friend or foe?",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "rpg"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Download the game from Gamejolt and add the contents to ports/utyellow/assets. Game is ready to play after a brief first-time setup.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [
-          "dotnet-8.0.12.squashfs",
-          "gmtoolkit.squashfs"
-        ],
-        "title": "Undertale Yellow"
-      },
-      "items": [
-        "Undertale Yellow.sh",
-        "utyellow/"
-      ],
-      "items_opt": null,
-      "name": "utyellow.zip",
-      "rating": {
-        "average_rating": 3.8,
-        "max_rating": "5",
-        "min_rating": "1",
-        "total_ratings": 5
-      },
-      "source": {
-        "date_added": "2024-08-06",
-        "date_updated": "2025-12-24",
-        "md5": "a2eb4341063d277e925052ed0c4d201b",
-        "release_id": "2025-12-24_0552",
-        "repo": "main",
-        "size": 6167153,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/utyellow.zip"
-      },
-      "version": 2
     },
     "vacuoussugarquest.zip": {
       "attr": {
@@ -117904,91 +116312,6 @@
         "repo": "main",
         "size": 12042588,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-13_1353/verticaldropheroeshd.zip"
-      },
-      "version": 4
-    },
-    "vhr.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rgb10:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL"
-        ],
-        "desc": "Welcome to VHR! Unlock the secrets of speed in this turbocharged neo super scaler arcade racing experience. Dominate the track & drift your way to the finish line on the road to becoming the VHRC champion.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "racing"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Purchase the game on Steam and add the game data to `ports/vhr/assets`.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [
-          "power"
-        ],
-        "rtr": false,
-        "runtime": [],
-        "title": "Victory Heat Rally"
-      },
-      "items": [
-        "Victory Heat Rally.sh",
-        "vhr"
-      ],
-      "items_opt": null,
-      "name": "vhr.zip",
-      "rating": {
-        "average_rating": 3.0,
-        "max_rating": "5",
-        "min_rating": "1",
-        "total_ratings": 2
-      },
-      "source": {
-        "date_added": "2024-11-07",
-        "date_updated": "2026-04-28",
-        "md5": "73e171eaf4c9b5d4adb0ff893df52dea",
-        "release_id": "2026-04-28_1830",
-        "repo": "main",
-        "size": 22912394,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/vhr.zip"
       },
       "version": 4
     },
@@ -123046,94 +121369,6 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/xyze.zip"
       },
       "version": 4
-    },
-    "yarntown.zip": {
-      "attr": {
-        "arch": [],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "desc": "You\u2019ve come on the night of the hunt. The streets of this cursed, gothic town are overrun with beasts, and what has become of the men who tried to hunt them before. Explore the twisting roads, go toe to toe with powerful foes, and uncover Yarntown\u2019s dark secrets.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Download game from https://solarus-games.org/games/yarntown/ and put the .solarus file in ports/yarntown.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "Jeod"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [
-          "solarus-1.6.5.squashfs"
-        ],
-        "title": "Yarntown"
-      },
-      "items": [
-        "Yarntown.sh",
-        "yarntown/"
-      ],
-      "items_opt": null,
-      "name": "yarntown.zip",
-      "source": {
-        "date_added": "2024-01-26",
-        "date_updated": "2025-09-23",
-        "md5": "7a3cc5c28300472cff5b198a5a40e994",
-        "release_id": "2025-09-23_1014",
-        "repo": "main",
-        "size": 459757,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/yarntown.zip"
-      },
-      "version": 2
     },
     "yatka.zip": {
       "attr": {
