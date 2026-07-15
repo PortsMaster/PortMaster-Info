@@ -13790,6 +13790,103 @@
       },
       "version": 4
     },
+    "bully.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Bully: Anniversary Edition for AArch64 Linux handhelds through the NextOS native Android so-loader. Includes automatic low-memory and GLES2/GLES3 profiles, native SDL controls, item switching and optional native ES3 shadows.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Requires a complete, legally owned ARM64 Android copy of Bully: Anniversary Edition 1.4.311. Copy a merged APK, all APK splits from the same installation, or a complete APKS/APKM/XAPK bundle into ports/bully/gamedata and launch once. Game files are not included.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "NextOS"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.rockstargames.com/games/bully",
+            "gameurl": "https://play.google.com/store/apps/details?id=com.rockstargames.bully",
+            "name": "Google Play Store"
+          }
+        ],
+        "title": "Bully: Anniversary Edition"
+      },
+      "items": [
+        "Bully.sh",
+        "bully"
+      ],
+      "items_opt": null,
+      "name": "bully.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "8975cab45f8f2ead299564350ddeebed",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 2235750,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/bully.zip"
+      },
+      "version": 4
+    },
     "bumpersbroadswords.zip": {
       "attr": {
         "arch": [
@@ -21715,6 +21812,106 @@
       },
       "version": 4
     },
+    "crimsonland.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A faithful rewrite of crimsonland 1.9.93 from 2003",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place crimson.paq and sfx.paq in crimsonland/assets; music.paq or loose music/*.ogg files are optional. \n\nControls\nLeft stick: movement\nRight stick: aim/fire\nY: perk selection\nL1/L2: reload\nX: Backspace during high-score name entry\nD-pad/buttons navigate menus and compact UI screens\n",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "jckhng"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.gog.com/games?developers=10tons",
+            "gameurl": "https://www.gog.com/en/game/crimsonland",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "",
+            "name": ""
+          }
+        ],
+        "title": "Crimsonland"
+      },
+      "items": [
+        "Crimsonland.sh",
+        "crimsonland"
+      ],
+      "items_opt": null,
+      "name": "crimsonland.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "723687cdf04f8d7226411050f9a5215f",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 5551362,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/crimsonland.zip"
+      },
+      "version": 4
+    },
     "criticalcore2.zip": {
       "attr": {
         "arch": [
@@ -25657,12 +25854,12 @@
       },
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2026-07-07",
-        "md5": "7f9ebf9fa3082b197cff339dabd53464",
-        "release_id": "2026-07-07_1030",
+        "date_updated": "2026-07-15",
+        "md5": "f0ef6dad8b7db58dd8fcbbcbf8e77097",
+        "release_id": "2026-07-15_0750",
         "repo": "main",
-        "size": 17088720,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/deltarune.zip"
+        "size": 17089430,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/deltarune.zip"
       },
       "version": 4
     },
@@ -27104,7 +27301,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Includes the Diablo shareware version.  You can add your own full version DIABDAT.MPQ file to the ports/devilution folder.  To run the Diablo: Hellfire expansion you will need to also copy hellfire.mpq, hfmonk.mpq, hfmusic.mpq, hfvoice.mpq. See wiki if you experience issues with version upgrades or configuration changes.",
+        "inst": "Includes the Diablo shareware version. You can add your own full version DIABDAT.MPQ file to the ports/devilutionx folder. To run the Diablo: Hellfire expansion you will need to also copy hellfire.mpq, hfmonk.mpq, hfmusic.mpq, hfvoice.mpq. See wiki if you experience issues with version upgrades or configuration changes.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -27116,7 +27313,7 @@
         "title": "DevilutionX"
       },
       "items": [
-        "devilution/",
+        "devilutionx/",
         "Devilutionx.sh"
       ],
       "items_opt": null,
@@ -27129,12 +27326,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2026-04-28",
-        "md5": "b4956bcdd371f1906a36e3d671841a7a",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-07-15",
+        "md5": "a8b971b5826b16a23cb0e0456908ccf8",
+        "release_id": "2026-07-15_0750",
         "repo": "main",
-        "size": 62394184,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/devilutionx.zip"
+        "size": 62394537,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/devilutionx.zip"
       },
       "version": 2
     },
@@ -27626,6 +27823,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/dinothawr.zip"
       },
       "version": 2
+    },
+    "disccreatures.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Humans live alongside creatures, each with different personalities, abilities, and moral codes. The invention of the DiscKid has changed life for everyone. Humans can copy creatures and use their power to help others and solve mysteries around the world.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase and download from Steam, then add game files to port folder on your device. It will take a minute to patch on first launch.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/publisher/picorinnesoft",
+            "gameurl": "https://store.steampowered.com/app/1083190/Disc_Creatures/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Disc Creatures"
+      },
+      "items": [
+        "Disc Creatures.sh",
+        "disccreatures"
+      ],
+      "items_opt": null,
+      "name": "disccreatures.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "9fee4d62178b95c9fa21f67a65b06dd7",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 11530309,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/disccreatures.zip"
+      },
+      "version": 4
     },
     "discroom.zip": {
       "attr": {
@@ -32935,8 +33228,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "1. Purchase your copy of the game on Steam.\n2. Use the Steam console to download the required version of the game with \"download_depot 350070 350073 7502940888771481801\".\n3. Copy all of the files from the depot into the \"environmentalstationalpha/gamedata/\" folder.\n4. Launch the port. The \"gamedata\" files will be relocated to their required locations on first launch. Note that the game can take a bit of time to launch. It may take twenty seconds or more in some cases.",
-        "inst_md": "1. Purchase your copy of the game on [Steam](https://store.steampowered.com/app/350070/Environmental_Station_Alpha/).\n2. Use the [Steam console](steam://open/console) to download the required version of the game with `download_depot 350070 350073 7502940888771481801`.\n3. Copy all of the files from the depot into the `environmentalstationalpha/gamedata/` folder.\n    * The resulting file/folder structure should look something like this:\n        ```\n        environmentalstationalpha/\n        \u2514\u2500\u2500 gamedata/\n         \u00a0\u00a0 \u251c\u2500\u2500 Assets.dat\n         \u00a0\u00a0 \u251c\u2500\u2500 Data/\n         \u00a0\u00a0 \u2502\u00a0\u00a0 \u251c\u2500\u2500 0-1.arr\n          \u00a0 \u2502   \u251c\u2500\u2500 <MANY MORE FILES HERE>\n         \u00a0\u00a0 \u2502\u00a0\u00a0 \u2514\u2500\u2500 ztesttileset.png\n         \u00a0\u00a0 \u251c\u2500\u2500 bin64/\n         \u00a0\u00a0 \u2502\u00a0\u00a0 \u251c\u2500\u2500 Chowdren\n         \u00a0\u00a0 \u2502\u00a0\u00a0 \u2514\u2500\u2500 libsteam_api.so\n         \u00a0\u00a0 \u251c\u2500\u2500 gamecontrollerdb.txt\n         \u00a0\u00a0 \u251c\u2500\u2500 icon.bmp\n         \u00a0\u00a0 \u2514\u2500\u2500 run.sh\n        ```\n4. Launch the game. The `gamedata` files will be relocated to their required locations on first launch. **Note that the game can take a bit of time to launch. It may take twenty seconds or more in some cases.**",
+        "inst": "Purchase your copy of the game on Steam and copy the required Linux depot into the port's \"gamedata/\" folder. Refer to the full documentation in \"environmentalstationalpha.md\" for details.",
+        "inst_md": "Purchase your copy of the game on Steam and copy the required Linux depot into the port's `gamedata/` folder. Refer to the full documentation in `environmentalstationalpha.md` for details.",
         "min_glibc": "",
         "porter": [
           "xikteny"
@@ -32965,12 +33258,12 @@
       "name": "environmentalstationalpha.zip",
       "source": {
         "date_added": "2026-07-07",
-        "date_updated": "2026-07-07",
-        "md5": "e2fa61a1247f24ec57eb39082a952114",
-        "release_id": "2026-07-07_1030",
+        "date_updated": "2026-07-15",
+        "md5": "2e01542d3e4a1dd57489da62ee371c9a",
+        "release_id": "2026-07-15_0750",
         "repo": "main",
-        "size": 6493358,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/environmentalstationalpha.zip"
+        "size": 6492969,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/environmentalstationalpha.zip"
       },
       "version": 4
     },
@@ -49764,8 +50057,6 @@
           "aarch64"
         ],
         "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg503:ALL",
@@ -49773,12 +50064,8 @@
           "rgcubexx:ALL",
           "rg40xx-h:ALL",
           "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
           "rg34xx-sp:ALL",
-          "rg28xx:ALL",
           "rgb10:ALL",
           "rgb30:ALL",
           "rk2023:ALL",
@@ -49788,7 +50075,6 @@
           "ogu:ALL",
           "ace:ALL",
           "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL"
@@ -49815,7 +50101,8 @@
           "Doronimmo"
         ],
         "reqs": [
-          "power"
+          "power",
+          "analog_1"
         ],
         "rtr": false,
         "runtime": [
@@ -49831,12 +50118,12 @@
       "name": "hyperlightdrifter.zip",
       "source": {
         "date_added": "2025-02-13",
-        "date_updated": "2026-03-17",
-        "md5": "5bfe077cc911e75236d09e9dd0fc7d04",
-        "release_id": "2026-03-17_0428",
+        "date_updated": "2026-07-15",
+        "md5": "89d1384d35ffee1b63a19b3a7522bb00",
+        "release_id": "2026-07-15_0750",
         "repo": "main",
-        "size": 220102914,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-17_0428/hyperlightdrifter.zip"
+        "size": 220102922,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/hyperlightdrifter.zip"
       },
       "version": 4
     },
@@ -54904,6 +55191,102 @@
         "repo": "main",
         "size": 6350289,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-27_2358/koboo.zip"
+      },
+      "version": 4
+    },
+    "kor.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Kor is a retro RPG with a variety of eccentric characters, goofy dialog, and turn-based combat where - in addition to strategizing - players must skillfully execute button combos in order to make attacks!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy game files into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1374280/Kor/) and copy game files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1374280/Kor/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Kor"
+      },
+      "items": [
+        "Kor.sh",
+        "kor"
+      ],
+      "items_opt": null,
+      "name": "kor.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "def9e1b483f652e2870ce56435b8bbcb",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 5099154,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/kor.zip"
       },
       "version": 4
     },
@@ -62018,6 +62401,201 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/megaman.zip"
       },
       "version": 2
+    },
+    "megamanspace.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A Mega Man inspired space shooter.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download at itch.io https://gaspi.itch.io/mega-man-space and place Mega Man Space v1.2.0.0.exe, into the assets folder.",
+        "inst_md": "Download at [itch.io](https://gaspi.itch.io/mega-man-space) and place Mega Man Space v1.2.0.0.exe, into the assets folder.",
+        "min_glibc": "",
+        "porter": [
+          "Slayer366",
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://gaspi.itch.io/",
+            "gameurl": "https://gaspi.itch.io/mega-man-space",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Mega Man Space"
+      },
+      "items": [
+        "Mega Man Space.sh",
+        "megamanspace"
+      ],
+      "items_opt": null,
+      "name": "megamanspace.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "ed13c924a3def06729c612eeed51b115",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 6367977,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/megamanspace.zip"
+      },
+      "version": 4
+    },
+    "megamanspace2.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Mega Man Space 2 is a Mega Man based fangame with a drastic change on the genre, tanking the blue bomber into an arcade-like space action adventure.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Windows version at itch.io https://gaspi.itch.io/mega-man-space-2 and place Mega Man Space 2 - 20w18a.pck into the megamanspace2 folder.",
+        "inst_md": "Download the Windows version at [itch.io](https://gaspi.itch.io/mega-man-space-2) and place Mega Man Space 2 - 20w18a.pck into the megamanspace2 folder.",
+        "min_glibc": "",
+        "porter": [
+          "Slayer366",
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.2.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://gaspi.itch.io/",
+            "gameurl": "https://gaspi.itch.io/mega-man-space-2",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Mega Man Space 2"
+      },
+      "items": [
+        "Mega Man Space 2.sh",
+        "megamanspace2"
+      ],
+      "items_opt": null,
+      "name": "megamanspace2.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "1400ca2c1bd059f7b4b618be5be27e64",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 31241,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/megamanspace2.zip"
+      },
+      "version": 4
     },
     "megamansunrise.zip": {
       "attr": {
@@ -94731,6 +95309,100 @@
       },
       "version": 4
     },
+    "skullyardpinball.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Skullyard Pinball is a short one-table horror themed pinball game. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from itch.io and extract all game files into assets folder.",
+        "inst_md": "Download the game from [itch.io](https://emiemigames.itch.io/skullyard-pinball) and extract all game files into `assets` folder. ",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://emiemigames.itch.io/skullyard-pinball",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Skullyard Pinball"
+      },
+      "items": [
+        "Skullyard Pinball.sh",
+        "skullyardpinball"
+      ],
+      "items_opt": null,
+      "name": "skullyardpinball.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "5fbec2c0a434d4b179cf738fa80b5d12",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 7197992,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/skullyardpinball.zip"
+      },
+      "version": 4
+    },
     "slashjump.zip": {
       "attr": {
         "arch": [],
@@ -100797,12 +101469,12 @@
       },
       "source": {
         "date_added": "2025-01-23",
-        "date_updated": "2026-04-28",
-        "md5": "e18cd0450b2015675c94c09571f58cfc",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-07-15",
+        "md5": "380382b05deb0e472509c710690216ed",
+        "release_id": "2026-07-15_0750",
         "repo": "main",
-        "size": 37524642,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/starfighter.zip"
+        "size": 37524644,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/starfighter.zip"
       },
       "version": 4
     },
@@ -102514,6 +103186,104 @@
         "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2024-10-01_1015/super.mario.war.zip"
       },
       "version": 2
+    },
+    "superbloodhockey.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Relive the golden age of arcade sports gaming with Super Blood Hockey.\n\nCreate and manage your team in a violent, dystopic world of no-rules, fast-paced, arcade-style, ice hockey action. Adjust training regimens, control diets, administer black market pharmaceuticals, and provide healthcare (or not) to a ragtag team of convicts at the mercy of your underhanded tactics.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "sports"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "You must provide the Steam data files for Super Blood Hockey.\nhttps://store.steampowered.com/app/532190\n\nSupports both Windows and Linux versions.\nPlace all game files into the `superbloodhockey/gamedata` folder.\nBut do NOT copy the `SubparBloopHokeyCon.fig` file! (Doing so will\nboot the game into the wrong resolution).\n\nOn first launch, the port auto-detects the device resolution and\npatches the game's last resolution slot with the device's resolution and\nzoom values, if necessary. Patcher works with game version 1.5.4 only.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "TortugaJay"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "mono-6.12.0.122-aarch64.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://gamesbyloren.com/",
+            "gameurl": "https://store.steampowered.com/app/532190/Super_Blood_Hockey/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Super Blood Hockey"
+      },
+      "items": [
+        "Super Blood Hockey.sh",
+        "superbloodhockey"
+      ],
+      "items_opt": null,
+      "name": "superbloodhockey.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "58ff9982dc39a834cfce46e386732177",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 1202076,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/superbloodhockey.zip"
+      },
+      "version": 4
     },
     "supercakeboy.zip": {
       "attr": {
@@ -110727,6 +111497,96 @@
         "repo": "main",
         "size": 8939896,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/tombrobo.zip"
+      },
+      "version": 4
+    },
+    "tomomi.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A new superweapon has been developed by the evil organization Animalia.\nEnter Tomomi, a hero for hire. Joining her is Riko, the supporter.\nTheir mission...infiltrate the Animalia complex and stop their evil plans!\nWill Tomomi and Riko be able to find and destroy the new weapon!?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer",
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into assets folder. This game is recommended primarily for devices with RK3566 cpu or better for performance reasons.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1229390/TOMOMI/) and copy all game files into `assets` folder. This game is recommended primarily for devices with `RK3566` cpu or better for performance reasons.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "!lowres",
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1229390/TOMOMI/",
+            "name": "Steam"
+          }
+        ],
+        "title": "TOMOMI"
+      },
+      "items": [
+        "TOMOMI.sh",
+        "tomomi"
+      ],
+      "items_opt": null,
+      "name": "tomomi.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "2a863ee7c77487409fca854fad1134d2",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 24473501,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/tomomi.zip"
       },
       "version": 4
     },
@@ -121090,6 +121950,100 @@
       },
       "version": 4
     },
+    "yarntown_pm.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Yarntown is a charming 16-bit, top-down demake that transforms the gothic world of Bloodborne into a retro, Zelda-style action RPG. Explore the pixel-art streets of Yharnam, dodge-roll through danger, and face iconic bosses in fast-paced, challenging combat.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Get the .solarus file for this port by downloading Yarntown from https://solarus-games.org/games/yarntown/, then move it into ports/yarntown.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "solarus-1.6.5.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://solarus-games.org/developers/moth-atlas/",
+            "gameurl": "https://solarus-games.org/games/yarntown/",
+            "name": "Solarus Website"
+          }
+        ],
+        "title": "Yarntown"
+      },
+      "items": [
+        "Yarntown.sh",
+        "yarntown_pm"
+      ],
+      "items_opt": null,
+      "name": "yarntown_pm.zip",
+      "source": {
+        "date_added": "2026-07-15",
+        "date_updated": "2026-07-15",
+        "md5": "159e559f6aede53819c15696f63de5f6",
+        "release_id": "2026-07-15_0750",
+        "repo": "main",
+        "size": 311168,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/yarntown_pm.zip"
+      },
+      "version": 4
+    },
     "yatka.zip": {
       "attr": {
         "arch": [
@@ -121356,12 +122310,12 @@
       "name": "yknytt.zip",
       "source": {
         "date_added": "2026-01-12",
-        "date_updated": "2026-01-12",
-        "md5": "71116697ba3bda887e2b801e66f8d8a0",
-        "release_id": "2026-01-12_1145",
+        "date_updated": "2026-07-15",
+        "md5": "2244f68d8909f33068458328ae39ff33",
+        "release_id": "2026-07-15_0750",
         "repo": "main",
-        "size": 83336446,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-12_1145/yknytt.zip"
+        "size": 83336434,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/yknytt.zip"
       },
       "version": 4
     },
