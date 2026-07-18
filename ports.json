@@ -9017,6 +9017,95 @@
       },
       "version": 4
     },
+    "bitriot.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A clone/reimplementation of the Amiga game Bug Bomber, in the style of Bomberman, with the added twist of spawning helper robots.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "BitRiot"
+      },
+      "items": [
+        "Bitriot.sh",
+        "bitriot"
+      ],
+      "items_opt": null,
+      "name": "bitriot.zip",
+      "source": {
+        "date_added": "2026-07-19",
+        "date_updated": "2026-07-19",
+        "md5": "785325601fe324ded84fe233731bbc88",
+        "release_id": "2026-07-19_0029",
+        "repo": "main",
+        "size": 2684681,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-19_0029/bitriot.zip"
+      },
+      "version": 4
+    },
     "bitsybox.zip": {
       "attr": {
         "arch": [
@@ -22195,12 +22284,118 @@
       },
       "source": {
         "date_added": "2025-04-13",
-        "date_updated": "2025-11-18",
-        "md5": "6169306456633e94f19cd87bbf751a3b",
-        "release_id": "2025-11-18_1011",
+        "date_updated": "2026-07-19",
+        "md5": "46809641de023b436e4dedef926a7fc7",
+        "release_id": "2026-07-19_0029",
         "repo": "main",
-        "size": 34603012,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/crop_and_claw.zip"
+        "size": 34603073,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-19_0029/crop_and_claw.zip"
+      },
+      "version": 4
+    },
+    "cropandclaw2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "demo",
+        "desc": "Many years after the events of Crop and Claw have passed. A hermit dragon by name of Wend and his friends set sail to a far away continent in search of a new home. But an ominous wind carries news that Wend's past has come to haunt him, even across the ocean itself.",
+        "desc_md": "## Story\nMany years after the events of Crop and Claw have passed. A hermit dragon by name of Wend and his friends set sail to a far away continent in search of a new home. But an ominous wind carries news that Wend's past has come to haunt him, even across the ocean itself.\n\n## Key Features\n* Build a custom party of dragons and join story characters throughout an adventure.\n* Dragons, everywhere.\n* A non-linear adventure allowing for exploration, routing, and replay-ability.\n* You are a dragon.\n* Turn-based combat against flora and dragons alike.\n* Multiple interactions and solutions to puzzles with characters and environments, encouraging exploration and experimentation.\n* Dragons. It really is a dragon adventure.\n\n## Demo\n* Contains the first act of the full game, for roughly one to two hours of play.\n* Allows for both story party and custom mercenaries.\n* Save compatibility for the full game of Crop and Claw 2 is **not** guaranteed!",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Demo is ready to run.\n\nTo play the full game, wait until it releases.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Pyral"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.6.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Dinoleaf",
+            "gameurl": "https://store.steampowered.com/app/3065270/Crop_and_Claw_2/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://dinoleaf.itch.io/",
+            "gameurl": "https://dinoleaf.itch.io/crop-and-claw-2",
+            "name": "itch"
+          }
+        ],
+        "title": "Crop and Claw 2"
+      },
+      "items": [
+        "Crop and Claw 2.sh",
+        "cropandclaw2"
+      ],
+      "items_opt": null,
+      "name": "cropandclaw2.zip",
+      "source": {
+        "date_added": "2026-07-19",
+        "date_updated": "2026-07-19",
+        "md5": "62d3293b1b20db2fac4d60d2ef62ad7f",
+        "release_id": "2026-07-19_0029",
+        "repo": "main",
+        "size": 29219756,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-19_0029/cropandclaw2.zip"
       },
       "version": 4
     },
@@ -47228,6 +47423,107 @@
       },
       "version": 4
     },
+    "hellstarsquadron.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The year is 207X AD. The galactic government entity known as Paradise is at threat from a terrifying, demonic rebellion! Join the HellStar Squadron on this epic adventure as you dodge wave after wave of bullets, shoot the demons back to hell, and save the galaxy in this fresh, retro-inspired arcade shoot 'em up/bullet hell experience!",
+        "desc_md": "Purchase the game either on Steam or Itch.io and copy the exe file into assets folder.",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game either on Steam or Itch.io and copy the exe file into assets folder.\n",
+        "inst_md": "Purchase the game either on [Steam](store.steampowered.com/app/843740/HellStar_Squadron) or [Itch.io](https://cosmiccrystal.itch.io/hellstar-squadron) and copy the exe file into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://cosmiccrystal.itch.io/hellstar-squadron",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/843740/HellStar_Squadron",
+            "name": "Steam"
+          }
+        ],
+        "title": "HellStar Squadron"
+      },
+      "items": [
+        "HellStar Squadron.sh",
+        "hellstarsquadron"
+      ],
+      "items_opt": null,
+      "name": "hellstarsquadron.zip",
+      "source": {
+        "date_added": "2026-07-19",
+        "date_updated": "2026-07-19",
+        "md5": "91f5b9053029e790f1c65e1e9f2a4f84",
+        "release_id": "2026-07-19_0029",
+        "repo": "main",
+        "size": 7373094,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-19_0029/hellstarsquadron.zip"
+      },
+      "version": 4
+    },
     "help.no.brake.zip": {
       "attr": {
         "arch": [],
@@ -57705,12 +58001,12 @@
       "name": "lisathetimeless.zip",
       "source": {
         "date_added": "2024-05-23",
-        "date_updated": "2025-10-04",
-        "md5": "40f1d7dd6ae21515b0e162dac61ec13e",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-07-19",
+        "md5": "11cc7da15bf0a27c3ad37a4a90d83a50",
+        "release_id": "2026-07-19_0029",
         "repo": "main",
-        "size": 5151000,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/lisathetimeless.zip"
+        "size": 5188912,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-19_0029/lisathetimeless.zip"
       },
       "version": 2
     },
