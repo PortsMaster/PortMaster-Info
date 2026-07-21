@@ -4214,8 +4214,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the VM compile from itch.io https://bolhut.itch.io/apple-rabble-dazzle and copy all of the files into `ports/applerabbledazzle/assets/`.",
-        "inst_md": "Download the VM compile from [itch.io](https://bolhut.itch.io/apple-rabble-dazzle) and copy all of the files into `ports/applerabbledazzle/assets/`.",
+        "inst": "Download the 1.1.2 VM compile from itch.io https://bolhut.itch.io/apple-rabble-dazzle and copy all of the files into `ports/applerabbledazzle/assets/`.",
+        "inst_md": "Download the 1.1.2 VM compile from [itch.io](https://bolhut.itch.io/apple-rabble-dazzle) and copy all of the files into `ports/applerabbledazzle/assets/`.",
         "min_glibc": "",
         "porter": [
           "Doronimmo"
@@ -4236,12 +4236,12 @@
       "name": "applerabbledazzle.zip",
       "source": {
         "date_added": "2025-10-22",
-        "date_updated": "2025-11-04",
-        "md5": "f8095f370804bc40a24f354de09cd04b",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2026-07-21",
+        "md5": "c2b7e2e067d7f6724b033ff7c956b8c2",
+        "release_id": "2026-07-21_1309",
         "repo": "main",
-        "size": 7522073,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/applerabbledazzle.zip"
+        "size": 7522096,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_1309/applerabbledazzle.zip"
       },
       "version": 4
     },
@@ -11268,6 +11268,94 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/blues.brothers.zip"
       },
       "version": 2
+    },
+    "blupimania.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A puzzle game where you guide Blupi through more than 120 riddles across four difficulty levels, rearranging the environment to help him find his lost balloon.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Blupimania"
+      },
+      "items": [
+        "Blupimania.sh",
+        "blupimania"
+      ],
+      "items_opt": null,
+      "name": "blupimania.zip",
+      "source": {
+        "date_added": "2026-07-21",
+        "date_updated": "2026-07-21",
+        "md5": "d8f3a8541fb613829080641f11a8969b",
+        "release_id": "2026-07-21_1309",
+        "repo": "main",
+        "size": 17186430,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_1309/blupimania.zip"
+      },
+      "version": 4
     },
     "bnbmax.zip": {
       "attr": {
@@ -21992,12 +22080,12 @@
       "name": "crimsonland.zip",
       "source": {
         "date_added": "2026-07-15",
-        "date_updated": "2026-07-15",
-        "md5": "723687cdf04f8d7226411050f9a5215f",
-        "release_id": "2026-07-15_0750",
+        "date_updated": "2026-07-21",
+        "md5": "c49635bd00bf87224863d4190e4ec473",
+        "release_id": "2026-07-21_1309",
         "repo": "main",
-        "size": 5551362,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/crimsonland.zip"
+        "size": 5551397,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_1309/crimsonland.zip"
       },
       "version": 4
     },
@@ -22390,12 +22478,12 @@
       "name": "cropandclaw2.zip",
       "source": {
         "date_added": "2026-07-19",
-        "date_updated": "2026-07-19",
-        "md5": "62d3293b1b20db2fac4d60d2ef62ad7f",
-        "release_id": "2026-07-19_0029",
+        "date_updated": "2026-07-21",
+        "md5": "04da89b510c388669e9a79e6cc4c6116",
+        "release_id": "2026-07-21_1309",
         "repo": "main",
-        "size": 29219756,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-19_0029/cropandclaw2.zip"
+        "size": 29219758,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_1309/cropandclaw2.zip"
       },
       "version": 4
     },
@@ -122331,12 +122419,12 @@
       "name": "yarntown_pm.zip",
       "source": {
         "date_added": "2026-07-15",
-        "date_updated": "2026-07-15",
-        "md5": "159e559f6aede53819c15696f63de5f6",
-        "release_id": "2026-07-15_0750",
+        "date_updated": "2026-07-21",
+        "md5": "c08dbd20f12810b4c3f50b673808c0a4",
+        "release_id": "2026-07-21_1309",
         "repo": "main",
-        "size": 311168,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/yarntown_pm.zip"
+        "size": 311155,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_1309/yarntown_pm.zip"
       },
       "version": 4
     },
