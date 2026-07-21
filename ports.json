@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-07-07",
-        "md5": "d2d631236bedc0173f6ad3dd95691c48",
-        "release_id": "2026-07-07_1030",
+        "date_updated": "2026-07-21",
+        "md5": "4562ccb5b682be8d3edc04cfe4fc68fa",
+        "release_id": "2026-07-21_2337",
         "repo": "main",
-        "size": 63437405,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/2048plus.zip"
+        "size": 63443252,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_2337/2048plus.zip"
       },
       "version": 4
     },
@@ -23112,6 +23112,101 @@
         "repo": "main",
         "size": 8950187,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-08_1341/crystalbreaker.zip"
+      },
+      "version": 4
+    },
+    "crystalien.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A Crystalien Conflict Remake made in the Godot game engine. (Crystalien Conflict was a cult classic flash game made by the Lego group to promote the \"Mars Misson\" toyline, with gameplay similar to Command & Conquer.) Special thanks to B1er0l14m sharing the source code and agreeing to let the game be ready-to-run.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Game is ready to run. Use D-pad to move camera, use either joystick to move cursor. Use r1 to select and r2 to deselect.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Awesomepants"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://b1er0l14m.itch.io/",
+            "gameurl": "https://b1er0l14m.itch.io/cacr",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Crystalien Conflict Remake"
+      },
+      "items": [
+        "Crystalien Conflict Remake.sh",
+        "crystalien"
+      ],
+      "items_opt": null,
+      "name": "crystalien.zip",
+      "source": {
+        "date_added": "2026-07-21",
+        "date_updated": "2026-07-21",
+        "md5": "2c47558f726e7dfd0da42ce214c03f5d",
+        "release_id": "2026-07-21_2337",
+        "repo": "main",
+        "size": 223801882,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_2337/crystalien.zip"
       },
       "version": 4
     },
