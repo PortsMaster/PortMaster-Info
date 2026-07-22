@@ -13070,6 +13070,94 @@
       },
       "version": 4
     },
+    "breakhack.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A simple roguelike dungeon crawler. Randomly generated maps/rooms, a leveling system, permadeath, and multiple classes. Casual and fun for a 10-20 minute break.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "BreakHack"
+      },
+      "items": [
+        "BreakHack.sh",
+        "breakhack"
+      ],
+      "items_opt": null,
+      "name": "breakhack.zip",
+      "source": {
+        "date_added": "2026-07-22",
+        "date_updated": "2026-07-22",
+        "md5": "c5f337c22017dbde5a9d30398a3e7997",
+        "release_id": "2026-07-22_0950",
+        "repo": "main",
+        "size": 15543758,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-22_0950/breakhack.zip"
+      },
+      "version": 4
+    },
     "brittleblade.zip": {
       "attr": {
         "arch": [],
@@ -23173,7 +23261,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Game is ready to run. Use D-pad to move camera, use either joystick to move cursor. Use r1 to select and r2 to deselect.",
+        "inst": "Game is ready to run. Use D-pad to move camera, use either joystick to move cursor. Use r1 to select and l1 to deselect.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -23201,12 +23289,12 @@
       "name": "crystalien.zip",
       "source": {
         "date_added": "2026-07-21",
-        "date_updated": "2026-07-21",
-        "md5": "2c47558f726e7dfd0da42ce214c03f5d",
-        "release_id": "2026-07-21_2337",
+        "date_updated": "2026-07-22",
+        "md5": "0f5b466b434ff5f14b3d56686ff11637",
+        "release_id": "2026-07-22_0950",
         "repo": "main",
-        "size": 223801882,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_2337/crystalien.zip"
+        "size": 223801881,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-22_0950/crystalien.zip"
       },
       "version": 4
     },
@@ -24579,6 +24667,94 @@
         "repo": "main",
         "size": 25552,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-06-18_1327/darksheep.zip"
+      },
+      "version": 4
+    },
+    "daserbe.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A C#/.NET reimplementation of the German point-and-click adventure Das Erbe, with several quality-of-life features added on top of the 1991 original.",
+        "desc_md": "A C#/.NET reimplementation of the German point-and-click adventure *Das Erbe*, not just a straight port of the 1991 original. \nIt adds several quality-of-life features:\\n\\n- **Hotspot highlighting** (mapped to `Y` in this port): flashes every interactive hotspot on screen.\\n- **Click-to-action / mouse-over hovering**: hotspot hints show on hover, skipping the original's separate confirmation click.\\n- **Translation overlay support**.\\n- **DKSN fallback-response mode**: varied German fallback responses for hotspot actions with no scripted response, instead of nothing.\\n- **Amiga intro music**.\\n- **In-game keypad support via keyboard/numpad**.",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install via PortMaster and run. The original game files are bundled with the port",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Das Erbe"
+      },
+      "items": [
+        "Das Erbe.sh",
+        "daserbe"
+      ],
+      "items_opt": null,
+      "name": "daserbe.zip",
+      "source": {
+        "date_added": "2026-07-22",
+        "date_updated": "2026-07-22",
+        "md5": "0ff168a8d296cdbfe4c8a3cf4cc94d11",
+        "release_id": "2026-07-22_0950",
+        "repo": "main",
+        "size": 16136858,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-22_0950/daserbe.zip"
       },
       "version": 4
     },
