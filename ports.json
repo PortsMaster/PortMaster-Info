@@ -14055,103 +14055,6 @@
       },
       "version": 4
     },
-    "bully.zip": {
-      "attr": {
-        "arch": [
-          "aarch64"
-        ],
-        "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
-          "rg353m:ALL",
-          "rg353ps:ALL",
-          "rg351mp:ALL",
-          "rg503:ALL",
-          "rg552:ALL",
-          "rgcubexx:ALL",
-          "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
-          "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
-          "rg34xx-sp:ALL",
-          "rg28xx:ALL",
-          "rg351p:ALL",
-          "rg351v:ALL",
-          "rgb10:ALL",
-          "rgb20s:ALL",
-          "rgb30:ALL",
-          "rk2023:ALL",
-          "x55:ALL",
-          "rgb10max3:ALL",
-          "rgb10max3pro:ALL",
-          "oga:ALL",
-          "ogs:ALL",
-          "ogu:ALL",
-          "ace:ALL",
-          "chi:ALL",
-          "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
-          "rp5:ALL",
-          "rpmini:ALL",
-          "gkd-bubble:ALL",
-          "xu10:ALL",
-          "r33s:ALL",
-          "r35s:ALL",
-          "r36s:ALL"
-        ],
-        "availability": "paid",
-        "desc": "Bully: Anniversary Edition for AArch64 Linux handhelds through the NextOS native Android so-loader. Includes automatic low-memory and GLES2/GLES3 profiles, native SDL controls, item switching and optional native ES3 shadows.",
-        "desc_md": null,
-        "exp": false,
-        "genres": [
-          "action",
-          "adventure"
-        ],
-        "image": {
-          "covers": [
-            "cover.png"
-          ],
-          "screenshot": "screenshot.png",
-          "thumbnail": null,
-          "video": null
-        },
-        "inst": "Requires a complete, legally owned ARM64 Android copy of Bully: Anniversary Edition 1.4.311. Copy a merged APK, all APK splits from the same installation, or a complete APKS/APKM/XAPK bundle into ports/bully/gamedata and launch once. Game files are not included.",
-        "inst_md": null,
-        "min_glibc": "",
-        "porter": [
-          "NextOS"
-        ],
-        "reqs": [],
-        "rtr": false,
-        "runtime": [],
-        "store": [
-          {
-            "developerurl": "https://www.rockstargames.com/games/bully",
-            "gameurl": "https://play.google.com/store/apps/details?id=com.rockstargames.bully",
-            "name": "Google Play Store"
-          }
-        ],
-        "title": "Bully: Anniversary Edition"
-      },
-      "items": [
-        "Bully.sh",
-        "bully"
-      ],
-      "items_opt": null,
-      "name": "bully.zip",
-      "source": {
-        "date_added": "2026-07-15",
-        "date_updated": "2026-07-15",
-        "md5": "8975cab45f8f2ead299564350ddeebed",
-        "release_id": "2026-07-15_0750",
-        "repo": "main",
-        "size": 2235750,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/bully.zip"
-      },
-      "version": 4
-    },
     "bumpersbroadswords.zip": {
       "attr": {
         "arch": [
@@ -15681,6 +15584,94 @@
         "repo": "main",
         "size": 1500909,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-04_1645/candybag.zip"
+      },
+      "version": 4
+    },
+    "candycrisis.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A candy-colored falling-block puzzle game in the style of Kirby's Avalanche. Match candies to clear the board and send junk candy to your opponent.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Candy Crisis"
+      },
+      "items": [
+        "Candy Crisis.sh",
+        "candycrisis"
+      ],
+      "items_opt": null,
+      "name": "candycrisis.zip",
+      "source": {
+        "date_added": "2026-07-26",
+        "date_updated": "2026-07-26",
+        "md5": "adbfe59c61616e08e2120314fd8fe517",
+        "release_id": "2026-07-26_1858",
+        "repo": "main",
+        "size": 5772246,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-26_1858/candycrisis.zip"
       },
       "version": 4
     },
@@ -24755,6 +24746,94 @@
         "repo": "main",
         "size": 16136858,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-22_0950/daserbe.zip"
+      },
+      "version": 4
+    },
+    "daserbe2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A C#/.NET reimplementation of Das Schmutzige Erbe (Das Erbe 2), the German environmental-advertising point-and-click adventure sequel to Das Erbe, built on raylib.",
+        "desc_md": "A C#/.NET reimplementation of *Das Schmutzige Erbe* (*Das Erbe 2*), the 1993 sequel to *Das Erbe*. Reverse-engineered from the original Amiga release, recreating its presentation, interaction flow, scene progression, save/load behavior, and TFMX music playback, built on [raylib](https://www.raylib.com/) instead of the original Amiga hardware.",
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install via PortMaster and run. The original game files are bundled with the port; Das Erbe 2 was freeware. The bundled pictures, font, music, and samples are original game assets, not covered by this port's GPL license; all rights remain with their respective owners.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Das Erbe 2"
+      },
+      "items": [
+        "Das Erbe 2.sh",
+        "daserbe2"
+      ],
+      "items_opt": null,
+      "name": "daserbe2.zip",
+      "source": {
+        "date_added": "2026-07-26",
+        "date_updated": "2026-07-26",
+        "md5": "341ba582566e5eecc82318024c614480",
+        "release_id": "2026-07-26_1858",
+        "repo": "main",
+        "size": 2388813,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-26_1858/daserbe2.zip"
       },
       "version": 4
     },
