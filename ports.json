@@ -32639,6 +32639,98 @@
       },
       "version": 2
     },
+    "dusklight.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Native reimplementation of The Legend of Zelda: Twilight Princess, built on the zeldaret decompilation and rendered through Aurora on OpenGL ES.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "adventure",
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your own legally-dumped Twilight Princess GameCube or Wii disc image (.iso or .rvz) in the assets directory.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "jckhng",
+          "bmdhacks"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Dusklight"
+      },
+      "items": [
+        "Dusklight.sh",
+        "dusklight"
+      ],
+      "items_opt": null,
+      "name": "dusklight.zip",
+      "source": {
+        "date_added": "2026-07-29",
+        "date_updated": "2026-07-29",
+        "md5": "985b3356caeeda0d8b00cda86de9b1b5",
+        "release_id": "2026-07-29_1431",
+        "repo": "multiverse",
+        "size": 24324846,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-07-29_1431/dusklight.zip"
+      },
+      "version": 4
+    },
     "dustaet.zip": {
       "attr": {
         "arch": [],
@@ -96595,8 +96687,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smredux.png",
-            "cover.sm.png"
+            "cover.sm.png",
+            "cover.smredux.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -114362,6 +114454,100 @@
         "repo": "main",
         "size": 5812864,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/tumikifighters.zip"
+      },
+      "version": 4
+    },
+    "tunics_pm.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A roguelike Zelda-style action RPG built with the Solarus engine, where players fight through randomly generated, increasingly difficult dungeons using classic Zelda-inspired items and skills. It features permadeath",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Get the .solarus file for this port by downloading Tunics! fromhttps://solarus-games.org/games/tunics/, then move it into ports/tunics_pm folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "solarus-1.6.5.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://legofarmen.se/",
+            "gameurl": "https://solarus-games.org/games/tunics/",
+            "name": "Solarus Site"
+          }
+        ],
+        "title": "Tunics!"
+      },
+      "items": [
+        "Tunics!.sh",
+        "tunics_pm"
+      ],
+      "items_opt": null,
+      "name": "tunics_pm.zip",
+      "source": {
+        "date_added": "2026-07-29",
+        "date_updated": "2026-07-29",
+        "md5": "bfb1745749edf5c6fd24065782f7619c",
+        "release_id": "2026-07-29_1431",
+        "repo": "multiverse",
+        "size": 287871,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-07-29_1431/tunics_pm.zip"
       },
       "version": 4
     },
