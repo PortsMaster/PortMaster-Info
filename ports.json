@@ -6807,11 +6807,12 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game from Steam: https://store.steampowered.com/app/2379780/Balatro/. On macOS, grab this Balatro.love file (~/Library/Application Support/Steam/steamapps/common/Balatro/Balatro.app/Contents/Resources/Balatro.love) and put into the balatro folder. On Windows, simply copy Balatro.exe to the balatro folder.",
+        "inst": "Purchase the game from Steam: https://store.steampowered.com/app/2379780/Balatro/. On macOS, copy Balatro.love from Balatro.app/Contents/Resources into the balatro folder. On Windows, copy Balatro.exe into the balatro folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
-          "nkahoang"
+          "nkahoang",
+          "Guandor"
         ],
         "reqs": [],
         "rtr": false,
@@ -6832,12 +6833,12 @@
       },
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2025-04-03",
-        "md5": "cef01c4cc7a9083c175f22303be9da58",
-        "release_id": "2025-04-03_1456",
+        "date_updated": "2026-08-05",
+        "md5": "5f3020decc11fe0b95eef33b74d3d4da",
+        "release_id": "2026-08-05_0732",
         "repo": "main",
-        "size": 6005067,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-03_1456/balatro.zip"
+        "size": 1495043,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/balatro.zip"
       },
       "version": 2
     },
@@ -19568,7 +19569,7 @@
     "circainfinity.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -19595,10 +19596,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -19607,19 +19612,22 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
+        "availability": "paid",
         "desc": "Circa Infinity is a brain-melting circular platformer by Kenny Sun, with a pulse-pounding soundtrack by Jack + Jim Fay.",
-        "desc_md": null,
+        "desc_md": "Purchase the game on Steam and place the CircaInfinity.exe into the assets folder.",
         "exp": false,
         "genres": [
           "platformer"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on Steam https://store.steampowered.com/app/390610/Circa_Infinity/ and place the CircaInfinity.exe into the gamedata folder.\nIt is also available on Itch.io https://kennysun.itch.io/circa-infinity and it comes with a Steam key.\nYou can also use the free demo, download it from  https://kennysun.itch.io/circa-infinity-demo and place the CircaInfinityDemo.exe into the gamedata folder.",
+        "inst": "Purchase the game on [Steam](https://store.steampowered.com/app/390610/Circa_Infinity/) and place the `CircaInfinity.exe` into the `assets` folder.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -19628,6 +19636,13 @@
         "reqs": [],
         "rtr": false,
         "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/390610/Circa_Infinity/",
+            "name": "Steam"
+          }
+        ],
         "title": "Circa Infinity"
       },
       "items": [
@@ -19638,12 +19653,12 @@
       "name": "circainfinity.zip",
       "source": {
         "date_added": "2024-12-07",
-        "date_updated": "2024-12-07",
-        "md5": "b3ddeb7f65bb783fc11e959a86d78cd9",
-        "release_id": "2024-12-07_0044",
+        "date_updated": "2026-08-05",
+        "md5": "7e7b0533f1f040fc05d74c46249ec47b",
+        "release_id": "2026-08-05_0732",
         "repo": "main",
-        "size": 11968653,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-07_0044/circainfinity.zip"
+        "size": 4683361,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/circainfinity.zip"
       },
       "version": 4
     },
@@ -26487,12 +26502,12 @@
       },
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2026-07-15",
-        "md5": "f0ef6dad8b7db58dd8fcbbcbf8e77097",
-        "release_id": "2026-07-15_0750",
+        "date_updated": "2026-08-05",
+        "md5": "62332fa8120c5106f71d827f45912fbb",
+        "release_id": "2026-08-05_0732",
         "repo": "main",
-        "size": 17089430,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/deltarune.zip"
+        "size": 17096535,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/deltarune.zip"
       },
       "version": 4
     },
@@ -32185,6 +32200,104 @@
       },
       "version": 4
     },
+    "dungeonantiqua.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Dungeon Antiqua is a simple RPG inspired by the Wizardry and Final Fantasy games of the 1980s and 1990s, in which players traverse dungeons by repeatedly exploring and developing their characters.",
+        "desc_md": "Dungeon Antiqua is a simple RPG inspired by the Wizardry and Final Fantasy games of the 1980s and 1990s, in which players traverse dungeons by repeatedly exploring and developing their characters.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on https://store.steampowered.com/app/3198540/Dungeon_Antiqua/ , install it and copy dungeon-antiqua.pyxapp in the dungeonantiqua/gamedata directory.",
+        "inst_md": "Buy the game on [Steam](https://store.steampowered.com/app/3198540/Dungeon_Antiqua/), install it and copy `dungeon-antiqua.pyxapp` in the `dungeonantiqua/gamedata` directory.",
+        "min_glibc": "",
+        "porter": [
+          "kotzebuedog",
+          "takeshich"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "pyxel_2.9.5_python_3.11.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://dungeon-antiqua.com/da1.html",
+            "gameurl": "https://store.steampowered.com/app/3198540/Dungeon_Antiqua/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Dungeon Antiqua"
+      },
+      "items": [
+        "Dungeon Antiqua.sh",
+        "dungeonantiqua"
+      ],
+      "items_opt": null,
+      "name": "dungeonantiqua.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "6f2c677370bd3b7180f40d5eb6fae074",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 93561,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/dungeonantiqua.zip"
+      },
+      "version": 4
+    },
     "dungeonantiqua2.zip": {
       "attr": {
         "arch": [],
@@ -32278,12 +32391,12 @@
       "name": "dungeonantiqua2.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-06-22",
-        "md5": "ab70474add92b710ae488c25cc26b9b9",
-        "release_id": "2026-06-22_1100",
+        "date_updated": "2026-08-05",
+        "md5": "fe3f3107f5f08835609f962fe30599f9",
+        "release_id": "2026-08-05_0732",
         "repo": "main",
-        "size": 15595058,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/dungeonantiqua2.zip"
+        "size": 15595470,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/dungeonantiqua2.zip"
       },
       "version": 4
     },
@@ -32611,7 +32724,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download game from https://store.steampowered.com/app/383230/Dungeon_Souls/ or Humble, GOG files do not work at this time. Rename DungeonSouls.exe to DungeonSouls.zip, extract. Copy data.win and all .ogg files to /ports/dungeonsouls/gamedata . If controls are incorrectly mapped, from the title screen select options, enable gamepad, then select back and quit from the main menu. Controls should be good to go on subsequent launches.",
+        "inst": "Download game from https://store.steampowered.com/app/383230/Dungeon_Souls/ or Humble, GOG files do not work at this time. Use 7-Zip to extract files from the DungeonSouls.exe and copy data.win and all .ogg files to /ports/dungeonsouls/gamedata . If controls are incorrectly mapped, from the title screen select options, enable gamepad, then select back and quit from the main menu. Controls should be good to go on subsequent launches.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -32630,12 +32743,12 @@
       "name": "dungeonsouls.zip",
       "source": {
         "date_added": "2023-11-02",
-        "date_updated": "2025-10-04",
-        "md5": "a69523649b1b780a1db2fd275f9d8b5d",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-08-05",
+        "md5": "4114f280d4d66a2841dea037b38c403b",
+        "release_id": "2026-08-05_0732",
         "repo": "main",
-        "size": 16895556,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/dungeonsouls.zip"
+        "size": 16895560,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/dungeonsouls.zip"
       },
       "version": 2
     },
@@ -33983,12 +34096,12 @@
       "name": "environmentalstationalpha.zip",
       "source": {
         "date_added": "2026-07-07",
-        "date_updated": "2026-07-15",
-        "md5": "2e01542d3e4a1dd57489da62ee371c9a",
-        "release_id": "2026-07-15_0750",
+        "date_updated": "2026-08-05",
+        "md5": "2a513740af86cfbcffde6b6320b187c2",
+        "release_id": "2026-08-05_0732",
         "repo": "main",
-        "size": 6492969,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-15_0750/environmentalstationalpha.zip"
+        "size": 7291786,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/environmentalstationalpha.zip"
       },
       "version": 4
     },
@@ -37363,6 +37476,102 @@
         "repo": "main",
         "size": 38707586,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-12_1413/fireboy.zip"
+      },
+      "version": 4
+    },
+    "firebrimstone.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Delve into the ruins of a temple in the guts of a volcano, in the search for a powerful artefact that may let you have friends.\nA unique and tight roguelike with a randomized skilltree and hand-designed monsters and items.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the MacOS version from Itch.io and extract the game files into gamedata folder.",
+        "inst_md": "Download the `MacOS version`  from [Itch.io](https://punkcake.itch.io/brimstone) and extract the game files into `gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://punkcake.itch.io/brimstone",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Fire & Brimstone"
+      },
+      "items": [
+        "Fire and Brimstone.sh",
+        "firebrimstone"
+      ],
+      "items_opt": null,
+      "name": "firebrimstone.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "af3f9cd63089d579a298a0a2508689e7",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 4563459,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/firebrimstone.zip"
       },
       "version": 4
     },
@@ -44693,6 +44902,100 @@
       },
       "version": 4
     },
+    "growseedpinball.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Sid did not want to fall to the bottom. Help our little Sid friend growing up without getting burried! This is a pinball game developed by kNARF for the Ludum Dare 34 competition.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://freaknarf.itch.io/grow-seed-pinball",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Grow,Seed!Pinball"
+      },
+      "items": [
+        "GrowSeed!Pinball.sh",
+        "growseedpinball"
+      ],
+      "items_opt": null,
+      "name": "growseedpinball.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "d6a204c9e09fb4419ce6ce55923514f1",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 8005723,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/growseedpinball.zip"
+      },
+      "version": 4
+    },
     "gta3.zip": {
       "attr": {
         "arch": [
@@ -50787,6 +51090,94 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/hyper.jump.zip"
       },
       "version": 2
+    },
+    "hypercycles.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A raycasting first-person shooter, ported from the 1995 DOS game Hypercycles.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Hypercycles"
+      },
+      "items": [
+        "Hypercycles.sh",
+        "hypercycles"
+      ],
+      "items_opt": null,
+      "name": "hypercycles.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "f3bb823d0195042df414ff492f5dbc99",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 7057569,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/hypercycles.zip"
+      },
+      "version": 4
     },
     "hyperfight.zip": {
       "attr": {
@@ -78616,6 +79007,102 @@
       },
       "version": 4
     },
+    "pentasma.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Pentasma is a side-scrolling arcade shooter inspired by Williams Electronics' 1981 classic 'Defender'. Protect The terraforming Humanoids from the deadly Aliens and raid the Alien planets to keep the galaxy peaceful!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1217350/Pentasma/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Pentasma"
+      },
+      "items": [
+        "Pentasma.sh",
+        "pentasma"
+      ],
+      "items_opt": null,
+      "name": "pentasma.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "0f6acedabd3dcf5c284b53b228f5f34e",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 15835311,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/pentasma.zip"
+      },
+      "version": 4
+    },
     "perfectdark.zip": {
       "attr": {
         "arch": [
@@ -83870,6 +84357,92 @@
         "repo": "main",
         "size": 22854638,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-22_1100/puzzlescriptpm.zip"
+      },
+      "version": 4
+    },
+    "pvz_portable.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A fan-made port of the classic tower defense game. You must place plants to defend your house from invading zombies. Requires original game assets from Plants vs. Zombies GOTY edition.",
+        "desc_md": "**Features:**\n_ Full controller support\n- Adventure mode fully playable\n- Vasebreaker, Whack a Zombie, and other minigames\n\nFan port (original game by PopCap/EA)\n\nOriginal PvZPortable source code: https://github.com/wszqkzqk/PvZ-Portable",
+        "exp": false,
+        "genres": [
+          "strategy",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Provide the main.pak file and properties/ folder from a legal copy of Plants vs. Zombies GOTY into the pvz_portable folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "gama97"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/3590/Plants_vs_Zombies_GOTY_Edition/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Plants Vs Zombies Portable"
+      },
+      "items": [
+        "PvZPortable.sh",
+        "pvz_portable"
+      ],
+      "items_opt": null,
+      "name": "pvz_portable.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "75d4d43f8e34735a68bf328d138d35c4",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 2522075,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/pvz_portable.zip"
       },
       "version": 4
     },
@@ -89690,6 +90263,119 @@
       },
       "version": 2
     },
+    "roguelegacy.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Rogue Legacy is a genealogical rogue-\"LITE\" where anyone can be a hero. Each time you die, your child will succeed you. Every child is unique. One child might be colorblind, another might be a dwarf with vertigo. But that's OK, because no one is perfect, and you don't have to be to succeed.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game. Copy the Content folder from your personal copy of the game to ports/roguelegacy/gamedata.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "mono-6.12.0.122-aarch64.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://www.cellardoorgames.com/roguelegacy",
+            "gameurl": "https://store.steampowered.com/app/241600/Rogue_Legacy/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.cellardoorgames.com/roguelegacy",
+            "gameurl": "https://www.gog.com/en/game/rogue_legacy",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://www.cellardoorgames.com/roguelegacy",
+            "gameurl": "https://www.humblebundle.com/store/rogue-legacy",
+            "name": "Humble"
+          },
+          {
+            "developerurl": "https://www.cellardoorgames.com/roguelegacy",
+            "gameurl": "https://store.epicgames.com/p/rogue-legacy",
+            "name": "Epic Games"
+          }
+        ],
+        "title": "Rogue Legacy"
+      },
+      "items": [
+        "Rogue Legacy.sh",
+        "roguelegacy"
+      ],
+      "items_opt": null,
+      "name": "roguelegacy.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "65e0f9c3f56edfc4378887ce21eedf60",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 3403891,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/roguelegacy.zip"
+      },
+      "version": 4
+    },
     "roguelight.zip": {
       "attr": {
         "arch": [
@@ -89875,6 +90561,101 @@
         "repo": "main",
         "size": 11965826,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-21_1125/roguesentry.zip"
+      },
+      "version": 4
+    },
+    "rollingbird.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Rolling Bird is a retro arcade shooter, heavily inspired by Namco's 1986 classic 'Rolling Thunder'.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Rolling Bird 1.8.6.zip from Itch.io and extract it into assets folder.",
+        "inst_md": "Download the `Rolling Bird 1.8.6.zip` from [Itch.io](https://hijong-park.itch.io/rolling-bird) and extract it into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://hijong-park.itch.io/rolling-bird",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Rolling Bird"
+      },
+      "items": [
+        "Rolling Bird.sh",
+        "rollingbird"
+      ],
+      "items_opt": null,
+      "name": "rollingbird.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "b9cbf5575398cca2624c363db05a3716",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 19599656,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/rollingbird.zip"
       },
       "version": 4
     },
@@ -104927,6 +105708,102 @@
         "repo": "main",
         "size": 9638936,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/superhexagon.zip"
+      },
+      "version": 4
+    },
+    "supermazerobo.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A small Mega Man like platformer made for SNES graphics game jam 2. Follow Maze Robo on a quest to save his GREATEST TREASURE after a group called the Shooting Robbers stole it. Travel through giant trees and flying ships to get to their castle to take it back, NO MATTER HOW MANY TIMES IT TAKES.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "DeadPlant09"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "godot_4.5.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://deadplant09.github.io/",
+            "gameurl": "https://deadplant09.itch.io/super-maze-robo",
+            "name": "https://deadplant09.itch.io/"
+          }
+        ],
+        "title": "SUPER Maze Robo"
+      },
+      "items": [
+        "SUPER Maze Robo.sh",
+        "supermazerobo"
+      ],
+      "items_opt": null,
+      "name": "supermazerobo.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "e3f367dd5596ffb0713f3da501720ee7",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 11105867,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/supermazerobo.zip"
       },
       "version": 4
     },
@@ -120899,6 +121776,94 @@
       },
       "version": 4
     },
+    "wolfensteinrpg.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A dungeon-crawler RPG spin-off of Wolfenstein, reverse-engineered from the original iOS release.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Requires 'Wolfenstein RPG.ipa' placed in /roms/ports/wolfensteinrpg/. This iOS game is in your own Apple ID purchase history if you bought it in 2009-era.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Wolfenstein RPG"
+      },
+      "items": [
+        "Wolfenstein RPG.sh",
+        "wolfensteinrpg"
+      ],
+      "items_opt": null,
+      "name": "wolfensteinrpg.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "242ef59a691bb5df930e67cab0191440",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 2882256,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/wolfensteinrpg.zip"
+      },
+      "version": 4
+    },
     "wordlesdl.zip": {
       "attr": {
         "arch": [
@@ -124949,6 +125914,93 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/ziggurat.zip"
       },
       "version": 2
+    },
+    "zimlite.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "Full",
+        "desc": "Carry Wikipedia, Wiktionary, Wikibooks and more in your pocket! Zimlite is a fast, lightweight offline ZIM reader with gamepad-friendly browsing, alphabetical article tree, link navigation with history, and instant startup on your handheld \u2014 no internet required.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy ZIM files into /roms/ports/zimlite/",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "dendec"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "title": "Zimlite"
+      },
+      "items": [
+        "Zimlite.sh",
+        "zimlite/"
+      ],
+      "items_opt": null,
+      "name": "zimlite.zip",
+      "source": {
+        "date_added": "2026-08-05",
+        "date_updated": "2026-08-05",
+        "md5": "db55e483b3a8eae1831e38faa27265ec",
+        "release_id": "2026-08-05_0732",
+        "repo": "main",
+        "size": 9721334,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/zimlite.zip"
+      },
+      "version": 4
     },
     "znax.zip": {
       "attr": {
