@@ -26502,12 +26502,12 @@
       },
       "source": {
         "date_added": "2024-10-31",
-        "date_updated": "2026-08-05",
-        "md5": "62332fa8120c5106f71d827f45912fbb",
-        "release_id": "2026-08-05_0732",
+        "date_updated": "2026-08-10",
+        "md5": "fefb0a16680578341a314fd1cc028832",
+        "release_id": "2026-08-10_1619",
         "repo": "main",
-        "size": 17096535,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/deltarune.zip"
+        "size": 25240238,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-10_1619/deltarune.zip"
       },
       "version": 4
     },
@@ -33033,6 +33033,102 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/dynamate_playdate.zip"
       },
       "version": 2
+    },
+    "eatgirl.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "EAT GIRL is a surreal top-down action game about moving quickly and efficiently through tight corridors while eating dots. Explore an interconnected world of more than 30 levels, meet creatures who may or may not be docile, and take in an atmosphere that is by turns meditative and unsettling, with every level scored by its own blend of ambient music.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy EAT GIRL on itch (https://tesselode.itch.io/eatgirl), then copy 'eatgirl.love' from the download into ports/eatgirl.",
+        "inst_md": "Buy EAT GIRL [on itch](https://tesselode.itch.io/eatgirl), then copy `eatgirl.love` from the download into `ports/eatgirl`.",
+        "min_glibc": "",
+        "porter": [
+          "Troidem",
+          "tabreturn"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://tesselode.itch.io/",
+            "gameurl": "https://tesselode.itch.io/eatgirl",
+            "name": "itch.io"
+          }
+        ],
+        "title": "EAT GIRL"
+      },
+      "items": [
+        "EAT GIRL.sh",
+        "eatgirl"
+      ],
+      "items_opt": null,
+      "name": "eatgirl.zip",
+      "source": {
+        "date_added": "2026-08-10",
+        "date_updated": "2026-08-10",
+        "md5": "ae3946113bf1f9448fdfec352ca801ce",
+        "release_id": "2026-08-10_1619",
+        "repo": "main",
+        "size": 19111,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-10_1619/eatgirl.zip"
+      },
+      "version": 4
     },
     "echo_chamber.zip": {
       "attr": {
@@ -39667,6 +39763,102 @@
         "repo": "main",
         "size": 52641686,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-24_0854/franken.zip"
+      },
+      "version": 4
+    },
+    "franticdimension.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "This game was highly inspired by The world's first twin stick shooter, Space Dungeon.\nYou are a treasure hunter Jason Allen, who had been teleported to the alternative dimension where aliens called 'Yadcians' are living. The aliens are chasing you to eliminate the intruder, now you have to collect alien treasures and escape The yadcian fortress with the stolen powerful prototype weapon 'Million'.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://hijong-park.itch.io/frantic-dimension",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Frantic Dimension"
+      },
+      "items": [
+        "Frantic Dimension.sh",
+        "franticdimension"
+      ],
+      "items_opt": null,
+      "name": "franticdimension.zip",
+      "source": {
+        "date_added": "2026-08-10",
+        "date_updated": "2026-08-10",
+        "md5": "356d099020e711bc89ea2685a9cc1a0a",
+        "release_id": "2026-08-10_1619",
+        "repo": "main",
+        "size": 10022535,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-10_1619/franticdimension.zip"
       },
       "version": 4
     },
@@ -58142,6 +58334,103 @@
         "repo": "main",
         "size": 5960307,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/liltanks.zip"
+      },
+      "version": 4
+    },
+    "limbo.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Monochrome puzzle-platformer from Playdead. A boy wakes alone in a forest and must solve his way through it and a derelict, industrial world beyond, guided by nothing but silhouette, shadow and atmosphere. No dialogue, no HUD, just physics puzzles, traps, and a signature grain-and-fog visual style.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "- Purchase Limbo (Mobile) on the Epic Games Store (store.epicgames.com/p/limbo-mobile-android-300111?lang=en-US) (Play Store version WILL NOT work!)and install it on an Android device.\n- Extract the installed APK (single APK, no split install, any APK extractor or adb pull works).\n- Use 7zip to unzip the .apk file. \n- Copy the whole assets/ and lib/ folders into ports/limbo/.\n- Run Limbo.",
+        "inst_md": "*  Purchase Limbo (Mobile) on the [Epic Games Store](https://store.epicgames.com/p/limbo-mobile-android-300111?lang=en-US) (Play Store version WILL NOT work!) and install it on an Android device.\n* Extract the installed APK (single APK, no split install \u2014 any APK extractor or `adb pull` works).\n* Use 7zip to unzip the .apk file. \n* Copy the whole `assets/` and `lib/` folders into `ports/limbo/`.\n* Run Limbo.",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://playdead.com/",
+            "gameurl": "store.epicgames.com/p/limbo-mobile-android-300111?lang=en-US",
+            "name": "Epic Games Store "
+          }
+        ],
+        "title": "Limbo"
+      },
+      "items": [
+        "Limbo.sh",
+        "limbo"
+      ],
+      "items_opt": null,
+      "name": "limbo.zip",
+      "source": {
+        "date_added": "2026-08-10",
+        "date_updated": "2026-08-10",
+        "md5": "626400653985617330d82cd8a7b6d5ac",
+        "release_id": "2026-08-10_1619",
+        "repo": "main",
+        "size": 1487141,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-10_1619/limbo.zip"
       },
       "version": 4
     },
@@ -88426,6 +88715,101 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/retrotime.zip"
       },
       "version": 2
+    },
+    "retsend.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Transfer files between handhelds or your phone and PC over wifi, using the LocalSend (https://localsend.org) protocol \u2014 no cable, no SSH.",
+        "desc_md": "Transfer files between handhelds or your phone and PC over wifi, using the [LocalSend](https://localsend.org) protocol \u2014 no cable, no SSH.",
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Install LocalSend (localsend.org) on your phone or PC, connect both devices to the same wifi, and they will find each other.",
+        "inst_md": "Ready to run. Install [LocalSend](https://localsend.org) on your phone or PC, connect both devices to the same wifi, and they will find each other.",
+        "min_glibc": "2.28",
+        "porter": [
+          "Troidem"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://github.com/mxmgorin",
+            "gameurl": "https://github.com/mxmgorin/retsend",
+            "name": "GitHub"
+          }
+        ],
+        "title": "retsend"
+      },
+      "items": [
+        "Retsend.sh",
+        "retsend"
+      ],
+      "items_opt": null,
+      "name": "retsend.zip",
+      "source": {
+        "date_added": "2026-08-10",
+        "date_updated": "2026-08-10",
+        "md5": "38ca1410b2012d63aa9871afa52527a0",
+        "release_id": "2026-08-10_1619",
+        "repo": "main",
+        "size": 8011597,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-10_1619/retsend.zip"
+      },
+      "version": 4
     },
     "return.zip": {
       "attr": {
