@@ -2116,12 +2116,191 @@
       "name": "alex2.zip",
       "source": {
         "date_added": "2026-08-13",
-        "date_updated": "2026-08-13",
-        "md5": "8ae7ff6ab953a121487565ebfb0ba570",
-        "release_id": "2026-08-13_2211",
+        "date_updated": "2026-08-19",
+        "md5": "59d861573476699e93e76b1fd9742386",
+        "release_id": "2026-08-19_1404",
         "repo": "main",
-        "size": 26885704,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-13_2211/alex2.zip"
+        "size": 26885632,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/alex2.zip"
+      },
+      "version": 4
+    },
+    "alex4.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A GameBoy-style Allegro platform game. Guide Alex the Allegator through 10 levels to rescue his family, with 23 bundled fan-made bonus level packs to pick from at startup.",
+        "desc_md": "A GameBoy-style platform game by [Johan Peitz](http://allegator.sourceforge.net/) / Free Lunch Design. Guide Alex the Allegator through 10 levels, spitting cherries and jumping on enemies to rescue his captured family. This port also bundles 23 fan-made custom level packs sourced from the game's own community map page, selectable from a startup menu alongside the original campaign.",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. On startup, pick the main campaign or browse a curated set of bonus community level packs.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2"
+        ],
+        "store": [],
+        "title": "Alex the Allegator 4"
+      },
+      "items": [
+        "Alex the Allegator 4.sh",
+        "alex4"
+      ],
+      "items_opt": null,
+      "name": "alex4.zip",
+      "source": {
+        "date_added": "2026-08-19",
+        "date_updated": "2026-08-19",
+        "md5": "3567001be1902f90c46edc07c1a69e9c",
+        "release_id": "2026-08-19_1404",
+        "repo": "main",
+        "size": 2276270,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/alex4.zip"
+      },
+      "version": 4
+    },
+    "alexvsbus.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A free and open source platform runner game. Alex depends on public transportation and needs to run to catch the bus, or wait an eternity for the next one.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. D-pad to move, A/B/X to jump, Start to pause.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Alex vs Bus: The Race"
+      },
+      "items": [
+        "Alex vs Bus.sh",
+        "alexvsbus"
+      ],
+      "items_opt": null,
+      "name": "alexvsbus.zip",
+      "source": {
+        "date_added": "2026-08-19",
+        "date_updated": "2026-08-19",
+        "md5": "c9bfd054222c2327adbced06195ac9e2",
+        "release_id": "2026-08-19_1404",
+        "repo": "main",
+        "size": 556598,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/alexvsbus.zip"
       },
       "version": 4
     },
@@ -3306,6 +3485,94 @@
         "repo": "main",
         "size": 12562498,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-25_1116/amoebax.zip"
+      },
+      "version": 4
+    },
+    "amphetamine.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Jump'n run platformer with colored lighting, fogging and corona effects. Fight eleven evil monsters with your magic weapons.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Amphetamine"
+      },
+      "items": [
+        "Amphetamine.sh",
+        "amphetamine"
+      ],
+      "items_opt": null,
+      "name": "amphetamine.zip",
+      "source": {
+        "date_added": "2026-08-19",
+        "date_updated": "2026-08-19",
+        "md5": "63ed2c44effa367499a621ef3c68f08c",
+        "release_id": "2026-08-19_1404",
+        "repo": "main",
+        "size": 1167427,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/amphetamine.zip"
       },
       "version": 4
     },
@@ -5444,6 +5711,94 @@
       },
       "version": 4
     },
+    "asc.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A free, open-source turn-based hex wargame in the tradition of Battle Isle 2/3. Command land, sea, and air units to eliminate your opponent across dozens of bundled maps and campaigns.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, all game data is bundled, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Advanced Strategic Command"
+      },
+      "items": [
+        "Advanced Strategic Command.sh",
+        "asc"
+      ],
+      "items_opt": null,
+      "name": "asc.zip",
+      "source": {
+        "date_added": "2026-08-19",
+        "date_updated": "2026-08-19",
+        "md5": "e75d87f3b59de1623f439964b93866a9",
+        "release_id": "2026-08-19_1404",
+        "repo": "main",
+        "size": 51463058,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/asc.zip"
+      },
+      "version": 4
+    },
     "ascentdx.zip": {
       "attr": {
         "arch": [
@@ -6994,7 +7349,8 @@
         "min_glibc": "",
         "porter": [
           "nkahoang",
-          "Guandor"
+          "Guandor",
+          "juanvillacortac"
         ],
         "reqs": [],
         "rtr": false,
@@ -7015,12 +7371,12 @@
       },
       "source": {
         "date_added": "2024-04-01",
-        "date_updated": "2026-08-05",
-        "md5": "5f3020decc11fe0b95eef33b74d3d4da",
-        "release_id": "2026-08-05_0732",
+        "date_updated": "2026-08-19",
+        "md5": "8b34386218dda7fec846250f0308c89e",
+        "release_id": "2026-08-19_1404",
         "repo": "main",
-        "size": 1495043,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/balatro.zip"
+        "size": 1509352,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/balatro.zip"
       },
       "version": 2
     },
@@ -24397,6 +24753,94 @@
       },
       "version": 4
     },
+    "cylindrix.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Cylindrix is a 3-vs-3 combat game set inside cylindrical arenas, with a retro Tron-style aesthetic of flat polygons and saturated colors. You don't fly alone: you pilot your own ship, command two AI wingmen, and your goal is to take down the enemy team's radar base, capture pylons, and survive while the opposing team tries to do the same to you. Movement is fully free on all three axes, the pace is fast, and the difference between winning and losing comes down to picking the right ship, giving the right orders to your wingmen, and reading the arena, rather than pure aim. A weird and very 90s hybrid between dogfighter, arena shooter, and pocket-sized RTS.",
+        "desc_md": "**Cylindrix** is a **3-vs-3** combat game set inside cylindrical arenas, with a retro Tron-style aesthetic of flat polygons and saturated colors. You don't fly alone: you pilot your own ship, command two AI wingmen, and your goal is to take down the enemy team's radar base, capture pylons, and survive while the opposing team tries to do the same to you. Movement is fully free on all three axes, the pace is fast, and the difference between winning and losing comes down to picking the right ship, giving the right orders to your wingmen, and reading the arena, rather than pure aim. A weird and very 90s hybrid between dogfighter, arena shooter, and pocket-sized RTS.",
+        "exp": false,
+        "genres": [
+          "fps"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "grayhatter"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "cylindrix"
+      },
+      "items": [
+        "Cylindrix.sh",
+        "cylindrix"
+      ],
+      "items_opt": null,
+      "name": "cylindrix.zip",
+      "source": {
+        "date_added": "2026-08-19",
+        "date_updated": "2026-08-19",
+        "md5": "a40bf437766fbd0a84f780b990ce3ae5",
+        "release_id": "2026-08-19_1404",
+        "repo": "main",
+        "size": 104106684,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/cylindrix.zip"
+      },
+      "version": 4
+    },
     "daikatana.zip": {
       "attr": {
         "arch": [
@@ -25453,7 +25897,7 @@
           "video": null
         },
         "inst": "See the README.md for installation instructions",
-        "inst_md": "### GoG Instructions\nPlace the **LINUX** version installer (eg: `dead_cells_1_26_0_75679.sh`) in the port's `gamedata` folder.\nIf you have installed the **linux** version already, you can copy the `res.pak`\nand `hlboot.dat` files from the installations `game` folder into the port's `gamedata` folder.\n### GoG DLC\nYou can copy the GoG DLC installers into the `gamedata` folder too.\n### Steam Instructions\n* Open Steam console: `steam://open/console`\n* Copy and paste command: `download_depot 588650 588653 325905742812183616`\n* Open the folder where this depot was downloaded and copy `res.pak`\n  and `hlboot.dat` into the port's `gamedata` folder.  On windows this folder will be `C:\\Program Files (x86)\\Steam\\steamapps\\content\\app_588650\\depot_588653`\n",
+        "inst_md": "### GoG Instructions\nPlace the **LINUX** version installer (eg: `dead_cells_1_25_3_91669.sh`) in the port's `gamedata` folder.\nIf you have installed the **linux** version already, you can copy the `res.pak`\nand `hlboot.dat` files from the installations `game` folder into the port's `gamedata` folder.\n### GoG DLC\nYou can copy the GoG DLC installers into the `gamedata` folder too.\n### Steam Instructions\n* Open Steam console: `steam://open/console`\n* Copy and paste command: `download_depot 588650 588653 325905742812183616`\n* Open the folder where this depot was downloaded and copy `res.pak`\n  and `hlboot.dat` into the port's `gamedata` folder.  On windows this folder will be `C:\\Program Files (x86)\\Steam\\steamapps\\content\\app_588650\\depot_588653`\n",
         "min_glibc": "",
         "porter": [
           "bmdhacks"
@@ -25483,12 +25927,12 @@
       "name": "deadcells.zip",
       "source": {
         "date_added": "2026-03-01",
-        "date_updated": "2026-06-29",
-        "md5": "da3fa5dffb3321e6ecd49c3cd182d18f",
-        "release_id": "2026-06-29_2233",
+        "date_updated": "2026-08-19",
+        "md5": "a0008dd32ca756bdf6e574c1bc23ccd7",
+        "release_id": "2026-08-19_1404",
         "repo": "main",
         "size": 169236622,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-29_2233/deadcells.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/deadcells.zip"
       },
       "version": 4
     },
@@ -63631,12 +64075,12 @@
       "name": "maxpayne.zip",
       "source": {
         "date_added": "2025-10-22",
-        "date_updated": "2025-12-02",
-        "md5": "cd34b996da3da66ff292d621e734a9e0",
-        "release_id": "2025-12-02_1212",
+        "date_updated": "2026-08-19",
+        "md5": "5d853718d059087c3bbd4990570d9c0e",
+        "release_id": "2026-08-19_1404",
         "repo": "main",
-        "size": 2930008,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-02_1212/maxpayne.zip"
+        "size": 2930002,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/maxpayne.zip"
       },
       "version": 4
     },
@@ -66047,6 +66491,115 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-06-07_0548/minesector.zip"
       },
       "version": 2
+    },
+    "minesofmoria.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Descend the Mines of Moria, level by level, and slay the Balrog waiting at the bottom. Rufe.org's rebuild of Umoria, itself the 1983 roguelike by Robert Alan Koeneke that Angband and much of the genre grew out of: permadeath, a randomly generated dungeon on every stairway, a town to spend your gold in between dives. This build uses the graphical client, with sprite tiles and a map that fills the screen.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to Run",
+        "inst_md": null,
+        "min_glibc": "2.28",
+        "porter": [
+          "mxmgorin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://github.com/RufeDotOrg",
+            "gameurl": "https://github.com/RufeDotOrg/moria_at",
+            "name": "GitHub"
+          },
+          {
+            "developerurl": "https://play.google.com/store/apps/developer?id=Rufe.org+LLC",
+            "gameurl": "https://play.google.com/store/apps/details?id=org.rufe.moria",
+            "name": "Google Play"
+          },
+          {
+            "developerurl": "https://apps.apple.com/us/developer/rufe-org-llc/id1683900465",
+            "gameurl": "https://apps.apple.com/us/app/mines-of-moria/id6448195864",
+            "name": "App Store"
+          }
+        ],
+        "title": "Mines of Moria"
+      },
+      "items": [
+        "Mines of Moria.sh",
+        "minesofmoria"
+      ],
+      "items_opt": null,
+      "name": "minesofmoria.zip",
+      "source": {
+        "date_added": "2026-08-19",
+        "date_updated": "2026-08-19",
+        "md5": "47b96c42e5531788f3f78135dd088acb",
+        "release_id": "2026-08-19_1404",
+        "repo": "main",
+        "size": 891272,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/minesofmoria.zip"
+      },
+      "version": 4
     },
     "minetest.zip": {
       "attr": {
