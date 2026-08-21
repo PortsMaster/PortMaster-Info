@@ -2116,12 +2116,103 @@
       "name": "alex2.zip",
       "source": {
         "date_added": "2026-08-13",
-        "date_updated": "2026-08-19",
-        "md5": "59d861573476699e93e76b1fd9742386",
-        "release_id": "2026-08-19_1404",
+        "date_updated": "2026-08-21",
+        "md5": "7c5f189be747b735991aa841fc27bdde",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 26885632,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/alex2.zip"
+        "size": 26885635,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/alex2.zip"
+      },
+      "version": 4
+    },
+    "alex3.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A somewhat unfinished top-down racing game. Throttle, brake and steer around a single lap track, racing against AI opponents.",
+        "desc_md": "A top-down racing game by [Johan Peitz](http://allegator.sourceforge.net/), made for the 2002 \"Allegro Speedhack\" jam. Race against AI opponents (and a second local player) around a single track, throttling, braking and steering to place first across 5 laps. Unfinished by the author's own admission (only one track), but playable start to finish.",
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2"
+        ],
+        "store": [],
+        "title": "Alex the Allegator 3: Radioactive Racers"
+      },
+      "items": [
+        "Alex the Allegator 3.sh",
+        "alex3"
+      ],
+      "items_opt": null,
+      "name": "alex3.zip",
+      "source": {
+        "date_added": "2026-08-21",
+        "date_updated": "2026-08-21",
+        "md5": "3ca488697486a9a5be36a913075383cc",
+        "release_id": "2026-08-21_2000",
+        "repo": "main",
+        "size": 26969996,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/alex3.zip"
       },
       "version": 4
     },
@@ -3924,18 +4015,18 @@
       },
       "items": [
         "Annulus.sh",
-        "Annulus"
+        "annulus"
       ],
       "items_opt": null,
       "name": "annulus.zip",
       "source": {
         "date_added": "2025-03-17",
-        "date_updated": "2025-09-23",
-        "md5": "07d0fa5cdfad19dedaba792b4de0ba27",
-        "release_id": "2025-09-23_1014",
+        "date_updated": "2026-08-21",
+        "md5": "5a69501970d23958ebcc44bb9c60c31d",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 9308155,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/annulus.zip"
+        "size": 9308156,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/annulus.zip"
       },
       "version": 4
     },
@@ -13688,12 +13779,12 @@
       "name": "breakhack.zip",
       "source": {
         "date_added": "2026-07-22",
-        "date_updated": "2026-07-22",
-        "md5": "c5f337c22017dbde5a9d30398a3e7997",
-        "release_id": "2026-07-22_0950",
+        "date_updated": "2026-08-21",
+        "md5": "7b174ffc560f6f8c942b54c4870f1447",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 15543758,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-22_0950/breakhack.zip"
+        "size": 15543763,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/breakhack.zip"
       },
       "version": 4
     },
@@ -14088,19 +14179,19 @@
         "title": "Brother Brother "
       },
       "items": [
-        "Brother Brother.zip",
+        "Brother Brother.sh",
         "brotherbrother"
       ],
       "items_opt": null,
       "name": "brotherbrother.zip",
       "source": {
         "date_added": "2025-03-26",
-        "date_updated": "2025-03-26",
-        "md5": "283969d0fc664e32f67ed187dc720f05",
-        "release_id": "2025-03-26_1111",
+        "date_updated": "2026-08-21",
+        "md5": "56665f3ba7c9fb04df3fa5192463a91f",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 18999017,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-26_1111/brotherbrother.zip"
+        "size": 18999019,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/brotherbrother.zip"
       },
       "version": 4
     },
@@ -16205,12 +16296,12 @@
       "name": "candycrisis.zip",
       "source": {
         "date_added": "2026-07-26",
-        "date_updated": "2026-07-26",
-        "md5": "adbfe59c61616e08e2120314fd8fe517",
-        "release_id": "2026-07-26_1858",
+        "date_updated": "2026-08-21",
+        "md5": "119e12c1421a43a05f119f3dc9f3c5af",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 5772246,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-26_1858/candycrisis.zip"
+        "size": 5772251,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/candycrisis.zip"
       },
       "version": 4
     },
@@ -22318,12 +22409,12 @@
       "name": "crabjuice.zip",
       "source": {
         "date_added": "2026-05-07",
-        "date_updated": "2026-05-07",
-        "md5": "f24f8631a7d948d235c9c98b71e42c53",
-        "release_id": "2026-05-07_1504",
+        "date_updated": "2026-08-21",
+        "md5": "5dd10cbdf6d59bef90b5399c954492dd",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 25465807,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/crabjuice.zip"
+        "size": 25465811,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/crabjuice.zip"
       },
       "version": 4
     },
@@ -23197,12 +23288,12 @@
       "name": "cropsmare.zip",
       "source": {
         "date_added": "2024-03-19",
-        "date_updated": "2024-09-08",
-        "md5": "a54ec3613fe92c486c8b71005762fd78",
-        "release_id": "2024-09-08_0351",
+        "date_updated": "2026-08-21",
+        "md5": "2d8583c5a453138bc26bc4efa67aabca",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 21126,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-08_0351/cropsmare.zip"
+        "size": 21139,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/cropsmare.zip"
       },
       "version": 2
     },
@@ -27548,19 +27639,19 @@
         "title": "Demon Slayer "
       },
       "items": [
-        "Demon Slayer",
-        "demonslayer "
+        "Demon Slayer.sh",
+        "demonslayer"
       ],
       "items_opt": null,
       "name": "demonslayer.zip",
       "source": {
         "date_added": "2025-02-04",
-        "date_updated": "2025-02-06",
-        "md5": "ccb9fb65ce8a36fc161b1470c9e5885f",
-        "release_id": "2025-02-06_0046",
+        "date_updated": "2026-08-21",
+        "md5": "199fc6cc4a0648235d6e288d658adb89",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
         "size": 5398883,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-06_0046/demonslayer.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/demonslayer.zip"
       },
       "version": 4
     },
@@ -36433,18 +36524,18 @@
       },
       "items": [
         "FAITH Demon Siege.sh",
-        "faithdemonsiege "
+        "faithdemonsiege"
       ],
       "items_opt": null,
       "name": "faithdemonsiege.zip",
       "source": {
         "date_added": "2024-05-29",
-        "date_updated": "2025-03-19",
-        "md5": "5e48ac66432eed8f7e036763354ee830",
-        "release_id": "2025-03-19_1507",
+        "date_updated": "2026-08-21",
+        "md5": "a2cb4e9f073444c131791c267a4919b2",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
         "size": 42893925,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-19_1507/faithdemonsiege.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/faithdemonsiege.zip"
       },
       "version": 4
     },
@@ -45343,18 +45434,18 @@
       },
       "items": [
         "Grelox.sh",
-        "grelox "
+        "grelox"
       ],
       "items_opt": null,
       "name": "grelox.zip",
       "source": {
         "date_added": "2025-02-27",
-        "date_updated": "2025-02-27",
-        "md5": "27194ba4fb0e7b5a98b65765e1e7e277",
-        "release_id": "2025-02-27_2241",
+        "date_updated": "2026-08-21",
+        "md5": "e9dc780adbca6756d0a333de86e8e723",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
         "size": 39372461,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-02-27_2241/grelox.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/grelox.zip"
       },
       "version": 4
     },
@@ -51988,12 +52079,12 @@
       "name": "hypercycles.zip",
       "source": {
         "date_added": "2026-08-05",
-        "date_updated": "2026-08-05",
-        "md5": "f3bb823d0195042df414ff492f5dbc99",
-        "release_id": "2026-08-05_0732",
+        "date_updated": "2026-08-21",
+        "md5": "68c37c182db45b3271202c5340b03192",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 7057569,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/hypercycles.zip"
+        "size": 7057573,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/hypercycles.zip"
       },
       "version": 4
     },
@@ -53660,7 +53751,7 @@
       },
       "items": [
         "Interstate Drifter 1999.sh",
-        "interstatedrifter.zip"
+        "interstatedrifter"
       ],
       "items_opt": null,
       "name": "interstatedrifter.zip",
@@ -53672,12 +53763,12 @@
       },
       "source": {
         "date_added": "2025-02-13",
-        "date_updated": "2026-04-28",
-        "md5": "7ff407d4cab8b9145c5f9bd007b7f3c6",
-        "release_id": "2026-04-28_1830",
+        "date_updated": "2026-08-21",
+        "md5": "4fa0c52a59f547dd44e4a8fec44399e9",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 8074301,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/interstatedrifter.zip"
+        "size": 8074302,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/interstatedrifter.zip"
       },
       "version": 4
     },
@@ -56087,12 +56178,12 @@
       },
       "source": {
         "date_added": "2025-07-01",
-        "date_updated": "2025-07-01",
-        "md5": "40a2570b31c1719b99ac680469e1f8dd",
-        "release_id": "2025-07-01_0951",
+        "date_updated": "2026-08-21",
+        "md5": "d3c0a1fbe59eb919f07d9a7de954a47e",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 26665389,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-01_0951/jvgs.zip"
+        "size": 26665393,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/jvgs.zip"
       },
       "version": 4
     },
@@ -57886,6 +57977,106 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-13_2211/labyrinthoflegendaryloot.zip"
       },
       "version": 2
+    },
+    "lasagnaboyclassic.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A puzzle horror game with a gameboy aesthetic.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready To Run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "watheusctavares",
+          "NotYourAveragePaladin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://trashy-rascal-studios.itch.io",
+            "gameurl": "https://trashy-rascal-studios.itch.io/lasagna-boy-classic",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Lasagna Boy Classic"
+      },
+      "items": [
+        "Lasagna Boy Classic.sh",
+        "lasagnaboyclassic"
+      ],
+      "items_opt": null,
+      "name": "lasagnaboyclassic.zip",
+      "source": {
+        "date_added": "2026-08-21",
+        "date_updated": "2026-08-21",
+        "md5": "1256baf852b731a4d1e7fb2d3d866900",
+        "release_id": "2026-08-21_2000",
+        "repo": "main",
+        "size": 42318362,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/lasagnaboyclassic.zip"
+      },
+      "version": 4
     },
     "laserkombat.zip": {
       "attr": {
@@ -64802,7 +64993,7 @@
       },
       "items": [
         "MEGA MAN Sunrise.sh",
-        "megamansunrise "
+        "megamansunrise"
       ],
       "items_opt": null,
       "name": "megamansunrise.zip",
@@ -64814,12 +65005,12 @@
       },
       "source": {
         "date_added": "2025-05-29",
-        "date_updated": "2025-05-29",
-        "md5": "e6489b76dad0473af306f67e342c2d4b",
-        "release_id": "2025-05-29_1057",
+        "date_updated": "2026-08-21",
+        "md5": "13699f3bcd794ac0005ed6f82b9756b5",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
         "size": 18154773,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-05-29_1057/megamansunrise.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/megamansunrise.zip"
       },
       "version": 4
     },
@@ -68705,7 +68896,9 @@
           "other"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -68729,12 +68922,12 @@
       "name": "mreader.zip",
       "source": {
         "date_added": "2024-07-09",
-        "date_updated": "2024-07-09",
-        "md5": "613ae6db51e98b3b970a9b2ba5476b4f",
-        "release_id": "2024-07-09_0405",
+        "date_updated": "2026-08-21",
+        "md5": "fc3955ba979294b1721c6b2526257f9e",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 4799444,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-09_0405/mreader.zip"
+        "size": 4799450,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/mreader.zip"
       },
       "version": 4
     },
@@ -75741,12 +75934,12 @@
       "name": "openjkdf2.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-07-07",
-        "md5": "8f983242c1de9097a7d94d9d745dfa5c",
-        "release_id": "2026-07-07_1030",
+        "date_updated": "2026-08-21",
+        "md5": "76962861ee32d555beab3dada821008d",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 27205766,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-07_1030/openjkdf2.zip"
+        "size": 27205760,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/openjkdf2.zip"
       },
       "version": 4
     },
@@ -77791,7 +77984,9 @@
           "simulation"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -77837,12 +78032,12 @@
       },
       "source": {
         "date_added": "2025-07-24",
-        "date_updated": "2025-07-24",
-        "md5": "9ee80abe151f5c71826b23386a3e3b6b",
-        "release_id": "2025-07-24_0745",
+        "date_updated": "2026-08-21",
+        "md5": "482159023c1d8482bde7fff49bd9ef74",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
         "size": 14228719,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/osmos.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/osmos.zip"
       },
       "version": 4
     },
@@ -87685,12 +87880,12 @@
       "name": "recursiverun.zip",
       "source": {
         "date_added": "2025-09-16",
-        "date_updated": "2025-10-04",
-        "md5": "5c05ed2bb1de1e541f7e148437a82aa0",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-08-21",
+        "md5": "0c52524e2c3b968787ee6de29a0146b8",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 2516786,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/recursiverun.zip"
+        "size": 2516791,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/recursiverun.zip"
       },
       "version": 4
     },
@@ -95580,7 +95775,9 @@
           "adventure"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -95611,12 +95808,12 @@
       "name": "shamogu.zip",
       "source": {
         "date_added": "2025-12-29",
-        "date_updated": "2025-12-29",
-        "md5": "f1d84f2deb7752cb935f8bb52d45b4b9",
-        "release_id": "2025-12-29_0521",
+        "date_updated": "2026-08-21",
+        "md5": "374461f5cb15ad1c48c5540d247274df",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
         "size": 3423276,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/shamogu.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/shamogu.zip"
       },
       "version": 4
     },
@@ -97741,19 +97938,19 @@
         "title": "Skeleton Boomerang"
       },
       "items": [
-        "Skeleton Boomerang",
+        "Skeleton Boomerang.sh",
         "skeletonboomerang"
       ],
       "items_opt": null,
       "name": "skeletonboomerang.zip",
       "source": {
         "date_added": "2024-10-27",
-        "date_updated": "2024-12-03",
-        "md5": "bb7aeeb8f8b2351f4ab26226057aeffb",
-        "release_id": "2024-12-03_1159",
+        "date_updated": "2026-08-21",
+        "md5": "2cf1453acf1fe7a8a608d03277445f3e",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 19830268,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-03_1159/skeletonboomerang.zip"
+        "size": 19830279,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/skeletonboomerang.zip"
       },
       "version": 4
     },
@@ -101739,18 +101936,18 @@
       },
       "items": [
         "The Last Space Fighter.sh",
-        "spacefighter "
+        "spacefighter"
       ],
       "items_opt": null,
       "name": "spacefighter.zip",
       "source": {
         "date_added": "2025-07-07",
-        "date_updated": "2025-07-07",
-        "md5": "8ed2ab60b01bfa8a5a7b19fd200b5e96",
-        "release_id": "2025-07-07_1120",
+        "date_updated": "2026-08-21",
+        "md5": "ec552a7cb2c8f0f7a51032f6415285cb",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
         "size": 93801,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-07_1120/spacefighter.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/spacefighter.zip"
       },
       "version": 4
     },
@@ -109781,7 +109978,9 @@
           "adventure"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.png",
           "thumbnail": null,
           "video": null
@@ -109820,12 +110019,12 @@
       },
       "source": {
         "date_added": "2025-07-01",
-        "date_updated": "2025-12-24",
-        "md5": "e904e7a3a3b6b4a57fd65ab6734f3ddd",
-        "release_id": "2025-12-24_0552",
+        "date_updated": "2026-08-21",
+        "md5": "264b14da097ef41a69a737f9012b1fdd",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
         "size": 7240557,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-24_0552/tboirebirth.zip"
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/tboirebirth.zip"
       },
       "version": 4
     },
@@ -111746,19 +111945,19 @@
         "title": "The Legend Of Lumina"
       },
       "items": [
-        "The Legend of Lumina",
+        "The Legend of Lumina.sh",
         "thelegendoflumina"
       ],
       "items_opt": null,
       "name": "thelegendoflumina.zip",
       "source": {
         "date_added": "2024-02-16",
-        "date_updated": "2024-05-13",
-        "md5": "b978ab8d52490d0382882180b69f4833",
-        "release_id": "2024-05-13_1155",
+        "date_updated": "2026-08-21",
+        "md5": "6db834aa8cff314ada3ae36197cae817",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 365983,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-13_1155/thelegendoflumina.zip"
+        "size": 365997,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/thelegendoflumina.zip"
       },
       "version": 2
     },
@@ -114093,12 +114292,12 @@
       "name": "tohoumeijinka.zip",
       "source": {
         "date_added": "2026-03-17",
-        "date_updated": "2026-03-17",
-        "md5": "f47e9bca2539a89045fd0b0e563a2201",
-        "release_id": "2026-03-17_0428",
+        "date_updated": "2026-08-21",
+        "md5": "eea16c59e59a7406f82281d4319ecffa",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 34953299,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-03-17_0428/tohoumeijinka.zip"
+        "size": 34953298,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/tohoumeijinka.zip"
       },
       "version": 4
     },
@@ -127112,12 +127311,12 @@
       "name": "zimlite.zip",
       "source": {
         "date_added": "2026-08-05",
-        "date_updated": "2026-08-05",
-        "md5": "db55e483b3a8eae1831e38faa27265ec",
-        "release_id": "2026-08-05_0732",
+        "date_updated": "2026-08-21",
+        "md5": "1afcae26150337c3f58f1471be86484a",
+        "release_id": "2026-08-21_2000",
         "repo": "main",
-        "size": 9721334,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/zimlite.zip"
+        "size": 9721338,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/zimlite.zip"
       },
       "version": 4
     },
