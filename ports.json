@@ -236,7 +236,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "A feature-packed implementation of the classic puzzle game 2048 for PortMaster, built using the L\u00d6VE framework.",
+        "desc": "A feature-packed implementation of the classic puzzle game 2048, built using the L\u00d6VE framework.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-07-21",
-        "md5": "4562ccb5b682be8d3edc04cfe4fc68fa",
-        "release_id": "2026-07-21_2337",
+        "date_updated": "2026-08-23",
+        "md5": "061d5ddde45a24bbedcef41000b504b4",
+        "release_id": "2026-08-23_0904",
         "repo": "main",
-        "size": 63443252,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_2337/2048plus.zip"
+        "size": 105395969,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/2048plus.zip"
       },
       "version": 4
     },
@@ -3667,6 +3667,94 @@
       },
       "version": 4
     },
+    "amuletsarmor.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "1997 first-person dungeon-crawler RPG, released as open source by ExiguusEntertainment.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Amulets & Armor"
+      },
+      "items": [
+        "Amulets and Armor.sh",
+        "amuletsarmor"
+      ],
+      "items_opt": null,
+      "name": "amuletsarmor.zip",
+      "source": {
+        "date_added": "2026-08-23",
+        "date_updated": "2026-08-23",
+        "md5": "1091e4e4cf3c11322b1537476fbd6e2b",
+        "release_id": "2026-08-23_0904",
+        "repo": "main",
+        "size": 83032887,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/amuletsarmor.zip"
+      },
+      "version": 4
+    },
     "anarch.zip": {
       "attr": {
         "arch": [
@@ -5150,6 +5238,97 @@
         "repo": "main",
         "size": 620914,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-26_2317/arcadespirits.zip"
+      },
+      "version": 4
+    },
+    "arcanumce.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A steampunk isometric RPG from Troika Games where you can freely mix magic and technology.",
+        "desc_md": "A steampunk isometric RPG from Troika Games where you can freely mix magic and technology. Ported via [Arcanum Community Edition](https://github.com/alexbatalov/arcanum-ce), a clean-room reimplementation of the original engine.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your own purchased Arcanum data files (tig.dat, arcanum1-4.dat, modules/) into the port's arcanumce/gamedata folder before launching. See README for details.",
+        "inst_md": "You must own Arcanum (GOG or Steam) and copy its data files into `arcanumce/gamedata/` on the device before launching: `tig.dat`, `arcanum1.dat` through `arcanum4.dat`, and the `modules/` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          "https://www.gog.com/game/arcanum_of_steamworks_and_magick_obscura",
+          "https://store.steampowered.com/app/500810"
+        ],
+        "title": "Arcanum Community Edition"
+      },
+      "items": [
+        "Arcanum Community Edition.sh",
+        "arcanumce"
+      ],
+      "items_opt": null,
+      "name": "arcanumce.zip",
+      "source": {
+        "date_added": "2026-08-23",
+        "date_updated": "2026-08-23",
+        "md5": "f05c25a5d105688f5160c9c905c336ea",
+        "release_id": "2026-08-23_0904",
+        "repo": "main",
+        "size": 3467711,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/arcanumce.zip"
       },
       "version": 4
     },
@@ -25020,6 +25199,99 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-01_2019/daikatana.zip"
       },
       "version": 2
+    },
+    "damoclesgaze.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Damocles Gaze is a radically tight roguelite top-down shooter where every run takes 12 minutes. No matter how many times you die, no matter how good or bad you are, the run ends only after the 720 seconds went out.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Itch.io or Steam. For Itch.io, download the MacOS version and extract the game files into gamedata folder. For Steam, download the MacOS depot via the Steam console using this command:  download_depot 2521530 2521532 6713100392068965472, then copy the files into gamedata folder.",
+        "inst_md": "Purchase the game on [tch.io](https://punkcake.itch.io/damocles-gaze) or [Steam](store.steampowered.com/app/2521530/Damocles_Gaze/). For Itch.io, download the MacOS version and extract the game files into gamedata folder. For Steam, download the MacOS depot via the Steam console using this command:  download_depot 2521530 2521532 6713100392068965472, then copy the files into gamedata folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://punkcake.itch.io/damocles-gaze",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2521530/Damocles_Gaze/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Damocles Gaze"
+      },
+      "items": [
+        "Damocles Gaze.sh",
+        "damoclesgaze"
+      ],
+      "items_opt": null,
+      "name": "damoclesgaze.zip",
+      "source": {
+        "date_added": "2026-08-23",
+        "date_updated": "2026-08-23",
+        "md5": "d4d099554b7fdf3fefc8333c04aa9291",
+        "release_id": "2026-08-23_0904",
+        "repo": "main",
+        "size": 4632522,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/damoclesgaze.zip"
+      },
+      "version": 4
     },
     "darkcrypt.zip": {
       "attr": {
@@ -53229,6 +53501,94 @@
       },
       "version": 4
     },
+    "impostorfactory.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A narrative-driven RPG Maker game from Freebird Games, continuing the story told in To the Moon and Finding Paradise.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game from your favorite store Steam / GOG and copy the gamedata of your game to impostorfactory/gamedata/. If using the GOG linux version, place the impostor_factory_*.sh installer at the root of the impostorfactory folder, or extract the contents of data/noarch/game/ into impostorfactory/gamedata/.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Impostor Factory"
+      },
+      "items": [
+        "Impostor Factory.sh",
+        "impostorfactory"
+      ],
+      "items_opt": null,
+      "name": "impostorfactory.zip",
+      "source": {
+        "date_added": "2026-08-23",
+        "date_updated": "2026-08-23",
+        "md5": "20a4950786a590babf684012099b9ff4",
+        "release_id": "2026-08-23_0904",
+        "repo": "main",
+        "size": 6425400,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/impostorfactory.zip"
+      },
+      "version": 4
+    },
     "inertiablast.zip": {
       "attr": {
         "arch": [
@@ -58248,6 +58608,94 @@
         "repo": "main",
         "size": 5961178,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-09-17_0942/lastmission.zip"
+      },
+      "version": 4
+    },
+    "lastscenario.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Turn-based RPG following Hilbert, a small-town boy who learns he descends from the legendary demon slayer Alexander and sets out to fulfill that destiny. Party-based battles with Spellcard magic, plus the Hex card minigame.",
+        "desc_md": "Hilbert, a boy who lives in the small town of Whitelake, considers himself the town's hero, much to the disbelief of most of its residents. After doing some \"heroic\" tasks around town he meets a mysterious woman named Zawu, who informs him that he is in the lineage of the mighty demon slayer Alexander and is destined to follow in his footsteps. This knowledge inspires Hilbert to go out into the world and fulfill his destined fate.\n\nLast Scenario is an RPG with turn-based battles. The party for battles can contain up to four members. Other than physically attacking and using items in battles, players can also use magic in the form of Spellcards.\n\nThere is also a minigame called Hex that can be played against certain people throughout the world. Hex is a card battle type game played on a hexagonal grid.",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download Last Scenario from https://site.scfworks.com/?page_id=8 and extract its contents (Game.rgssad, Audio, etc.) into the port's game folder, then launch.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Last Scenario"
+      },
+      "items": [
+        "Last Scenario.sh",
+        "lastscenario"
+      ],
+      "items_opt": null,
+      "name": "lastscenario.zip",
+      "source": {
+        "date_added": "2026-08-23",
+        "date_updated": "2026-08-23",
+        "md5": "e5355a9b4a402d6b4c4191dd7fbc9d66",
+        "release_id": "2026-08-23_0904",
+        "repo": "main",
+        "size": 17012957,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/lastscenario.zip"
       },
       "version": 4
     },
@@ -68029,6 +68477,108 @@
       },
       "version": 2
     },
+    "monktower.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A coffee-break roguelike. Climb 20 floors of the cloister tower to retrieve the lost manuscript, one turn at a time. Weapons wear out and break, so what you carry and when you swap it matters more than what you fight.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "2.28",
+        "porter": [
+          "mxmgorin"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://maciekglowka.itch.io",
+            "gameurl": "https://maciekglowka.itch.io/monk-tower",
+            "name": "itch.io"
+          },
+          {
+            "developerurl": "https://github.com/maciekglowka",
+            "gameurl": "https://github.com/maciekglowka/tower-rl",
+            "name": "GitHub"
+          }
+        ],
+        "title": "Monk Tower"
+      },
+      "items": [
+        "Monk Tower.sh",
+        "monktower"
+      ],
+      "items_opt": null,
+      "name": "monktower.zip",
+      "source": {
+        "date_added": "2026-08-23",
+        "date_updated": "2026-08-23",
+        "md5": "fec96c6a70082d46ec21b4908e5a9bf6",
+        "release_id": "2026-08-23_0904",
+        "repo": "main",
+        "size": 6528439,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/monktower.zip"
+      },
+      "version": 4
+    },
     "monolith.zip": {
       "attr": {
         "arch": [
@@ -75934,12 +76484,12 @@
       "name": "openjkdf2.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-08-21",
-        "md5": "76962861ee32d555beab3dada821008d",
-        "release_id": "2026-08-21_2000",
+        "date_updated": "2026-08-23",
+        "md5": "577764b9ae3d52b857a409068c4c3a74",
+        "release_id": "2026-08-23_0904",
         "repo": "main",
-        "size": 27205760,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/openjkdf2.zip"
+        "size": 27205766,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/openjkdf2.zip"
       },
       "version": 4
     },
