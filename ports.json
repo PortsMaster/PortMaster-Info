@@ -5310,8 +5310,16 @@
         "rtr": false,
         "runtime": [],
         "store": [
-          "https://www.gog.com/game/arcanum_of_steamworks_and_magick_obscura",
-          "https://store.steampowered.com/app/500810"
+          {
+            "developerurl": "https://en.wikipedia.org/wiki/Troika_Games",
+            "gameurl": "https://www.gog.com/game/arcanum_of_steamworks_and_magick_obscura",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://en.wikipedia.org/wiki/Troika_Games",
+            "gameurl": "https://store.steampowered.com/app/500810",
+            "name": "Steam"
+          }
         ],
         "title": "Arcanum Community Edition"
       },
@@ -5323,12 +5331,12 @@
       "name": "arcanumce.zip",
       "source": {
         "date_added": "2026-08-23",
-        "date_updated": "2026-08-23",
-        "md5": "f05c25a5d105688f5160c9c905c336ea",
-        "release_id": "2026-08-23_0904",
+        "date_updated": "2026-08-25",
+        "md5": "82bdd75474556d6624988c1f365317f9",
+        "release_id": "2026-08-25_1115",
         "repo": "main",
-        "size": 3467711,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/arcanumce.zip"
+        "size": 3467771,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-25_1115/arcanumce.zip"
       },
       "version": 4
     },
@@ -30025,12 +30033,12 @@
       },
       "source": {
         "date_added": "2025-03-28",
-        "date_updated": "2026-05-30",
-        "md5": "55c8b95a29adb65be2c6e2e77ba038ee",
-        "release_id": "2026-05-30_1707",
+        "date_updated": "2026-08-25",
+        "md5": "3b0f41b82f5404d3d0978b9c526c2176",
+        "release_id": "2026-08-25_1115",
         "repo": "main",
-        "size": 58937163,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-30_1707/dokimon.zip"
+        "size": 60165661,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-25_1115/dokimon.zip"
       },
       "version": 4
     },
