@@ -44156,6 +44156,104 @@
       },
       "version": 2
     },
+    "gizmoduck.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "This is a fangame about the adventures of Gizmoduck developed by Gektorne.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Windows version of the game from Itch.io and copy Gizmoduck.exe into gamedata folder.",
+        "inst_md": "Download the `Windows` version of the game from [Itch.io](https://gektorne.itch.io/httpsxcomgektorne) and copy `Gizmoduck.exe` into `gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "godot_4.7.1.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://gektorne.itch.io/httpsxcomgektorne",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Gizmoduck"
+      },
+      "items": [
+        "Gizmoduck.sh",
+        "gizmoduck"
+      ],
+      "items_opt": null,
+      "name": "gizmoduck.zip",
+      "source": {
+        "date_added": "2026-09-02",
+        "date_updated": "2026-09-02",
+        "md5": "6e3ef8be067a0bbf157d80168b35a5ed",
+        "release_id": "2026-09-02_1433",
+        "repo": "multiverse",
+        "size": 79219,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-02_1433/gizmoduck.zip"
+      },
+      "version": 4
+    },
     "glassmoon.zip": {
       "attr": {
         "arch": [
@@ -66181,6 +66279,104 @@
         "repo": "main",
         "size": 18154773,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/megamansunrise.zip"
+      },
+      "version": 4
+    },
+    "megamanw.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Mega Man W is a fan made game by Team W which aims to be similar to the original six mega man games. You will face off against a fierce hoard of robots infected by a virus corrupting them and making them go mad!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download any version of the game (linux,windows,mac) from https://jumpdashevade.itch.io/mega-man-w and place the .pck file into the MegaManW port folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "armsonic"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.5.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://megamanw.com/",
+            "gameurl": "https://jumpdashevade.itch.io/mega-man-w",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Mega Man W"
+      },
+      "items": [
+        "Mega Man W.sh",
+        "megamanw"
+      ],
+      "items_opt": null,
+      "name": "megamanw.zip",
+      "source": {
+        "date_added": "2026-09-02",
+        "date_updated": "2026-09-02",
+        "md5": "83910b8e2ce68e80fb6139d05215d186",
+        "release_id": "2026-09-02_1433",
+        "repo": "multiverse",
+        "size": 159739,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-02_1433/megamanw.zip"
       },
       "version": 4
     },
