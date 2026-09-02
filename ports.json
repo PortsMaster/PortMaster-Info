@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-08-23",
-        "md5": "061d5ddde45a24bbedcef41000b504b4",
-        "release_id": "2026-08-23_0904",
+        "date_updated": "2026-09-02",
+        "md5": "32edf8bdb58ed7adb78324733313ac79",
+        "release_id": "2026-09-02_1031",
         "repo": "main",
-        "size": 105395969,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/2048plus.zip"
+        "size": 105395952,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/2048plus.zip"
       },
       "version": 4
     },
@@ -37733,6 +37733,94 @@
       },
       "version": 4
     },
+    "fanwor.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A small top-down action-adventure in the style of The Legend of Zelda - explore the world of Fanwor, fight monsters with your sword, and recover the eight stolen Gems of Power.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Fanwor"
+      },
+      "items": [
+        "Fanwor.sh",
+        "fanwor"
+      ],
+      "items_opt": null,
+      "name": "fanwor.zip",
+      "source": {
+        "date_added": "2026-09-02",
+        "date_updated": "2026-09-02",
+        "md5": "39da99682e0042f8b3f576a044668a1a",
+        "release_id": "2026-09-02_1031",
+        "repo": "main",
+        "size": 1840160,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/fanwor.zip"
+      },
+      "version": 4
+    },
     "fares.zip": {
       "attr": {
         "arch": [
@@ -44161,6 +44249,94 @@
         "repo": "main",
         "size": 9013251,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/glassmoon.zip"
+      },
+      "version": 4
+    },
+    "glob2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A real-time strategy game where you set goals for your colonists to achieve, rather than micromanaging each unit individually.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Globulation 2"
+      },
+      "items": [
+        "Globulation 2.sh",
+        "glob2"
+      ],
+      "items_opt": null,
+      "name": "glob2.zip",
+      "source": {
+        "date_added": "2026-09-02",
+        "date_updated": "2026-09-02",
+        "md5": "efcd9c3557f534cd0dacda88e33cbb95",
+        "release_id": "2026-09-02_1031",
+        "repo": "main",
+        "size": 12384653,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/glob2.zip"
       },
       "version": 4
     },
@@ -54575,12 +54751,12 @@
       "name": "insaniquarium.zip",
       "source": {
         "date_added": "2026-08-26",
-        "date_updated": "2026-08-26",
-        "md5": "c43e77cc0b59c3496c8b38ab1547277e",
-        "release_id": "2026-08-26_1052",
+        "date_updated": "2026-09-02",
+        "md5": "c9ed53fbe886786dbf7421c61a4bf378",
+        "release_id": "2026-09-02_1031",
         "repo": "main",
-        "size": 8785948,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-26_1052/insaniquarium.zip"
+        "size": 8782610,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/insaniquarium.zip"
       },
       "version": 4
     },
@@ -76462,6 +76638,101 @@
       },
       "version": 2
     },
+    "opendefender.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "OpenDefender is an open source defender clone created with Game maker : Studio 1. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://hijong-park.itch.io/opendefender",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "OpenDefender"
+      },
+      "items": [
+        "OpenDefender.sh",
+        "opendefender"
+      ],
+      "items_opt": null,
+      "name": "opendefender.zip",
+      "source": {
+        "date_added": "2026-09-02",
+        "date_updated": "2026-09-02",
+        "md5": "53563dbe0ce85e9ea72cae5fc4c10707",
+        "release_id": "2026-09-02_1031",
+        "repo": "main",
+        "size": 5617578,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/opendefender.zip"
+      },
+      "version": 4
+    },
     "openenroth.zip": {
       "attr": {
         "arch": [
@@ -84426,6 +84697,107 @@
       },
       "version": 4
     },
+    "postal.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Postal is a 1997 isometric shoot 'em up where players control the \"Postal Dude\" as he commits mass murder in Paradise, Arizona, progressing by killing a set percentage of armed hostiles per level.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "1. Download *Postal* from either GOG or Steam.\n2. Locate the `res` folder and POSTAL.INI file inside your installed game directory.\n3. Copy the `res` folder and the POSTAL.INI file and paste it inside the `postal/` folder in the `ports/` directory on your device.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "initdream"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.gopostal.com/",
+            "gameurl": "https://store.steampowered.com/app/232770/POSTAL/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.gopostal.com/",
+            "gameurl": "https://www.gog.com/en/game/postal_classic_and_uncut",
+            "name": "GOG"
+          }
+        ],
+        "title": "Postal"
+      },
+      "items": [
+        "Postal.sh",
+        "postal"
+      ],
+      "items_opt": null,
+      "name": "postal.zip",
+      "source": {
+        "date_added": "2026-09-02",
+        "date_updated": "2026-09-02",
+        "md5": "6cbec6183fcf6bf3cdd41d08a05fe1d6",
+        "release_id": "2026-09-02_1031",
+        "repo": "main",
+        "size": 878872,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/postal.zip"
+      },
+      "version": 4
+    },
     "postvoid.zip": {
       "attr": {
         "arch": [
@@ -87623,12 +87995,12 @@
       "name": "quakespasm.zip",
       "source": {
         "date_added": "2023-10-23",
-        "date_updated": "2026-08-29",
-        "md5": "e5238c6fc9529e42cf5f321edcaf4a9c",
-        "release_id": "2026-08-29_2149",
+        "date_updated": "2026-09-02",
+        "md5": "a6d0038c8043e5837864d817e2a539ff",
+        "release_id": "2026-09-02_1031",
         "repo": "main",
-        "size": 42820102,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-29_2149/quakespasm.zip"
+        "size": 42820183,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/quakespasm.zip"
       },
       "version": 4
     },
@@ -88019,6 +88391,94 @@
         "repo": "main",
         "size": 7174761,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/qyoblaster.zip"
+      },
+      "version": 4
+    },
+    "raceintospace.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Free software recreation of Buzz Aldrin's Race into Space, a turn-based strategy game where you run the US or Soviet space program in the race to land on the Moon.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed. Game data is extracted from data.tar.gz on first launch.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Race Into Space"
+      },
+      "items": [
+        "Race Into Space.sh",
+        "raceintospace"
+      ],
+      "items_opt": null,
+      "name": "raceintospace.zip",
+      "source": {
+        "date_added": "2026-09-02",
+        "date_updated": "2026-09-02",
+        "md5": "0f8c79cfcd35f71af28828289cd04ed7",
+        "release_id": "2026-09-02_1031",
+        "repo": "main",
+        "size": 109475114,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/raceintospace.zip"
       },
       "version": 4
     },
@@ -98881,6 +99341,96 @@
         "repo": "main",
         "size": 5268843,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-07_1231/skautfoldinsanity.zip"
+      },
+      "version": 4
+    },
+    "skeldal.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Gates of Skeldal is a cult classic Czech dungeon crawler from 1998. On the mythical island of Rovenland, a party of adventurers sets out to stop five rogue mages from the tower of Skeldal. Enjoy turn-based combat, powerful magic, and tricky puzzles in this legendary RPG!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam, open the Steam console and use the following command to download a correct version: download_depot 3533830 3533831 6059229500711526139. Copy downloaded files into port folder (skeldal).",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3533830/Brany_Skeldalu/), open the [Steam console](steam://open/console) and use the following command to download a correct version: `download_depot 3533830 3533831 6059229500711526139`. Copy downloaded files into port folder (`skeldal`).",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "analog_1"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/3533830/Brany_Skeldalu/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Gates of Skeldal"
+      },
+      "items": [
+        "Gates of Skeldal.sh",
+        "skeldal"
+      ],
+      "items_opt": null,
+      "name": "skeldal.zip",
+      "source": {
+        "date_added": "2026-09-02",
+        "date_updated": "2026-09-02",
+        "md5": "751eebe8e6cbd74342977b0cf5ab5f3e",
+        "release_id": "2026-09-02_1146",
+        "repo": "main",
+        "size": 1309023,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1146/skeldal.zip"
       },
       "version": 4
     },
@@ -110750,12 +111300,12 @@
       "name": "tamashii.zip",
       "source": {
         "date_added": "2024-11-28",
-        "date_updated": "2024-11-28",
-        "md5": "c2a07598d8d2eaf3f972b9a45ec44489",
-        "release_id": "2024-11-28_0901",
+        "date_updated": "2026-09-02",
+        "md5": "95190d73d468844a0e6e01eecdb2a569",
+        "release_id": "2026-09-02_1031",
         "repo": "main",
-        "size": 7074279,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/tamashii.zip"
+        "size": 7074333,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/tamashii.zip"
       },
       "version": 4
     },
@@ -115309,12 +115859,12 @@
       },
       "source": {
         "date_added": "2024-03-08",
-        "date_updated": "2025-10-04",
-        "md5": "974c75098662d355ea5fc92b4c13c190",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-09-02",
+        "md5": "71b6c02b443a70c2f497dd1c348b7d74",
+        "release_id": "2026-09-02_1031",
         "repo": "main",
-        "size": 10574837,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/tmntsr.zip"
+        "size": 10574871,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/tmntsr.zip"
       },
       "version": 2
     },
@@ -122915,6 +123465,95 @@
         "repo": "main",
         "size": 23879858,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-11_1509/watchduckslegacy.zip"
+      },
+      "version": 4
+    },
+    "watercloset.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Escape down the toilet at the end of each stage in this puzzle-platformer, using a time-cloning mechanic to solve each room.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion",
+          "Bamboozler"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Water Closet"
+      },
+      "items": [
+        "Water Closet.sh",
+        "watercloset"
+      ],
+      "items_opt": null,
+      "name": "watercloset.zip",
+      "source": {
+        "date_added": "2026-09-02",
+        "date_updated": "2026-09-02",
+        "md5": "fab60fb7c4cb9931403f1575e44da060",
+        "release_id": "2026-09-02_1031",
+        "repo": "main",
+        "size": 8345046,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/watercloset.zip"
       },
       "version": 4
     },
