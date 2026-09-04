@@ -49069,6 +49069,105 @@
       },
       "version": 4
     },
+    "happyhills2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "He is back. Once again take control of mass serial killer John Wade. Six years later, the infamous Pale Grin resurrects from the grave to terrorize the broken town of Happyhills.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your Steam or GameJolt copy of the game into happyhills2/assets/ on first run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/Copperbolt",
+            "gameurl": "https://store.steampowered.com/app/3489670/The_Happyhills_Homicide_2_Out_For_Blood/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://gamejolt.com/@copperbolt",
+            "gameurl": "https://gamejolt.com/games/thehappyhillshomicide2/883945",
+            "name": "GameJolt"
+          }
+        ],
+        "title": "The Happyhills Homicide 2: Out For Blood"
+      },
+      "items": [
+        "Happyhills Homicide 2.sh",
+        "happyhills2"
+      ],
+      "items_opt": null,
+      "name": "happyhills2.zip",
+      "source": {
+        "date_added": "2026-09-04",
+        "date_updated": "2026-09-04",
+        "md5": "1929b08613834ac2bae497073ab9f9e7",
+        "release_id": "2026-09-04_1353",
+        "repo": "main",
+        "size": 41907686,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-04_1353/happyhills2.zip"
+      },
+      "version": 4
+    },
     "hargrave.zip": {
       "attr": {
         "arch": [
@@ -84985,12 +85084,12 @@
       "name": "postal.zip",
       "source": {
         "date_added": "2026-09-02",
-        "date_updated": "2026-09-02",
-        "md5": "6cbec6183fcf6bf3cdd41d08a05fe1d6",
-        "release_id": "2026-09-02_1031",
+        "date_updated": "2026-09-04",
+        "md5": "515e5a57f146ec90b88336d5d7797edd",
+        "release_id": "2026-09-04_1353",
         "repo": "main",
-        "size": 878872,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/postal.zip"
+        "size": 879027,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-04_1353/postal.zip"
       },
       "version": 4
     },
@@ -99621,12 +99720,12 @@
       "name": "skeldal.zip",
       "source": {
         "date_added": "2026-09-02",
-        "date_updated": "2026-09-02",
-        "md5": "751eebe8e6cbd74342977b0cf5ab5f3e",
-        "release_id": "2026-09-02_1146",
+        "date_updated": "2026-09-04",
+        "md5": "4d48fe124042447717ee17529bc88134",
+        "release_id": "2026-09-04_1353",
         "repo": "main",
-        "size": 1309023,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1146/skeldal.zip"
+        "size": 1308888,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-04_1353/skeldal.zip"
       },
       "version": 4
     },
@@ -114449,6 +114548,105 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/thesunandmoon.zip"
       },
       "version": 2
+    },
+    "theswapper.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A puzzle-platformer set aboard an abandoned space station, built around creating and swapping between clones.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase The Swapper on Steam, download the Windows depot with `download_depot 231160 231161 5334393392610826601`, and copy its files into `ports/theswapper/gamedata`.",
+        "inst_md": "### Steam Instructions\n* [Open Steam console](steam://open/console)\n* Copy and paste command: `download_depot 231160 231161 5334393392610826601`\n* Copy the downloaded files into `ports/theswapper/gamedata`.\n\nThe folder should contain `TheSwapper.exe`, `mainSettings.ini`, and the `data` directory.",
+        "min_glibc": "2.17",
+        "porter": [
+          "Producdevity"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [
+          "mono-6.12.0.122-aarch64.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/231160/The_Swapper/",
+            "name": "Steam"
+          }
+        ],
+        "title": "The Swapper"
+      },
+      "items": [
+        "The Swapper.sh",
+        "theswapper"
+      ],
+      "items_opt": null,
+      "name": "theswapper.zip",
+      "source": {
+        "date_added": "2026-09-04",
+        "date_updated": "2026-09-04",
+        "md5": "31217908918f33849448fa63acefb041",
+        "release_id": "2026-09-04_1353",
+        "repo": "main",
+        "size": 2208443,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-04_1353/theswapper.zip"
+      },
+      "version": 4
     },
     "thewind.zip": {
       "attr": {
