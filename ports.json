@@ -19631,6 +19631,102 @@
       },
       "version": 4
     },
+    "celeste64.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A 3D platformer inspired by classic N64 games. Play as Madeline, explore a small version of Celeste Mountain, collect strawberries, and master Celeste's signature movement.\n",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://exok.com/",
+            "gameurl": "https://maddymakesgamesinc.itch.io/celeste64",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Celeste 64"
+      },
+      "items": [
+        "Celeste64.sh",
+        "celeste64"
+      ],
+      "items_opt": null,
+      "name": "celeste64.zip",
+      "source": {
+        "date_added": "2026-09-04",
+        "date_updated": "2026-09-04",
+        "md5": "e606af52438813c331707732cdbb0577",
+        "release_id": "2026-09-04_1516",
+        "repo": "main",
+        "size": 32650808,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-04_1516/celeste64.zip"
+      },
+      "version": 4
+    },
     "chaoresortisland.zip": {
       "attr": {
         "arch": [
@@ -34293,6 +34389,94 @@
         "repo": "main",
         "size": 3072439,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/dustaet.zip"
+      },
+      "version": 4
+    },
+    "dustracing2d.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Traditional top-down 2D car racing game with a track editor.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "qt6-eglfs-6.6.3.squashfs"
+        ],
+        "store": [],
+        "title": "Dust Racing 2D"
+      },
+      "items": [
+        "Dust Racing 2D.sh",
+        "dustracing2d"
+      ],
+      "items_opt": null,
+      "name": "dustracing2d.zip",
+      "source": {
+        "date_added": "2026-09-04",
+        "date_updated": "2026-09-04",
+        "md5": "8b77d2cbaaca36deceea29268f216648",
+        "release_id": "2026-09-04_1516",
+        "repo": "main",
+        "size": 5604304,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-04_1516/dustracing2d.zip"
       },
       "version": 4
     },
@@ -119881,6 +120065,98 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/ultimatetapankaikki.zip"
       },
       "version": 2
+    },
+    "ultionus.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The galactic heroine Serena S and her best friend Balzac have saved the Universe again! She posts her victory on Spacebook only to be trolled by a misogynistic self proclaimed space prince. Time to make him pay! Ultionus is a love-letter to the home computer and arcade games of the late 80s and early 90s! It's kinda a spiritual successor to Phantis/Game Over II. Huge Thanks goes to Darkfalzx for making this game!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "[Instructions]\n1) Download Legacy Version of Ultionus from itch.io (Download Ultionus_RC3D_Windows_NoSteam)\n2) Drop purchased game files into the Game Data folder\n3) Enjoy!!! \n\n[How to Play]\nA = Jump\nX = Shoot",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Pridetoons"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://darkfalzx.itch.io/",
+            "gameurl": "https://darkfalzx.itch.io/ultionus",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Ultionus"
+      },
+      "items": [
+        "Ultionus.sh",
+        "ultionus"
+      ],
+      "items_opt": null,
+      "name": "ultionus.zip",
+      "source": {
+        "date_added": "2026-09-04",
+        "date_updated": "2026-09-04",
+        "md5": "beb4b2352ca2048085b796dfab1f7afb",
+        "release_id": "2026-09-04_1516",
+        "repo": "main",
+        "size": 11967001,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-04_1516/ultionus.zip"
+      },
+      "version": 4
     },
     "ultracoredive.zip": {
       "attr": {
