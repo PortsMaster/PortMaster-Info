@@ -121982,6 +121982,88 @@
       },
       "version": 4
     },
+    "ut99.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Unreal Tournament is Epic's 1999 arena first-person shooter. This PortMaster package runs the OldUnreal 469e Linux ARM64 update with a native OpenGL ES 2 renderer and handheld controls inspired by UT99-Android.",
+        "desc_md": "Unreal Tournament is Epic's 1999 arena first-person shooter. This PortMaster package runs the [OldUnreal 469e](https://github.com/OldUnreal/UnrealTournamentPatches/releases/tag/v469e) Linux ARM64 update using its native OpenGL ES renderer and handheld-oriented controls inspired by [UT99-Android](https://github.com/Andiweli/UT99-Android).",
+        "exp": true,
+        "genres": [
+          "action",
+          "fps"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy Maps, Music, and Sounds from a legally owned Unreal Tournament installation into ports/ut99/gamedata. Merge the original Textures contents into gamedata/Textures without replacing LadderFonts.utx or UWindowFonts.utx. Do not copy the original System folder.",
+        "inst_md": "Copy `Maps`, `Music`, and `Sounds` from a legally owned Unreal Tournament installation into `ports/ut99/gamedata`. Merge the original `Textures` contents into `gamedata/Textures` **without replacing** `LadderFonts.utx` or `UWindowFonts.utx`. Do **not** copy the original `System` folder.",
+        "min_glibc": "2.27",
+        "porter": [
+          "ToastedFrog"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Unreal Tournament '99"
+      },
+      "items": [
+        "Unreal Tournament 99.sh",
+        "ut99"
+      ],
+      "items_opt": null,
+      "name": "ut99.zip",
+      "source": {
+        "date_added": "2026-09-08",
+        "date_updated": "2026-09-08",
+        "md5": "eb72403fbd7b6a2203aabffe5cc3a87a",
+        "release_id": "2026-09-08_2225",
+        "repo": "main",
+        "size": 71432581,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_2225/ut99.zip"
+      },
+      "version": 4
+    },
     "vacuoussugarquest.zip": {
       "attr": {
         "arch": [],
