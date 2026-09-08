@@ -60151,6 +60151,102 @@
       },
       "version": 4
     },
+    "layton1.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A remaster of the puzzle-adventure classic. Professor Layton and his apprentice Luke arrive in the village of St. Mystere to solve the mystery of the Golden Apple, and find a place where every resident answers a question with a riddle. Over 130 puzzles, hand-drawn art and fully animated cutscenes, rebuilt in HD.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase Layton: Curious Village in HD on Google Play and install it on an Android device. Install SAI: https://github.com/Aefyr/SAI/releases/tag/4.5 on that device. In SAI, open the Backup tab, find Layton: Curious Village in HD, and export it. The game is a split install, so this produces an APK file containing several APKs rather than a single one. Copy the APK to your computer, rename it to .zip and extract it. \n\nYou only need two of the pieces:\n  - \"split_config.arm64_v8a.apk\" \u2014 contains \"lib/\"\n  - \"split_InstallAssets.apk\" \u2014 contains \"assets/\" (about 580 MB, the bulk of the game)\n\nExtract the \"lib\" folder from \"split_config.arm64_v8a.apk\", and the \"assets\" folder from \"split_InstallAssets.apk\" (APKs are ordinary zip files, so any archiver opens them).\n\nCopy both folders into \"ports/layton1/\" so they sit next to \"laytonloader\". Run Professor Layton and the Curious Village HD.\n\nCheck folder structure below if you are confused where to copy the files!",
+        "inst_md": "- Purchase Layton: Curious Village in HD on [Google Play](https://play.google.com/store/apps/details?id=com.Level5.LT1REU) and install it on an Android device.\n- Install [SAI (Split APKs Installer) 4.5](https://github.com/Aefyr/SAI/releases/tag/4.5) on that device.\n- In SAI, open the **Backup** tab, find *Layton: Curious Village in HD*, and export it. The game is a split install, so this produces an `.apk` file containing several APKs rather than a single one.\n- Copy the `.apk` to your computer, rename it to `.zip` and extract it. You only need two of the pieces:\n  - **`split_config.arm64_v8a.apk`** \u2014 contains `lib/`\n  - **`split_InstallAssets.apk`** \u2014 contains `assets/` (about 580 MB, the bulk of the game)\n- Extract the `lib` folder from `split_config.arm64_v8a.apk`, and the `assets` folder from `split_InstallAssets.apk` (APKs are ordinary zip files, so any archiver opens them).\n- Copy both folders into `ports/layton1/` so they sit next to `laytonloader`.\n- Run Professor Layton and the Curious Village HD.\n\nCheck folder structure below if you are confused where to copy the files!",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://en.wikipedia.org/wiki/Level-5_(company)",
+            "gameurl": "https://play.google.com/store/apps/details?id=com.Level5.LT1REU",
+            "name": "Play Store"
+          }
+        ],
+        "title": "Professor Layton Curious Village HD"
+      },
+      "items": [
+        "Professor Layton Curious Village HD.sh",
+        "layton1"
+      ],
+      "items_opt": null,
+      "name": "layton1.zip",
+      "source": {
+        "date_added": "2026-09-08",
+        "date_updated": "2026-09-08",
+        "md5": "c48f983a11891d8207bc63f7a43d7a22",
+        "release_id": "2026-09-08_0959",
+        "repo": "main",
+        "size": 6669855,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0959/layton1.zip"
+      },
+      "version": 4
+    },
     "lbreakouthd.zip": {
       "attr": {
         "arch": [
