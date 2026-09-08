@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-09-02",
-        "md5": "32edf8bdb58ed7adb78324733313ac79",
-        "release_id": "2026-09-02_1031",
+        "date_updated": "2026-09-08",
+        "md5": "c04077a2da60a3aae9eb113be0b4584e",
+        "release_id": "2026-09-08_0828",
         "repo": "main",
-        "size": 105395952,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-02_1031/2048plus.zip"
+        "size": 105395850,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0828/2048plus.zip"
       },
       "version": 4
     },
@@ -2304,6 +2304,94 @@
         "repo": "main",
         "size": 2276270,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-19_1404/alex4.zip"
+      },
+      "version": 4
+    },
+    "alexandria.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Pilot the Prometheus craft through alien landscapes and strike back at the Zokai in this Asteroids-style physics shooter with a full soundtrack.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Project Alexandria"
+      },
+      "items": [
+        "Alexandria.sh",
+        "alexandria"
+      ],
+      "items_opt": null,
+      "name": "alexandria.zip",
+      "source": {
+        "date_added": "2026-09-08",
+        "date_updated": "2026-09-08",
+        "md5": "a3085432bc091f65ca21e6ed336bc874",
+        "release_id": "2026-09-08_0828",
+        "repo": "main",
+        "size": 33433259,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0828/alexandria.zip"
       },
       "version": 4
     },
@@ -22430,6 +22518,93 @@
       },
       "version": 4
     },
+    "cortexcommandos.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "What? A Crash Bandicoot arena shooter?!\n\nChoose from 9 dastardly Crash Bandicoot villains and wreak havoc against a massive bandicoot-clone army! Upgrade your villain and wipe every bandicoot off the face of the earth! Test your mettle in story mode, arena mode and deathmatch mode and catch the thief who stole the master crystal and built the clone army!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game from Gamejolt and extract all game files into assets folder.",
+        "inst_md": "Download the game from [Gamejolt](https://gamejolt.com/games/cortexcommandos/1072986) and extract all game files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "!lowres",
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://gamejolt.com/games/cortexcommandos/1072986",
+            "name": "GameJolt"
+          }
+        ],
+        "title": "Cortex Commandos"
+      },
+      "items": [
+        "Cortex Commandos.sh",
+        "cortexcommandos"
+      ],
+      "items_opt": null,
+      "name": "cortexcommandos.zip",
+      "source": {
+        "date_added": "2026-09-08",
+        "date_updated": "2026-09-08",
+        "md5": "8b5e0c2b742556729cf1c765623c1bf9",
+        "release_id": "2026-09-08_0828",
+        "repo": "main",
+        "size": 8635858,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0828/cortexcommandos.zip"
+      },
+      "version": 4
+    },
     "cosmiccleaning.zip": {
       "attr": {
         "arch": [],
@@ -23450,6 +23625,94 @@
         "repo": "main",
         "size": 19385412,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-07_1504/criticalcore2.zip"
+      },
+      "version": 4
+    },
+    "critter.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Critical Mass (aka Critter) is a fast-paced arena shoot-'em-up similar to Galaxian: move your ship and blast waves of space critters attacking from above.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Critter"
+      },
+      "items": [
+        "Critter.sh",
+        "critter"
+      ],
+      "items_opt": null,
+      "name": "critter.zip",
+      "source": {
+        "date_added": "2026-09-08",
+        "date_updated": "2026-09-08",
+        "md5": "683e986e02cf29e846ac6ae0b9d9b3d9",
+        "release_id": "2026-09-08_0828",
+        "repo": "main",
+        "size": 6380721,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0828/critter.zip"
       },
       "version": 4
     },
@@ -60793,12 +61056,12 @@
       "name": "limbo.zip",
       "source": {
         "date_added": "2026-08-10",
-        "date_updated": "2026-08-10",
-        "md5": "626400653985617330d82cd8a7b6d5ac",
-        "release_id": "2026-08-10_1619",
+        "date_updated": "2026-09-08",
+        "md5": "d9779cbf2569c0c1ddbd30d4f133d791",
+        "release_id": "2026-09-08_0828",
         "repo": "main",
-        "size": 1487141,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-10_1619/limbo.zip"
+        "size": 1487128,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0828/limbo.zip"
       },
       "version": 4
     },
@@ -65917,6 +66180,104 @@
         "repo": "main",
         "size": 11557661,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/mayhemmail.zip"
+      },
+      "version": 4
+    },
+    "mazemice.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Maze Mice is a bullet heaven roguelite where time only moves when you move. Collect dots, level up, choose upgrades, and avoid cats. All at your own pace.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from Steam and copy Maze Mice.pck into the mazemice folder",
+        "inst_md": "Download from [Steam](https://store.steampowered.com/app/3385370/Maze_Mice/)\nand copy Maze Mice.pck into the mazemice folder",
+        "min_glibc": "",
+        "porter": [
+          "Slayer366",
+          "MadShmupper"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/TrampolineTales",
+            "gameurl": "https://store.steampowered.com/app/3385370/Maze_Mice/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Maze Mice"
+      },
+      "items": [
+        "Maze Mice.sh",
+        "mazemice"
+      ],
+      "items_opt": null,
+      "name": "mazemice.zip",
+      "source": {
+        "date_added": "2026-09-08",
+        "date_updated": "2026-09-08",
+        "md5": "1312f1f5852be568bc4f997754fed698",
+        "release_id": "2026-09-08_0828",
+        "repo": "main",
+        "size": 186524,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0828/mazemice.zip"
       },
       "version": 4
     },
@@ -76828,6 +77189,94 @@
         "repo": "main",
         "size": 578290,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/onenighthotsprings.zip"
+      },
+      "version": 4
+    },
+    "oneshotwme.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A puzzle adventure about Niko, a child who wakes in a dying world holding a lightbulb that is meant to become its new sun. The game knows you are there, and treats you as someone separate from Niko. It talks to you, remembers you, and eventually asks you to decide what a world gets to do with its only chance. World Machine Edition rebuilds the original's habit of reaching outside its own window into a simulated desktop you explore between chapters, so none of it touches your real machine. Soft pixel art, a quiet score, and an ending that plays once.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy and install OneShot: World Machine Edition on Steam. Copy the whole contents of the game's install folder into the oneshotwme/gamedata folder. Run OneShot. The first launch patches the game, which takes a moment.",
+        "inst_md": "- Buy and install OneShot: World Machine Edition on [Steam](https://store.steampowered.com/app/2915460/OneShot_World_Machine_Edition/)\n- Copy the **whole contents** of the game's install folder into the `oneshotwme/gamedata` folder.\n- Run OneShot. The first launch patches the game, which takes a moment.",
+        "min_glibc": "",
+        "porter": [
+          "JanTrueno"
+        ],
+        "reqs": [
+          "!lowres",
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [
+          "mono-6.12.0.122-aarch64.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://futurecatgames.itch.io/",
+            "gameurl": "https://store.steampowered.com/app/2915460/OneShot_World_Machine_Edition/",
+            "name": "Steam"
+          }
+        ],
+        "title": "OneShot World Machine Edition"
+      },
+      "items": [
+        "OneShot World Machine Edition.sh",
+        "oneshotwme"
+      ],
+      "items_opt": null,
+      "name": "oneshotwme.zip",
+      "source": {
+        "date_added": "2026-09-08",
+        "date_updated": "2026-09-08",
+        "md5": "21f0a7ccbb71fad812af978c9552294a",
+        "release_id": "2026-09-08_0828",
+        "repo": "main",
+        "size": 1791088,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0828/oneshotwme.zip"
       },
       "version": 4
     },
@@ -99876,8 +100325,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Purchase the game on Steam, open the Steam console and use the following command to download a correct version: download_depot 3533830 3533831 6059229500711526139. Copy downloaded files into port folder (skeldal).",
-        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3533830/Brany_Skeldalu/), open the [Steam console](steam://open/console) and use the following command to download a correct version: `download_depot 3533830 3533831 6059229500711526139`. Copy downloaded files into port folder (`skeldal`).",
+        "inst": "Purchase the game on Steam, open the game properties and Game Versions and Betas select the public_beta branch and download the game. Copy downloaded files into port folder (skeldal).",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3533830/Brany_Skeldalu/), open the game properties and `Game Versions and Betas` select the `public_beta` branch and download the game. Copy downloaded files into port folder (`skeldal`).",
         "min_glibc": "",
         "porter": [
           "Ganimoth"
@@ -99904,12 +100353,12 @@
       "name": "skeldal.zip",
       "source": {
         "date_added": "2026-09-02",
-        "date_updated": "2026-09-04",
-        "md5": "4d48fe124042447717ee17529bc88134",
-        "release_id": "2026-09-04_1353",
+        "date_updated": "2026-09-08",
+        "md5": "503539424884fcc6a642d8af2044c829",
+        "release_id": "2026-09-08_0828",
         "repo": "main",
-        "size": 1308888,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-04_1353/skeldal.zip"
+        "size": 1308857,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0828/skeldal.zip"
       },
       "version": 4
     },
