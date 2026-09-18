@@ -11089,6 +11089,86 @@
       },
       "version": 4
     },
+    "blipnblup.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "full",
+        "desc": "A 3D co-op arcade platformer about two fish, a pact with Sa'Tong and a quest for food, enlightenment and trust. Inspired by Bubble Bobble and The Lost Vikings.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Blip 'n Blup"
+      },
+      "items": [
+        "Blip n Blup.sh",
+        "blipnblup"
+      ],
+      "items_opt": null,
+      "name": "blipnblup.zip",
+      "source": {
+        "date_added": "2026-09-18",
+        "date_updated": "2026-09-18",
+        "md5": "e761a55049212ce230a74fd43a84ba0a",
+        "release_id": "2026-09-18_0145",
+        "repo": "main",
+        "size": 58388497,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-18_0145/blipnblup.zip"
+      },
+      "version": 4
+    },
     "blobby.volley2.zip": {
       "attr": {
         "arch": [
@@ -22331,6 +22411,98 @@
       },
       "version": 4
     },
+    "copter.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A fast-paced retro helicopter arcade game where you navigate your chopper through an endless cavern.",
+        "desc_md": "Copter is a modern, feature-rich tribute to one of the most iconic browser games of the early internet era. This project is a lovingly crafted clone of the classic Flash game \"Helicopter Game,\" originally released in 2002 by creators David McCandless and Leandro Barreto.\n\nNavigate your chopper through an endless, procedurally generated cavern. Hold the button to ascend, release to descend, and avoid crashing into the jagged walls or floating obstacles for as long as possible. While the core one-button gameplay remains true to the addictively simple original, this version has been completely rebuilt from the ground up for modern retro handhelds.",
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "kpee1"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Copter"
+      },
+      "items": [
+        "Copter.sh",
+        "copter"
+      ],
+      "items_opt": null,
+      "name": "copter.zip",
+      "source": {
+        "date_added": "2026-09-18",
+        "date_updated": "2026-09-18",
+        "md5": "4cc34a6b1c787bf33bb9002a068257ca",
+        "release_id": "2026-09-18_0145",
+        "repo": "main",
+        "size": 4940097,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-18_0145/copter.zip"
+      },
+      "version": 4
+    },
     "corsairs.zip": {
       "attr": {
         "arch": [
@@ -27731,6 +27903,94 @@
         "repo": "main",
         "size": 14158796,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/deeprune.zip"
+      },
+      "version": 4
+    },
+    "defblade.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A precision pixel-art platformer with sword combat. Parkour across tricky obstacles and fight enemies to earn coins - lose them all and it's game over.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Defblade"
+      },
+      "items": [
+        "Defblade.sh",
+        "defblade"
+      ],
+      "items_opt": null,
+      "name": "defblade.zip",
+      "source": {
+        "date_added": "2026-09-18",
+        "date_updated": "2026-09-18",
+        "md5": "1b7203e2cddd531b65792e9bc7c28c4c",
+        "release_id": "2026-09-18_0145",
+        "repo": "main",
+        "size": 77054267,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-18_0145/defblade.zip"
       },
       "version": 4
     },
@@ -71066,6 +71326,103 @@
       },
       "version": 4
     },
+    "motionrec.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "MotionRec is a recording puzzle action game where you progress through stages by recording and playing back your own movements.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into assets folder. Patching can be very long on devices with 1GB RAM, up to about an hour. Also the game can take few minutes to load, so be patient.",
+        "inst_md": "Purchase the game on [Steam](store.steampowered.com/app/2602230/MotionRec/) and copy all game files into `assets` folder. Patching can be very long on devices with `1GB RAM`, up to about an hour. Also the game can take few minutes to load, so be patient.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://playism.com/game/motionrec/",
+            "gameurl": "store.steampowered.com/app/2602230/MotionRec/",
+            "name": "Steam"
+          }
+        ],
+        "title": "MotionRec"
+      },
+      "items": [
+        "MotionRec.sh",
+        "motionrec"
+      ],
+      "items_opt": null,
+      "name": "motionrec.zip",
+      "source": {
+        "date_added": "2026-09-18",
+        "date_updated": "2026-09-18",
+        "md5": "d42f7beb50061f45ecbea84daf05587c",
+        "release_id": "2026-09-18_0145",
+        "repo": "main",
+        "size": 34888548,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-18_0145/motionrec.zip"
+      },
+      "version": 4
+    },
     "mpd.zip": {
       "attr": {
         "arch": [
@@ -83292,6 +83649,88 @@
         "repo": "main",
         "size": 92796264,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/phasingpuller.zip"
+      },
+      "version": 4
+    },
+    "picayunedreams.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Picayune Dreams is a roguelike blend of bullet heaven horde survival, and bullet hell gameplay. Adrift across the endless void, you must fend off thousands of nightmarish and otherwordly creatures. Uncover a mysterious and surreal story. And don't forget. You mu [TRANSMISSION INTERRUPTED...] ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam, go into  game Properties and switch to the compatibility VM build and download it. Copy all files into assets folder. A H700/A133p CPU is a minimum, but more powerful devices like Mangmi Air X are strongly recommended.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2088840/Picayune_Dreams/),  go into  game Propertie and switch to the `compatibility VM build` and download it. Copy all files into `assets` folder. A H700/A133p CPU is a minimum, but more powerful devices like Mangmi Air X are strongly recommended.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "!lowres",
+          "power",
+          "analog_1"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2088840/Picayune_Dreams/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Picayune Dreams"
+      },
+      "items": [
+        "Picayune Dreams.sh",
+        "picayunedreams"
+      ],
+      "items_opt": null,
+      "name": "picayunedreams.zip",
+      "source": {
+        "date_added": "2026-09-18",
+        "date_updated": "2026-09-18",
+        "md5": "5c7aba5ed446aee1472f4b5f9e695865",
+        "release_id": "2026-09-18_0145",
+        "repo": "main",
+        "size": 29314029,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-18_0145/picayunedreams.zip"
       },
       "version": 4
     },
@@ -100275,12 +100714,12 @@
       "name": "simutrans.zip",
       "source": {
         "date_added": "2025-03-06",
-        "date_updated": "2025-03-06",
-        "md5": "d75ac30d8c0b7f6e2d837af1ec23b438",
-        "release_id": "2025-03-06_1114",
+        "date_updated": "2026-09-18",
+        "md5": "a8f8cf19071ded4979f4c7b155d5a391",
+        "release_id": "2026-09-18_0145",
         "repo": "main",
-        "size": 13749516,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-06_1114/simutrans.zip"
+        "size": 13749538,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-18_0145/simutrans.zip"
       },
       "version": 4
     },
