@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-09-08",
-        "md5": "c04077a2da60a3aae9eb113be0b4584e",
-        "release_id": "2026-09-08_0828",
+        "date_updated": "2026-09-20",
+        "md5": "6196c6df96ed2921a740c8a5ad2d6e1e",
+        "release_id": "2026-09-20_2300",
         "repo": "main",
-        "size": 105395850,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-08_0828/2048plus.zip"
+        "size": 105396233,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-20_2300/2048plus.zip"
       },
       "version": 4
     },
@@ -36801,6 +36801,107 @@
       },
       "version": 4
     },
+    "evilegg.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Evil Egg was an ecstatic twin-stick nightmare known for its brutal shooting action and intense audiovisual effects. Infinite horrors tear apart a world of little green men, the only hope an errant hatchling.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download v1.4.8 of the game and place Evil Egg.exe in ports/evilegg/",
+        "inst_md": "Download v1.48 of the game from [ivysly.com](https://ivysly.com/static/games/EvilEgg/versions/Evil%20Egg_windows_nodrm_1.4.8.zip) or via Steam using Steam console and the following steam command `download_depot 3651950 3651951 1239020414633141241`\nPlace Evil Egg.exe in ports/evilegg/",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://ivysly.com/",
+            "gameurl": "https://ivysly.com/games/evil-egg.html",
+            "name": "ivysly.com"
+          },
+          {
+            "developerurl": "https://ivysly.com/",
+            "gameurl": "https://store.steampowered.com/app/3651950/Evil_Egg/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Evil Egg"
+      },
+      "items": [
+        "Evil Egg.sh",
+        "evilegg"
+      ],
+      "items_opt": null,
+      "name": "evilegg.zip",
+      "source": {
+        "date_added": "2026-09-20",
+        "date_updated": "2026-09-20",
+        "md5": "8342eaaf525de3c0661f8d34bfe3baeb",
+        "release_id": "2026-09-20_2300",
+        "repo": "main",
+        "size": 501895,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-20_2300/evilegg.zip"
+      },
+      "version": 4
+    },
     "evoland.zip": {
       "attr": {
         "arch": [
@@ -66182,6 +66283,94 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-04-01_0052/margot_beatrice_adventure.zip"
       },
       "version": 2
+    },
+    "marryampic2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A memory/pairs card game with an audio twist: find matching card pairs, either the classic way or by first hearing a sound and finding the pair it belongs to. Ships with 49 cardset themes, from the official Marryampic2 sets to the full legacy Marryampic I catalog.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed. Cardsets are bundled and extracted automatically on first launch.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Marryampic2"
+      },
+      "items": [
+        "Marryampic2.sh",
+        "marryampic2"
+      ],
+      "items_opt": null,
+      "name": "marryampic2.zip",
+      "source": {
+        "date_added": "2026-09-20",
+        "date_updated": "2026-09-20",
+        "md5": "67b13efbb23dcfbd077e7ab368f2dba6",
+        "release_id": "2026-09-20_2300",
+        "repo": "main",
+        "size": 52942326,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-20_2300/marryampic2.zip"
+      },
+      "version": 4
     },
     "maskless.zip": {
       "attr": {
@@ -113921,6 +114110,111 @@
       },
       "version": 4
     },
+    "teocida.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "TEOCIDA is an esoteric experience focused on puzzles, cloning mechanics, platforming challenges and experimental elements. Explore the enigmatic passageways of a twisted microcosm filled with symbolic faith landscapes and erotic nightmares.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam or Itch.io and copy all games files into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/1569470/TEOCIDA/) or [Itch.io](https://vikintor.itch.io/teocida) and copy all games files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/1569470/TEOCIDA/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "",
+            "gameurl": "https://vikintor.itch.io/teocida",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "TEOCIDA"
+      },
+      "items": [
+        "TEOCIDA.sh",
+        "teocida"
+      ],
+      "items_opt": null,
+      "name": "teocida.zip",
+      "source": {
+        "date_added": "2026-09-20",
+        "date_updated": "2026-09-20",
+        "md5": "60f6357186847ffb8d9e778511db0318",
+        "release_id": "2026-09-20_2300",
+        "repo": "main",
+        "size": 12309282,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-20_2300/teocida.zip"
+      },
+      "version": 4
+    },
     "terminus.zip": {
       "attr": {
         "arch": [],
@@ -120482,6 +120776,94 @@
         "repo": "main",
         "size": 14993734,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/tutoretta.zip"
+      },
+      "version": 4
+    },
+    "tuxaqfh.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Tuxedo T. Penguin: A Quest for Herring is a 3D platformer where you guide Tux (or his girlfriend Gown) through island levels collecting hidden herring while dodging killer whales and leopard seals.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Tuxedo T. Penguin: A Quest for Herring"
+      },
+      "items": [
+        "Tux AQFH.sh",
+        "tuxaqfh"
+      ],
+      "items_opt": null,
+      "name": "tuxaqfh.zip",
+      "source": {
+        "date_added": "2026-09-20",
+        "date_updated": "2026-09-20",
+        "md5": "c3aaa5e69fa50122c8a39bdbf373ba50",
+        "release_id": "2026-09-20_2300",
+        "repo": "main",
+        "size": 4499880,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-20_2300/tuxaqfh.zip"
       },
       "version": 4
     },
