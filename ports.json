@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-09-20",
-        "md5": "6196c6df96ed2921a740c8a5ad2d6e1e",
-        "release_id": "2026-09-20_2300",
+        "date_updated": "2026-09-21",
+        "md5": "d66e25f6a714590772597996dba18a6d",
+        "release_id": "2026-09-21_0303",
         "repo": "main",
-        "size": 105396233,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-20_2300/2048plus.zip"
+        "size": 105396245,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-21_0303/2048plus.zip"
       },
       "version": 4
     },
