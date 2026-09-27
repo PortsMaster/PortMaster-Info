@@ -20075,6 +20075,102 @@
       },
       "version": 4
     },
+    "charliemurder.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Charlie Murder is a chaotic punk-rock beat-em-up by Ska Studios. Fight through hordes of undead monsters as Charlie and his band of misfits in this action-packed side-scroller originally released for Xbox 360.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the contents of your Steam Windows build of Charlie Murder into the ports/charliemurder/gamedata directory. To get the Windows depot via Steam console, run: download_depot 405290 405291. Required files include CharlieMurder.exe and all game asset folders (Content, character, clothes, etc.). On first launch, the port will automatically set up and convert assets. This may take about 40 minutes.",
+        "inst_md": "Copy the contents of your Steam Windows build of Charlie Murder into the `ports/charliemurder/gamedata` directory.\n\nTo get the Windows depot via Steam console, run:\n\n```\ndownload_depot 405290 405291\n```\n\nRequired files include `CharlieMurder.exe` and all game asset folders (`Content`, `character`, `clothes`, etc.).\n\nOn first launch, the port will automatically set up and convert assets. This may take about 40 minutes.",
+        "min_glibc": "",
+        "porter": [
+          "DerTom"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "mono-6.12.0.122-aarch64.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://ska-studios.com/games/charlie-murder/",
+            "gameurl": "https://store.steampowered.com/app/405290/Charlie_Murder/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Charlie Murder"
+      },
+      "items": [
+        "Charlie Murder.sh",
+        "charliemurder"
+      ],
+      "items_opt": null,
+      "name": "charliemurder.zip",
+      "source": {
+        "date_added": "2026-09-27",
+        "date_updated": "2026-09-27",
+        "md5": "6d1571472523371a400302bd0e6bcbbd",
+        "release_id": "2026-09-27_2331",
+        "repo": "main",
+        "size": 5512088,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-27_2331/charliemurder.zip"
+      },
+      "version": 4
+    },
     "chasm.zip": {
       "attr": {
         "arch": [],
