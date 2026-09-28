@@ -35088,12 +35088,12 @@
       "name": "dusklight.zip",
       "source": {
         "date_added": "2026-07-29",
-        "date_updated": "2026-07-29",
-        "md5": "985b3356caeeda0d8b00cda86de9b1b5",
-        "release_id": "2026-07-29_1431",
+        "date_updated": "2026-09-28",
+        "md5": "d1dedba31ce1a6121be93d4270cfe8a9",
+        "release_id": "2026-09-28_1738",
         "repo": "multiverse",
-        "size": 24324846,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-07-29_1431/dusklight.zip"
+        "size": 23715427,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-28_1738/dusklight.zip"
       },
       "version": 4
     },
@@ -72153,6 +72153,97 @@
         "repo": "main",
         "size": 30738062,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/mpd.zip"
+      },
+      "version": 4
+    },
+    "mporigins.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Metroid Prime Origins is a fan-made 2D \"demake\" of the 2002 classic Metroid Prime, reimagining the original 3D GameCube game as an 8-bit, NES-style adventure. Developed by the team at Lv. 4 GAMES with custom pixel art, sound effects, and fan-made chiptune music.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Go to https://drive.google.com/drive/folders/15wf2j9x4SvWAuuYjOsznEBHtf41qaOJh and download the Metroid Prime Origins 1.1.2 VM.zip. Extract all game files into assets folder. Devices with H700 CPU are a minimum, but stronger devices like Mangmi Air X or Anbernic RG Vita Pro are recommended for this game.",
+        "inst_md": "Go to https://drive.google.com/drive/folders/15wf2j9x4SvWAuuYjOsznEBHtf41qaOJh and download the `Metroid Prime Origins 1.1.2 VM.zip`. Extract all game files into `assets` folder. Devices with H700 CPU are a minimum, but stronger devices like `Mangmi Air X` or `Anbernic RG Vita Pro` are recommended for this game.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Metroid Prime Origins"
+      },
+      "items": [
+        "Metroid Prime Origins.sh",
+        "mporigins"
+      ],
+      "items_opt": null,
+      "name": "mporigins.zip",
+      "source": {
+        "date_added": "2026-09-28",
+        "date_updated": "2026-09-28",
+        "md5": "9111c9a3215b1b38ff690017d21eb2a0",
+        "release_id": "2026-09-28_1738",
+        "repo": "multiverse",
+        "size": 8551984,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-28_1738/mporigins.zip"
       },
       "version": 4
     },
@@ -109392,6 +109483,96 @@
         "repo": "main",
         "size": 934738,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-03_1321/stepbystep.zip"
+      },
+      "version": 4
+    },
+    "sternenfuchs.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "ARM64/PortMaster packaging of the open-source Star Fox Enhanced runtime, a fan-made SNES Star Fox/Starwing enhancement. No Nintendo ROM or ROM-derived data is included.",
+        "desc_md": null,
+        "exp": true,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your own legally obtained Star Fox/Starwing `.sfc` or `.smc` ROM (USA, Japan or Europe retail revision) into `ports/sternenfuchs/`. On first launch the game builds `Starfox-Assets.BIN` from it.",
+        "inst_md": null,
+        "min_glibc": "2.35",
+        "porter": [
+          "mtoensing"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Sternenfuchs"
+      },
+      "items": [
+        "Sternenfuchs.sh",
+        "sternenfuchs/"
+      ],
+      "items_opt": null,
+      "name": "sternenfuchs.zip",
+      "source": {
+        "date_added": "2026-09-28",
+        "date_updated": "2026-09-28",
+        "md5": "c533e0171380804a26f45dd4cbf61436",
+        "release_id": "2026-09-28_1738",
+        "repo": "multiverse",
+        "size": 5485108,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-28_1738/sternenfuchs.zip"
       },
       "version": 4
     },
