@@ -109535,7 +109535,7 @@
         "availability": "paid",
         "desc": "ARM64/PortMaster packaging of the open-source Star Fox Enhanced runtime, a fan-made SNES Star Fox/Starwing enhancement. No Nintendo ROM or ROM-derived data is included.",
         "desc_md": null,
-        "exp": true,
+        "exp": false,
         "genres": [
           "action"
         ],
@@ -109567,12 +109567,12 @@
       "name": "sternenfuchs.zip",
       "source": {
         "date_added": "2026-09-28",
-        "date_updated": "2026-09-28",
-        "md5": "c533e0171380804a26f45dd4cbf61436",
-        "release_id": "2026-09-28_1738",
+        "date_updated": "2026-09-29",
+        "md5": "96f3a1b608964ed3462c8b477617eddc",
+        "release_id": "2026-09-29_0655",
         "repo": "multiverse",
-        "size": 5485108,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-28_1738/sternenfuchs.zip"
+        "size": 5485793,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-29_0655/sternenfuchs.zip"
       },
       "version": 4
     },
