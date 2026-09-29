@@ -68208,12 +68208,12 @@
       "name": "megamanw.zip",
       "source": {
         "date_added": "2026-09-02",
-        "date_updated": "2026-09-02",
-        "md5": "83910b8e2ce68e80fb6139d05215d186",
-        "release_id": "2026-09-02_1433",
+        "date_updated": "2026-09-29",
+        "md5": "a60852810768e117992c14ebb8f9e6ec",
+        "release_id": "2026-09-29_1930",
         "repo": "multiverse",
-        "size": 159739,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-02_1433/megamanw.zip"
+        "size": 178901,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-29_1930/megamanw.zip"
       },
       "version": 4
     },
@@ -68303,6 +68303,104 @@
         "repo": "main",
         "size": 133245,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/megamanx816-bit.zip"
+      },
+      "version": 4
+    },
+    "megamanxregenesis.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Note: This game is hard to run so it comes with a preconfigured save file with lighting and partical effects turned off. If you wish to create or add a save file I HIGHLY recommend that you turn off lighting and partical effects. Game Description: Set in an alternate timeline following the events of Mega Man X, Sigma has won, X has fallen, and humanity stands on the brink of extinction. Just when all hope appears lost, Dr. Cain unveils his final contingency\u2014Project Regenesis. Given one last chance to rewrite history, X must rise once again and fight to save what remains of humanity.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the latest Windows version of the game from https://mmxregenesis.itch.io/mega-man-x-regenesis#download/, extract the exe and place it into the game data folder within the ports directory.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "armsonic"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "godot_4.7.1.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://mmxregenesis.itch.io/",
+            "gameurl": "https://mmxregenesis.itch.io/mega-man-x-regenesis#download",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Mega Man X regenesis"
+      },
+      "items": [
+        "Mega Man X regenesis.sh",
+        "megamanxregenesis"
+      ],
+      "items_opt": null,
+      "name": "megamanxregenesis.zip",
+      "source": {
+        "date_added": "2026-09-29",
+        "date_updated": "2026-09-29",
+        "md5": "096bae3f67d0a7e1635d289403605806",
+        "release_id": "2026-09-29_1930",
+        "repo": "multiverse",
+        "size": 278980,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-29_1930/megamanxregenesis.zip"
       },
       "version": 4
     },
@@ -109568,11 +109666,11 @@
       "source": {
         "date_added": "2026-09-28",
         "date_updated": "2026-09-29",
-        "md5": "96f3a1b608964ed3462c8b477617eddc",
-        "release_id": "2026-09-29_0655",
+        "md5": "cb4f826550304be8c47248d452aace0e",
+        "release_id": "2026-09-29_2027",
         "repo": "multiverse",
-        "size": 5485793,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-29_0655/sternenfuchs.zip"
+        "size": 5555273,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-29_2027/sternenfuchs.zip"
       },
       "version": 4
     },
