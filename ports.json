@@ -12682,6 +12682,96 @@
       },
       "version": 2
     },
+    "bolzplatz2006.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Bolzplatz 2006, released in English as Slam Soccer 2006, is a funny football game in 3D comic style by Xenoage Software. Play friendly matches, a world cup or a full career with your own team, featuring wacky stadiums, weather and commentators. Includes the Gold Edition data.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "sports"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed. The first launch extracts the game data, which takes a few minutes.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [],
+        "title": "Bolzplatz 2006 (Slam Soccer 2006)"
+      },
+      "items": [
+        "Bolzplatz 2006.sh",
+        "bolzplatz2006"
+      ],
+      "items_opt": null,
+      "name": "bolzplatz2006.zip",
+      "source": {
+        "date_added": "2026-10-02",
+        "date_updated": "2026-10-02",
+        "md5": "3451b9e5993889435f6648e91349697f",
+        "release_id": "2026-10-02_1057",
+        "repo": "main",
+        "size": 107097843,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-02_1057/bolzplatz2006.zip"
+      },
+      "version": 4
+    },
     "bombastic.zip": {
       "attr": {
         "arch": [
@@ -30628,6 +30718,95 @@
       },
       "version": 4
     },
+    "divercity.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "DiverCity is an extended version of MicropolisJ, the open source Java edition of the classic city builder Micropolis. It adds A* traffic simulation, schools, universities with a research tree, museums, city halls, wind and solar power, big roads and train stations, and more realistic pollution spreading.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu11.48.21-ca-jdk11.0.11-linux.squashfs"
+        ],
+        "store": [],
+        "title": "DiverCity"
+      },
+      "items": [
+        "DiverCity.sh",
+        "divercity"
+      ],
+      "items_opt": null,
+      "name": "divercity.zip",
+      "source": {
+        "date_added": "2026-10-02",
+        "date_updated": "2026-10-02",
+        "md5": "826dbcf040c23644c63ac0338d42d62f",
+        "release_id": "2026-10-02_1057",
+        "repo": "main",
+        "size": 13629103,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-02_1057/divercity.zip"
+      },
+      "version": 4
+    },
     "diverdown.zip": {
       "attr": {
         "arch": [],
@@ -41401,6 +41580,103 @@
         "repo": "main",
         "size": 8911624,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-06_0219/flywrench.zip"
+      },
+      "version": 4
+    },
+    "fnaf1.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Welcome to your new summer job at Freddy Fazbear's Pizza, where kids and parents alike come for entertainment and food! The main attraction is Freddy Fazbear, of course; and his two friends. They are animatronic robots, programmed to please the crowds!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Downloads the latest version of the game on steam and place the FiveNightsatFreddys.exe into fnaf1/gamedata\n",
+        "inst_md": null,
+        "min_glibc": "2.35",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Scott%20Cawthon",
+            "gameurl": "https://store.steampowered.com/app/319510/Five_Nights_at_Freddys/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Five Nights at Freddy's"
+      },
+      "items": [
+        "Five Nights at Freddys.sh",
+        "fnaf1"
+      ],
+      "items_opt": null,
+      "name": "fnaf1.zip",
+      "source": {
+        "date_added": "2026-10-02",
+        "date_updated": "2026-10-02",
+        "md5": "2f87b70d85251188c652b3ed21a71e40",
+        "release_id": "2026-10-02_1057",
+        "repo": "main",
+        "size": 46303907,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-02_1057/fnaf1.zip"
       },
       "version": 4
     },
@@ -61711,6 +61987,94 @@
       },
       "version": 4
     },
+    "lgeneral.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A turn-based hex strategy game in the spirit of Panzer General. Command your forces through single scenarios or full campaigns against the AI, with entrenchment, supply, weather, surprise contacts and reinforcements shaping every battle.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": "",
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "LGeneral"
+      },
+      "items": [
+        "LGeneral.sh",
+        "lgeneral"
+      ],
+      "items_opt": null,
+      "name": "lgeneral.zip",
+      "source": {
+        "date_added": "2026-10-02",
+        "date_updated": "2026-10-02",
+        "md5": "5680951d49d0b26a85eced58c099712f",
+        "release_id": "2026-10-02_1057",
+        "repo": "main",
+        "size": 5872211,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-02_1057/lgeneral.zip"
+      },
+      "version": 4
+    },
     "librespot.zip": {
       "attr": {
         "arch": [
@@ -72126,7 +72490,7 @@
           "video": null
         },
         "inst": "Purchase the game on Steam and copy all game files into assets folder. Patching can be very long on devices with 1GB RAM, up to about an hour. Also the game can take few minutes to load, so be patient.",
-        "inst_md": "Purchase the game on [Steam](store.steampowered.com/app/2602230/MotionRec/) and copy all game files into `assets` folder. Patching can be very long on devices with `1GB RAM`, up to about an hour. Also the game can take few minutes to load, so be patient.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2602230/MotionRec/) and copy all game files into `assets` folder. Patching can be very long on devices with `1GB RAM`, up to about an hour. Also the game can take few minutes to load, so be patient.",
         "min_glibc": "",
         "porter": [
           "Ganimoth"
@@ -72151,12 +72515,12 @@
       "name": "motionrec.zip",
       "source": {
         "date_added": "2026-09-18",
-        "date_updated": "2026-09-18",
-        "md5": "d42f7beb50061f45ecbea84daf05587c",
-        "release_id": "2026-09-18_0145",
+        "date_updated": "2026-10-02",
+        "md5": "21dbd2d4b6ecbf94441afef125161276",
+        "release_id": "2026-10-02_1057",
         "repo": "main",
-        "size": 34888548,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-18_0145/motionrec.zip"
+        "size": 34888555,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-02_1057/motionrec.zip"
       },
       "version": 4
     },
@@ -84553,12 +84917,12 @@
       "name": "picayunedreams.zip",
       "source": {
         "date_added": "2026-09-18",
-        "date_updated": "2026-09-18",
-        "md5": "5c7aba5ed446aee1472f4b5f9e695865",
-        "release_id": "2026-09-18_0145",
+        "date_updated": "2026-10-02",
+        "md5": "45e0c2ec95f713ce082f2640e9046717",
+        "release_id": "2026-10-02_1057",
         "repo": "main",
-        "size": 29314029,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-18_0145/picayunedreams.zip"
+        "size": 29314035,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-02_1057/picayunedreams.zip"
       },
       "version": 4
     },
@@ -120150,6 +120514,94 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/towerfortress.zip"
       },
       "version": 2
+    },
+    "towerjumper.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A clone of the popular tower-jumping mobile game: spin the tower to guide a bouncing ball down through the gaps, avoiding the coloured danger segments. Levels are randomly generated.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "frt_2.1.6"
+        ],
+        "store": [],
+        "title": "TowerJumper"
+      },
+      "items": [
+        "TowerJumper.sh",
+        "towerjumper"
+      ],
+      "items_opt": null,
+      "name": "towerjumper.zip",
+      "source": {
+        "date_added": "2026-10-02",
+        "date_updated": "2026-10-02",
+        "md5": "c034e301812fe876bf83e686ac753dd2",
+        "release_id": "2026-10-02_1057",
+        "repo": "main",
+        "size": 1328494,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-02_1057/towerjumper.zip"
+      },
+      "version": 4
     },
     "toziuha.zip": {
       "attr": {
