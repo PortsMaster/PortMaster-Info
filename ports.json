@@ -22417,6 +22417,104 @@
       },
       "version": 4
     },
+    "cometstrikerdx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "CometStriker DX is a fast-paced arcade-style shooter where you boost through danger and blast everything in your way!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy and install the Linux version of CometStriker DX. Copy all the assets to cometstrikerdx/gamedata",
+        "inst_md": "1) Purchase the game from [Steam](https://store.steampowered.com/app/701040/CometStriker_DX/)  \n2) Buy and install the Linux version of CometStriker DX. If you are using windows, use the following steam command: `download_depot 701040 701045 2329121753280292494`  \n3) Copy all the assets to cometstrikerdx/gamedata  \n4) Run CometStriker DX.sh. The first startup will patch the game to make it run on devices with 1GB RAM.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "mono-6.12.0.122-aarch64.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://icedlizardgames.com/",
+            "gameurl": "https://store.steampowered.com/app/701040/CometStriker_DX/",
+            "name": "Steam"
+          }
+        ],
+        "title": "CometStriker DX"
+      },
+      "items": [
+        "CometStriker DX.sh",
+        "cometstrikerdx"
+      ],
+      "items_opt": null,
+      "name": "cometstrikerdx.zip",
+      "source": {
+        "date_added": "2026-10-03",
+        "date_updated": "2026-10-03",
+        "md5": "9dae7269e241e1b50bd23125b2873362",
+        "release_id": "2026-10-03_2024",
+        "repo": "main",
+        "size": 2638895,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-03_2024/cometstrikerdx.zip"
+      },
+      "version": 4
+    },
     "commander.genius.zip": {
       "attr": {
         "arch": [
@@ -41671,12 +41769,12 @@
       "name": "fnaf1.zip",
       "source": {
         "date_added": "2026-10-02",
-        "date_updated": "2026-10-02",
-        "md5": "2f87b70d85251188c652b3ed21a71e40",
-        "release_id": "2026-10-02_1057",
+        "date_updated": "2026-10-03",
+        "md5": "f73dd4a5ce2aec44b0d7c29325e8e995",
+        "release_id": "2026-10-03_2024",
         "repo": "main",
-        "size": 46303907,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-02_1057/fnaf1.zip"
+        "size": 46303912,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-03_2024/fnaf1.zip"
       },
       "version": 4
     },
@@ -53744,6 +53842,94 @@
         "repo": "main",
         "size": 7841802,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/hordes.zip"
+      },
+      "version": 4
+    },
+    "hostilelands.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A skill-based bullet-hell shooter with a TON of colorful characters, crunchy gunplay, and a planet that holds a grudge. Rescue your crew, reach the escape pod, and get out. The catch: every escape cranks up the Hostility toward those left behind.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and to get correct full version files use the following command in Steam Console: download_depot 3075890 3075891 579778157361625400. Copy downloaded files into assets folder. You can also use the free demo version. H700 devices are a minimum and stronger devices like Mangmi Air X are recommended. ",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/3075890/Hostile_Lands/) and to get correct full version files use the following command in  [Steam Console](steam://open/console): `download_depot 3075890 3075891 579778157361625400`. Copy downloaded files into `assets` folder.  You can also use the free demo version. `H700` devices are a minimum and stronger devices like `Mangmi Air X` are recommended.  ",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "power",
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://perceivinglight.com/hostile-lands/",
+            "gameurl": "https://store.steampowered.com/app/3075890/Hostile_Lands/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Hostile Lands"
+      },
+      "items": [
+        "Hostile Lands.sh",
+        "hostilelands"
+      ],
+      "items_opt": null,
+      "name": "hostilelands.zip",
+      "source": {
+        "date_added": "2026-10-03",
+        "date_updated": "2026-10-03",
+        "md5": "58abe242d483094655e9f8c7a8e6128d",
+        "release_id": "2026-10-03_2024",
+        "repo": "main",
+        "size": 8414910,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-03_2024/hostilelands.zip"
       },
       "version": 4
     },
@@ -94022,6 +94208,112 @@
       },
       "version": 4
     },
+    "residual.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Explore alien planets, gather resources and repair your ship in a procedurally generated survival platformer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your legally obtained residual.jar in residual/gamedata/. See README.md for GOG and Steam download instructions.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ronax"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://orangepixel.net/",
+            "gameurl": "https://www.gog.com/en/game/residual",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://orangepixel.net/",
+            "gameurl": "https://store.steampowered.com/app/1290780/Residual/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Residual"
+      },
+      "items": [
+        "Residual.sh",
+        "residual"
+      ],
+      "items_opt": null,
+      "name": "residual.zip",
+      "source": {
+        "date_added": "2026-10-03",
+        "date_updated": "2026-10-03",
+        "md5": "443e29ad78dfc50d6d37720b9b485185",
+        "release_id": "2026-10-03_2024",
+        "repo": "main",
+        "size": 246931,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-03_2024/residual.zip"
+      },
+      "version": 4
+    },
     "resistor.zip": {
       "attr": {
         "arch": [],
@@ -103656,7 +103948,7 @@
           "r36s:ALL"
         ],
         "availability": "paid",
-        "desc": "Super Mario 64 Co-op DX is a game based on the Super Mario 64 engine and modified to have multiplayer and mods.",
+        "desc": "Super Mario 64 Co-op DX for aarch64 handhelds. A build of sm64coopdx with online multiplayer, widescreen and Lua modding support.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -103670,10 +103962,11 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "You will have to copy your own rom legally obtained to ports/sm64coopdx with the name \u201cbaserom.us.z64\u201d.",
+        "inst": "Copy your legally obtained US Super Mario 64 ROM to ports/sm64coopdx/ as a .z64 file (e.g. baserom.us.z64). The launcher renames it automatically on first run.",
         "inst_md": null,
-        "min_glibc": "",
+        "min_glibc": "2.30",
         "porter": [
+          "DedicatedToSoftware",
           "CODEHEX4EVER"
         ],
         "reqs": [
@@ -103698,12 +103991,12 @@
       },
       "source": {
         "date_added": "2025-09-08",
-        "date_updated": "2025-09-08",
-        "md5": "b4e857ffad716ed2d0e2d90acd6d683e",
-        "release_id": "2025-09-08_1359",
+        "date_updated": "2026-10-03",
+        "md5": "7747071d062689023903a9f9427d0d8f",
+        "release_id": "2026-10-03_1820",
         "repo": "multiverse",
-        "size": 43130358,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-09-08_1359/sm64coopdx.zip"
+        "size": 37907612,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-03_1820/sm64coopdx.zip"
       },
       "version": 4
     },
@@ -114280,6 +114573,95 @@
       },
       "version": 4
     },
+    "taisei.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A free and open-source Touhou Project fan game. Dodge dense bullet patterns across six stages plus an extra stage, with a full story, spell practice and replays.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed. Game data is extracted from data-part*.tar.gz on first launch.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "elderica"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Taisei Project"
+      },
+      "items": [
+        "Taisei Project.sh",
+        "taisei"
+      ],
+      "items_opt": null,
+      "name": "taisei.zip",
+      "source": {
+        "date_added": "2026-10-03",
+        "date_updated": "2026-10-03",
+        "md5": "93ae8643ebdcc8da7f215a98b235028e",
+        "release_id": "2026-10-03_2024",
+        "repo": "main",
+        "size": 212681452,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-03_2024/taisei.zip"
+      },
+      "version": 4
+    },
     "talesfromtheotherside.zip": {
       "attr": {
         "arch": [
@@ -117071,6 +117453,102 @@
         "repo": "main",
         "size": 184287,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/thelastgame.zip"
+      },
+      "version": 4
+    },
+    "thelastsummerprologue.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "demo",
+        "desc": "The first three chapters of a cozy narrative isometric adventure about a seaside hotel, a summer twenty years ago, and the things people didn't say. Free.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. The first start unpacks the game data, which takes a moment.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Tri Hua Minh"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://tri2510.itch.io/",
+            "gameurl": "https://tri2510.itch.io/the-last-summer",
+            "name": "itch.io"
+          }
+        ],
+        "title": "The Last Summer: Prologue"
+      },
+      "items": [
+        "The Last Summer Prologue.sh",
+        "thelastsummerprologue"
+      ],
+      "items_opt": null,
+      "name": "thelastsummerprologue.zip",
+      "source": {
+        "date_added": "2026-10-03",
+        "date_updated": "2026-10-03",
+        "md5": "40e6e47f0a5375dbe1d5bfd1e6173e6b",
+        "release_id": "2026-10-03_2024",
+        "repo": "main",
+        "size": 50213249,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-03_2024/thelastsummerprologue.zip"
       },
       "version": 4
     },
@@ -133219,6 +133697,95 @@
         "repo": "main",
         "size": 155544949,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/zniwadventure.zip"
+      },
+      "version": 4
+    },
+    "zquestclassic.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "ZQuest Classic (formerly Zelda Classic) is an open source engine for top-down Zelda-style adventure games, with a library of hundreds of fan-made quests. This port includes the player plus the bundled demo quest The Deep; more quests, including the original classic quests, can be downloaded from PureZC.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box. To add quests, drop quest .zip files from purezc.net into the zquestclassic/quests folder.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "ZQuest Classic"
+      },
+      "items": [
+        "ZQuest Classic.sh",
+        "zquestclassic"
+      ],
+      "items_opt": null,
+      "name": "zquestclassic.zip",
+      "source": {
+        "date_added": "2026-10-03",
+        "date_updated": "2026-10-03",
+        "md5": "8e41c2e3c84eeef397628a1a01a1babb",
+        "release_id": "2026-10-03_1820",
+        "repo": "multiverse",
+        "size": 21610349,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-03_1820/zquestclassic.zip"
       },
       "version": 4
     },
