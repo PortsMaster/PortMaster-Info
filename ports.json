@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-09-21",
-        "md5": "d66e25f6a714590772597996dba18a6d",
-        "release_id": "2026-09-21_0303",
+        "date_updated": "2026-10-05",
+        "md5": "3192fa87d044f4406913b58f78dc385f",
+        "release_id": "2026-10-05_1657",
         "repo": "main",
-        "size": 105396245,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-09-21_0303/2048plus.zip"
+        "size": 105480777,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-05_1657/2048plus.zip"
       },
       "version": 4
     },
@@ -20820,6 +20820,102 @@
       },
       "version": 4
     },
+    "chokysuppression.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Choky Suppression! is a minimalistic, fast-phased first person shooter.\nInfiltrate a mystery fortress with your hover tank and fight with deadly killer drones!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://hijong-park.itch.io/choky-suppression",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Choky Suppression!"
+      },
+      "items": [
+        "Choky Suppression.sh",
+        "chokysuppression"
+      ],
+      "items_opt": null,
+      "name": "chokysuppression.zip",
+      "source": {
+        "date_added": "2026-10-05",
+        "date_updated": "2026-10-05",
+        "md5": "3bbfd311900ed166324c2149b4c96e12",
+        "release_id": "2026-10-05_1447",
+        "repo": "main",
+        "size": 6585659,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-05_1447/chokysuppression.zip"
+      },
+      "version": 4
+    },
     "chroma.zip": {
       "attr": {
         "arch": [
@@ -30539,6 +30635,95 @@
         "repo": "main",
         "size": 536086,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/digger.zip"
+      },
+      "version": 4
+    },
+    "dinolove2d.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A remake of google dino in love2d",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Dino Love2D"
+      },
+      "items": [
+        "Dino Love2D.sh",
+        "dinolove2d"
+      ],
+      "items_opt": null,
+      "name": "dinolove2d.zip",
+      "source": {
+        "date_added": "2026-10-05",
+        "date_updated": "2026-10-05",
+        "md5": "1b5437e2679f2bfc5b96de83e5a03a19",
+        "release_id": "2026-10-05_1447",
+        "repo": "main",
+        "size": 49297,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-05_1447/dinolove2d.zip"
       },
       "version": 4
     },
@@ -96926,8 +97111,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the Rolling Bird 1.8.6.zip from Itch.io and extract it into assets folder.",
-        "inst_md": "Download the `Rolling Bird 1.8.6.zip` from [Itch.io](https://hijong-park.itch.io/rolling-bird) and extract it into `assets` folder.",
+        "inst": "Ready to run.",
+        "inst_md": null,
         "min_glibc": "",
         "porter": [
           "Ganimoth"
@@ -96952,12 +97137,12 @@
       "name": "rollingbird.zip",
       "source": {
         "date_added": "2026-08-05",
-        "date_updated": "2026-08-05",
-        "md5": "b9cbf5575398cca2624c363db05a3716",
-        "release_id": "2026-08-05_0732",
+        "date_updated": "2026-10-05",
+        "md5": "38b94d3d7b02609be0708fe70c0d5b4d",
+        "release_id": "2026-10-05_1447",
         "repo": "main",
-        "size": 19599656,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/rollingbird.zip"
+        "size": 19599589,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-05_1447/rollingbird.zip"
       },
       "version": 4
     },
@@ -117543,12 +117728,12 @@
       "name": "thelastsummerprologue.zip",
       "source": {
         "date_added": "2026-10-03",
-        "date_updated": "2026-10-03",
-        "md5": "40e6e47f0a5375dbe1d5bfd1e6173e6b",
-        "release_id": "2026-10-03_2024",
+        "date_updated": "2026-10-05",
+        "md5": "9bad360fa8d2271e4d6ba9ab6e6b4c61",
+        "release_id": "2026-10-05_1447",
         "repo": "main",
-        "size": 50213249,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-03_2024/thelastsummerprologue.zip"
+        "size": 52589397,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-05_1447/thelastsummerprologue.zip"
       },
       "version": 4
     },
