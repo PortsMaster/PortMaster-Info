@@ -110487,7 +110487,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Copy your own legally obtained Star Fox/Starwing `.sfc` or `.smc` ROM (USA, Japan or Europe retail revision) into `ports/sternenfuchs/`. On first launch the game builds `Starfox-Assets.BIN` from it.",
+        "inst": "Copy your own legally obtained Star Fox/Starwing `.sfc` or `.smc` ROM (USA, Japan or Europe retail revision) into the `ports/sternenfuchs/` folder (the `your rom here.txt` file marks the spot). On first launch the game builds `Starfox-Assets.BIN` from it.",
         "inst_md": null,
         "min_glibc": "2.35",
         "porter": [
@@ -110507,12 +110507,12 @@
       "name": "sternenfuchs.zip",
       "source": {
         "date_added": "2026-09-28",
-        "date_updated": "2026-09-29",
-        "md5": "cb4f826550304be8c47248d452aace0e",
-        "release_id": "2026-09-29_2027",
+        "date_updated": "2026-10-08",
+        "md5": "69d1e1342b3e0c8464d39f14a20ff448",
+        "release_id": "2026-10-08_1426",
         "repo": "multiverse",
-        "size": 5555273,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-29_2027/sternenfuchs.zip"
+        "size": 5555616,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-08_1426/sternenfuchs.zip"
       },
       "version": 4
     },
@@ -133965,12 +133965,12 @@
       "name": "zquestclassic.zip",
       "source": {
         "date_added": "2026-10-03",
-        "date_updated": "2026-10-03",
-        "md5": "8e41c2e3c84eeef397628a1a01a1babb",
-        "release_id": "2026-10-03_1820",
+        "date_updated": "2026-10-08",
+        "md5": "200c6b509d5619c0e4f797bf468bf205",
+        "release_id": "2026-10-08_1426",
         "repo": "multiverse",
-        "size": 21610349,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-03_1820/zquestclassic.zip"
+        "size": 55928588,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-08_1426/zquestclassic.zip"
       },
       "version": 4
     },
