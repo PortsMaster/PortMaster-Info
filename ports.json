@@ -10451,6 +10451,204 @@
       },
       "version": 4
     },
+    "blacksouls.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Dark fairy-tale RPG Maker VX Ace game set in a twisted retelling of Alice in Wonderland, running on mkxp-z.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy Audio/, Graphics/, Fonts/, Game.ini and Game.rgss3a from your own installation directly into the blacksouls/ folder, alongside the engine. The Steam release ships a heavily reduced build; apply the publisher's free official patch to it first, or the port will run that reduced build.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Omka1337"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/publisher/otakuplan",
+            "gameurl": "https://store.steampowered.com/app/3755860/BLACK_SOULS/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33488.html",
+            "gameurl": "https://www.dlsite.com/maniax/work/=/product_id/RJ203687.html",
+            "name": "DLsite"
+          }
+        ],
+        "title": "BLACK SOULS"
+      },
+      "items": [
+        "BLACK SOULS.sh",
+        "blacksouls"
+      ],
+      "items_opt": null,
+      "name": "blacksouls.zip",
+      "source": {
+        "date_added": "2026-10-12",
+        "date_updated": "2026-10-12",
+        "md5": "9f7e3f8a90779e4724339b3ffba6ab5b",
+        "release_id": "2026-10-12_0117",
+        "repo": "main",
+        "size": 11322432,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/blacksouls.zip"
+      },
+      "version": 4
+    },
+    "blacksouls2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Sequel to the dark fairy tale RPG Maker VX Ace game, carrying its Alice in Wonderland retelling further into psychological horror, running on mkxp-z.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy Audio/, Graphics/, Fonts/, Movies/, Game.ini and Game.rgss3a from the Steam installation directly into the blacksouls2/ folder, alongside the engine.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Omka1337"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/publisher/otakuplan",
+            "gameurl": "https://store.steampowered.com/app/3855540/BLACK_SOULS_II/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.dlsite.com/maniax/circle/profile/=/maker_id/RG33488.html",
+            "gameurl": "https://www.dlsite.com/maniax/work/=/product_id/RJ293183.html",
+            "name": "DLsite"
+          }
+        ],
+        "title": "BLACK SOULS II"
+      },
+      "items": [
+        "BLACK SOULS II.sh",
+        "blacksouls2"
+      ],
+      "items_opt": null,
+      "name": "blacksouls2.zip",
+      "source": {
+        "date_added": "2026-10-12",
+        "date_updated": "2026-10-12",
+        "md5": "8cecbf0f1a0716ba0cb7e10a21d741e5",
+        "release_id": "2026-10-12_0117",
+        "repo": "main",
+        "size": 11405443,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/blacksouls2.zip"
+      },
+      "version": 4
+    },
     "blarglike.zip": {
       "attr": {
         "arch": [
@@ -24563,12 +24761,12 @@
       "name": "cropandclaw2.zip",
       "source": {
         "date_added": "2026-07-19",
-        "date_updated": "2026-07-21",
-        "md5": "04da89b510c388669e9a79e6cc4c6116",
-        "release_id": "2026-07-21_1309",
+        "date_updated": "2026-10-12",
+        "md5": "8ac63bfc09b53c0ab45238f94ea48052",
+        "release_id": "2026-10-12_0117",
         "repo": "main",
-        "size": 29219758,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_1309/cropandclaw2.zip"
+        "size": 37439632,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/cropandclaw2.zip"
       },
       "version": 4
     },
@@ -39288,6 +39486,102 @@
       },
       "version": 4
     },
+    "fancypants.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The Fancy Pants Adventures: Classic Pack collects Brad Borne's original Flash games, the series that set the bar for Flash platformers. Run, jump, slide and roll as the stick figure in the fancy pants through World 1, World 2 and World 3, picking your world from the hand drawn World 4 hub. Run fast, run fancy! Runs in the Ruffle Flash emulator; you need the game from Steam.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy the game on Steam and copy everything from its install folder into ports/fancypants/gamedata/. The first launch patches the game files and converts the World 4 textures, which takes a few minutes.",
+        "inst_md": "Buy the game on [Steam](https://store.steampowered.com/app/1668460/) and copy everything from its install folder into `ports/fancypants/gamedata/`. The first launch patches the game files and converts the World 4 textures, which takes a few minutes.",
+        "min_glibc": "2.30",
+        "porter": [
+          "crxssrazr93"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Borne%20Games",
+            "gameurl": "https://store.steampowered.com/app/1668460/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Fancy Pants Adventures: Classic Pack"
+      },
+      "items": [
+        "Fancy Pants Adventures.sh",
+        "fancypants"
+      ],
+      "items_opt": null,
+      "name": "fancypants.zip",
+      "source": {
+        "date_added": "2026-10-12",
+        "date_updated": "2026-10-12",
+        "md5": "91de45b7cf1be230ab4a3e6a389e7f21",
+        "release_id": "2026-10-12_0117",
+        "repo": "main",
+        "size": 8062951,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/fancypants.zip"
+      },
+      "version": 4
+    },
     "fanwor.zip": {
       "attr": {
         "arch": [
@@ -41963,6 +42257,103 @@
       },
       "version": 4
     },
+    "fnaf2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Welcome back to the new and improved Freddy Fazbear's Pizza! As always, Fazbear Entertainment is not responsible for death or dismemberment.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "To complete the port installation, download the latest version of FNAF 2 on steam and place the exe file in the ports gamedata/ folder",
+        "inst_md": null,
+        "min_glibc": "2.35",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Scott%20Cawthon",
+            "gameurl": "https://store.steampowered.com/app/332800/Five_Nights_at_Freddys_2/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Five Nights at Freddy's 2"
+      },
+      "items": [
+        "Five Nights at Freddys 2.sh",
+        "fnaf2"
+      ],
+      "items_opt": null,
+      "name": "fnaf2.zip",
+      "source": {
+        "date_added": "2026-10-12",
+        "date_updated": "2026-10-12",
+        "md5": "7842a71da5d7192397ba6aba3dd48db9",
+        "release_id": "2026-10-12_0117",
+        "repo": "main",
+        "size": 46652271,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/fnaf2.zip"
+      },
+      "version": 4
+    },
     "fnafnes.zip": {
       "attr": {
         "arch": [
@@ -43136,6 +43527,94 @@
         "repo": "main",
         "size": 10022535,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-10_1619/franticdimension.zip"
+      },
+      "version": 4
+    },
+    "freaks.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A 3D maze and monster smashing adventure, a remake of the 90s MS-DOS game Freaks! with free rotation, depth cue lighting and storms. Heal by feeding on the corpses of the monsters you kill.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Freaks 2.x"
+      },
+      "items": [
+        "Freaks.sh",
+        "freaks"
+      ],
+      "items_opt": null,
+      "name": "freaks.zip",
+      "source": {
+        "date_added": "2026-10-12",
+        "date_updated": "2026-10-12",
+        "md5": "10ad4eac45a0329ca0d11e845cca48b8",
+        "release_id": "2026-10-12_0117",
+        "repo": "main",
+        "size": 43559633,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/freaks.zip"
       },
       "version": 4
     },
@@ -57746,6 +58225,109 @@
         "repo": "main",
         "size": 68185178,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_0901/itta.zip"
+      },
+      "version": 4
+    },
+    "ittledew.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A short and sweet puzzle adventure. Ittle and her fairy fox Tippsie wash up on an island full of monsters, dungeons and treasure, and set out to find it all.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Any GOG or Steam version (Linux, Windows or Mac). GOG: copy the installer (.sh, .exe or .dmg) into ports/ittledew/gamedata. Steam: copy the game's files (Windows: dew.exe and dew_Data; Mac: IttleDew.app; Linux: IttleDew.x86 and IttleDew_Data) into ports/ittledew/gamedata.",
+        "inst_md": null,
+        "min_glibc": "2.28",
+        "porter": [
+          "Knifethrower"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://ludosity.com/",
+            "gameurl": "https://www.gog.com/game/ittle_dew",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://ludosity.com/",
+            "gameurl": "https://store.steampowered.com/app/241320/Ittle_Dew/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Ittle Dew"
+      },
+      "items": [
+        "Ittle Dew.sh",
+        "ittledew"
+      ],
+      "items_opt": null,
+      "name": "ittledew.zip",
+      "source": {
+        "date_added": "2026-10-12",
+        "date_updated": "2026-10-12",
+        "md5": "50ba10bdbee2951c774594552d58653b",
+        "release_id": "2026-10-12_0117",
+        "repo": "main",
+        "size": 20284528,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/ittledew.zip"
       },
       "version": 4
     },
@@ -81216,6 +81798,94 @@
       },
       "version": 2
     },
+    "opensurge.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Open Surge is a fun 2D retro platformer inspired by Sonic games, and a game creation system. Play as Surge the Rabbit, a hero who uses his electric powers to rescue his friends from an evil robot.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. To play other Open Surge games, drop their .zip/.7z file or folder into opensurge/games and pick them from the menu shown on launch.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Open Surge"
+      },
+      "items": [
+        "Open Surge.sh",
+        "opensurge"
+      ],
+      "items_opt": null,
+      "name": "opensurge.zip",
+      "source": {
+        "date_added": "2026-10-12",
+        "date_updated": "2026-10-12",
+        "md5": "66fa0a0013ce0148ba4aba26ea7115a7",
+        "release_id": "2026-10-12_0117",
+        "repo": "main",
+        "size": 37535798,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/opensurge.zip"
+      },
+      "version": 4
+    },
     "opensyobon.zip": {
       "attr": {
         "arch": [
@@ -92511,12 +93181,12 @@
       "name": "ratcheteerdx.zip",
       "source": {
         "date_added": "2026-03-05",
-        "date_updated": "2026-04-22",
-        "md5": "74ab7810308dd820294c4e62368ed2a1",
-        "release_id": "2026-04-22_1207",
+        "date_updated": "2026-10-12",
+        "md5": "3cd352307bd0c92065199e3807c75d6d",
+        "release_id": "2026-10-12_0117",
         "repo": "main",
-        "size": 3686239,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-22_1207/ratcheteerdx.zip"
+        "size": 3686204,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/ratcheteerdx.zip"
       },
       "version": 4
     },
@@ -120750,6 +121420,93 @@
       },
       "version": 4
     },
+    "touhoumeishuugeki.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "full",
+        "desc": "Touhou Meishuugeki ~ Cursed Sweeper and Bewildering Parallel is a Touhou Project fangame developed by Drillimation Systems in collaboration with E. Enthusiasm. The game centers on a mysterious substance created by the Gensokyo Socialite Order under the name of glohm, who plans to use it to sabotage an upcoming autumn equinox festival hosted by Queen Marisa in Kozankyo in the Federal Kingdom of Gensokyo. Unlike the previous two SNES-style fangames, the graphics are more detailed complete with CD-quality audio.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "power"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://drillimation.com/",
+            "gameurl": "https://drillimation.itch.io/touhou-meishuugeki-cursed-sweeper-and-bewildering-parallel",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Touhou Meishuugeki ~ Cursed Sweeper and Bewildering Parallel"
+      },
+      "items": [
+        "Touhou Meishuugeki.sh",
+        "touhoumeishuugeki"
+      ],
+      "items_opt": null,
+      "name": "touhoumeishuugeki.zip",
+      "source": {
+        "date_added": "2026-10-12",
+        "date_updated": "2026-10-12",
+        "md5": "f367c610904b23e0079c32f0ac03fb25",
+        "release_id": "2026-10-12_0117",
+        "repo": "main",
+        "size": 50643333,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/touhoumeishuugeki.zip"
+      },
+      "version": 4
+    },
     "towardsthepantheones.zip": {
       "attr": {
         "arch": [
@@ -133715,12 +134472,12 @@
       "name": "zimlite.zip",
       "source": {
         "date_added": "2026-08-05",
-        "date_updated": "2026-08-21",
-        "md5": "1afcae26150337c3f58f1471be86484a",
-        "release_id": "2026-08-21_2000",
+        "date_updated": "2026-10-12",
+        "md5": "cba9f24399c99f9a6434ff406bff7a15",
+        "release_id": "2026-10-12_0117",
         "repo": "main",
-        "size": 9721338,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/zimlite.zip"
+        "size": 9721458,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/zimlite.zip"
       },
       "version": 4
     },
