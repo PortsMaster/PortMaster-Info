@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-10-05",
-        "md5": "3192fa87d044f4406913b58f78dc385f",
-        "release_id": "2026-10-05_1657",
+        "date_updated": "2026-10-14",
+        "md5": "71b73f760ab8d6c4a1d52e3609f18649",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 105480777,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-05_1657/2048plus.zip"
+        "size": 107377093,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/2048plus.zip"
       },
       "version": 4
     },
@@ -3194,12 +3194,12 @@
       "name": "alruna.zip",
       "source": {
         "date_added": "2025-01-02",
-        "date_updated": "2025-01-02",
-        "md5": "681b4c39118189b19c4c471eed409f55",
-        "release_id": "2025-01-02_1923",
+        "date_updated": "2026-10-14",
+        "md5": "b03fceb5679639a77bc67974a03aeb72",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 8882911,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-02_1923/alruna.zip"
+        "size": 8882909,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/alruna.zip"
       },
       "version": 4
     },
@@ -9081,12 +9081,12 @@
       },
       "source": {
         "date_added": "2025-07-24",
-        "date_updated": "2025-07-24",
-        "md5": "81fd8e440bd8d8b99497e378f0a8bc1d",
-        "release_id": "2025-07-24_0745",
+        "date_updated": "2026-10-14",
+        "md5": "12f3692ac446fde2b537e7f07f3901d2",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 503410,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-07-24_0745/bellablood.zip"
+        "size": 503307,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/bellablood.zip"
       },
       "version": 4
     },
@@ -13153,12 +13153,12 @@
       "name": "bomberpibe.zip",
       "source": {
         "date_added": "2025-09-16",
-        "date_updated": "2025-10-04",
-        "md5": "7a1a978f59576cd8ee3152038ba32433",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-10-14",
+        "md5": "1f7ed2c2ae1e7dcc267144df7d28becb",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 17508492,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/bomberpibe.zip"
+        "size": 17508374,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/bomberpibe.zip"
       },
       "version": 4
     },
@@ -14342,12 +14342,12 @@
       "name": "brainvore.zip",
       "source": {
         "date_added": "2025-06-24",
-        "date_updated": "2025-06-24",
-        "md5": "634f07895c0fe26c5e4ffad61adbd1fe",
-        "release_id": "2025-06-24_0854",
+        "date_updated": "2026-10-14",
+        "md5": "cbd6bae4215ebf92c5f06ee9896e6404",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 42439712,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-24_0854/brainvore.zip"
+        "size": 42439611,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/brainvore.zip"
       },
       "version": 4
     },
@@ -14900,7 +14900,7 @@
         ],
         "rtr": false,
         "runtime": [
-          "frt_3.6.squashfs"
+          "frt_3.7.squashfs"
         ],
         "title": "Brotato"
       },
@@ -14912,12 +14912,12 @@
       "name": "brotato.zip",
       "source": {
         "date_added": "2024-12-11",
-        "date_updated": "2025-08-21",
-        "md5": "bf39c5ce0382d09474add7539cd05e2d",
-        "release_id": "2025-08-21_2306",
+        "date_updated": "2026-10-14",
+        "md5": "9e60c6fbc7a8358aeeb29e978c589221",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 324787,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-21_2306/brotato.zip"
+        "size": 324786,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/brotato.zip"
       },
       "version": 4
     },
@@ -17848,12 +17848,12 @@
       "name": "carpetgallery.zip",
       "source": {
         "date_added": "2025-09-16",
-        "date_updated": "2025-10-04",
-        "md5": "89e81df51efa5955180b0d309c2f7b64",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-10-14",
+        "md5": "bb8e5b010b698a796343a8f9452c9a1f",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 28346187,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/carpetgallery.zip"
+        "size": 28346069,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/carpetgallery.zip"
       },
       "version": 4
     },
@@ -42248,12 +42248,12 @@
       "name": "fnaf1.zip",
       "source": {
         "date_added": "2026-10-02",
-        "date_updated": "2026-10-03",
-        "md5": "f73dd4a5ce2aec44b0d7c29325e8e995",
-        "release_id": "2026-10-03_2024",
+        "date_updated": "2026-10-14",
+        "md5": "3db8dde56508bcfbea579889af7eb5ce",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 46303912,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-03_2024/fnaf1.zip"
+        "size": 46310869,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/fnaf1.zip"
       },
       "version": 4
     },
@@ -42345,12 +42345,12 @@
       "name": "fnaf2.zip",
       "source": {
         "date_added": "2026-10-12",
-        "date_updated": "2026-10-12",
-        "md5": "7842a71da5d7192397ba6aba3dd48db9",
-        "release_id": "2026-10-12_0117",
+        "date_updated": "2026-10-14",
+        "md5": "20cfc9448fc0297c8d53ac29b33e0a09",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 46652271,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-12_0117/fnaf2.zip"
+        "size": 46652279,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/fnaf2.zip"
       },
       "version": 4
     },
@@ -43168,12 +43168,12 @@
       "name": "forsworn.zip",
       "source": {
         "date_added": "2025-10-22",
-        "date_updated": "2025-10-22",
-        "md5": "ed67367bae8df024c85aaa47e971e16d",
-        "release_id": "2025-10-22_1131",
+        "date_updated": "2026-10-14",
+        "md5": "a491921bab9d78fb3f6e85ca552045dd",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 69221466,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/forsworn.zip"
+        "size": 69221365,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/forsworn.zip"
       },
       "version": 4
     },
@@ -49570,12 +49570,12 @@
       "name": "guardiansphere.zip",
       "source": {
         "date_added": "2025-10-07",
-        "date_updated": "2025-10-07",
-        "md5": "78a5f456f388200fc20afd4c3a62df4e",
-        "release_id": "2025-10-07_1437",
+        "date_updated": "2026-10-14",
+        "md5": "4ea27bbbf3270ac819fb86dded206110",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 13487345,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-07_1437/guardiansphere.zip"
+        "size": 13487218,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/guardiansphere.zip"
       },
       "version": 4
     },
@@ -50274,6 +50274,112 @@
         "repo": "main",
         "size": 14344242,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/gunsandguns.zip"
+      },
+      "version": 4
+    },
+    "gunslugs.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Run, jump and shoot through chaotic pixel-art battlefields, smash scenery and rescue characters in this action platformer by Orangepixel.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your legally obtained PC gunslugs.dat (GOG 3.3.0) or Gunslugs 3.2.4 APK in <ports directory>/gunslugs/gamedata/. The port prepares game data on first launch; PC data takes priority when both are present. See README.md for GOG and Epic download instructions.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ronax"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://orangepixel.net/",
+            "gameurl": "https://www.gog.com/en/game/gunslugs",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://orangepixel.net/",
+            "gameurl": "https://store.epicgames.com/p/gunslugs-2b6459",
+            "name": "Epic Games Store (Android)"
+          }
+        ],
+        "title": "Gunslugs"
+      },
+      "items": [
+        "Gunslugs.sh",
+        "gunslugs"
+      ],
+      "items_opt": null,
+      "name": "gunslugs.zip",
+      "source": {
+        "date_added": "2026-10-14",
+        "date_updated": "2026-10-14",
+        "md5": "309d9c2d49aae923c271f216908efb5f",
+        "release_id": "2026-10-14_1439",
+        "repo": "main",
+        "size": 25583395,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/gunslugs.zip"
       },
       "version": 4
     },
@@ -54143,12 +54249,12 @@
       "name": "holyshit.zip",
       "source": {
         "date_added": "2025-09-16",
-        "date_updated": "2025-10-04",
-        "md5": "91359071e2ac9f9a1d7c04deb87d74a7",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-10-14",
+        "md5": "a4d9798cb5f7a81f3917ee3084924486",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 84241700,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/holyshit.zip"
+        "size": 84241581,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/holyshit.zip"
       },
       "version": 4
     },
@@ -61109,12 +61215,12 @@
       "name": "koboldkastilla.zip",
       "source": {
         "date_added": "2025-04-24",
-        "date_updated": "2025-04-24",
-        "md5": "4b4382a40d1fd24277387e8e6209be85",
-        "release_id": "2025-04-24_1015",
+        "date_updated": "2026-10-14",
+        "md5": "3f181cd11138f809e04d3ae86270ec55",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 29779489,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-04-24_1015/koboldkastilla.zip"
+        "size": 29779373,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/koboldkastilla.zip"
       },
       "version": 4
     },
@@ -65324,12 +65430,12 @@
       "name": "lonelyspace.zip",
       "source": {
         "date_added": "2025-06-02",
-        "date_updated": "2025-06-02",
-        "md5": "639a21fc634035d229bba1c6f05421ab",
-        "release_id": "2025-06-02_2033",
+        "date_updated": "2026-10-14",
+        "md5": "c3279df595d7b630b776c0d8af5f6d30",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 6059317,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-02_2033/lonelyspace.zip"
+        "size": 6059210,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/lonelyspace.zip"
       },
       "version": 4
     },
@@ -70291,12 +70397,12 @@
       "name": "merpinmerpworld.zip",
       "source": {
         "date_added": "2025-11-25",
-        "date_updated": "2025-12-29",
-        "md5": "7cc48adc9d25dbb10f3bd3a474631d93",
-        "release_id": "2025-12-29_0521",
+        "date_updated": "2026-10-14",
+        "md5": "44fe33afdd1414d930d65da2738664fb",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 85386754,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-29_0521/merpinmerpworld.zip"
+        "size": 85386652,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/merpinmerpworld.zip"
       },
       "version": 4
     },
@@ -82813,12 +82919,12 @@
       "name": "orbo.zip",
       "source": {
         "date_added": "2025-08-14",
-        "date_updated": "2025-08-14",
-        "md5": "d9842a349a429ea4d3cf80dda74f294b",
-        "release_id": "2025-08-14_1207",
+        "date_updated": "2026-10-14",
+        "md5": "14b5c850ad965482a3b9cb69f40d4cf5",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 5378680,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/orbo.zip"
+        "size": 5378579,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/orbo.zip"
       },
       "version": 4
     },
@@ -89760,12 +89866,12 @@
       },
       "source": {
         "date_added": "2025-04-28",
-        "date_updated": "2025-10-04",
-        "md5": "8e57e023124554cb098a209789f0b5bf",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-10-14",
+        "md5": "3fd65ee1ee65dca186ece3110b9df493",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 119288,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/professorlucifer.zip"
+        "size": 119166,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/professorlucifer.zip"
       },
       "version": 4
     },
@@ -93617,12 +93723,12 @@
       "name": "recursiverun.zip",
       "source": {
         "date_added": "2025-09-16",
-        "date_updated": "2026-08-21",
-        "md5": "0c52524e2c3b968787ee6de29a0146b8",
-        "release_id": "2026-08-21_2000",
+        "date_updated": "2026-10-14",
+        "md5": "972d09fa3acd474e264b498fca224db1",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 2516791,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-21_2000/recursiverun.zip"
+        "size": 2516670,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/recursiverun.zip"
       },
       "version": 4
     },
@@ -95310,6 +95416,103 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-12_1249/restore.portmaster.zip"
       },
       "version": 2
+    },
+    "retrobowl.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Retro Bowl is the perfect game for the armchair quarterback to finally prove a point. Presented in a glorious retro style, the game has simple roster management, including press duties and the handling of fragile egos, while on the field you get to call the shots. Can you pass the grade and take your team all the way to the ultimate prize? Can you win the Retro Bowl?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "sports"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download Retro Bowl from the google play store https://play.google.com/store/apps/details?id=com.newstargames.retrobowl&hl=en_US\nDownload and install the AntiSplit M apk from their github https://github.com/AbdurazaaqMohammed/AntiSplit-M\nLastly open the app hit select from installed apps and find Retro Bowl and choose the output folder for the new apk. Rename the apk to game.port and place it in the root of the retrobowl port directory.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "armsonic"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.newstargames.com/",
+            "gameurl": "https://play.google.com/store/apps/details?id=com.newstargames.retrobowl&hl=en_GB&gl=US",
+            "name": "Google Play"
+          }
+        ],
+        "title": "Retro Bowl"
+      },
+      "items": [
+        "Retro Bowl.sh",
+        "retrobowl"
+      ],
+      "items_opt": null,
+      "name": "retrobowl.zip",
+      "source": {
+        "date_added": "2026-10-14",
+        "date_updated": "2026-10-14",
+        "md5": "899b9f666427f5eaa184b9bd29a23cc9",
+        "release_id": "2026-10-14_1439",
+        "repo": "main",
+        "size": 2532858,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/retrobowl.zip"
+      },
+      "version": 4
     },
     "retrohighway.zip": {
       "attr": {
@@ -98828,12 +99031,12 @@
       "name": "sadgod.zip",
       "source": {
         "date_added": "2025-11-04",
-        "date_updated": "2025-11-18",
-        "md5": "6ecf23a689222229dd0f38e36303af6d",
-        "release_id": "2025-11-18_1011",
+        "date_updated": "2026-10-14",
+        "md5": "bf94bef1eb659b303395e34b193c840e",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 1307542,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/sadgod.zip"
+        "size": 1307401,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/sadgod.zip"
       },
       "version": 4
     },
@@ -101096,12 +101299,12 @@
       "name": "sft.zip",
       "source": {
         "date_added": "2025-12-03",
-        "date_updated": "2025-12-03",
-        "md5": "08b8c267cd2dec4ac8b4764232e901c7",
-        "release_id": "2025-12-03_1034",
+        "date_updated": "2026-10-14",
+        "md5": "d6736ac84ea049e11dfe7058d9ec8ff2",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 41269,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-03_1034/sft.zip"
+        "size": 41147,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/sft.zip"
       },
       "version": 4
     },
@@ -104355,12 +104558,12 @@
       "name": "slashjump.zip",
       "source": {
         "date_added": "2025-10-07",
-        "date_updated": "2025-10-07",
-        "md5": "23f7f8ce5890f32758750b024be2f808",
-        "release_id": "2025-10-07_1437",
+        "date_updated": "2026-10-14",
+        "md5": "edf6efff362d8c90d3f101d2b4111b2b",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 45820512,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-07_1437/slashjump.zip"
+        "size": 45820374,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/slashjump.zip"
       },
       "version": 4
     },
@@ -113178,12 +113381,12 @@
       "name": "supermazerobo.zip",
       "source": {
         "date_added": "2026-08-05",
-        "date_updated": "2026-08-05",
-        "md5": "e3f367dd5596ffb0713f3da501720ee7",
-        "release_id": "2026-08-05_0732",
+        "date_updated": "2026-10-14",
+        "md5": "77b8813d81dd4283a3e80c66099afe63",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 11105867,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/supermazerobo.zip"
+        "size": 11105745,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/supermazerobo.zip"
       },
       "version": 4
     },
@@ -118302,12 +118505,12 @@
       "name": "thelastgame.zip",
       "source": {
         "date_added": "2025-12-29",
-        "date_updated": "2026-02-07",
-        "md5": "a187ae9760beacfaab4173017050f62f",
-        "release_id": "2026-02-07_0859",
+        "date_updated": "2026-10-14",
+        "md5": "decdd954a5bfdf87dc5fac14105b1e9e",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 184287,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/thelastgame.zip"
+        "size": 184186,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/thelastgame.zip"
       },
       "version": 4
     },
@@ -122183,12 +122386,12 @@
       "name": "toziuha2.zip",
       "source": {
         "date_added": "2026-01-25",
-        "date_updated": "2026-01-25",
-        "md5": "3b1ba8e243ce19fdd8efe659597d017d",
-        "release_id": "2026-01-25_1827",
+        "date_updated": "2026-10-14",
+        "md5": "4c11c080a89f268c27b03fd8592bb6d6",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 240359,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-25_1827/toziuha2.zip"
+        "size": 240257,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/toziuha2.zip"
       },
       "version": 4
     },
@@ -126175,12 +126378,12 @@
       "name": "vacuoussugarquest.zip",
       "source": {
         "date_added": "2025-11-18",
-        "date_updated": "2025-11-18",
-        "md5": "3f8046f12f1e91b1489ed27e3bd79624",
-        "release_id": "2025-11-18_1011",
+        "date_updated": "2026-10-14",
+        "md5": "06c411c9c4b402dad0da03e81277cb85",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 47780815,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/vacuoussugarquest.zip"
+        "size": 47780695,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/vacuoussugarquest.zip"
       },
       "version": 4
     },
@@ -131087,12 +131290,12 @@
       "name": "wrestlejump2.zip",
       "source": {
         "date_added": "2025-09-16",
-        "date_updated": "2025-10-22",
-        "md5": "c42cb72efedec966a20e2074601d9868",
-        "release_id": "2025-10-22_1131",
+        "date_updated": "2026-10-14",
+        "md5": "63a0cdf0ddd96e884e4cffe833a57f6d",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 17916198,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-22_1131/wrestlejump2.zip"
+        "size": 17916076,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/wrestlejump2.zip"
       },
       "version": 4
     },
@@ -132305,12 +132508,12 @@
       "name": "xyze.zip",
       "source": {
         "date_added": "2025-11-04",
-        "date_updated": "2025-11-04",
-        "md5": "d1828aea85e6970741d5d6b824f46e07",
-        "release_id": "2025-11-04_0946",
+        "date_updated": "2026-10-14",
+        "md5": "2a8bfe593a4e50ae1b23260ea8e70537",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 122779014,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-04_0946/xyze.zip"
+        "size": 122778872,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/xyze.zip"
       },
       "version": 4
     },
@@ -133137,12 +133340,12 @@
       "name": "yugioh2.zip",
       "source": {
         "date_added": "2026-01-27",
-        "date_updated": "2026-01-27",
-        "md5": "2073b3df0ba3898908b2bbc796a18075",
-        "release_id": "2026-01-27_2358",
+        "date_updated": "2026-10-14",
+        "md5": "fb26685c5f8b0d48bf369b765eb1c1e4",
+        "release_id": "2026-10-14_1439",
         "repo": "main",
-        "size": 96297,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-01-27_2358/yugioh2.zip"
+        "size": 96175,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/yugioh2.zip"
       },
       "version": 4
     },
