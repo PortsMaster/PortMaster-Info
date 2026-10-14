@@ -1543,7 +1543,9 @@
         "freaks.zip",
         "ittledew.zip",
         "opensurge.zip",
-        "touhoumeishuugeki.zip"
+        "touhoumeishuugeki.zip",
+        "gunslugs.zip",
+        "retrobowl.zip"
     ],
     "releases": [
         "2023-08-04_1428",
@@ -2476,7 +2478,8 @@
         "2026-10-05_1447",
         "2026-10-05_1657",
         "2026-10-08_1426",
-        "2026-10-12_0117"
+        "2026-10-12_0117",
+        "2026-10-14_1439"
     ],
     "release_data": {
         "2023-08-04_1428": {
@@ -53727,7 +53730,7 @@
             "plaqueattackremake.zip": 65,
             "pockettactics.zip": 122,
             "pocketwondersport.zip": 70,
-            "portmaster.zip": 81953,
+            "portmaster.zip": 81966,
             "powder.zip": 97,
             "prehistorik.2.zip": 118,
             "profadeluxe.zip": 199,
@@ -53790,7 +53793,7 @@
             "superdrome.bugs.zip": 45,
             "superrobotninjagirl.zip": 53,
             "supertux.zip": 139,
-            "supertuxkart.zip": 223,
+            "supertuxkart.zip": 227,
             "superxyx.zip": 50,
             "tamatool.zip": 66,
             "thecurseofissyos.zip": 60,
@@ -55787,10 +55790,10 @@
             "gtavc.zip": 455,
             "images.zip": 550,
             "loderunneronline.zip": 3747,
-            "sm.zip": 13905,
-            "smworld.zip": 23813,
+            "sm.zip": 13906,
+            "smworld.zip": 23815,
             "wipeout.zip": 7009,
-            "zelda3.zip": 18936
+            "zelda3.zip": 18938
         },
         "2024-04-09_2122": {
             "images.zip": 153,
@@ -57326,18 +57329,18 @@
             "am2r.zip": 5900,
             "gameinfo.zip": 445,
             "images.zip": 8217,
-            "super.mario.war.zip": 35234,
+            "super.mario.war.zip": 35240,
             "tunics.zip": 347,
             "zelda-bookofmudora.zip": 450,
             "zelda-mercurischest.zip": 223,
             "zelda-mysteryofsolarusdx.zip": 471,
             "zelda-mysteryofsolarusxd.zip": 302,
             "zelda-roth-se.zip": 377,
-            "zelda3t.zip": 2312,
-            "zeldansq.zip": 2476,
-            "zeldaolb.zip": 25421,
+            "zelda3t.zip": 2313,
+            "zeldansq.zip": 2477,
+            "zeldaolb.zip": 25427,
             "zeldaxd-mercurischess.zip": 383,
-            "zelda_roth.zip": 2466,
+            "zelda_roth.zip": 2467,
             "zeldoschallenge.zip": 298,
             "zeldoschallenge2.zip": 372,
             "ziiaol.zip": 107
@@ -57839,7 +57842,7 @@
             "gameinfo.zip": 947,
             "images.zip": 2133,
             "render96ex.zip": 280,
-            "vdrift.zip": 11225
+            "vdrift.zip": 11226
         },
         "2024-11-16_1010": {
             "gameinfo.zip": 135,
@@ -57978,7 +57981,7 @@
         "2024-12-03_1532": {
             "gameinfo.zip": 2131,
             "images.zip": 2893,
-            "zeldadoi.zip": 12098
+            "zeldadoi.zip": 12103
         },
         "2024-12-05_0844": {
             "galaxychampionstv.zip": 85,
@@ -58644,8 +58647,8 @@
         },
         "2025-02-22_1315": {
             "images.zip": 3038,
-            "reborn.zip": 16373,
-            "rejuvenation.zip": 10523
+            "reborn.zip": 16383,
+            "rejuvenation.zip": 10525
         },
         "2025-02-27_0256": {
             "gameinfo.zip": 2350,
@@ -58655,7 +58658,7 @@
         },
         "2025-02-27_1304": {
             "images.zip": 12334,
-            "pokewilds.zip": 4115
+            "pokewilds.zip": 4119
         },
         "2025-02-27_2241": {
             "davedavedave.zip": 1174,
@@ -58717,7 +58720,7 @@
         "2025-03-09_1835": {
             "images.zip": 2282,
             "render96ex.zip": 34958,
-            "wipeout.zip": 8615
+            "wipeout.zip": 8617
         },
         "2025-03-11_0117": {
             "butterflysoup.zip": 1072,
@@ -59044,7 +59047,7 @@
             "duckdodge.zip": 560,
             "gameinfo.zip": 312,
             "images.zip": 6605,
-            "starbound.zip": 4101
+            "starbound.zip": 4103
         },
         "2025-04-24_1015": {
             "commander.genius.zip": 2153,
@@ -59201,7 +59204,7 @@
             "vvvvvv.zip": 18136
         },
         "2025-05-12_1210": {
-            "duckdodge.zip": 5973,
+            "duckdodge.zip": 5975,
             "gameinfo.zip": 124,
             "images.zip": 3197,
             "pocketcrystalleague.zip": 588,
@@ -59291,7 +59294,7 @@
             "gameinfo.zip": 1143,
             "images.zip": 8503,
             "nuclearthronemobile.zip": 2028,
-            "pokemmo.zip": 25655
+            "pokemmo.zip": 25663
         },
         "2025-05-23_1720": {
             "bouncinghero.zip": 705,
@@ -59821,7 +59824,7 @@
             "gameinfo.zip": 647,
             "images.zip": 13845,
             "sm64coopdx.zip": 12138,
-            "spaghettikart.zip": 16498
+            "spaghettikart.zip": 16501
         },
         "2025-09-16_1252": {
             "2048.zip": 1682,
@@ -60238,11 +60241,11 @@
             "vastfuture.zip": 28
         },
         "2025-10-07_1242": {
-            "castlevaniatales.zip": 1617,
+            "castlevaniatales.zip": 1618,
             "chaoresortisland.zip": 3388,
             "gameinfo.zip": 9115,
-            "gta3.zip": 50123,
-            "gtavc.zip": 75808,
+            "gta3.zip": 50152,
+            "gtavc.zip": 75862,
             "images.zip": 124128,
             "minizelda.zip": 1243,
             "pacmanrom.zip": 3640,
@@ -60593,9 +60596,9 @@
             "xenosensory.zip": 116
         },
         "2026-01-26_0229": {
-            "am2r.zip": 11717,
+            "am2r.zip": 11725,
             "images.zip": 30703,
-            "render96ex.zip": 25452
+            "render96ex.zip": 25463
         },
         "2026-01-27_2358": {
             "gameinfo.zip": 943,
@@ -60683,8 +60686,8 @@
         },
         "2026-02-24_1300": {
             "images.zip": 14275,
-            "loderunneronline.zip": 984,
-            "nuclearthronemobile.zip": 1617,
+            "loderunneronline.zip": 985,
+            "nuclearthronemobile.zip": 1619,
             "soh.zip": 1477
         },
         "2026-02-26_2317": {
@@ -60753,8 +60756,8 @@
         "2026-03-16_2253": {
             "gameinfo.zip": 5492,
             "images.zip": 41003,
-            "soh.zip": 21356,
-            "soh2.zip": 15578
+            "soh.zip": 21380,
+            "soh2.zip": 15588
         },
         "2026-03-17_0428": {
             "attrition.zip": 182,
@@ -61395,28 +61398,28 @@
             "deltarune.zip": 327,
             "dungeonantiqua.zip": 316,
             "dungeonantiqua2.zip": 296,
-            "dungeonsouls.zip": 486,
-            "environmentalstationalpha.zip": 204,
+            "dungeonsouls.zip": 487,
+            "environmentalstationalpha.zip": 206,
             "firebrimstone.zip": 101,
             "gameinfo.zip": 414,
             "growseedpinball.zip": 492,
             "hypercycles.zip": 238,
-            "images.003.zip": 10299,
+            "images.003.zip": 10310,
             "images.013.zip": 3374,
             "images.zip": 7505,
             "pentasma.zip": 351,
             "portmaster.zip": 142,
-            "pvz_portable.zip": 6518,
-            "roguelegacy.zip": 1294,
+            "pvz_portable.zip": 6535,
+            "roguelegacy.zip": 1295,
             "rollingbird.zip": 247,
             "runtimes.all.aarch64.zip": 470,
             "runtimes.all.x86_64.zip": 90,
             "supermazerobo.zip": 224,
-            "wolfensteinrpg.zip": 864,
+            "wolfensteinrpg.zip": 865,
             "zimlite.zip": 378
         },
         "2026-08-10_1619": {
-            "deltarune.zip": 3293,
+            "deltarune.zip": 3305,
             "eatgirl.zip": 27,
             "franticdimension.zip": 220,
             "gameinfo.zip": 211,
@@ -61428,13 +61431,13 @@
         },
         "2026-08-13_2211": {
             "absolutereflex.zip": 219,
-            "alex1.zip": 770,
+            "alex1.zip": 773,
             "alex2.zip": 58,
-            "angband.zip": 251,
-            "arkovstower.zip": 251,
+            "angband.zip": 252,
+            "arkovstower.zip": 253,
             "bluerevolver.zip": 355,
-            "brogue.zip": 278,
-            "bytepath.zip": 341,
+            "brogue.zip": 279,
+            "bytepath.zip": 346,
             "cardswithpersonalities.zip": 77,
             "cataclysm-dda.zip": 364,
             "cityglitch.zip": 42,
@@ -61442,7 +61445,7 @@
             "depthsoflimbo.zip": 101,
             "dfencervstheorb.zip": 23,
             "eatgirl.zip": 55,
-            "emojimerge.zip": 415,
+            "emojimerge.zip": 416,
             "endlessdungeon.zip": 62,
             "fungusreaper.zip": 29,
             "gameinfo.zip": 434,
@@ -61451,17 +61454,17 @@
             "honeyguardian.zip": 23,
             "images.013.zip": 3492,
             "images.zip": 7749,
-            "infra_arcana.zip": 169,
+            "infra_arcana.zip": 170,
             "jugglrx.zip": 21,
-            "labyrinthoflegendaryloot.zip": 297,
-            "maxdownforce.zip": 593,
+            "labyrinthoflegendaryloot.zip": 299,
+            "maxdownforce.zip": 595,
             "metanethunterg4.zip": 31,
             "ner.zip": 69,
             "noparachute.zip": 65,
             "portmaster.zip": 31,
             "putridshotultra.zip": 32,
-            "retsend.zip": 1338,
-            "snkrx.zip": 77,
+            "retsend.zip": 1341,
+            "snkrx.zip": 78,
             "spectralslash.zip": 25,
             "spellsling.zip": 106,
             "spelltower.zip": 245,
@@ -61471,30 +61474,30 @@
         "2026-08-19_1404": {
             "alex2.zip": 18,
             "alex4.zip": 552,
-            "alexvsbus.zip": 285,
+            "alexvsbus.zip": 286,
             "amphetamine.zip": 262,
             "asc.zip": 410,
-            "balatro.zip": 7787,
+            "balatro.zip": 7820,
             "cylindrix.zip": 319,
-            "deadcells.zip": 5172,
+            "deadcells.zip": 5189,
             "gameinfo.zip": 177,
             "images.013.zip": 1761,
             "images.zip": 3058,
-            "maxpayne.zip": 2757,
-            "minesofmoria.zip": 227,
+            "maxpayne.zip": 2765,
+            "minesofmoria.zip": 229,
             "portmaster.zip": 21
         },
         "2026-08-21_2000": {
             "alex2.zip": 185,
             "alex3.zip": 316,
             "annulus.zip": 54,
-            "breakhack.zip": 237,
+            "breakhack.zip": 238,
             "brotherbrother.zip": 41,
-            "candycrisis.zip": 177,
-            "crabjuice.zip": 176,
+            "candycrisis.zip": 179,
+            "crabjuice.zip": 177,
             "cropsmare.zip": 28,
             "demonslayer.zip": 36,
-            "faithdemonsiege.zip": 153,
+            "faithdemonsiege.zip": 154,
             "gameinfo.zip": 115,
             "grelox.zip": 107,
             "hypercycles.zip": 251,
@@ -61502,9 +61505,9 @@
             "images.zip": 2273,
             "interstatedrifter.zip": 109,
             "jvgs.zip": 120,
-            "lasagnaboyclassic.zip": 560,
-            "megamansunrise.zip": 295,
-            "mreader.zip": 731,
+            "lasagnaboyclassic.zip": 561,
+            "megamansunrise.zip": 296,
+            "mreader.zip": 732,
             "openjkdf2.zip": 25,
             "osmos.zip": 475,
             "portmaster.zip": 3,
@@ -61512,27 +61515,27 @@
             "shamogu.zip": 124,
             "skeletonboomerang.zip": 31,
             "spacefighter.zip": 27,
-            "tboirebirth.zip": 6595,
+            "tboirebirth.zip": 6624,
             "thelegendoflumina.zip": 169,
-            "tohoumeijinka.zip": 194,
+            "tohoumeijinka.zip": 195,
             "zimlite.zip": 676
         },
         "2026-08-23_0904": {
             "2048plus.zip": 627,
-            "amuletsarmor.zip": 878,
+            "amuletsarmor.zip": 882,
             "arcanumce.zip": 66,
             "damoclesgaze.zip": 73,
             "gameinfo.zip": 222,
             "images.013.zip": 2249,
             "images.zip": 2936,
-            "impostorfactory.zip": 175,
+            "impostorfactory.zip": 176,
             "lastscenario.zip": 141,
-            "monktower.zip": 371,
-            "openjkdf2.zip": 553,
+            "monktower.zip": 374,
+            "openjkdf2.zip": 554,
             "portmaster.zip": 16
         },
         "2026-08-25_1115": {
-            "arcanumce.zip": 609,
+            "arcanumce.zip": 610,
             "dokimon.zip": 286,
             "images.zip": 1253,
             "portmaster.zip": 16
@@ -61547,10 +61550,10 @@
         "2026-08-29_2149": {
             "angrydd.zip": 178,
             "axecop.zip": 62,
-            "babbeu.zip": 722,
+            "babbeu.zip": 726,
             "bullethell.zip": 277,
-            "dokimon.zip": 654,
-            "dreamchess.zip": 1107,
+            "dokimon.zip": 655,
+            "dreamchess.zip": 1111,
             "firemadness.zip": 93,
             "gameinfo.zip": 259,
             "images.013.zip": 2752,
@@ -61558,7 +61561,7 @@
             "kaijubigbattel.zip": 39,
             "portmaster.zip": 27,
             "quakespasm.zip": 44,
-            "superstartrek.zip": 174
+            "superstartrek.zip": 175
         },
         "2026-08-29_1948": {
             "chaoresortisland.zip": 395,
@@ -61577,39 +61580,39 @@
             "images.013.zip": 1605,
             "images.zip": 46,
             "insaniquarium.zip": 478,
-            "opendefender.zip": 181,
+            "opendefender.zip": 182,
             "portmaster.zip": 7,
             "postal.zip": 149,
             "quakespasm.zip": 255,
             "raceintospace.zip": 249,
-            "runtimes.all.aarch64.zip": 424,
+            "runtimes.all.aarch64.zip": 425,
             "skeldal.zip": 3,
             "tamashii.zip": 50,
-            "tmntsr.zip": 5627,
+            "tmntsr.zip": 5644,
             "watercloset.zip": 214
         },
         "2026-09-02_1433": {
             "gameinfo.zip": 1546,
-            "gizmoduck.zip": 680,
+            "gizmoduck.zip": 681,
             "images.zip": 37548,
             "megamanw.zip": 367
         },
         "2026-09-04_1516": {
-            "celeste64.zip": 3767,
+            "celeste64.zip": 3773,
             "dustracing2d.zip": 256,
             "gameinfo.zip": 301,
-            "images.013.zip": 10677,
+            "images.013.zip": 10699,
             "images.zip": 4992,
             "portmaster.zip": 31,
-            "ultionus.zip": 197
+            "ultionus.zip": 198
         },
         "2026-09-04_1353": {
             "gameinfo.zip": 6,
-            "happyhills2.zip": 379,
+            "happyhills2.zip": 382,
             "images.013.zip": 89,
             "images.zip": 70,
             "portmaster.zip": 3,
-            "postal.zip": 744,
+            "postal.zip": 747,
             "skeldal.zip": 32,
             "theswapper.zip": 267
         },
@@ -61617,18 +61620,18 @@
             "gameinfo.zip": 46,
             "images.014.zip": 628,
             "images.zip": 680,
-            "layton1.zip": 358,
+            "layton1.zip": 362,
             "portmaster.zip": 5
         },
         "2026-09-08_0828": {
             "2048plus.zip": 729,
             "alexandria.zip": 112,
-            "cortexcommandos.zip": 85,
+            "cortexcommandos.zip": 86,
             "critter.zip": 164,
             "gameinfo.zip": 1,
             "images.014.zip": 68,
             "images.zip": 55,
-            "limbo.zip": 1837,
+            "limbo.zip": 1844,
             "mazemice.zip": 88,
             "oneshotwme.zip": 380,
             "portmaster.zip": 2,
@@ -61642,8 +61645,8 @@
             "ut99.zip": 29
         },
         "2026-09-09_1146": {
-            "dndg.zip": 564,
-            "fez.zip": 1323,
+            "dndg.zip": 565,
+            "fez.zip": 1327,
             "gameinfo.zip": 594,
             "images.014.zip": 5381,
             "images.zip": 10468,
@@ -61652,12 +61655,12 @@
         "2026-09-09_1013": {
             "images.zip": 59,
             "portmaster.zip": 3,
-            "stargrovescramble.zip": 938,
-            "ut99.zip": 936
+            "stargrovescramble.zip": 941,
+            "ut99.zip": 938
         },
         "2026-09-18_0145": {
-            "blipnblup.zip": 302,
-            "copter.zip": 445,
+            "blipnblup.zip": 303,
+            "copter.zip": 447,
             "defblade.zip": 203,
             "gameinfo.zip": 239,
             "images.014.zip": 2627,
@@ -61665,7 +61668,7 @@
             "motionrec.zip": 54,
             "picayunedreams.zip": 39,
             "portmaster.zip": 29,
-            "simutrans.zip": 233
+            "simutrans.zip": 237
         },
         "2026-09-21_0303": {
             "2048plus.zip": 772,
@@ -61681,10 +61684,10 @@
             "marryampic2.zip": 83,
             "portmaster.zip": 2,
             "teocida.zip": 71,
-            "tuxaqfh.zip": 237
+            "tuxaqfh.zip": 239
         },
         "2026-09-23_2213": {
-            "entwined.zip": 36,
+            "entwined.zip": 37,
             "evilegg.zip": 99,
             "gameinfo.zip": 284,
             "gravwell.zip": 253,
@@ -61692,7 +61695,7 @@
             "images.014.zip": 3424,
             "images.zip": 4954,
             "portmaster.zip": 48,
-            "thehermetictower.zip": 450
+            "thehermetictower.zip": 451
         },
         "2026-09-27_2331": {
             "charliemurder.zip": 55,
@@ -61702,23 +61705,23 @@
             "portmaster.zip": 10
         },
         "2026-09-28_1618": {
-            "charliemurder.zip": 412,
-            "dmomd.zip": 384,
+            "charliemurder.zip": 416,
+            "dmomd.zip": 385,
             "gameinfo.zip": 247,
             "images.014.zip": 2894,
             "images.zip": 4208,
-            "maketheburger.zip": 145,
+            "maketheburger.zip": 146,
             "portmaster.zip": 44,
             "powermanga.zip": 146,
             "queueit.zip": 68,
-            "railroadrampage.zip": 145,
+            "railroadrampage.zip": 147,
             "tinamp.zip": 52
         },
         "2026-09-28_1738": {
-            "dusklight.zip": 766,
+            "dusklight.zip": 779,
             "gameinfo.zip": 63,
             "images.zip": 1198,
-            "mporigins.zip": 496,
+            "mporigins.zip": 498,
             "sternenfuchs.zip": 28
         },
         "2026-09-29_0655": {
@@ -61733,15 +61736,15 @@
             "gameinfo.zip": 262,
             "images.zip": 129,
             "megamanw.zip": 104,
-            "megamanxregenesis.zip": 333
+            "megamanxregenesis.zip": 336
         },
         "2026-09-29_1759": {
             "images.zip": 123,
             "sternenfuchs.zip": 2
         },
         "2026-10-02_1057": {
-            "bolzplatz2006.zip": 366,
-            "divercity.zip": 232,
+            "bolzplatz2006.zip": 368,
+            "divercity.zip": 234,
             "fnaf1.zip": 200,
             "gameinfo.zip": 133,
             "images.014.zip": 1568,
@@ -61750,63 +61753,95 @@
             "motionrec.zip": 28,
             "picayunedreams.zip": 18,
             "portmaster.zip": 13,
-            "towerjumper.zip": 701
+            "towerjumper.zip": 709
         },
         "2026-10-03_2024": {
-            "cometstrikerdx.zip": 99,
-            "fnaf1.zip": 716,
+            "cometstrikerdx.zip": 101,
+            "fnaf1.zip": 732,
             "gameinfo.zip": 170,
-            "hostilelands.zip": 70,
+            "hostilelands.zip": 72,
             "images.014.zip": 1870,
             "images.zip": 2208,
             "portmaster.zip": 23,
-            "residual.zip": 113,
-            "taisei.zip": 410,
+            "residual.zip": 115,
+            "taisei.zip": 415,
             "thelastsummerprologue.zip": 96
         },
         "2026-10-03_1820": {
-            "gameinfo.zip": 754,
+            "gameinfo.zip": 768,
             "images.zip": 8305,
-            "sm64coopdx.zip": 380,
+            "sm64coopdx.zip": 386,
             "zquestclassic.zip": 257
         },
         "2026-10-05_1447": {
             "chokysuppression.zip": 105,
-            "dinolove2d.zip": 528,
+            "dinolove2d.zip": 539,
             "gameinfo.zip": 519,
             "images.014.zip": 3986,
             "images.zip": 94,
             "portmaster.zip": 3,
             "rollingbird.zip": 41,
-            "thelastsummerprologue.zip": 279
+            "thelastsummerprologue.zip": 286
         },
         "2026-10-05_1657": {
-            "2048plus.zip": 432,
+            "2048plus.zip": 441,
             "images.zip": 7303,
             "portmaster.zip": 65,
-            "runtimes.all.aarch64.zip": 96
+            "runtimes.all.aarch64.zip": 97
         },
         "2026-10-08_1426": {
-            "images.zip": 8325,
-            "sternenfuchs.zip": 108,
-            "zquestclassic.zip": 210
+            "images.zip": 8620,
+            "sternenfuchs.zip": 112,
+            "zquestclassic.zip": 217
         },
         "2026-10-12_0117": {
-            "blacksouls.zip": 135,
-            "blacksouls2.zip": 78,
+            "blacksouls.zip": 143,
+            "blacksouls2.zip": 82,
             "cropandclaw2.zip": 10,
-            "fancypants.zip": 78,
-            "fnaf2.zip": 227,
-            "freaks.zip": 74,
-            "gameinfo.zip": 183,
-            "images.014.zip": 2152,
-            "images.zip": 2588,
-            "ittledew.zip": 44,
-            "opensurge.zip": 68,
+            "fancypants.zip": 81,
+            "fnaf2.zip": 239,
+            "freaks.zip": 78,
+            "gameinfo.zip": 189,
+            "images.014.zip": 2204,
+            "images.zip": 2682,
+            "ittledew.zip": 47,
+            "opensurge.zip": 73,
             "portmaster.zip": 15,
             "ratcheteerdx.zip": 12,
             "touhoumeishuugeki.zip": 40,
-            "zimlite.zip": 34
+            "zimlite.zip": 35
+        },
+        "2026-10-14_1439": {
+            "2048plus.zip": 4,
+            "alruna.zip": 4,
+            "brainvore.zip": 1,
+            "brotato.zip": 6,
+            "carpetgallery.zip": 1,
+            "fnaf1.zip": 5,
+            "fnaf2.zip": 9,
+            "forsworn.zip": 5,
+            "gameinfo.zip": 10,
+            "guardiansphere.zip": 4,
+            "gunslugs.zip": 7,
+            "holyshit.zip": 3,
+            "images.014.zip": 201,
+            "images.zip": 168,
+            "koboldkastilla.zip": 4,
+            "lonelyspace.zip": 1,
+            "merpinmerpworld.zip": 3,
+            "orbo.zip": 1,
+            "portmaster.zip": 2,
+            "professorlucifer.zip": 1,
+            "recursiverun.zip": 1,
+            "retrobowl.zip": 5,
+            "slashjump.zip": 1,
+            "supermazerobo.zip": 1,
+            "thelastgame.zip": 1,
+            "toziuha2.zip": 2,
+            "vacuoussugarquest.zip": 2,
+            "wrestlejump2.zip": 2,
+            "xyze.zip": 2,
+            "yugioh2.zip": 1
         }
     }
 }
