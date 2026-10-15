@@ -25664,6 +25664,98 @@
       },
       "version": 4
     },
+    "cubes.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Explore a collection of twisty puzzles in a 3D environment! Rotate, inspect, and solve different cubes, including classic 2\u00d72 and 3\u00d73 cubes, Mirror Cube, and other unique puzzles. Customize your view, manipulate individual faces, and challenge your spatial reasoning. A simple yet satisfying puzzle experience for cube enthusiasts!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Shubham Gupta"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "godot_4.7.1.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [],
+        "title": "cubes"
+      },
+      "items": [
+        "Cubes.sh",
+        "cubes"
+      ],
+      "items_opt": null,
+      "name": "cubes.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "a81d1709da42bddda4168be5aa0a7d0f",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 3073804,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/cubes.zip"
+      },
+      "version": 4
+    },
     "cubosphere.zip": {
       "attr": {
         "arch": [
@@ -35399,6 +35491,108 @@
       },
       "version": 4
     },
+    "dungeondeck.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Explore a dungeon in the form of a deck of cards! Collect rare items, build your own deck, and defeat the dungeon in this cozy card-based roguelike!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "casino/card",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the latest version or free DEMO version of the game on steam and place all game files into the ports gamedata/ folder",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://incinious.itch.io/",
+            "gameurl": "https://incinious.itch.io/dungeon-deck",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Incinious",
+            "gameurl": "https://store.steampowered.com/app/2895110/Dungeon_Deck/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Dungeon Deck"
+      },
+      "items": [
+        "Dungeon Deck.sh",
+        "dungeondeck"
+      ],
+      "items_opt": null,
+      "name": "dungeondeck.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "7060de499d43f0048c8f3dedcd21d89e",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 7262103,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/dungeondeck.zip"
+      },
+      "version": 4
+    },
     "dungeoninabottle.zip": {
       "attr": {
         "arch": [
@@ -36135,8 +36329,6 @@
       "attr": {
         "arch": [],
         "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36144,15 +36336,9 @@
           "rg552:ALL",
           "rgcubexx:ALL",
           "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
           "rg34xx-sp:ALL",
-          "rg28xx:ALL",
           "rg351p:ALL",
-          "rg351v:ALL",
           "rgb10:ALL",
           "rgb20s:ALL",
           "rgb30:ALL",
@@ -36160,19 +36346,16 @@
           "x55:ALL",
           "rgb10max3:ALL",
           "rgb10max3pro:ALL",
-          "oga:ALL",
           "ogs:ALL",
           "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
           "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
           "steamdeck:ALL",
           "xu10:ALL",
-          "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
@@ -36194,7 +36377,9 @@
         "porter": [
           "Cebion"
         ],
-        "reqs": [],
+        "reqs": [
+          "analog_2"
+        ],
         "rtr": true,
         "runtime": [
           "frt_3.4.5.squashfs"
@@ -36215,12 +36400,12 @@
       },
       "source": {
         "date_added": "2023-08-04",
-        "date_updated": "2025-01-07",
-        "md5": "d91960a26362012ceccfbd0314dc83a5",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2026-10-15",
+        "md5": "82d944766493cafffe9096bf7f6762dd",
+        "release_id": "2026-10-15_2356",
         "repo": "main",
-        "size": 11586027,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/echo_chamber.zip"
+        "size": 11586036,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/echo_chamber.zip"
       },
       "version": 2
     },
@@ -36754,6 +36939,101 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-13_2211/emojimerge.zip"
       },
       "version": 2
+    },
+    "endacopia.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Endacopia is an unusual point-and-click puzzle adventure game. Help a boy named Mellow navigate a surreal, whimsical, and unsettling world filled with strange characters and creative puzzles.",
+        "desc_md": "Endacopia is an unusual point-and-click puzzle adventure game created by Andyland. Help a lost child named Mellow navigate a surreal, whimsical, and unsettling world filled with strange characters and mind-bending puzzles.\n\nThis port runs natively on aarch64 using the Adventure Game Studio (AGS) engine with OpenGL ES 2 renderer acceleration.",
+        "exp": false,
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port does NOT include the game. Copy Endacopia.ags, audio.vox and sp_speechsounds.vox from the Data folder of your own copy of Endacopia into ports/endacopia/.\n\nOn Steam those three files are in the Data folder, already loose, so nothing has to be extracted from the Windows executable.",
+        "inst_md": null,
+        "min_glibc": "2.30",
+        "porter": [
+          "SaMeiers"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/andyland",
+            "gameurl": "https://store.steampowered.com/app/2684630/Endacopia/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Endacopia"
+      },
+      "items": [
+        "Endacopia.sh",
+        "endacopia"
+      ],
+      "items_opt": null,
+      "name": "endacopia.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "52ee531545456e9b092315547b6dec0d",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 3394536,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/endacopia.zip"
+      },
+      "version": 4
     },
     "endlessdungeon.zip": {
       "attr": {
@@ -112478,7 +112758,7 @@
     "supercakeboy.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -112505,10 +112785,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -112550,12 +112834,100 @@
       "name": "supercakeboy.zip",
       "source": {
         "date_added": "2024-06-06",
-        "date_updated": "2024-07-18",
-        "md5": "b270709c01aa7f8290a3014ab75518d6",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2026-10-15",
+        "md5": "8d05b0631b4a98bf2e465fb14da7b690",
+        "release_id": "2026-10-15_2356",
         "repo": "main",
-        "size": 11717704,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/supercakeboy.zip"
+        "size": 14269740,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/supercakeboy.zip"
+      },
+      "version": 4
+    },
+    "superchickenjumper.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A spy-chicken tries to save the world from doom in this runner/shooter game that has a little bit of everything with a touch of chicken and anime girls on top. Run for your life in 6 different worlds and shoot your way through tons of enemies until you become a legend.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and use following command in Steam console to obtain compatible files: download_depot 584640 584641 4197574832203956296. Copy downloaded files into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/584640/SUPER_CHICKEN_JUMPER/) and use following command in [Steam console](steam://open/console) to obtain compatible files: `download_depot 584640 584641 4197574832203956296`. Copy downloaded files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/584640/SUPER_CHICKEN_JUMPER/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Super Chicken Jumper"
+      },
+      "items": [
+        "Super Chicken Jumper.sh",
+        "superchickenjumper"
+      ],
+      "items_opt": null,
+      "name": "superchickenjumper.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "44f908d0f60330fb330fcd16afe3ecbc",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 5159682,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/superchickenjumper.zip"
       },
       "version": 4
     },
@@ -121534,6 +121906,97 @@
         "repo": "main",
         "size": 8158356,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-24_0547/topnep.zip"
+      },
+      "version": 4
+    },
+    "torustrooper.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Speed! More speed! Race a ship down a twisting torus, shoot through barrages of bullets and beat the clock. Destroying bosses and reaching score targets adds time; losing a ship takes it away.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Knifethrower"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Torus Trooper"
+      },
+      "items": [
+        "Torus Trooper.sh",
+        "torustrooper"
+      ],
+      "items_opt": null,
+      "name": "torustrooper.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "e591c804b9efb6134d27d1c84ca652f5",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 6364741,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/torustrooper.zip"
       },
       "version": 4
     },
