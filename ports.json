@@ -25578,6 +25578,106 @@
       },
       "version": 4
     },
+    "crystalstoryawakening.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Crystal Story: Awakening is an Action-RPG that blends charming retro-style graphics with fast-paced action, heavily inspired by 16-bit classics! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download and extract CS Awakening v2.zip (https://bredfrown.itch.io/crystal-story) into the assets folder of the port folder and run the port, on first startup it will patch the game.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "TheLaggyPyro",
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://bredfrown.itch.io/",
+            "gameurl": "https://bredfrown.itch.io/crystal-story",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Crystal Story Awakening"
+      },
+      "items": [
+        "Crystal Story Awakening.sh",
+        "crystalstoryawakening"
+      ],
+      "items_opt": null,
+      "name": "crystalstoryawakening.zip",
+      "source": {
+        "date_added": "2026-10-17",
+        "date_updated": "2026-10-17",
+        "md5": "14fc284ba229b6a619f525c80146ed7d",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 4894804,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/crystalstoryawakening.zip"
+      },
+      "version": 4
+    },
     "ctp2.zip": {
       "attr": {
         "arch": [
@@ -58717,6 +58817,96 @@
       },
       "version": 4
     },
+    "iyfct.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A one-button runner: get to work on time by jumping over closed trains, running through open ones and dodging birds and tunnels. Coffee from open trains gives an extra life.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Knifethrower"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "In Your Face City Trains"
+      },
+      "items": [
+        "In Your Face City Trains.sh",
+        "iyfct"
+      ],
+      "items_opt": null,
+      "name": "iyfct.zip",
+      "source": {
+        "date_added": "2026-10-17",
+        "date_updated": "2026-10-17",
+        "md5": "f507ddecfeb32eb3337b6fc0fc509c6e",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 1777978,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/iyfct.zip"
+      },
+      "version": 4
+    },
     "izelsobservatory.zip": {
       "attr": {
         "arch": [
@@ -75061,6 +75251,104 @@
       },
       "version": 2
     },
+    "mutecrimsondx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Mute Crimson DX is an action-packed precision platformer where you guide Ninja on his quest to climb up walls, slice through bad guys and overcome great evils!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy and install the Linux version of Mute Crimson DX. Copy all the game assets to mutecrimsondx/gamedata",
+        "inst_md": "1) Purchase the game from Steam  \n2) Buy and install the Linux version of Mute Crimson DX. If you are using windows, use the following steam command: download_depot 2830430 2830432 1889794651090092114  \n3) Copy all the assets to mutecrimsondx/gamedata  \n4) Run Mute Crimson.sh. The first startup will patch the game to make it run on devices with 1GB RAM",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://icedlizardgames.com/",
+            "gameurl": "https://store.steampowered.com/app/2830430/Mute_Crimson_DX/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Mute Crimson DX"
+      },
+      "items": [
+        "Mute Crimson DX.sh",
+        "mutecrimsondx"
+      ],
+      "items_opt": null,
+      "name": "mutecrimsondx.zip",
+      "source": {
+        "date_added": "2026-10-17",
+        "date_updated": "2026-10-17",
+        "md5": "6e3284e01e3e6a1aac7cb3399ee8fe2f",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 5149867,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/mutecrimsondx.zip"
+      },
+      "version": 4
+    },
     "mybigsister.zip": {
       "attr": {
         "arch": [
@@ -82088,12 +82376,12 @@
       },
       "source": {
         "date_added": "2023-02-23",
-        "date_updated": "2025-03-14",
-        "md5": "7f5b3d803b0a81d1da31d05a8c4939f5",
-        "release_id": "2025-03-14_1451",
+        "date_updated": "2026-10-17",
+        "md5": "8c75ba99d5652b3ac1c3706d939d7f19",
+        "release_id": "2026-10-17_2016",
         "repo": "main",
-        "size": 69849360,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/openrct2.zip"
+        "size": 69849954,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/openrct2.zip"
       },
       "version": 2
     },
@@ -112480,6 +112768,95 @@
       },
       "version": 2
     },
+    "sundog.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "SunDog: Frozen Legacy is FTL Software's 1985 space trading and exploration game, where you take over a starship to build a colony for a religious sect while trading, fighting and running your ship's systems in real time. This port runs the original Atari ST game code through laanwj's p-system interpreter.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your SunDog: Frozen Legacy v3.0 Atari ST disk image (.st or .stx, original disk layout, not the re-packed version) to ports/sundog/. An .stx image is converted automatically on first launch.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "SunDog: Frozen Legacy"
+      },
+      "items": [
+        "SunDog.sh",
+        "sundog"
+      ],
+      "items_opt": null,
+      "name": "sundog.zip",
+      "source": {
+        "date_added": "2026-10-17",
+        "date_updated": "2026-10-17",
+        "md5": "4909381765e2e0180d442a7801e51655",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 112842,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/sundog.zip"
+      },
+      "version": 4
+    },
     "sunsetshaped.zip": {
       "attr": {
         "arch": [],
@@ -133071,6 +133448,94 @@
         "repo": "main",
         "size": 311155,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-07-21_1309/yarntown_pm.zip"
+      },
+      "version": 4
+    },
+    "yarsrevenge.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A quick remake of the Atari 2600/VCS Game created by Howard Scott Warshaw.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Move your Yar around with the DPAD, fire chunks out of the shield with your fire key\\n(A/B). You can't shoot anything else. You can also eat bits of the shield by ramming it.\\nWhen you've done this enough the cannon appears at the left side and can be used to aim at the\\nquotile (the triangular thing on the right) to destroy it to end the game.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Yar's Revenge"
+      },
+      "items": [
+        "Yar's Revenge.sh",
+        "yarsrevenge"
+      ],
+      "items_opt": null,
+      "name": "yarsrevenge.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2026-10-17",
+        "md5": "43f0dad7fa490863685f158a4395cc67",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 145229,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/yarsrevenge.zip"
       },
       "version": 4
     },
