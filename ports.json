@@ -46853,12 +46853,12 @@
       "name": "gizmoduck.zip",
       "source": {
         "date_added": "2026-09-02",
-        "date_updated": "2026-09-02",
-        "md5": "6e3ef8be067a0bbf157d80168b35a5ed",
-        "release_id": "2026-09-02_1433",
+        "date_updated": "2026-10-20",
+        "md5": "6628bd7b1dee0eec801243a92ee21118",
+        "release_id": "2026-10-20_0755",
         "repo": "multiverse",
-        "size": 79219,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-02_1433/gizmoduck.zip"
+        "size": 79118,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-20_0755/gizmoduck.zip"
       },
       "version": 4
     },
@@ -135853,12 +135853,12 @@
       "name": "zquestclassic.zip",
       "source": {
         "date_added": "2026-10-03",
-        "date_updated": "2026-10-08",
-        "md5": "200c6b509d5619c0e4f797bf468bf205",
-        "release_id": "2026-10-08_1426",
+        "date_updated": "2026-10-20",
+        "md5": "03d1addab63fbcc3d20b541ff8018548",
+        "release_id": "2026-10-20_0755",
         "repo": "multiverse",
-        "size": 55928588,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-08_1426/zquestclassic.zip"
+        "size": 55903271,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-20_0755/zquestclassic.zip"
       },
       "version": 4
     },
