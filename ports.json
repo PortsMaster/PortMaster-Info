@@ -4949,12 +4949,12 @@
       },
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2025-10-04",
-        "md5": "4b4d8dc39592f5fdbba2532aeda3ef6d",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-10-20",
+        "md5": "e9faf6fd4dd319c248d8cd51a428e1e3",
+        "release_id": "2026-10-20_1950",
         "repo": "main",
-        "size": 7246016,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/apotris.zip"
+        "size": 15062467,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/apotris.zip"
       },
       "version": 2
     },
@@ -10095,6 +10095,98 @@
         "repo": "main",
         "size": 506224,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/biplanesrevival.zip"
+      },
+      "version": 4
+    },
+    "bitfall.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Hidden in the Tomb of the Snake, the Ring of Greed awaits its rightful owner. Will you enter the tomb and live to tell the tale?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game files (bitfall_linux_x86_64.zip) from https://tomeaves.itch.io/bitfall. Extract the zip and copy the BITFALL.pck file into the ports/bitfall/gamedata/ folder on your device.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Lamor26"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "godot_4.7.1",
+          "weston_pkg_0.2"
+        ],
+        "store": [],
+        "title": "BITFALL"
+      },
+      "items": [
+        "BITFALL.sh",
+        "bitfall"
+      ],
+      "items_opt": null,
+      "name": "bitfall.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "b19998cf78e62084b03e4acf0c162b9a",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 121548,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/bitfall.zip"
       },
       "version": 4
     },
@@ -42725,12 +42817,12 @@
       "name": "fnaf2.zip",
       "source": {
         "date_added": "2026-10-12",
-        "date_updated": "2026-10-14",
-        "md5": "20cfc9448fc0297c8d53ac29b33e0a09",
-        "release_id": "2026-10-14_1439",
+        "date_updated": "2026-10-20",
+        "md5": "c4c80fa8663fd7d1ec3e14b6aeca7435",
+        "release_id": "2026-10-20_1950",
         "repo": "main",
-        "size": 46652279,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/fnaf2.zip"
+        "size": 46652217,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/fnaf2.zip"
       },
       "version": 4
     },
@@ -61064,6 +61156,104 @@
       },
       "version": 2
     },
+    "kerners.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A word puzzle game. A kerner is an L-shaped piece carrying three letters; fit them into a puzzle's shape so every row and column spells a word.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "bokoyoss"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.6.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://bokonon-yossarian.itch.io/",
+            "gameurl": "https://bokonon-yossarian.itch.io/kerners",
+            "name": "itch"
+          }
+        ],
+        "title": "Kerners"
+      },
+      "items": [
+        "Kerners.sh",
+        "kerners"
+      ],
+      "items_opt": null,
+      "name": "kerners.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "340af96bb78a449381e596909680d836",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 16127220,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/kerners.zip"
+      },
+      "version": 4
+    },
     "khimera.zip": {
       "attr": {
         "arch": [
@@ -65906,6 +66096,104 @@
         "repo": "main",
         "size": 6059210,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/lonelyspace.zip"
+      },
+      "version": 4
+    },
+    "longspear.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "This is a game on which you have a extendable spear that can become TOO LONG(Jam theme here) and this determines how you move through the levels. Enjoy 13 levels with puzzles, explosions and some enemies to kick",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the LongSpearWindows_v1_1_0.zip from Itch.io (https://tsv-games.itch.io/long-spear) and place the LongSpear.pck into gamedata folder.",
+        "inst_md": "Download the **LongSpearWindows_v1_1_0.zip** from [Itch.io](https://tsv-games.itch.io/long-spear) and place the `LongSpear.pck` into `gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.3.4.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://tsv-games.itch.io/long-spear",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Long Spear"
+      },
+      "items": [
+        "Long Spear.sh",
+        "longspear"
+      ],
+      "items_opt": null,
+      "name": "longspear.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "833f4a21062fdea207fe6d60c50c7ea8",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 47415,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/longspear.zip"
       },
       "version": 4
     },
@@ -107173,6 +107461,100 @@
       },
       "version": 4
     },
+    "somaspirits.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A choice-driven JRPG about two spirits, Heart and Soul, working to restore balance to the world of Soma. Rebalance is an updated edition of the original 2016 freeware release, with new modes, features, and content.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from itch.io Steam version does not work due to DRM, then add the game files (Data, Graphics, Audio, Fonts, Game.rgss3a, Game.ini) to the port folder on your device. It will take a moment to patch on first launch.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://torch60.itch.io",
+            "gameurl": "https://torch60.itch.io/soma-spirits-rebalance",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Soma Spirits"
+      },
+      "items": [
+        "Soma Spirits.sh",
+        "somaspirits"
+      ],
+      "items_opt": null,
+      "name": "somaspirits.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "3a8c2598d47256a7cde5f4c982231868",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 10867314,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/somaspirits.zip"
+      },
+      "version": 4
+    },
     "somnokid.zip": {
       "attr": {
         "arch": [
@@ -119310,11 +119692,12 @@
           "r36s:ALL"
         ],
         "availability": "demo",
-        "desc": "The first three chapters of a cozy narrative isometric adventure about a seaside hotel, a summer twenty years ago, and the things people didn't say. Free.",
+        "desc": "The first three chapters of a cozy isometric story game about a seaside hotel closed for twenty years. Free, in eight languages; the world zooms in on small handheld screens.",
         "desc_md": null,
         "exp": false,
         "genres": [
-          "adventure"
+          "adventure",
+          "simulation"
         ],
         "image": {
           "covers": [
@@ -119324,7 +119707,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to run. The first start unpacks the game data, which takes a moment.",
+        "inst": "Ready to run. The first start unpacks the game data, which takes a moment. Language, Zoom and Text size are in Settings.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -119335,8 +119718,8 @@
         "runtime": [],
         "store": [
           {
-            "developerurl": "https://tri2510.itch.io/",
-            "gameurl": "https://tri2510.itch.io/the-last-summer",
+            "developerurl": "https://trihua.com",
+            "gameurl": "https://tri2510.itch.io/the-last-summer-prologue",
             "name": "itch.io"
           }
         ],
@@ -119350,12 +119733,12 @@
       "name": "thelastsummerprologue.zip",
       "source": {
         "date_added": "2026-10-03",
-        "date_updated": "2026-10-05",
-        "md5": "9bad360fa8d2271e4d6ba9ab6e6b4c61",
-        "release_id": "2026-10-05_1447",
+        "date_updated": "2026-10-20",
+        "md5": "28883fa236fa0b98d7b24a4a8aa192de",
+        "release_id": "2026-10-20_1950",
         "repo": "main",
-        "size": 52589397,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-05_1447/thelastsummerprologue.zip"
+        "size": 52608368,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/thelastsummerprologue.zip"
       },
       "version": 4
     },
@@ -124054,6 +124437,95 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/trolley.delayma.zip"
       },
       "version": 2
+    },
+    "tsc.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A 2D side-scrolling platformer, forked from Secret Maryo Chronicles, with hand-drawn graphics, its own soundtrack, an overworld map and a full level editor with in-game scripting.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed. The first launch extracts the game data, which takes a few minutes.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2"
+        ],
+        "store": [],
+        "title": "The Secret Chronicles of Dr. M."
+      },
+      "items": [
+        "The Secret Chronicles.sh",
+        "tsc"
+      ],
+      "items_opt": null,
+      "name": "tsc.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "52ad6f495e6e82a5307a608fc7be5973",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 265571191,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/tsc.zip"
+      },
+      "version": 4
     },
     "tsunderswap.zip": {
       "attr": {
