@@ -4949,12 +4949,12 @@
       },
       "source": {
         "date_added": "2024-02-05",
-        "date_updated": "2025-10-04",
-        "md5": "4b4d8dc39592f5fdbba2532aeda3ef6d",
-        "release_id": "2025-10-04_1030",
+        "date_updated": "2026-10-20",
+        "md5": "e9faf6fd4dd319c248d8cd51a428e1e3",
+        "release_id": "2026-10-20_1950",
         "repo": "main",
-        "size": 7246016,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/apotris.zip"
+        "size": 15062467,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/apotris.zip"
       },
       "version": 2
     },
@@ -10095,6 +10095,98 @@
         "repo": "main",
         "size": 506224,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-02-07_0859/biplanesrevival.zip"
+      },
+      "version": 4
+    },
+    "bitfall.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Hidden in the Tomb of the Snake, the Ring of Greed awaits its rightful owner. Will you enter the tomb and live to tell the tale?",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game files (bitfall_linux_x86_64.zip) from https://tomeaves.itch.io/bitfall. Extract the zip and copy the BITFALL.pck file into the ports/bitfall/gamedata/ folder on your device.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Lamor26"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "godot_4.7.1",
+          "weston_pkg_0.2"
+        ],
+        "store": [],
+        "title": "BITFALL"
+      },
+      "items": [
+        "BITFALL.sh",
+        "bitfall"
+      ],
+      "items_opt": null,
+      "name": "bitfall.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "b19998cf78e62084b03e4acf0c162b9a",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 121548,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/bitfall.zip"
       },
       "version": 4
     },
@@ -19058,12 +19150,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-12-19",
-        "md5": "d3335cdf2fb1a7e989d079bc31251893",
-        "release_id": "2024-12-19_1739",
+        "date_updated": "2026-10-21",
+        "md5": "aad671048542c591730c8a925006b4f6",
+        "release_id": "2026-10-21_2023",
         "repo": "main",
-        "size": 9387442,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/cave.story-evo.zip"
+        "size": 9387715,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/cave.story-evo.zip"
       },
       "version": 2
     },
@@ -25578,6 +25670,106 @@
       },
       "version": 4
     },
+    "crystalstoryawakening.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Crystal Story: Awakening is an Action-RPG that blends charming retro-style graphics with fast-paced action, heavily inspired by 16-bit classics! ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download and extract CS Awakening v2.zip (https://bredfrown.itch.io/crystal-story) into the assets folder of the port folder and run the port, on first startup it will patch the game.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "TheLaggyPyro",
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs",
+          "gmtoolkit.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://bredfrown.itch.io/",
+            "gameurl": "https://bredfrown.itch.io/crystal-story",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Crystal Story Awakening"
+      },
+      "items": [
+        "Crystal Story Awakening.sh",
+        "crystalstoryawakening"
+      ],
+      "items_opt": null,
+      "name": "crystalstoryawakening.zip",
+      "source": {
+        "date_added": "2026-10-17",
+        "date_updated": "2026-10-17",
+        "md5": "14fc284ba229b6a619f525c80146ed7d",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 4894804,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/crystalstoryawakening.zip"
+      },
+      "version": 4
+    },
     "ctp2.zip": {
       "attr": {
         "arch": [
@@ -25661,6 +25853,98 @@
         "repo": "main",
         "size": 22097889,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-20_2237/ctp2.zip"
+      },
+      "version": 4
+    },
+    "cubes.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Explore a collection of twisty puzzles in a 3D environment! Rotate, inspect, and solve different cubes, including classic 2\u00d72 and 3\u00d73 cubes, Mirror Cube, and other unique puzzles. Customize your view, manipulate individual faces, and challenge your spatial reasoning. A simple yet satisfying puzzle experience for cube enthusiasts!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run!",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Shubham Gupta"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "godot_4.7.1.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [],
+        "title": "cubes"
+      },
+      "items": [
+        "Cubes.sh",
+        "cubes"
+      ],
+      "items_opt": null,
+      "name": "cubes.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "a81d1709da42bddda4168be5aa0a7d0f",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 3073804,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/cubes.zip"
       },
       "version": 4
     },
@@ -35399,6 +35683,108 @@
       },
       "version": 4
     },
+    "dungeondeck.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Explore a dungeon in the form of a deck of cards! Collect rare items, build your own deck, and defeat the dungeon in this cozy card-based roguelike!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "casino/card",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the latest version or free DEMO version of the game on steam and place all game files into the ports gamedata/ folder",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://incinious.itch.io/",
+            "gameurl": "https://incinious.itch.io/dungeon-deck",
+            "name": "Itch.io"
+          },
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Incinious",
+            "gameurl": "https://store.steampowered.com/app/2895110/Dungeon_Deck/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Dungeon Deck"
+      },
+      "items": [
+        "Dungeon Deck.sh",
+        "dungeondeck"
+      ],
+      "items_opt": null,
+      "name": "dungeondeck.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "7060de499d43f0048c8f3dedcd21d89e",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 7262103,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/dungeondeck.zip"
+      },
+      "version": 4
+    },
     "dungeoninabottle.zip": {
       "attr": {
         "arch": [
@@ -36135,8 +36521,6 @@
       "attr": {
         "arch": [],
         "avail": [
-          "rg-arc-d:ALL",
-          "rg-arc-s:ALL",
           "rg353m:ALL",
           "rg353ps:ALL",
           "rg351mp:ALL",
@@ -36144,15 +36528,9 @@
           "rg552:ALL",
           "rgcubexx:ALL",
           "rg40xx-h:ALL",
-          "rg40xx-v:ALL",
-          "rg35xx-plus:ALL",
           "rg35xx-h:ALL",
-          "rg35xx-sp:ALL",
-          "rg34xx-h:ALL",
           "rg34xx-sp:ALL",
-          "rg28xx:ALL",
           "rg351p:ALL",
-          "rg351v:ALL",
           "rgb10:ALL",
           "rgb20s:ALL",
           "rgb30:ALL",
@@ -36160,19 +36538,16 @@
           "x55:ALL",
           "rgb10max3:ALL",
           "rgb10max3pro:ALL",
-          "oga:ALL",
           "ogs:ALL",
           "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
           "trimui-smart-pro:ALL",
-          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
           "steamdeck:ALL",
           "xu10:ALL",
-          "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
@@ -36194,7 +36569,9 @@
         "porter": [
           "Cebion"
         ],
-        "reqs": [],
+        "reqs": [
+          "analog_2"
+        ],
         "rtr": true,
         "runtime": [
           "frt_3.4.5.squashfs"
@@ -36215,12 +36592,12 @@
       },
       "source": {
         "date_added": "2023-08-04",
-        "date_updated": "2025-01-07",
-        "md5": "d91960a26362012ceccfbd0314dc83a5",
-        "release_id": "2025-01-07_1055",
+        "date_updated": "2026-10-15",
+        "md5": "82d944766493cafffe9096bf7f6762dd",
+        "release_id": "2026-10-15_2356",
         "repo": "main",
-        "size": 11586027,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/echo_chamber.zip"
+        "size": 11586036,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/echo_chamber.zip"
       },
       "version": 2
     },
@@ -36754,6 +37131,101 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-13_2211/emojimerge.zip"
       },
       "version": 2
+    },
+    "endacopia.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Endacopia is an unusual point-and-click puzzle adventure game. Help a boy named Mellow navigate a surreal, whimsical, and unsettling world filled with strange characters and creative puzzles.",
+        "desc_md": "Endacopia is an unusual point-and-click puzzle adventure game created by Andyland. Help a lost child named Mellow navigate a surreal, whimsical, and unsettling world filled with strange characters and mind-bending puzzles.\n\nThis port runs natively on aarch64 using the Adventure Game Studio (AGS) engine with OpenGL ES 2 renderer acceleration.",
+        "exp": false,
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "This port does NOT include the game. Copy Endacopia.ags, audio.vox and sp_speechsounds.vox from the Data folder of your own copy of Endacopia into ports/endacopia/.\n\nOn Steam those three files are in the Data folder, already loose, so nothing has to be extracted from the Windows executable.",
+        "inst_md": null,
+        "min_glibc": "2.30",
+        "porter": [
+          "SaMeiers"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/andyland",
+            "gameurl": "https://store.steampowered.com/app/2684630/Endacopia/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Endacopia"
+      },
+      "items": [
+        "Endacopia.sh",
+        "endacopia"
+      ],
+      "items_opt": null,
+      "name": "endacopia.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "52ee531545456e9b092315547b6dec0d",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 3394536,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/endacopia.zip"
+      },
+      "version": 4
     },
     "endlessdungeon.zip": {
       "attr": {
@@ -42345,12 +42817,109 @@
       "name": "fnaf2.zip",
       "source": {
         "date_added": "2026-10-12",
-        "date_updated": "2026-10-14",
-        "md5": "20cfc9448fc0297c8d53ac29b33e0a09",
-        "release_id": "2026-10-14_1439",
+        "date_updated": "2026-10-20",
+        "md5": "c4c80fa8663fd7d1ec3e14b6aeca7435",
+        "release_id": "2026-10-20_1950",
         "repo": "main",
-        "size": 46652279,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/fnaf2.zip"
+        "size": 46652217,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/fnaf2.zip"
+      },
+      "version": 4
+    },
+    "fnaf3.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Thirty years after Freddy Fazbear's Pizza closed its doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of \"Fazbear's Fright: The Horror Attraction\" are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Downloads the latest version of the game on steam and place the FiveNightsatFreddys3.exe into fnaf3/gamedata\n",
+        "inst_md": null,
+        "min_glibc": "2.35",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Scott%20Cawthon",
+            "gameurl": "https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Five Nights at Freddy's 3"
+      },
+      "items": [
+        "Five Nights at Freddys 3.sh",
+        "fnaf3"
+      ],
+      "items_opt": null,
+      "name": "fnaf3.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "f2af5f7c83ead9344a7a1284dfd5032b",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 46046819,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/fnaf3.zip"
       },
       "version": 4
     },
@@ -46473,12 +47042,12 @@
       "name": "gizmoduck.zip",
       "source": {
         "date_added": "2026-09-02",
-        "date_updated": "2026-09-02",
-        "md5": "6e3ef8be067a0bbf157d80168b35a5ed",
-        "release_id": "2026-09-02_1433",
+        "date_updated": "2026-10-20",
+        "md5": "6628bd7b1dee0eec801243a92ee21118",
+        "release_id": "2026-10-20_0755",
         "repo": "multiverse",
-        "size": 79219,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-02_1433/gizmoduck.zip"
+        "size": 79118,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-20_0755/gizmoduck.zip"
       },
       "version": 4
     },
@@ -50380,6 +50949,107 @@
         "repo": "main",
         "size": 25583395,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/gunslugs.zip"
+      },
+      "version": 4
+    },
+    "gunslugs2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Run, jump and shoot through chaotic action-platforming missions against the Black Duck Army.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your legally obtained Residual.jar in <ports directory>/gunslugs2/gamedata/Gunslugs2.jar. See README.md for GOG download instructions.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ronax"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://orangepixel.net/",
+            "gameurl": "https://www.gog.com/en/game/gunslugs_2",
+            "name": "GOG"
+          }
+        ],
+        "title": "Gunslugs 2"
+      },
+      "items": [
+        "Gunslugs 2.sh",
+        "gunslugs2"
+      ],
+      "items_opt": null,
+      "name": "gunslugs2.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "3557e5345799e45864228b22f83906c1",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 263366,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/gunslugs2.zip"
       },
       "version": 4
     },
@@ -58437,6 +59107,96 @@
       },
       "version": 4
     },
+    "iyfct.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A one-button runner: get to work on time by jumping over closed trains, running through open ones and dodging birds and tunnels. Coffee from open trains gives an extra life.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Knifethrower"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "In Your Face City Trains"
+      },
+      "items": [
+        "In Your Face City Trains.sh",
+        "iyfct"
+      ],
+      "items_opt": null,
+      "name": "iyfct.zip",
+      "source": {
+        "date_added": "2026-10-17",
+        "date_updated": "2026-10-17",
+        "md5": "f507ddecfeb32eb3337b6fc0fc509c6e",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 1777978,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/iyfct.zip"
+      },
+      "version": 4
+    },
     "izelsobservatory.zip": {
       "attr": {
         "arch": [
@@ -60593,6 +61353,104 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-12-12_0744/kenslabyrinth.zip"
       },
       "version": 2
+    },
+    "kerners.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A word puzzle game. A kerner is an L-shaped piece carrying three letters; fit them into a puzzle's shape so every row and column spells a word.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "bokoyoss"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.6.3.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://bokonon-yossarian.itch.io/",
+            "gameurl": "https://bokonon-yossarian.itch.io/kerners",
+            "name": "itch"
+          }
+        ],
+        "title": "Kerners"
+      },
+      "items": [
+        "Kerners.sh",
+        "kerners"
+      ],
+      "items_opt": null,
+      "name": "kerners.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "340af96bb78a449381e596909680d836",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 16127220,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/kerners.zip"
+      },
+      "version": 4
     },
     "khimera.zip": {
       "attr": {
@@ -63316,6 +64174,96 @@
       },
       "version": 2
     },
+    "lilt.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A musical grid for small computers. Place notes on a sixteen by eight grid and let them loop, then shape the sound with echo, space, pace and wobble across nine generated voices. Simple enough for kids, strange enough for everyone else.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "2.17",
+        "porter": [
+          "deadquiet42"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "LILT"
+      },
+      "items": [
+        "LILT.sh",
+        "lilt"
+      ],
+      "items_opt": null,
+      "name": "lilt.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "7822ebd6dcede45825143c597aade061",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 21285,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/lilt.zip"
+      },
+      "version": 4
+    },
     "liltanks.zip": {
       "attr": {
         "arch": [
@@ -65439,6 +66387,104 @@
       },
       "version": 4
     },
+    "longspear.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "This is a game on which you have a extendable spear that can become TOO LONG(Jam theme here) and this determines how you move through the levels. Enjoy 13 levels with puzzles, explosions and some enemies to kick",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the LongSpearWindows_v1_1_0.zip from Itch.io (https://tsv-games.itch.io/long-spear) and place the LongSpear.pck into gamedata folder.",
+        "inst_md": "Download the **LongSpearWindows_v1_1_0.zip** from [Itch.io](https://tsv-games.itch.io/long-spear) and place the `LongSpear.pck` into `gamedata` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "frt_3.3.4.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://tsv-games.itch.io/long-spear",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Long Spear"
+      },
+      "items": [
+        "Long Spear.sh",
+        "longspear"
+      ],
+      "items_opt": null,
+      "name": "longspear.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "833f4a21062fdea207fe6d60c50c7ea8",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 47415,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/longspear.zip"
+      },
+      "version": 4
+    },
     "loopcat.zip": {
       "attr": {
         "arch": [
@@ -65899,6 +66945,105 @@
         "repo": "main",
         "size": 10902664,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/lostethereal.zip"
+      },
+      "version": 4
+    },
+    "lostflame.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Lost Flame is a modern traditional roguelike with turn-based, positioning-driven melee combat. Explore a ruined kingdom, fight legendary warriors and piece together the cause of the cataclysm, with deep character building through weapons, rings, amulets and enchantments.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy Lost Flame on Steam, then copy 'LostFlame.jar' from the game folder into ports/lostflame. First launch patches your copy, which takes well under a minute.",
+        "inst_md": "Buy Lost Flame [on Steam](https://store.steampowered.com/app/856570/Lost_Flame/), then copy `LostFlame.jar` from the game folder into `ports/lostflame`. First launch patches your copy, which takes well under a minute.",
+        "min_glibc": "2.29",
+        "porter": [
+          "mxmgorin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Bartosz%20Bojarowski",
+            "gameurl": "https://store.steampowered.com/app/856570/Lost_Flame/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Lost Flame"
+      },
+      "items": [
+        "Lost Flame.sh",
+        "lostflame"
+      ],
+      "items_opt": null,
+      "name": "lostflame.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "a9ce96d1d6f2aed5210081139efe70a1",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 851429,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/lostflame.zip"
       },
       "version": 4
     },
@@ -74781,6 +75926,104 @@
       },
       "version": 2
     },
+    "mutecrimsondx.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Mute Crimson DX is an action-packed precision platformer where you guide Ninja on his quest to climb up walls, slice through bad guys and overcome great evils!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy and install the Linux version of Mute Crimson DX. Copy all the game assets to mutecrimsondx/gamedata",
+        "inst_md": "1) Purchase the game from Steam  \n2) Buy and install the Linux version of Mute Crimson DX. If you are using windows, use the following steam command: download_depot 2830430 2830432 1889794651090092114  \n3) Copy all the assets to mutecrimsondx/gamedata  \n4) Run Mute Crimson.sh. The first startup will patch the game to make it run on devices with 1GB RAM",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-8.0.12.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://icedlizardgames.com/",
+            "gameurl": "https://store.steampowered.com/app/2830430/Mute_Crimson_DX/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Mute Crimson DX"
+      },
+      "items": [
+        "Mute Crimson DX.sh",
+        "mutecrimsondx"
+      ],
+      "items_opt": null,
+      "name": "mutecrimsondx.zip",
+      "source": {
+        "date_added": "2026-10-17",
+        "date_updated": "2026-10-17",
+        "md5": "6e3284e01e3e6a1aac7cb3399ee8fe2f",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 5149867,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/mutecrimsondx.zip"
+      },
+      "version": 4
+    },
     "mybigsister.zip": {
       "attr": {
         "arch": [
@@ -75053,6 +76296,106 @@
         "repo": "main",
         "size": 44133775,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/mythos.zip"
+      },
+      "version": 4
+    },
+    "naezith.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "With the powers granted to him by the dragon, Kayra will destroy the Remnants of Naezith, enchanted fragments of the dragon's body, to prevent anyone from exploiting their power for evil. Rush and swing through levels to top the leaderboards in this fast-paced, grappling hook precision platformer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and use the Steam console to download the Linux build with these two commands: `download_depot 590590 590591 271869356780381257` and `download_depot 590590 590593 1978461534159709910`. Merge both downloads and copy everything (the `naezith` binary, `lib` and `data` folders) into `ports/naezith/gamedata/`.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/590590/Remnants_of_Naezith/) and use the [Steam console](https://steamcommunity.com/sharedfiles/filedetails/?id=873543244) to download the Linux build with these two commands: `download_depot 590590 590591 271869356780381257` and `download_depot 590590 590593 1978461534159709910`. Merge both downloads and copy everything (the `naezith` binary, `lib` and `data` folders) into `ports/naezith/gamedata/`.",
+        "min_glibc": "",
+        "porter": [
+          "crxssrazr93"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://naezith.com",
+            "gameurl": "https://store.steampowered.com/app/590590/Remnants_of_Naezith/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Remnants of Naezith"
+      },
+      "items": [
+        "Remnants of Naezith.sh",
+        "naezith"
+      ],
+      "items_opt": null,
+      "name": "naezith.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "60a2dcc9fe0fe2f82b3e21ff0c440e71",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 7074780,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/naezith.zip"
       },
       "version": 4
     },
@@ -81808,12 +83151,12 @@
       },
       "source": {
         "date_added": "2023-02-23",
-        "date_updated": "2025-03-14",
-        "md5": "7f5b3d803b0a81d1da31d05a8c4939f5",
-        "release_id": "2025-03-14_1451",
+        "date_updated": "2026-10-17",
+        "md5": "8c75ba99d5652b3ac1c3706d939d7f19",
+        "release_id": "2026-10-17_2016",
         "repo": "main",
-        "size": 69849360,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-03-14_1451/openrct2.zip"
+        "size": 69849954,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/openrct2.zip"
       },
       "version": 2
     },
@@ -85604,6 +86947,106 @@
         "repo": "main",
         "size": 15835311,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/pentasma.zip"
+      },
+      "version": 4
+    },
+    "penumbra.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy these folders and files listed below to roms/ports/penumbra/ from your game's folder: billboards/, lights/, particles/, config/, maps/, sounds/, core/, models/, textures/, fonts/, music/, graphics/, materials.cfg, resources.cfg.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Omka1337"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/frictionalgames",
+            "gameurl": "https://store.steampowered.com/app/22180/Penumbra_Overture/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.gog.com/en/games?developers=frictional-games",
+            "gameurl": "https://www.gog.com/en/game/the_penumbra_collection",
+            "name": "GOG"
+          }
+        ],
+        "title": "Penumbra: Overture"
+      },
+      "items": [
+        "Penumbra Overture.sh",
+        "penumbra"
+      ],
+      "items_opt": null,
+      "name": "penumbra.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "3b806d65f14731e61b2b201d1b93f598",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 4345344,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/penumbra.zip"
       },
       "version": 4
     },
@@ -95740,8 +97183,8 @@
           "r36s:ALL"
         ],
         "availability": "free",
-        "desc": "Transfer files between handhelds or your phone and PC over wifi, using the LocalSend (https://localsend.org) protocol \u2014 no cable, no SSH.",
-        "desc_md": "Transfer files between handhelds or your phone and PC over wifi, using the [LocalSend](https://localsend.org) protocol \u2014 no cable, no SSH.",
+        "desc": "Transfer files between handhelds, phones and PCs over local Wi-Fi, using the LocalSend protocol. Works with the official apps. Received ROMs go into their respective console folders; everything else goes into the ROMs root folder (configurable in Settings).",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "other"
@@ -95752,8 +97195,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to run. Install LocalSend (localsend.org) on your phone or PC, connect both devices to the same wifi, and they will find each other.",
-        "inst_md": "Ready to run. Install [LocalSend](https://localsend.org) on your phone or PC, connect both devices to the same wifi, and they will find each other.",
+        "inst": "Ready to run. Install LocalSend (https://localsend.org) on your phone or PC, or retsend on another handheld. Connect both devices to the same Wi-Fi, and they will find each other.",
+        "inst_md": "Ready to run. Install [LocalSend](https://localsend.org) on your phone or PC, or retsend on another handheld. Connect both devices to the same Wi-Fi, and they will find each other.",
         "min_glibc": "2.28",
         "porter": [
           "mxmgorin"
@@ -95778,12 +97221,12 @@
       "name": "retsend.zip",
       "source": {
         "date_added": "2026-08-10",
-        "date_updated": "2026-08-13",
-        "md5": "aa6c0bb56be165b5610dc45f36f3db90",
-        "release_id": "2026-08-13_2211",
+        "date_updated": "2026-10-21",
+        "md5": "eb5545ddc1c657202e181ec141c0249c",
+        "release_id": "2026-10-21_2023",
         "repo": "main",
-        "size": 8034780,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-13_2211/retsend.zip"
+        "size": 8646144,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/retsend.zip"
       },
       "version": 4
     },
@@ -106605,6 +108048,100 @@
       },
       "version": 4
     },
+    "somaspirits.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A choice-driven JRPG about two spirits, Heart and Soul, working to restore balance to the world of Soma. Rebalance is an updated edition of the original 2016 freeware release, with new modes, features, and content.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download from itch.io Steam version does not work due to DRM, then add the game files (Data, Graphics, Audio, Fonts, Game.rgss3a, Game.ini) to the port folder on your device. It will take a moment to patch on first launch.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "TheLaggyPyro"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://torch60.itch.io",
+            "gameurl": "https://torch60.itch.io/soma-spirits-rebalance",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Soma Spirits"
+      },
+      "items": [
+        "Soma Spirits.sh",
+        "somaspirits"
+      ],
+      "items_opt": null,
+      "name": "somaspirits.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "3a8c2598d47256a7cde5f4c982231868",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 10867314,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/somaspirits.zip"
+      },
+      "version": 4
+    },
     "somnokid.zip": {
       "attr": {
         "arch": [
@@ -112200,6 +113737,95 @@
       },
       "version": 2
     },
+    "sundog.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "SunDog: Frozen Legacy is FTL Software's 1985 space trading and exploration game, where you take over a starship to build a colony for a religious sect while trading, fighting and running your ship's systems in real time. This port runs the original Atari ST game code through laanwj's p-system interpreter.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your SunDog: Frozen Legacy v3.0 Atari ST disk image (.st or .stx, original disk layout, not the re-packed version) to ports/sundog/. An .stx image is converted automatically on first launch.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "SunDog: Frozen Legacy"
+      },
+      "items": [
+        "SunDog.sh",
+        "sundog"
+      ],
+      "items_opt": null,
+      "name": "sundog.zip",
+      "source": {
+        "date_added": "2026-10-17",
+        "date_updated": "2026-10-17",
+        "md5": "4909381765e2e0180d442a7801e51655",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 112842,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/sundog.zip"
+      },
+      "version": 4
+    },
     "sunsetshaped.zip": {
       "attr": {
         "arch": [],
@@ -112478,7 +114104,7 @@
     "supercakeboy.zip": {
       "attr": {
         "arch": [
-          "armhf"
+          "aarch64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -112505,10 +114131,14 @@
           "rk2023:ALL",
           "x55:ALL",
           "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
           "oga:ALL",
           "ogs:ALL",
+          "ogu:ALL",
           "ace:ALL",
           "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
@@ -112550,12 +114180,100 @@
       "name": "supercakeboy.zip",
       "source": {
         "date_added": "2024-06-06",
-        "date_updated": "2024-07-18",
-        "md5": "b270709c01aa7f8290a3014ab75518d6",
-        "release_id": "2024-07-18_2225",
+        "date_updated": "2026-10-15",
+        "md5": "8d05b0631b4a98bf2e465fb14da7b690",
+        "release_id": "2026-10-15_2356",
         "repo": "main",
-        "size": 11717704,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-07-18_2225/supercakeboy.zip"
+        "size": 14269740,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/supercakeboy.zip"
+      },
+      "version": 4
+    },
+    "superchickenjumper.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg35xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg351p:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A spy-chicken tries to save the world from doom in this runner/shooter game that has a little bit of everything with a touch of chicken and anime girls on top. Run for your life in 6 different worlds and shoot your way through tons of enemies until you become a legend.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and use following command in Steam console to obtain compatible files: download_depot 584640 584641 4197574832203956296. Copy downloaded files into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/584640/SUPER_CHICKEN_JUMPER/) and use following command in [Steam console](steam://open/console) to obtain compatible files: `download_depot 584640 584641 4197574832203956296`. Copy downloaded files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [
+          "analog_2"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/584640/SUPER_CHICKEN_JUMPER/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Super Chicken Jumper"
+      },
+      "items": [
+        "Super Chicken Jumper.sh",
+        "superchickenjumper"
+      ],
+      "items_opt": null,
+      "name": "superchickenjumper.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "44f908d0f60330fb330fcd16afe3ecbc",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 5159682,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/superchickenjumper.zip"
       },
       "version": 4
     },
@@ -118561,11 +120279,12 @@
           "r36s:ALL"
         ],
         "availability": "demo",
-        "desc": "The first three chapters of a cozy narrative isometric adventure about a seaside hotel, a summer twenty years ago, and the things people didn't say. Free.",
+        "desc": "The first three chapters of a cozy isometric story game about a seaside hotel closed for twenty years. Free, in eight languages; the world zooms in on small handheld screens.",
         "desc_md": null,
         "exp": false,
         "genres": [
-          "adventure"
+          "adventure",
+          "simulation"
         ],
         "image": {
           "covers": [
@@ -118575,7 +120294,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to run. The first start unpacks the game data, which takes a moment.",
+        "inst": "Ready to run. The first start unpacks the game data, which takes a moment. Language, Zoom and Text size are in Settings.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -118586,8 +120305,8 @@
         "runtime": [],
         "store": [
           {
-            "developerurl": "https://tri2510.itch.io/",
-            "gameurl": "https://tri2510.itch.io/the-last-summer",
+            "developerurl": "https://trihua.com",
+            "gameurl": "https://tri2510.itch.io/the-last-summer-prologue",
             "name": "itch.io"
           }
         ],
@@ -118601,12 +120320,12 @@
       "name": "thelastsummerprologue.zip",
       "source": {
         "date_added": "2026-10-03",
-        "date_updated": "2026-10-05",
-        "md5": "9bad360fa8d2271e4d6ba9ab6e6b4c61",
-        "release_id": "2026-10-05_1447",
+        "date_updated": "2026-10-20",
+        "md5": "28883fa236fa0b98d7b24a4a8aa192de",
+        "release_id": "2026-10-20_1950",
         "repo": "main",
-        "size": 52589397,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-05_1447/thelastsummerprologue.zip"
+        "size": 52608368,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/thelastsummerprologue.zip"
       },
       "version": 4
     },
@@ -121537,6 +123256,97 @@
       },
       "version": 4
     },
+    "torustrooper.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Speed! More speed! Race a ship down a twisting torus, shoot through barrages of bullets and beat the clock. Destroying bosses and reaching score targets adds time; losing a ship takes it away.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Knifethrower"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Torus Trooper"
+      },
+      "items": [
+        "Torus Trooper.sh",
+        "torustrooper"
+      ],
+      "items_opt": null,
+      "name": "torustrooper.zip",
+      "source": {
+        "date_added": "2026-10-15",
+        "date_updated": "2026-10-15",
+        "md5": "e591c804b9efb6134d27d1c84ca652f5",
+        "release_id": "2026-10-15_2356",
+        "repo": "main",
+        "size": 6364741,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/torustrooper.zip"
+      },
+      "version": 4
+    },
     "touhoucirno.zip": {
       "attr": {
         "arch": [
@@ -123214,6 +125024,95 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/trolley.delayma.zip"
       },
       "version": 2
+    },
+    "tsc.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A 2D side-scrolling platformer, forked from Secret Maryo Chronicles, with hand-drawn graphics, its own soundtrack, an overworld map and a full level editor with in-game scripting.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed. The first launch extracts the game data, which takes a few minutes.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2"
+        ],
+        "store": [],
+        "title": "The Secret Chronicles of Dr. M."
+      },
+      "items": [
+        "The Secret Chronicles.sh",
+        "tsc"
+      ],
+      "items_opt": null,
+      "name": "tsc.zip",
+      "source": {
+        "date_added": "2026-10-20",
+        "date_updated": "2026-10-20",
+        "md5": "52ad6f495e6e82a5307a608fc7be5973",
+        "release_id": "2026-10-20_1950",
+        "repo": "main",
+        "size": 265571191,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-20_1950/tsc.zip"
+      },
+      "version": 4
     },
     "tsunderswap.zip": {
       "attr": {
@@ -132611,6 +134510,94 @@
       },
       "version": 4
     },
+    "yarsrevenge.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A quick remake of the Atari 2600/VCS Game created by Howard Scott Warshaw.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Move your Yar around with the DPAD, fire chunks out of the shield with your fire key\\n(A/B). You can't shoot anything else. You can also eat bits of the shield by ramming it.\\nWhen you've done this enough the cannon appears at the left side and can be used to aim at the\\nquotile (the triangular thing on the right) to destroy it to end the game.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Yar's Revenge"
+      },
+      "items": [
+        "Yar's Revenge.sh",
+        "yarsrevenge"
+      ],
+      "items_opt": null,
+      "name": "yarsrevenge.zip",
+      "source": {
+        "date_added": "2024-10-27",
+        "date_updated": "2026-10-17",
+        "md5": "43f0dad7fa490863685f158a4395cc67",
+        "release_id": "2026-10-17_2016",
+        "repo": "main",
+        "size": 145229,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-17_2016/yarsrevenge.zip"
+      },
+      "version": 4
+    },
     "yatka.zip": {
       "attr": {
         "arch": [
@@ -134925,12 +136912,12 @@
       "name": "zquestclassic.zip",
       "source": {
         "date_added": "2026-10-03",
-        "date_updated": "2026-10-08",
-        "md5": "200c6b509d5619c0e4f797bf468bf205",
-        "release_id": "2026-10-08_1426",
+        "date_updated": "2026-10-20",
+        "md5": "03d1addab63fbcc3d20b541ff8018548",
+        "release_id": "2026-10-20_0755",
         "repo": "multiverse",
-        "size": 55928588,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-08_1426/zquestclassic.zip"
+        "size": 55903271,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-20_0755/zquestclassic.zip"
       },
       "version": 4
     },
