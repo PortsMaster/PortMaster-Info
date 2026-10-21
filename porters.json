@@ -365,5 +365,36 @@
     "support": "https://ko-fi.com/sameiers",
     "webpage": "https://github.com/SaMeiers",
     "image": "https://avatars.githubusercontent.com/u/129564197?v=4"
+  },
+  "Knifethrower": {
+    "name": "Knifethrower",
+    "social": "",
+    "support": "https://ko-fi.com/knifethrower_pm",
+    "webpage": "",
+    "image": ""
+  },
+  "SLAYKIN6_TTV": {
+    "name": "SLAYKIN6_TTV",
+    "bio": "The game crashes without a message, and thus the soldier learns that silence is also an error. - Napoleon Bonaparte",
+    "social": "https://www.youtube.com/@SLAYKIN6_ttv",
+    "support": "",
+    "webpage": "https://github.com/justaporter",
+    "image": "https://avatars.githubusercontent.com/u/198508175?v=4"
+  },
+  "Ronax": {
+    "name": "Ronax",
+    "bio": "Simple can be harder than complex...",
+    "social": "https://discord.com/users/ronax7968",
+    "support": "https://ko-fi.com/ronax54",
+    "webpage": "https://github.com/ronaxdevil",
+    "image": "https://avatars.githubusercontent.com/u/44991437?v=4"
+  },
+  "armsonic": {
+    "name": "armsonic",
+    "bio": "Don't tempt fate save your state",
+    "social": "",
+    "support": "",
+    "webpage": "https://github.com/armsonic",
+    "image": "https://avatars.githubusercontent.com/u/185066662?v=4"
   }
 }
