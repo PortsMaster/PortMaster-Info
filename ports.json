@@ -19150,12 +19150,12 @@
       },
       "source": {
         "date_added": "2021-09-10",
-        "date_updated": "2024-12-19",
-        "md5": "d3335cdf2fb1a7e989d079bc31251893",
-        "release_id": "2024-12-19_1739",
+        "date_updated": "2026-10-21",
+        "md5": "aad671048542c591730c8a925006b4f6",
+        "release_id": "2026-10-21_2023",
         "repo": "main",
-        "size": 9387442,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-12-19_1739/cave.story-evo.zip"
+        "size": 9387715,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/cave.story-evo.zip"
       },
       "version": 2
     },
@@ -42826,6 +42826,103 @@
       },
       "version": 4
     },
+    "fnaf3.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Thirty years after Freddy Fazbear's Pizza closed its doors, the events that took place there have become nothing more than a rumor and a childhood memory, but the owners of \"Fazbear's Fright: The Horror Attraction\" are determined to revive the legend and make the experience as authentic as possible for patrons, going to great lengths to find anything that might have survived decades of neglect and ruin.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Downloads the latest version of the game on steam and place the FiveNightsatFreddys3.exe into fnaf3/gamedata\n",
+        "inst_md": null,
+        "min_glibc": "2.35",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Scott%20Cawthon",
+            "gameurl": "https://store.steampowered.com/app/354140/Five_Nights_at_Freddys_3/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Five Nights at Freddy's 3"
+      },
+      "items": [
+        "Five Nights at Freddys 3.sh",
+        "fnaf3"
+      ],
+      "items_opt": null,
+      "name": "fnaf3.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "f2af5f7c83ead9344a7a1284dfd5032b",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 46046819,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/fnaf3.zip"
+      },
+      "version": 4
+    },
     "fnafnes.zip": {
       "attr": {
         "arch": [
@@ -50852,6 +50949,107 @@
         "repo": "main",
         "size": 25583395,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/gunslugs.zip"
+      },
+      "version": 4
+    },
+    "gunslugs2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Run, jump and shoot through chaotic action-platforming missions against the Black Duck Army.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your legally obtained Residual.jar in <ports directory>/gunslugs2/gamedata/Gunslugs2.jar. See README.md for GOG download instructions.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ronax"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://orangepixel.net/",
+            "gameurl": "https://www.gog.com/en/game/gunslugs_2",
+            "name": "GOG"
+          }
+        ],
+        "title": "Gunslugs 2"
+      },
+      "items": [
+        "Gunslugs 2.sh",
+        "gunslugs2"
+      ],
+      "items_opt": null,
+      "name": "gunslugs2.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "3557e5345799e45864228b22f83906c1",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 263366,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/gunslugs2.zip"
       },
       "version": 4
     },
@@ -63976,6 +64174,96 @@
       },
       "version": 2
     },
+    "lilt.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A musical grid for small computers. Place notes on a sixteen by eight grid and let them loop, then shape the sound with echo, space, pace and wobble across nine generated voices. Simple enough for kids, strange enough for everyone else.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "2.17",
+        "porter": [
+          "deadquiet42"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "LILT"
+      },
+      "items": [
+        "LILT.sh",
+        "lilt"
+      ],
+      "items_opt": null,
+      "name": "lilt.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "7822ebd6dcede45825143c597aade061",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 21285,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/lilt.zip"
+      },
+      "version": 4
+    },
     "liltanks.zip": {
       "attr": {
         "arch": [
@@ -66657,6 +66945,105 @@
         "repo": "main",
         "size": 10902664,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-10-30_1349/lostethereal.zip"
+      },
+      "version": 4
+    },
+    "lostflame.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Lost Flame is a modern traditional roguelike with turn-based, positioning-driven melee combat. Explore a ruined kingdom, fight legendary warriors and piece together the cause of the cataclysm, with deep character building through weapons, rings, amulets and enchantments.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg",
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Buy Lost Flame on Steam, then copy 'LostFlame.jar' from the game folder into ports/lostflame. First launch patches your copy, which takes well under a minute.",
+        "inst_md": "Buy Lost Flame [on Steam](https://store.steampowered.com/app/856570/Lost_Flame/), then copy `LostFlame.jar` from the game folder into `ports/lostflame`. First launch patches your copy, which takes well under a minute.",
+        "min_glibc": "2.29",
+        "porter": [
+          "mxmgorin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Bartosz%20Bojarowski",
+            "gameurl": "https://store.steampowered.com/app/856570/Lost_Flame/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Lost Flame"
+      },
+      "items": [
+        "Lost Flame.sh",
+        "lostflame"
+      ],
+      "items_opt": null,
+      "name": "lostflame.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "a9ce96d1d6f2aed5210081139efe70a1",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 851429,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/lostflame.zip"
       },
       "version": 4
     },
@@ -75909,6 +76296,106 @@
         "repo": "main",
         "size": 44133775,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-05-20_1328/mythos.zip"
+      },
+      "version": 4
+    },
+    "naezith.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "With the powers granted to him by the dragon, Kayra will destroy the Remnants of Naezith, enchanted fragments of the dragon's body, to prevent anyone from exploiting their power for evil. Rush and swing through levels to top the leaderboards in this fast-paced, grappling hook precision platformer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer",
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and use the Steam console to download the Linux build with these two commands: `download_depot 590590 590591 271869356780381257` and `download_depot 590590 590593 1978461534159709910`. Merge both downloads and copy everything (the `naezith` binary, `lib` and `data` folders) into `ports/naezith/gamedata/`.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/590590/Remnants_of_Naezith/) and use the [Steam console](https://steamcommunity.com/sharedfiles/filedetails/?id=873543244) to download the Linux build with these two commands: `download_depot 590590 590591 271869356780381257` and `download_depot 590590 590593 1978461534159709910`. Merge both downloads and copy everything (the `naezith` binary, `lib` and `data` folders) into `ports/naezith/gamedata/`.",
+        "min_glibc": "",
+        "porter": [
+          "crxssrazr93"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://naezith.com",
+            "gameurl": "https://store.steampowered.com/app/590590/Remnants_of_Naezith/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Remnants of Naezith"
+      },
+      "items": [
+        "Remnants of Naezith.sh",
+        "naezith"
+      ],
+      "items_opt": null,
+      "name": "naezith.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "60a2dcc9fe0fe2f82b3e21ff0c440e71",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 7074780,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/naezith.zip"
       },
       "version": 4
     },
@@ -86463,6 +86950,106 @@
       },
       "version": 4
     },
+    "penumbra.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Penumbra: Overture is a first person survival horror game, emphasizing on survival and problem solving instead of mindless violence and gore.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy these folders and files listed below to roms/ports/penumbra/ from your game's folder: billboards/, lights/, particles/, config/, maps/, sounds/, core/, models/, textures/, fonts/, music/, graphics/, materials.cfg, resources.cfg.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Omka1337"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/developer/frictionalgames",
+            "gameurl": "https://store.steampowered.com/app/22180/Penumbra_Overture/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://www.gog.com/en/games?developers=frictional-games",
+            "gameurl": "https://www.gog.com/en/game/the_penumbra_collection",
+            "name": "GOG"
+          }
+        ],
+        "title": "Penumbra: Overture"
+      },
+      "items": [
+        "Penumbra Overture.sh",
+        "penumbra"
+      ],
+      "items_opt": null,
+      "name": "penumbra.zip",
+      "source": {
+        "date_added": "2026-10-21",
+        "date_updated": "2026-10-21",
+        "md5": "3b806d65f14731e61b2b201d1b93f598",
+        "release_id": "2026-10-21_2023",
+        "repo": "main",
+        "size": 4345344,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/penumbra.zip"
+      },
+      "version": 4
+    },
     "perfectdark.zip": {
       "attr": {
         "arch": [
@@ -96596,8 +97183,8 @@
           "r36s:ALL"
         ],
         "availability": "free",
-        "desc": "Transfer files between handhelds or your phone and PC over wifi, using the LocalSend (https://localsend.org) protocol \u2014 no cable, no SSH.",
-        "desc_md": "Transfer files between handhelds or your phone and PC over wifi, using the [LocalSend](https://localsend.org) protocol \u2014 no cable, no SSH.",
+        "desc": "Transfer files between handhelds, phones and PCs over local Wi-Fi, using the LocalSend protocol. Works with the official apps. Received ROMs go into their respective console folders; everything else goes into the ROMs root folder (configurable in Settings).",
+        "desc_md": null,
         "exp": false,
         "genres": [
           "other"
@@ -96608,8 +97195,8 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Ready to run. Install LocalSend (localsend.org) on your phone or PC, connect both devices to the same wifi, and they will find each other.",
-        "inst_md": "Ready to run. Install [LocalSend](https://localsend.org) on your phone or PC, connect both devices to the same wifi, and they will find each other.",
+        "inst": "Ready to run. Install LocalSend (https://localsend.org) on your phone or PC, or retsend on another handheld. Connect both devices to the same Wi-Fi, and they will find each other.",
+        "inst_md": "Ready to run. Install [LocalSend](https://localsend.org) on your phone or PC, or retsend on another handheld. Connect both devices to the same Wi-Fi, and they will find each other.",
         "min_glibc": "2.28",
         "porter": [
           "mxmgorin"
@@ -96634,12 +97221,12 @@
       "name": "retsend.zip",
       "source": {
         "date_added": "2026-08-10",
-        "date_updated": "2026-08-13",
-        "md5": "aa6c0bb56be165b5610dc45f36f3db90",
-        "release_id": "2026-08-13_2211",
+        "date_updated": "2026-10-21",
+        "md5": "eb5545ddc1c657202e181ec141c0249c",
+        "release_id": "2026-10-21_2023",
         "repo": "main",
-        "size": 8034780,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-13_2211/retsend.zip"
+        "size": 8646144,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/retsend.zip"
       },
       "version": 4
     },
