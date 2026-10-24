@@ -26204,7 +26204,7 @@
           "weston_pkg_0.2.squashfs"
         ],
         "store": [],
-        "title": "cubes"
+        "title": "Cubes"
       },
       "items": [
         "Cubes.sh",
@@ -26214,12 +26214,12 @@
       "name": "cubes.zip",
       "source": {
         "date_added": "2026-10-15",
-        "date_updated": "2026-10-15",
-        "md5": "a81d1709da42bddda4168be5aa0a7d0f",
-        "release_id": "2026-10-15_2356",
+        "date_updated": "2026-10-24",
+        "md5": "aace5125382ff87ee8262c2ace4104ae",
+        "release_id": "2026-10-24_2025",
         "repo": "main",
-        "size": 3073804,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-15_2356/cubes.zip"
+        "size": 5881123,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-24_2025/cubes.zip"
       },
       "version": 4
     },
@@ -31392,6 +31392,94 @@
         "repo": "main",
         "size": 536086,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-08-14_1207/digger.zip"
+      },
+      "version": 4
+    },
+    "dijeweled.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Dijeweled Remastered is a fan-made recreation of the Bejeweled series by LDinos. It brings back match-3 modes such as Classic, Zen, Blitz, Twist and Quests, and adds new gems, new modes and multiplayer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Dijeweled Remastered"
+      },
+      "items": [
+        "Dijeweled.sh",
+        "dijeweled"
+      ],
+      "items_opt": null,
+      "name": "dijeweled.zip",
+      "source": {
+        "date_added": "2026-10-24",
+        "date_updated": "2026-10-24",
+        "md5": "e843ca2021e4bab215250ecc3ba0d963",
+        "release_id": "2026-10-24_2025",
+        "repo": "main",
+        "size": 108570606,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-24_2025/dijeweled.zip"
       },
       "version": 4
     },
@@ -62621,6 +62709,94 @@
       },
       "version": 4
     },
+    "kondor.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "QSoft's 1999 freeware top-down tank game. Drive through twelve levels, wipe out every turret and ground vehicle, and survive jets and hawks attacking from the air.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Kondor"
+      },
+      "items": [
+        "Kondor.sh",
+        "kondor"
+      ],
+      "items_opt": null,
+      "name": "kondor.zip",
+      "source": {
+        "date_added": "2026-10-24",
+        "date_updated": "2026-10-24",
+        "md5": "a24fec127f09aab5f8a148ed60d4b0ca",
+        "release_id": "2026-10-24_2025",
+        "repo": "main",
+        "size": 938036,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-24_2025/kondor.zip"
+      },
+      "version": 4
+    },
     "kor.zip": {
       "attr": {
         "arch": [
@@ -65175,12 +65351,12 @@
       "name": "linovictus.zip",
       "source": {
         "date_added": "2026-04-19",
-        "date_updated": "2026-04-19",
-        "md5": "c2df41fea4133b46fc498a0c6b7c4d21",
-        "release_id": "2026-04-19_0213",
+        "date_updated": "2026-10-24",
+        "md5": "c399c956ec64200e4b5c5df45a6960d9",
+        "release_id": "2026-10-24_2025",
         "repo": "main",
-        "size": 35086067,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-19_0213/linovictus.zip"
+        "size": 35116489,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-24_2025/linovictus.zip"
       },
       "version": 4
     },
@@ -74365,6 +74541,94 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/mojotron.zip"
       },
       "version": 2
+    },
+    "momo.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A small electronic creature that lives in your handheld. It notices you, reacts, chatters in a voice of its own, dozes, dreams and remembers you between visits. Every MOMO is different.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "simulation"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "deadquiet42"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "python_3.11.squashfs"
+        ],
+        "store": [],
+        "title": "MOMO"
+      },
+      "items": [
+        "MOMO.sh",
+        "momo"
+      ],
+      "items_opt": null,
+      "name": "momo.zip",
+      "source": {
+        "date_added": "2026-10-24",
+        "date_updated": "2026-10-24",
+        "md5": "39836f15195086ab99a0a118f790a058",
+        "release_id": "2026-10-24_2025",
+        "repo": "main",
+        "size": 43895,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-24_2025/momo.zip"
+      },
+      "version": 4
     },
     "monktower.zip": {
       "attr": {
@@ -107691,7 +107955,8 @@
     "snkrx.zip": {
       "attr": {
         "arch": [
-          "aarch64"
+          "aarch64",
+          "x86_64"
         ],
         "avail": [
           "rg-arc-d:ALL",
@@ -107729,32 +107994,37 @@
           "rp5:ALL",
           "rpmini:ALL",
           "gkd-bubble:ALL",
+          "steamdeck:ALL",
           "xu10:ALL",
           "r33s:ALL",
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "desc": "SNKRX is an arcade shooter roguelite where you control a snake of heroes that automatically attack nearby enemies. Combine different heroes to unlock class bonuses and create unique builds, and steer your unstoppable party as they ravage through endless waves of enemies.",
+        "availability": "full",
+        "desc": "Arcade shooter roguelite: steer a snake of heroes that attack automatically and combine classes for synergy bonuses.",
         "desc_md": null,
         "exp": false,
         "genres": [
           "action"
         ],
         "image": {
-          "covers": [],
+          "covers": [
+            "cover.png"
+          ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the game https://store.steampowered.com/app/915310/SNKRX/ and place SNKRX.exe file to the port folder",
+        "inst": "Ready to run.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "mxmgorin"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [],
+        "store": [],
         "title": "SNKRX"
       },
       "items": [
@@ -107765,14 +108035,14 @@
       "name": "snkrx.zip",
       "source": {
         "date_added": "2024-04-20",
-        "date_updated": "2026-08-13",
-        "md5": "8ac3f921109fc40168457e7d64ed5a32",
-        "release_id": "2026-08-13_2211",
+        "date_updated": "2026-10-24",
+        "md5": "92df5086cd1267e7749a63f4c7af2932",
+        "release_id": "2026-10-24_2025",
         "repo": "main",
-        "size": 10240615,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-13_2211/snkrx.zip"
+        "size": 10684190,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-24_2025/snkrx.zip"
       },
-      "version": 2
+      "version": 4
     },
     "snout.zip": {
       "attr": {
