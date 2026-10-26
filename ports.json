@@ -48124,6 +48124,96 @@
       },
       "version": 4
     },
+    "godofthunder.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Play Thor in three episodes of top-down action and puzzles. Throw your returning hammer, collect magical items, and challenge Loki's allies in a native source port.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Manually download https://www.adeptsoftware.com/got/gotfree.zip and extract all its contents into ports/godofthunder/gamedata. GOTRES.DAT and GOT.EXE must be directly inside gamedata. The port does not download assets. L2 switches Settings tabs, X saves, and Start cancels. Display > Stretch fills widescreen displays. R2 toggles fullscreen; Start+Select exits.",
+        "inst_md": null,
+        "min_glibc": "2.27",
+        "porter": [
+          "DragDay7"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "God of Thunder"
+      },
+      "items": [
+        "God of Thunder.sh",
+        "godofthunder"
+      ],
+      "items_opt": null,
+      "name": "godofthunder.zip",
+      "source": {
+        "date_added": "2026-10-26",
+        "date_updated": "2026-10-26",
+        "md5": "f59a1874511dd4e0df0894cef8a115f5",
+        "release_id": "2026-10-26_1338",
+        "repo": "main",
+        "size": 850927,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-26_1338/godofthunder.zip"
+      },
+      "version": 4
+    },
     "godstone.zip": {
       "attr": {
         "arch": [
@@ -95372,12 +95462,12 @@
       "name": "randungeon.zip",
       "source": {
         "date_added": "2024-07-02",
-        "date_updated": "2025-09-23",
-        "md5": "2537d3f6176342cd13165bacd1fe8f7d",
-        "release_id": "2025-09-23_1014",
+        "date_updated": "2026-10-26",
+        "md5": "f190afb55a4a90bf72e851d75d396bf7",
+        "release_id": "2026-10-26_1338",
         "repo": "main",
-        "size": 2428155,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/randungeon.zip"
+        "size": 2428210,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-26_1338/randungeon.zip"
       },
       "version": 2
     },
