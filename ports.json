@@ -1025,6 +1025,94 @@
       },
       "version": 2
     },
+    "adonthell.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A free 2D role-playing game in the style of classic SNES RPGs. As a loyal servant of the elven Lady Silverhair you arrive at the remote trading post of Waste's Edge, where a theft threatens to ruin your mistress' reputation. Explore the Redwyne Inn, talk to its guests and uncover the truth.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "2.34",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Adonthell - Waste's Edge"
+      },
+      "items": [
+        "Adonthell.sh",
+        "adonthell"
+      ],
+      "items_opt": null,
+      "name": "adonthell.zip",
+      "source": {
+        "date_added": "2026-10-30",
+        "date_updated": "2026-10-30",
+        "md5": "252a74dda62f219a0730dc732682a3bd",
+        "release_id": "2026-10-30_1111",
+        "repo": "main",
+        "size": 17618905,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/adonthell.zip"
+      },
+      "version": 4
+    },
     "adventurerush.zip": {
       "attr": {
         "arch": [
@@ -7180,12 +7268,12 @@
       "name": "audiofilus.zip",
       "source": {
         "date_added": "2026-10-27",
-        "date_updated": "2026-10-27",
-        "md5": "75bca0dcf53aee7785d9306c75e1ba1c",
-        "release_id": "2026-10-27_1911",
+        "date_updated": "2026-10-30",
+        "md5": "d87b38f86a676f7c778213c780ba31e5",
+        "release_id": "2026-10-30_1111",
         "repo": "main",
-        "size": 23185191,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-27_1911/audiofilus.zip"
+        "size": 23520893,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/audiofilus.zip"
       },
       "version": 4
     },
@@ -27501,6 +27589,98 @@
       },
       "version": 4
     },
+    "darkember.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Dark Ember is a pixel-art bonfire-defense roguelike. Pull the sword from the last bonfire, gather resources in the light, build defences, and survive endless waves of dark creatures across procedural biomes.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the game files (DarkEmber-v0.1.22-windows.zip) from https://kindlegames.itch.io/dark-ember. Extract the zip and copy the DarkEmber.exe file into the ports/darkember/gamedata/ folder on your device.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Lamor26"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "godot_4.7.1.squashfs",
+          "weston_pkg_0.2.squashfs"
+        ],
+        "store": [],
+        "title": "Dark Ember"
+      },
+      "items": [
+        "Dark Ember.sh",
+        "darkember"
+      ],
+      "items_opt": null,
+      "name": "darkember.zip",
+      "source": {
+        "date_added": "2026-10-30",
+        "date_updated": "2026-10-30",
+        "md5": "641af0e936f5ddac7fbeda49c16efd92",
+        "release_id": "2026-10-30_1111",
+        "repo": "main",
+        "size": 205790,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/darkember.zip"
+      },
+      "version": 4
+    },
     "darkmoon.zip": {
       "attr": {
         "arch": [
@@ -42981,6 +43161,102 @@
       },
       "version": 4
     },
+    "floraandfang.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Spray! Jump! Pop! Dracula\u2019s kids must defend the family pumpkin patch from swarming insects in this cute pixel-art, single-screen, arcade platformer.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Steam and copy all game files into assets folder.",
+        "inst_md": "Purchase the game on [Steam](https://store.steampowered.com/app/2751060/Flora_Fang_Guardians_of_the_vampire_garden/) and copy all game files into `assets` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://store.steampowered.com/app/2751060/Flora_Fang_Guardians_of_the_vampire_garden/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Flora & Fang: Guardians of the vampire garden"
+      },
+      "items": [
+        "Flora & Fang - Guardians Of The Vampire Garden.sh",
+        "floraandfang"
+      ],
+      "items_opt": null,
+      "name": "floraandfang.zip",
+      "source": {
+        "date_added": "2026-10-30",
+        "date_updated": "2026-10-30",
+        "md5": "c2c4210dac29302931256bb5c98e01f5",
+        "release_id": "2026-10-30_1111",
+        "repo": "main",
+        "size": 7649579,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/floraandfang.zip"
+      },
+      "version": 4
+    },
     "flynnsoc.zip": {
       "attr": {
         "arch": [
@@ -43464,6 +43740,103 @@
         "repo": "main",
         "size": 46046819,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-21_2023/fnaf3.zip"
+      },
+      "version": 4
+    },
+    "fnaf4.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "In this last chapter of the Five Nights at Freddy's original story, you must once again defend yourself against Freddy Fazbear, Chica, Bonnie, Foxy, and even worse things that lurk in the shadows.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place FiveNightsatFreddys4.exe and/or FiveNightsatFreddys4 HalloweenEdition.exe into fnaf4/gamedata. On first launch you choose which version(s) to set up (both takes several hours). If both are installed, a menu lets you pick which one to play each time.",
+        "inst_md": null,
+        "min_glibc": "2.35",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://store.steampowered.com/search/?developer=Scott%20Cawthon",
+            "gameurl": "https://store.steampowered.com/app/388090/Five_Nights_at_Freddys_4/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Five Nights at Freddy's 4"
+      },
+      "items": [
+        "Five Nights at Freddys 4.sh",
+        "fnaf4"
+      ],
+      "items_opt": null,
+      "name": "fnaf4.zip",
+      "source": {
+        "date_added": "2026-10-30",
+        "date_updated": "2026-10-30",
+        "md5": "c189bb77a074d987b3e368e5673984ee",
+        "release_id": "2026-10-30_1111",
+        "repo": "main",
+        "size": 52674701,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/fnaf4.zip"
       },
       "version": 4
     },
@@ -49025,12 +49398,12 @@
       "name": "gonefishing.zip",
       "source": {
         "date_added": "2026-10-22",
-        "date_updated": "2026-10-22",
-        "md5": "fb3ae5ddc8ef67b2e1c4381ff12a200c",
-        "release_id": "2026-10-22_0006",
+        "date_updated": "2026-10-30",
+        "md5": "0a849f36f5a9cbda7a01f4243e84987e",
+        "release_id": "2026-10-30_1111",
         "repo": "main",
-        "size": 53803708,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-22_0006/gonefishing.zip"
+        "size": 65394599,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/gonefishing.zip"
       },
       "version": 2
     },
@@ -68369,7 +68742,7 @@
         },
         "inst": "Ready to run out of the box, no additional files needed.",
         "inst_md": null,
-        "min_glibc": "",
+        "min_glibc": "2.34",
         "porter": [
           "Cebion"
         ],
@@ -68387,12 +68760,12 @@
       "name": "ltris.zip",
       "source": {
         "date_added": "2026-10-27",
-        "date_updated": "2026-10-27",
-        "md5": "317ae0d82a3ab34777b157feecc44877",
-        "release_id": "2026-10-27_1911",
+        "date_updated": "2026-10-30",
+        "md5": "6f7884545aab95383ab85d22df5910e1",
+        "release_id": "2026-10-30_1111",
         "repo": "main",
-        "size": 2856648,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-27_1911/ltris.zip"
+        "size": 2856651,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/ltris.zip"
       },
       "version": 4
     },
@@ -71975,6 +72348,102 @@
       },
       "version": 4
     },
+    "megandtrapper.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Meg and the Trapper is a fangame with a double tribute. First to the arcade games of the early 90's like Tumblepop (my favorite) or Snow Bros. And, especially, a tribute to Dead by Daylight reimagining it as a classic arcade.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Download the Meg and the Trapper.zip from https://eltentacle.itch.io/meg-and-the-trapper and extract all game files into assets folder. You can change the player score name by editing \"player.txt\" located in saves folder.",
+        "inst_md": "Download the `Meg and the Trapper.zip` from [Itch.io](https://eltentacle.itch.io/meg-and-the-trapper) and extract all game files into `assets` folder. You can change the player score name by editing `player.txt` located in `saves` folder.",
+        "min_glibc": "",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://eltentacle.itch.io/meg-and-the-trapper",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Meg and the Trapper"
+      },
+      "items": [
+        "Meg and the Trapper.sh",
+        "megandtrapper"
+      ],
+      "items_opt": null,
+      "name": "megandtrapper.zip",
+      "source": {
+        "date_added": "2026-10-30",
+        "date_updated": "2026-10-30",
+        "md5": "73e9978c4e5b6afe5815c3dd69baff87",
+        "release_id": "2026-10-30_1111",
+        "repo": "main",
+        "size": 6058850,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/megandtrapper.zip"
+      },
+      "version": 4
+    },
     "megaserval.zip": {
       "attr": {
         "arch": [
@@ -75088,6 +75557,94 @@
         "repo": "main",
         "size": 6528439,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-23_0904/monktower.zip"
+      },
+      "version": 4
+    },
+    "monochromeworlds.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Help two people, one black and one white, reach the gray spot where their separate worlds meet. Each one can move blocks from one world to the other to clear a path for their companion. A remake of Tatsuya Koyama's Monochro Observer by Geisha Studios.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "2.34",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Monochrome Worlds"
+      },
+      "items": [
+        "Monochrome Worlds.sh",
+        "monochromeworlds"
+      ],
+      "items_opt": null,
+      "name": "monochromeworlds.zip",
+      "source": {
+        "date_added": "2026-10-30",
+        "date_updated": "2026-10-30",
+        "md5": "d5286dab2464699e19aab741b88ebc0b",
+        "release_id": "2026-10-30_1111",
+        "repo": "main",
+        "size": 1258677,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/monochromeworlds.zip"
       },
       "version": 4
     },
@@ -130571,6 +131128,94 @@
       },
       "version": 4
     },
+    "vesaball.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A Breakout/Arkanoid-style brick breaker with 50 levels, over 20 bonus power-ups like fireball, multi-ball and exploding bricks, and a built-in level editor.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "VesaBall"
+      },
+      "items": [
+        "VesaBall.sh",
+        "vesaball"
+      ],
+      "items_opt": null,
+      "name": "vesaball.zip",
+      "source": {
+        "date_added": "2026-10-30",
+        "date_updated": "2026-10-30",
+        "md5": "37559caacdee0081a22083764ff4e5ab",
+        "release_id": "2026-10-30_1111",
+        "repo": "main",
+        "size": 2888182,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/vesaball.zip"
+      },
+      "version": 4
+    },
     "vikingsofmidgard.zip": {
       "attr": {
         "arch": [
@@ -136713,6 +137358,94 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/youhave10s2023.zip"
       },
       "version": 2
+    },
+    "ytc.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "YTC (Your Tube Client) is a native, controller-driven YouTube client for handhelds. Browse, search, and watch YouTube with its own anonymous client.",
+        "desc_md": "YTC (Your Tube Client) is a native, controller-driven YouTube client built for Linux handhelds and media centers. It talks to YouTube through its own anonymous Innertube client.\n\nFeatures: search, Home/channel feeds, Community posts, playlists, Shorts, comments with replies, favorites, watch-later, history, SponsorBlock, quality/speed/volume controls, offline downloads, and casting to a linked device or Chromecast.",
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run.",
+        "inst_md": "Ready to run.",
+        "min_glibc": "",
+        "porter": [
+          "Christopher Roelofs"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "YTC"
+      },
+      "items": [
+        "YTC.sh",
+        "ytc"
+      ],
+      "items_opt": null,
+      "name": "ytc.zip",
+      "source": {
+        "date_added": "2026-10-30",
+        "date_updated": "2026-10-30",
+        "md5": "d656f336a658119fc37dcbf4389564a9",
+        "release_id": "2026-10-30_1111",
+        "repo": "main",
+        "size": 13496226,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/ytc.zip"
+      },
+      "version": 4
     },
     "yugioh2.zip": {
       "attr": {
