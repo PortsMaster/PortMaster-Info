@@ -18735,13 +18735,12 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "availability": "free",
-        "desc": "A fan made Castlevania game where you play as Soma.",
+        "availability": "full",
+        "desc": "Play as Soma in this Castlevania fan made game. A love letter to classic GBA era Castlevania.",
         "desc_md": null,
         "exp": false,
         "genres": [
           "action",
-          "adventure",
           "platformer"
         ],
         "image": {
@@ -18752,14 +18751,15 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download free at itch.io https://ikusatatsu.itch.io/castlevania-tales-of-night-moon and copy data.win to assets.",
-        "inst_md": "Download free at [itch.io](https://ikusatatsu.itch.io/castlevania-tales-of-night-moon) and copy data.win to assets.",
+        "inst": "Ready to run.",
+        "inst_md": null,
         "min_glibc": "",
         "porter": [
+          "Slayer366",
           "MadShmupper"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [],
         "store": [
           {
@@ -18778,12 +18778,12 @@
       "name": "castlevaniatales.zip",
       "source": {
         "date_added": "2025-09-18",
-        "date_updated": "2025-10-07",
-        "md5": "935b803a79472dbcb91b351c61d7a2f4",
-        "release_id": "2025-10-07_1242",
+        "date_updated": "2026-11-02",
+        "md5": "dea1bc8a30be73e08daecf8f81644e88",
+        "release_id": "2026-11-02_1336",
         "repo": "multiverse",
-        "size": 11243469,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-10-07_1242/castlevaniatales.zip"
+        "size": 50254055,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-11-02_1336/castlevaniatales.zip"
       },
       "version": 4
     },
@@ -26577,6 +26577,108 @@
         "repo": "main",
         "size": 759443377,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-18_1011/cubosphere.zip"
+      },
+      "version": 4
+    },
+    "cuphead.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A classic run and gun action game heavily focused on boss battles, inspired by 1930s cartoons.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Requires Cuphead for macOS (1.3.4) from GOG or Steam, with or without The Delicious Last Course: copy GOG's macOS installers (.pkg) or the installed Cuphead.app into ports/cuphead/gamedata. The first launch builds the game on the handheld: one to a few hours, about 10 GB free space during setup (12 GB on firmwares without 32-bit support), no Wi-Fi needed.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "wild1walker"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.studiomdhr.com/",
+            "gameurl": "https://www.gog.com/game/cuphead",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://www.studiomdhr.com/",
+            "gameurl": "https://store.steampowered.com/app/268910/Cuphead/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Cuphead"
+      },
+      "items": [
+        "Cuphead.sh",
+        "cuphead"
+      ],
+      "items_opt": null,
+      "name": "cuphead.zip",
+      "source": {
+        "date_added": "2026-11-02",
+        "date_updated": "2026-11-02",
+        "md5": "1da13d4193ac2b141f47093d249f79ee",
+        "release_id": "2026-11-02_1442",
+        "repo": "main",
+        "size": 82491530,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-02_1442/cuphead.zip"
       },
       "version": 4
     },
@@ -49398,12 +49500,12 @@
       "name": "gonefishing.zip",
       "source": {
         "date_added": "2026-10-22",
-        "date_updated": "2026-10-30",
-        "md5": "0a849f36f5a9cbda7a01f4243e84987e",
-        "release_id": "2026-10-30_1111",
+        "date_updated": "2026-11-02",
+        "md5": "99409dc35575b9336b5fc68db74b0e79",
+        "release_id": "2026-11-02_1442",
         "repo": "main",
-        "size": 65394599,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-30_1111/gonefishing.zip"
+        "size": 66877262,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-02_1442/gonefishing.zip"
       },
       "version": 2
     },
@@ -56654,6 +56756,95 @@
         "repo": "main",
         "size": 6844702,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/hotlinesanzu.zip"
+      },
+      "version": 4
+    },
+    "hover.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Microsoft's capture-the-flag hovercraft maze racer from the Windows 95 CD, statically recompiled from its original executable into native code. Steer through the maze, grab the other team's flags before the drones grab yours, and use jumps, walls and cloaks to get there first.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "racing"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy the files from your own Hover! folder (HOVER.EXE, DASHRES.DLL, WAVEMIX.INF, MAZES and SOUNDS, found in FUNSTUFF\\HOVER on the Windows 95 CD) into ports/hover/gamedata.",
+        "inst_md": null,
+        "min_glibc": "2.34",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Hover!"
+      },
+      "items": [
+        "Hover.sh",
+        "hover"
+      ],
+      "items_opt": null,
+      "name": "hover.zip",
+      "source": {
+        "date_added": "2026-11-02",
+        "date_updated": "2026-11-02",
+        "md5": "f414b9f1b98c4efe24b01d6808619ddb",
+        "release_id": "2026-11-02_1442",
+        "repo": "main",
+        "size": 10124686,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-02_1442/hover.zip"
       },
       "version": 4
     },
@@ -72733,6 +72924,96 @@
       },
       "version": 4
     },
+    "melee.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Native reimplementation of Super Smash Bros. Melee, built on the doldecomp decompilation and rendered through Aurora on OpenGL ES.",
+        "desc_md": "Native reimplementation of *Super Smash Bros. Melee*, built on the [doldecomp/melee](https://github.com/doldecomp/melee) decompilation and rendered through [Aurora](https://github.com/encounter/aurora) on OpenGL ES. Port source: [zalo/melee](https://github.com/zalo/melee/tree/release).",
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your own legally-dumped Super Smash Bros. Melee US 1.02 GameCube disc image (.iso, .gcm, .ciso or .rvz) in the melee/assets directory.",
+        "inst_md": "Place your own legally-dumped *Super Smash Bros. Melee* US 1.02 (`GALE01`) GameCube disc image (`.iso`, `.gcm`, `.ciso` or `.rvz`) in `ports/melee/assets/`. Answer **Yes** at the memory-card prompt on first launch.",
+        "min_glibc": "2.30",
+        "porter": [
+          "sh1ftmaker"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Super Smash Bros. Melee (native)"
+      },
+      "items": [
+        "Melee.sh",
+        "melee"
+      ],
+      "items_opt": null,
+      "name": "melee.zip",
+      "source": {
+        "date_added": "2026-11-02",
+        "date_updated": "2026-11-02",
+        "md5": "34f7a5550a1c8ab871a7bd5c913f1453",
+        "release_id": "2026-11-02_1342",
+        "repo": "multiverse",
+        "size": 9048062,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-11-02_1342/melee.zip"
+      },
+      "version": 4
+    },
     "mercenarykings.zip": {
       "attr": {
         "arch": [],
@@ -82521,6 +82802,103 @@
         "repo": "main",
         "size": 930408,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-11-25_1116/oilwar.zip"
+      },
+      "version": 4
+    },
+    "olduvai.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "The 1991 caveman platformer on Olduvai, a native recreation of its engine. Classic DOS plays it exactly as it was; Enhanced HD adds smooth motion, widescreen margins and sharp upscaled graphics. Switch any time under Options - Style.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Needs your own copy of the game (GOG's Prehistorik 1+2, or the DOS original): copy FILESA.CUR, FILESB.CUR, FILESA.VGA, FILESB.VGA and HISTORIK.EXE (or GOG's PREH.SQZ) into ports/olduvai/game/. Roland MT-32 / CM-32L ROMs (ports/olduvai/mt32-roms/) or a SoundFont (ports/olduvai/soundfonts/) are optional; without them the AdLib / Sound Blaster sound plays.",
+        "inst_md": null,
+        "min_glibc": "2.17",
+        "porter": [
+          "Krzysztof Soko\u0142owski"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://en.wikipedia.org/wiki/Titus_Interactive",
+            "gameurl": "https://www.gog.com/en/game/prehistorik_12",
+            "name": "GOG"
+          }
+        ],
+        "title": "Olduvai"
+      },
+      "items": [
+        "Olduvai.sh",
+        "olduvai"
+      ],
+      "items_opt": null,
+      "name": "olduvai.zip",
+      "source": {
+        "date_added": "2026-11-02",
+        "date_updated": "2026-11-02",
+        "md5": "9f714f6767dbe578326dd580ebff7880",
+        "release_id": "2026-11-02_1442",
+        "repo": "main",
+        "size": 2757861,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-02_1442/olduvai.zip"
       },
       "version": 4
     },
@@ -139038,6 +139416,94 @@
         "repo": "main",
         "size": 155544949,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-10-04_1030/zniwadventure.zip"
+      },
+      "version": 4
+    },
+    "zoombinis.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Broderbund's 1996 logic puzzle adventure. Guide the little blue Zoombinis through twelve puzzles of deduction and pattern-finding on their way to a new home, running on the zbtools decompilation.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your Logical Journey of the Zoombinis Windows CD (original, Deluxe, 2001 rerelease, French or German edition) into ports/zoombinis/gamedata, as an .iso, a .bin/.cue or the files on the CD. The game installs itself from it on first launch.",
+        "inst_md": null,
+        "min_glibc": "2.34",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Logical Journey of the Zoombinis"
+      },
+      "items": [
+        "Zoombinis.sh",
+        "zoombinis"
+      ],
+      "items_opt": null,
+      "name": "zoombinis.zip",
+      "source": {
+        "date_added": "2026-11-02",
+        "date_updated": "2026-11-02",
+        "md5": "a9c9396f5ce830650f2c6f7bdf0eab6a",
+        "release_id": "2026-11-02_1442",
+        "repo": "main",
+        "size": 31226906,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-02_1442/zoombinis.zip"
       },
       "version": 4
     },
