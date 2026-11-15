@@ -38614,6 +38614,96 @@
       },
       "version": 2
     },
+    "endsoftheearth2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "A 1998-2000 freeware RPG by Valkayree Productions, built with the OHRRPGCE engine. You play Atoch, youngest in a line of descendants dedicated to stopping the return of Caramawn, in this sequel to Ends of the Earth. Revisit the city of Concorde and choose from over 40 playable characters.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Engine only. You must provide EOTE2.RPG yourself. The game data is All Rights Reserved by Valkayree Productions and cannot be bundled. Download it from Castle Paradox's mirror and place it next to ohrrpgce-game before launching.",
+        "inst_md": "Engine only. You must provide EOTE2.RPG yourself. The game data is All Rights Reserved by Valkayree Productions and cannot be bundled. Download it from [Castle Paradox's mirror](https://mirror.motherhamster.org/cp/castleparadox.com/gamelist-display-247.html?game=493) and place it next to `ohrrpgce-game` before launching.",
+        "min_glibc": "2.28",
+        "porter": [
+          "Athruz"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Ends of the Earth 2"
+      },
+      "items": [
+        "Ends of the Earth 2.sh",
+        "endsoftheearth2"
+      ],
+      "items_opt": null,
+      "name": "endsoftheearth2.zip",
+      "source": {
+        "date_added": "2026-11-15",
+        "date_updated": "2026-11-15",
+        "md5": "0a8589caafcd3ecbc7f81bd448bed83e",
+        "release_id": "2026-11-15_2009",
+        "repo": "main",
+        "size": 2854362,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-15_2009/endsoftheearth2.zip"
+      },
+      "version": 4
+    },
     "enigma.zip": {
       "attr": {
         "arch": [
@@ -47119,6 +47209,110 @@
       },
       "version": 4
     },
+    "ftl.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Command a spaceship and its crew on a run across a galaxy at war: manage power, crew and weapons in real-time combat you can pause at any moment, and make it to the Federation fleet before the Rebels catch you. Gamepad and touch support is provided by FTLHELM, a custom control layer. See the in-game help for controls.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Requires the Linux version of the game from Steam or GOG. Steam: to get it on any OS, open steam://open/console in a browser and enter: download_depot 212680 221002. When Steam prints \"Depot download complete\", copy the contents of the data folder in Steam/steamapps/content/app_212680/depot_221002/ into ports/ftl/gamedata/. GOG: copy the Linux installer (ftl_advanced_edition_*.sh) into ports/ftl/gamedata/; the port unpacks it at the first launch. On devices with 1 GB of RAM, turn on swap or zram in the system settings.",
+        "inst_md": null,
+        "min_glibc": "2.29",
+        "porter": [
+          "mxmgorin"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2"
+        ],
+        "store": [
+          {
+            "developerurl": "https://subsetgames.com/",
+            "gameurl": "https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/",
+            "name": "Steam"
+          },
+          {
+            "developerurl": "https://subsetgames.com/",
+            "gameurl": "https://www.gog.com/game/faster_than_light",
+            "name": "GOG"
+          }
+        ],
+        "title": "FTL: Faster Than Light"
+      },
+      "items": [
+        "FTL.sh",
+        "ftl"
+      ],
+      "items_opt": null,
+      "name": "ftl.zip",
+      "source": {
+        "date_added": "2026-11-15",
+        "date_updated": "2026-11-15",
+        "md5": "44cc11d11ef080b1f75b7e8152c1965c",
+        "release_id": "2026-11-15_2009",
+        "repo": "main",
+        "size": 5994827,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-15_2009/ftl.zip"
+      },
+      "version": 4
+    },
     "fullmoonrush.zip": {
       "attr": {
         "arch": [
@@ -52812,6 +53006,106 @@
         "repo": "main",
         "size": 263361,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-22_1343/gunslugs2.zip"
+      },
+      "version": 4
+    },
+    "gunslugs3.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Choose stealth or gunfire as you complete missions through procedurally generated enemy territory.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Place your legally obtained gunslugs3.dat in <ports directory>/gunslugs3/gamedata/gunslugs3.dat. See README.md for GOG download instructions.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "Ronax"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://orangepixel.net/",
+            "gameurl": "https://www.gog.com/en/game/gunslugs_3_rogue_tactics",
+            "name": "GOG"
+          }
+        ],
+        "title": "Gunslugs 3 Rogue Tactics"
+      },
+      "items": [
+        "Gunslugs 3 Rogue Tactics.sh",
+        "gunslugs3"
+      ],
+      "items_opt": null,
+      "name": "gunslugs3.zip",
+      "source": {
+        "date_added": "2026-11-15",
+        "date_updated": "2026-11-15",
+        "md5": "fc159ebbfdac93d87bd6e0760ba274ab",
+        "release_id": "2026-11-15_2009",
+        "repo": "main",
+        "size": 8986078,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-15_2009/gunslugs3.zip"
       },
       "version": 4
     },
@@ -68097,6 +68391,98 @@
       },
       "version": 4
     },
+    "lix.zip": {
+      "attr": {
+        "arch": [
+          "aarch64",
+          "x86_64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "free",
+        "desc": "Puzzle game inspired by Lemmings. Assign skills to guide the lix through over 700 singleplayer puzzles, or design your own levels with the included editor.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run. Everything is included.",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "monkeyx-net"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Lix"
+      },
+      "items": [
+        "Lix.sh",
+        "lix"
+      ],
+      "items_opt": null,
+      "name": "lix.zip",
+      "source": {
+        "date_added": "2026-11-15",
+        "date_updated": "2026-11-15",
+        "md5": "0ac9971ee854f9d0daec18620c6646b3",
+        "release_id": "2026-11-15_2009",
+        "repo": "main",
+        "size": 23078520,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-15_2009/lix.zip"
+      },
+      "version": 4
+    },
     "lizandlaz.zip": {
       "attr": {
         "arch": [
@@ -69638,6 +70024,96 @@
       },
       "version": 2
     },
+    "loveforsail.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Larry Laffer is on a cruise ship and wants to win the captain's contest and the girls on board. A comic point-and-click style adventure for mobile phones, with puzzles, inventory items and minigames such as Spank-a-Monkey. Runs the original J2ME game on a MIDP shim with SDL2 video.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy your own Leisure Suit Larry: Love for Sail! J2ME game file (.jar, any phone version, any file name) into ports/loveforsail.",
+        "inst_md": null,
+        "min_glibc": "2.17",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "zulu11.48.21-ca-jdk11.0.11-linux.squashfs"
+        ],
+        "store": [],
+        "title": "Leisure Suit Larry: Love for Sail!"
+      },
+      "items": [
+        "Leisure Suit Larry Love for Sail.sh",
+        "loveforsail"
+      ],
+      "items_opt": null,
+      "name": "loveforsail.zip",
+      "source": {
+        "date_added": "2026-11-15",
+        "date_updated": "2026-11-15",
+        "md5": "41c377447b18051e80af03a60d0d2b3f",
+        "release_id": "2026-11-15_2009",
+        "repo": "main",
+        "size": 5681784,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-15_2009/loveforsail.zip"
+      },
+      "version": 4
+    },
     "ltris.zip": {
       "attr": {
         "arch": [
@@ -70454,6 +70930,94 @@
         "repo": "main",
         "size": 24438150,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-09-23_1014/macchasworld.zip"
+      },
+      "version": 4
+    },
+    "madbomber.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "Bill Kendrick's 1999 remake of Activision's Kaboom!. The Mad Bomber drops bombs over the city and you catch them in your water buckets before they hit the ground. One player, two players taking turns, or two player versus with one player as the bomber.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run out of the box, no additional files needed.",
+        "inst_md": null,
+        "min_glibc": "2.34",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Mad Bomber"
+      },
+      "items": [
+        "MadBomber.sh",
+        "madbomber"
+      ],
+      "items_opt": null,
+      "name": "madbomber.zip",
+      "source": {
+        "date_added": "2026-11-15",
+        "date_updated": "2026-11-15",
+        "md5": "998d213305602fe538468c88103f536e",
+        "release_id": "2026-11-15_2009",
+        "repo": "main",
+        "size": 2962103,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-15_2009/madbomber.zip"
       },
       "version": 4
     },
