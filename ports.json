@@ -73629,7 +73629,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "availability": "free",
+        "availability": "full",
         "desc": "Mega Man W is a fan made game by Team W which aims to be similar to the original six mega man games. You will face off against a fierce hoard of robots infected by a virus corrupting them and making them go mad!",
         "desc_md": null,
         "exp": false,
@@ -73645,14 +73645,14 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download any version of the game (linux,windows,mac) from https://jumpdashevade.itch.io/mega-man-w and place the .pck file into the MegaManW port folder.",
+        "inst": "Just Download the port or place the zip into the auto install folder. If you wish to use a updated version download it from https://jumpdashevade.itch.io/mega-man-w and place the .pck into the ports root directory.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "armsonic"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [
           "frt_3.5.2.squashfs"
         ],
@@ -73673,12 +73673,12 @@
       "name": "megamanw.zip",
       "source": {
         "date_added": "2026-09-02",
-        "date_updated": "2026-09-29",
-        "md5": "a60852810768e117992c14ebb8f9e6ec",
-        "release_id": "2026-09-29_1930",
+        "date_updated": "2026-11-17",
+        "md5": "c1c312cb9fed6b612a9c2023871aef2c",
+        "release_id": "2026-11-17_0622",
         "repo": "multiverse",
-        "size": 178901,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-29_1930/megamanw.zip"
+        "size": 120555568,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-11-17_0622/megamanw.zip"
       },
       "version": 4
     },
@@ -73816,7 +73816,7 @@
           "r35s:ALL",
           "r36s:ALL"
         ],
-        "availability": "free",
+        "availability": "full",
         "desc": "Note: This game is hard to run so it comes with a preconfigured save file with lighting and partical effects turned off. If you wish to create or add a save file I HIGHLY recommend that you turn off lighting and partical effects. Game Description: Set in an alternate timeline following the events of Mega Man X, Sigma has won, X has fallen, and humanity stands on the brink of extinction. Just when all hope appears lost, Dr. Cain unveils his final contingency\u2014Project Regenesis. Given one last chance to rewrite history, X must rise once again and fight to save what remains of humanity.",
         "desc_md": null,
         "exp": false,
@@ -73828,20 +73828,21 @@
           "covers": [
             "cover.png"
           ],
-          "screenshot": "screenshot.png",
+          "screenshot": "screenshot.jpg",
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the latest Windows version of the game from https://mmxregenesis.itch.io/mega-man-x-regenesis#download/, extract the exe and place it into the game data folder within the ports directory.",
+        "inst": "To update download the latest Windows version of the game from https://mmxregenesis.itch.io/mega-man-x-regenesis#download/, extract the exe and place it into the game data folder within the ports directory.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
           "armsonic"
         ],
         "reqs": [],
-        "rtr": false,
+        "rtr": true,
         "runtime": [
-          "godot_4.7.1.squashfs"
+          "godot_4.7.1.squashfs",
+          "weston_pkg_0.2.squashfs"
         ],
         "store": [
           {
@@ -73860,12 +73861,12 @@
       "name": "megamanxregenesis.zip",
       "source": {
         "date_added": "2026-09-29",
-        "date_updated": "2026-09-29",
-        "md5": "096bae3f67d0a7e1635d289403605806",
-        "release_id": "2026-09-29_1930",
+        "date_updated": "2026-11-17",
+        "md5": "6bd27e3ec4db1d01e076d611caf20e98",
+        "release_id": "2026-11-17_0622",
         "repo": "multiverse",
-        "size": 278980,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-09-29_1930/megamanxregenesis.zip"
+        "size": 157572623,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-11-17_0622/megamanxregenesis.zip"
       },
       "version": 4
     },
@@ -93431,7 +93432,9 @@
     },
     "pokemmo.zip": {
       "attr": {
-        "arch": [],
+        "arch": [
+          "aarch64"
+        ],
         "avail": [
           "rg-arc-d:ALL",
           "rg-arc-s:ALL",
@@ -93472,7 +93475,7 @@
           "r36s:ALL"
         ],
         "availability": "free",
-        "desc": "Unofficial port of PokeMMO for PortMaster-compatible devices. PokeMMO is a fan-made multiplayer online game that brings together various Pok\u00e9mon generations in a single MMO experience.",
+        "desc": "Unofficial port of PokeMMO for PortMaster-compatible devices. PokeMMO is a fan-made multiplayer online game that brings together various Pok\u00e9mon generations in a single MMO experience. Includes a launcher menu to download/update the official client, console, small and Android UI modes, a joystick mapper and shaders optimized for low-end GPUs.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -93487,7 +93490,7 @@
           "thumbnail": null,
           "video": null
         },
-        "inst": "Download the portable version of the PokeMMO client from https://pokemmo.com/en/downloads/portable. Extract the ZIP and copy both the PokeMMO.exe file and the data folder into /roms/ports/pokemmo.",
+        "inst": "Launch the port and select 'PokeMMO Update' in its menu to download the official PokeMMO client (internet required). A Pok\u00e9mon Black or White (v1) ROM is required: copy it to ports/pokemmo/roms/pokemon_black.nds. Optional ROMs unlock more regions: pokemon_firered.gba, pokemon_emerald.gba, pokemon_platinum.nds, pokemon_heartgold.nds. See the README for login and controls.",
         "inst_md": null,
         "min_glibc": "",
         "porter": [
@@ -93500,15 +93503,14 @@
         "runtime": [
           "mesa_pkg_0.1.squashfs",
           "weston_pkg_0.2.squashfs",
-          "zulu17.54.21-ca-jre17.0.13-linux.squashfs"
+          "zulu17.48.15-ca-jdk17.0.10-linux.squashfs",
+          "python_3.11.squashfs"
         ],
         "store": [],
         "title": "PokeMMO"
       },
       "items": [
         "PokeMMO.sh",
-        "PokeMMO small.sh",
-        "PokeMMO Android.sh",
         "pokemmo"
       ],
       "items_opt": null,
@@ -93521,12 +93523,12 @@
       },
       "source": {
         "date_added": "2025-05-12",
-        "date_updated": "2025-05-22",
-        "md5": "952754b927afec4c2a165251052a1ee9",
-        "release_id": "2025-05-22_1232",
+        "date_updated": "2026-11-17",
+        "md5": "3dbc7d056282ff9b2097f5a9a9593705",
+        "release_id": "2026-11-17_0625",
         "repo": "multiverse",
-        "size": 25078611,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2025-05-22_1232/pokemmo.zip"
+        "size": 1621115,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-11-17_0625/pokemmo.zip"
       },
       "version": 4
     },
@@ -110283,8 +110285,8 @@
         ],
         "image": {
           "covers": [
-            "cover.smredux.png",
-            "cover.sm.png"
+            "cover.sm.png",
+            "cover.smredux.png"
           ],
           "screenshot": "screenshot.jpg",
           "thumbnail": null,
@@ -111472,7 +111474,6 @@
         "inst_md": null,
         "min_glibc": null,
         "porter": [
-          "Jeod",
           "beniamino",
           "monkeyx-net"
         ],
@@ -111496,12 +111497,12 @@
       },
       "source": {
         "date_added": "2024-04-10",
-        "date_updated": "2026-03-16",
-        "md5": "259c1f936aece64128d08aee29f3e21a",
-        "release_id": "2026-03-16_2253",
+        "date_updated": "2026-11-17",
+        "md5": "eb7aa63f3932447d987bddd9ce055059",
+        "release_id": "2026-11-17_0625",
         "repo": "multiverse",
-        "size": 56341266,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-03-16_2253/soh.zip"
+        "size": 70805447,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-11-17_0625/soh.zip"
       },
       "version": 4
     },
@@ -116937,12 +116938,12 @@
       "name": "sternenfuchs.zip",
       "source": {
         "date_added": "2026-09-28",
-        "date_updated": "2026-10-08",
-        "md5": "69d1e1342b3e0c8464d39f14a20ff448",
-        "release_id": "2026-10-08_1426",
+        "date_updated": "2026-11-17",
+        "md5": "d9c32e9566a890d6a89a7e561b1b5909",
+        "release_id": "2026-11-17_0625",
         "repo": "multiverse",
-        "size": 5555616,
-        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-10-08_1426/sternenfuchs.zip"
+        "size": 5634937,
+        "url": "https://github.com/PortsMaster-MV/PortMaster-MV-New/releases/download/2026-11-17_0625/sternenfuchs.zip"
       },
       "version": 4
     },
