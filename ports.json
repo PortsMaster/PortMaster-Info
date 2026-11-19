@@ -22042,6 +22042,96 @@
       },
       "version": 4
     },
+    "choochootracker.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A mobile tracker combining AY/YM, Braids, Plaits and PCM samples with per-track sends and FX.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run",
+        "inst_md": null,
+        "min_glibc": "2.29",
+        "porter": [
+          "P-E Surga"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "ChooChooTracker"
+      },
+      "items": [
+        "ChooChooTracker.sh",
+        "choochootracker"
+      ],
+      "items_opt": null,
+      "name": "choochootracker.zip",
+      "source": {
+        "date_added": "2026-11-19",
+        "date_updated": "2026-11-19",
+        "md5": "545b567245f5bf1c6ccad3f75cca77a1",
+        "release_id": "2026-11-19_1259",
+        "repo": "main",
+        "size": 14622533,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-19_1259/choochootracker.zip"
+      },
+      "version": 4
+    },
     "chroma.zip": {
       "attr": {
         "arch": [
@@ -51743,6 +51833,99 @@
         "repo": "main",
         "size": 8005723,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-08-05_0732/growseedpinball.zip"
+      },
+      "version": 4
+    },
+    "gta2.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Grand Theft Auto 2 is a 1999 action-adventure game developed by DMA Design and published by Rockstar Games. It is the sequel to 1997's Grand Theft Auto, and the second main entry in the Grand Theft Auto series",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Install the port and copy your GTA2INSTALLER.exe into gta2/gamedata folder.",
+        "inst_md": null,
+        "min_glibc": "2.34",
+        "porter": [
+          "kotzebuedog"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Grand Theft Auto 2"
+      },
+      "items": [
+        "GTA 2.sh",
+        "GTA 2 LAN.sh",
+        "GTA 2 Online.sh",
+        "gta2"
+      ],
+      "items_opt": null,
+      "name": "gta2.zip",
+      "source": {
+        "date_added": "2026-11-19",
+        "date_updated": "2026-11-19",
+        "md5": "3fec1d86df0f47f1953377486b581238",
+        "release_id": "2026-11-19_1259",
+        "repo": "main",
+        "size": 3331339,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-19_1259/gta2.zip"
       },
       "version": 4
     },
@@ -89672,6 +89855,102 @@
       },
       "version": 4
     },
+    "papilio.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "PAPILIO is a classic arcade style 2D shoot 'em up that takes you into a magical world being threatened by a mysterious entity with godlike powers. Take to the skies as a Naajira, a mystic warden with the power of magic-augmented flight and impressively devastating spells at your disposal, and engage in combat with fearsome creatures and mighty bosses as you pursue an opponent who seeks to unearth long-forgotten ancient magics and weapons for her own dark purposes.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Itch.io and copy all game files into assets folder. You can also use the free demo. Devices with h700 CPU or better are recommended.",
+        "inst_md": "Purchase the game on [Itch.io](https://s20-tbl.itch.io/papilio) and copy all game files into `assets` folder. Devices with `h700` CPU or better are recommended.",
+        "min_glibc": "2.30",
+        "porter": [
+          "Ganimoth"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "",
+            "gameurl": "https://s20-tbl.itch.io/papilio",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Papilio"
+      },
+      "items": [
+        "Papilio.sh",
+        "papilio"
+      ],
+      "items_opt": null,
+      "name": "papilio.zip",
+      "source": {
+        "date_added": "2026-11-19",
+        "date_updated": "2026-11-19",
+        "md5": "9a27b48d912c6aab04ce07539e41398e",
+        "release_id": "2026-11-19_1259",
+        "repo": "main",
+        "size": 4955430,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-19_1259/papilio.zip"
+      },
+      "version": 4
+    },
     "parsec47.zip": {
       "attr": {
         "arch": [
@@ -101230,6 +101509,90 @@
         "repo": "main",
         "size": 2366168,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-04-28_1830/revengeofthetitans.zip"
+      },
+      "version": 4
+    },
+    "rez.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rgb10:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL"
+        ],
+        "availability": "paid",
+        "desc": "A rail-shooter music video game developed by United Game Artists and released by Sega for the Dreamcast.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "arcade",
+          "rhythm"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Convert your Japanese (HDR-0178) or European (MK-5119250) Dreamcast Rez V1.003 disc to .chd and copy it to ports/rez/gamedata/.",
+        "inst_md": null,
+        "min_glibc": "2.18",
+        "porter": [
+          "SerPbone"
+        ],
+        "reqs": [
+          "power",
+          "!lowres"
+        ],
+        "rtr": false,
+        "runtime": [],
+        "store": [],
+        "title": "Rez"
+      },
+      "items": [
+        "Rez.sh",
+        "rez"
+      ],
+      "items_opt": null,
+      "name": "rez.zip",
+      "source": {
+        "date_added": "2026-11-19",
+        "date_updated": "2026-11-19",
+        "md5": "7bd92a32f3ac96305084c9851ace77fc",
+        "release_id": "2026-11-19_1259",
+        "repo": "main",
+        "size": 45441415,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-19_1259/rez.zip"
       },
       "version": 4
     },
@@ -115544,6 +115907,99 @@
       },
       "version": 2
     },
+    "stacktris.zip": {
+      "attr": {
+        "arch": [],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "steamdeck:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A twist on the classic game Tetris, but who needs a plan? Forget fitting pieces together perfectly. Just stack \u2019em as high as you can. Time your taps, keep the tower wide, and see how far you can climb.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade",
+          "strategy"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready To Run",
+        "inst_md": null,
+        "min_glibc": "",
+        "porter": [
+          "SLAYKIN6_TTV"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [
+          "weston_pkg_0.2.squashfs",
+          "godot_4.7.1.squashfs"
+        ],
+        "store": [],
+        "title": "Stacktris"
+      },
+      "items": [
+        "Stacktris.sh",
+        "stacktris"
+      ],
+      "items_opt": null,
+      "name": "stacktris.zip",
+      "source": {
+        "date_added": "2026-11-19",
+        "date_updated": "2026-11-19",
+        "md5": "a5c3e28b67324c4e59e8d13ab0216e25",
+        "release_id": "2026-11-19_1259",
+        "repo": "main",
+        "size": 1813914,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-19_1259/stacktris.zip"
+      },
+      "version": 4
+    },
     "starbound.zip": {
       "attr": {
         "arch": [
@@ -123371,7 +123827,7 @@
         },
         "inst": "Ready to run. Game data extracts automatically on first launch; no additional files are needed.",
         "inst_md": null,
-        "min_glibc": "2.28",
+        "min_glibc": "2.27",
         "porter": [
           "DragDay7"
         ],
@@ -123389,12 +123845,12 @@
       "name": "thecitadel.zip",
       "source": {
         "date_added": "2026-11-14",
-        "date_updated": "2026-11-14",
-        "md5": "6f1efd403ee2c936f2735a3f67a4172c",
-        "release_id": "2026-11-14_2003",
+        "date_updated": "2026-11-19",
+        "md5": "d611a42ae4439771f38509f13f64a01f",
+        "release_id": "2026-11-19_1259",
         "repo": "main",
-        "size": 38176838,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-14_2003/thecitadel.zip"
+        "size": 38193044,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-19_1259/thecitadel.zip"
       },
       "version": 4
     },
