@@ -9357,6 +9357,94 @@
       },
       "version": 4
     },
+    "beforedead.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "As a young Fishling the time has come for you to travel to Spipreef and begin your journey to adulthood. An underwater role-playing game with aquatic platforming, four playable fish types with their own powers, companions, branching conversations and a richly developed world.",
+        "desc_md": "",
+        "exp": false,
+        "genres": [
+          "rpg"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed.",
+        "inst_md": "",
+        "min_glibc": "2.34",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Before We Were Dead"
+      },
+      "items": [
+        "Before We Were Dead.sh",
+        "beforedead"
+      ],
+      "items_opt": null,
+      "name": "beforedead.zip",
+      "source": {
+        "date_added": "2026-11-21",
+        "date_updated": "2026-11-21",
+        "md5": "3df9e7c8c1936853f7a448f42bac4fb3",
+        "release_id": "2026-11-21_2220",
+        "repo": "main",
+        "size": 41072454,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-21_2220/beforedead.zip"
+      },
+      "version": 4
+    },
     "bellablood.zip": {
       "attr": {
         "arch": [],
@@ -31070,6 +31158,105 @@
         "repo": "main",
         "size": 31952245,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2024-11-28_1344/demonstone64.zip"
+      },
+      "version": 4
+    },
+    "deponia.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Daedalic's point-and-click comedy adventure. Rufus wants off the junk planet Deponia, and a girl falling out of the sky might be his ticket. The official Linux build runs through box64.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "adventure"
+        ],
+        "image": {
+          "covers": [],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "GOG: copy the Linux offline installer (deponia_*.sh) into ports/deponia/gamedata, it is unpacked on first launch. Steam: download both Linux depots of app 214340, 214358 (base) and 214359 (binaries), for example with the Steam console (download_depot 214340 214358 and download_depot 214340 214359), and copy their contents together into ports/deponia/gamedata.",
+        "inst_md": "**GOG:** copy the Linux offline installer (`deponia_*.sh`) into `ports/deponia/gamedata`. It is unpacked on first launch, then deleted.\n\n**Steam (app 214340):** the Linux version is two depots, you need both:\n\n- `214358` Linux deponia base (game data)\n- `214359` Linux deponia binaries\n\nDownload them from the Steam console (`steam://open/console`):\n\n```\ndownload_depot 214340 214358\ndownload_depot 214340 214359\n```\n\nor with DepotDownloader: `DepotDownloader -app 214340 -depot 214358 214359 -os linux -username <your Steam name>`.\n\nCopy the contents of both depots together into `ports/deponia/gamedata`, so that `Deponia`, `data.vis` and `libs64` sit directly in it.",
+        "min_glibc": "2.35",
+        "porter": [
+          "Cebion"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.daedalic.com/",
+            "gameurl": "https://www.gog.com/game/deponia",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://www.daedalic.com/",
+            "gameurl": "https://store.steampowered.com/app/214340/Deponia/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Deponia"
+      },
+      "items": [
+        "Deponia.sh",
+        "deponia"
+      ],
+      "items_opt": null,
+      "name": "deponia.zip",
+      "source": {
+        "date_added": "2026-11-21",
+        "date_updated": "2026-11-21",
+        "md5": "31aed2bca6a0f15a84c3c61168d6084f",
+        "release_id": "2026-11-21_2220",
+        "repo": "main",
+        "size": 7357003,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-21_2220/deponia.zip"
       },
       "version": 4
     },
@@ -128857,6 +129044,102 @@
         "repo": "main",
         "size": 240257,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-10-14_1439/toziuha2.zip"
+      },
+      "version": 4
+    },
+    "trasmoz.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Step into the final chapter of the Trasmoz saga, a story that began with critically acclaimed homebrew hits on ZX Spectrum and Amstrad CPC. Now, in this arcade-style adventure, you will experience the definitive version of the Trasmoz series as it would have been imagined in the golden age of arcades. Trasmoz Legends Arcade Edition is a special edition of the game intended for arcade cabinets and CRT screens. ",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "arcade"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Purchase the game on Itch.io, download the Trasmoz Legends Raspberry Pi 64bits package and copy trasmoz.port into port folder.",
+        "inst_md": "Purchase the game on [Itch.io](https://volcanobytes.itch.io/trasmoz-legends), download the `Trasmoz Legends Raspberry Pi 64bits` package and copy `trasmoz.port` into port folder.",
+        "min_glibc": "2.30",
+        "porter": [
+          "gama97"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://volcanobytes.com/",
+            "gameurl": "https://volcanobytes.itch.io/trasmoz-legends",
+            "name": "Itch.io"
+          }
+        ],
+        "title": "Trasmoz Legends Arcade Edition"
+      },
+      "items": [
+        "Trasmoz Legends Arcade Edition.sh",
+        "trasmoz"
+      ],
+      "items_opt": null,
+      "name": "trasmoz.zip",
+      "source": {
+        "date_added": "2026-11-21",
+        "date_updated": "2026-11-21",
+        "md5": "e616fa3c6f7a5d7b8be8c8baecdced0e",
+        "release_id": "2026-11-21_2220",
+        "repo": "main",
+        "size": 2358268,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-21_2220/trasmoz.zip"
       },
       "version": 4
     },
