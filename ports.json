@@ -268,12 +268,12 @@
       "name": "2048plus.zip",
       "source": {
         "date_added": "2026-06-22",
-        "date_updated": "2026-11-14",
-        "md5": "04e393f6017eb78f31094b1e5d332787",
-        "release_id": "2026-11-14_2003",
+        "date_updated": "2026-11-22",
+        "md5": "61a1fc355fbc4a8364ca5720bd1091c2",
+        "release_id": "2026-11-22_1940",
         "repo": "main",
-        "size": 150554680,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-14_2003/2048plus.zip"
+        "size": 150570308,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-22_1940/2048plus.zip"
       },
       "version": 4
     },
@@ -52107,12 +52107,12 @@
       "name": "gta2.zip",
       "source": {
         "date_added": "2026-11-19",
-        "date_updated": "2026-11-19",
-        "md5": "3fec1d86df0f47f1953377486b581238",
-        "release_id": "2026-11-19_1259",
+        "date_updated": "2026-11-22",
+        "md5": "fc945dce5a1d7def7c21d21843b79def",
+        "release_id": "2026-11-22_1940",
         "repo": "main",
-        "size": 3331339,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-19_1259/gta2.zip"
+        "size": 3334764,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-22_1940/gta2.zip"
       },
       "version": 4
     },
@@ -57075,6 +57075,109 @@
         "repo": "main",
         "size": 6433809,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-06-16_0931/holeyhell.zip"
+      },
+      "version": 4
+    },
+    "hollowknight.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "paid",
+        "desc": "Hollow Knight, the hand-drawn action adventure by Team Cherry, on Unity's own Android player (run natively, no emulator). You need your own copy: the Linux version from GOG or Steam.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "action",
+          "adventure",
+          "platformer"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Put the GOG Linux installer as downloaded (hollow_knight_*.sh, no renaming), or the game folder from GOG or Steam into ports/hollowknight/gamedata, then launch. The first launch builds the game on the handheld.",
+        "inst_md": null,
+        "min_glibc": "2.30",
+        "porter": [
+          "wild1walker"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "store": [
+          {
+            "developerurl": "https://www.teamcherry.com.au/",
+            "gameurl": "https://www.gog.com/game/hollow_knight",
+            "name": "GOG"
+          },
+          {
+            "developerurl": "https://www.teamcherry.com.au/",
+            "gameurl": "https://store.steampowered.com/app/367520/Hollow_Knight/",
+            "name": "Steam"
+          }
+        ],
+        "title": "Hollow Knight"
+      },
+      "items": [
+        "Hollow Knight.sh",
+        "hollowknight"
+      ],
+      "items_opt": null,
+      "name": "hollowknight.zip",
+      "source": {
+        "date_added": "2026-11-22",
+        "date_updated": "2026-11-22",
+        "md5": "57a10a724cb95bfe832ff9b332838ca6",
+        "release_id": "2026-11-22_1940",
+        "repo": "main",
+        "size": 58093129,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-22_1940/hollowknight.zip"
       },
       "version": 4
     },
