@@ -22175,7 +22175,7 @@
           "r36s:ALL"
         ],
         "availability": "full",
-        "desc": "A mobile tracker combining AY/YM, Braids, Plaits and PCM samples with per-track sends and FX.",
+        "desc": "A free, open-source 8-track tracker and groovebox for handhelds, based on ChipNomad. Build songs with AY/YM and SID chips, FM, Braids and Plaits synths, Achchid acid bass, Bogie and Sintered drums, wavetables and SoundFonts. Edit and slice samples, record joystick movements, and shape sounds with modulation, track inserts and shared effects. Sync over Ableton Link and export WAV mixes or individual stems.",
         "desc_md": null,
         "exp": false,
         "genres": [
@@ -22211,12 +22211,12 @@
       "name": "choochootracker.zip",
       "source": {
         "date_added": "2026-11-19",
-        "date_updated": "2026-11-19",
-        "md5": "545b567245f5bf1c6ccad3f75cca77a1",
-        "release_id": "2026-11-19_1259",
+        "date_updated": "2026-11-24",
+        "md5": "deb9f11b3588e0fbbec526a9c370b9f4",
+        "release_id": "2026-11-24_1333",
         "repo": "main",
-        "size": 14622533,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-19_1259/choochootracker.zip"
+        "size": 25299365,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-24_1333/choochootracker.zip"
       },
       "version": 4
     },
@@ -73314,6 +73314,104 @@
       },
       "version": 4
     },
+    "mazeburrow.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "demo",
+        "desc": "Maze Burrow is a Sokoban-inspired puzzle game that involves pushing and pulling blocks. Help the echidna escape its maze-like burrow by solving puzzles to activate the portal in each level and fight back against the moles! Demo files included. Purchase the full game from itch.io for more content!",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "puzzle"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "1) Purchase and download the maze-burrow-linux.zip from itch.io  \n2) Place the zip in ports/mazeburrow.",
+        "inst_md": "1) Purchase and download the maze-burrow-linux.zip from [itch.io](https://kimimaru.itch.io/maze-burrow).  \n2) Place the zip in ports/mazeburrow.",
+        "min_glibc": "",
+        "porter": [
+          "Fraxinus88"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [
+          "dotnet-6.0.36.squashfs"
+        ],
+        "store": [
+          {
+            "developerurl": "https://mastodon.gamedev.place/@Kimimaru",
+            "gameurl": "https://kimimaru.itch.io/maze-burrow",
+            "name": "itch.io"
+          }
+        ],
+        "title": "Maze Burrow"
+      },
+      "items": [
+        "Maze Burrow.sh",
+        "mazeburrow"
+      ],
+      "items_opt": null,
+      "name": "mazeburrow.zip",
+      "source": {
+        "date_added": "2026-11-24",
+        "date_updated": "2026-11-24",
+        "md5": "d8978222894a64da811a6fc0938eea9b",
+        "release_id": "2026-11-24_1333",
+        "repo": "main",
+        "size": 27224178,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-24_1333/mazeburrow.zip"
+      },
+      "version": 4
+    },
     "mazemice.zip": {
       "attr": {
         "arch": [],
@@ -81832,6 +81930,90 @@
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2025-01-07_1055/nfs2se.zip"
       },
       "version": 2
+    },
+    "nfshp2.zip": {
+      "attr": {
+        "arch": [
+          "armhf"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351p:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "oga:ALL",
+          "ogs:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "desc": "Race exotic cars and outrun the police in a native port of the PS2 version of Need for Speed: Hot Pursuit 2, adapted from the New 3DS port. Play Hot Pursuit, Championship, Ultimate Racer and You're The Cop with the original single-screen HUD.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "racing"
+        ],
+        "image": {
+          "covers": [
+            "cover.jpg"
+          ],
+          "screenshot": "screenshot.jpg",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Copy an .iso of your PS2 disc (USA SLUS-20362, Europe SLES-50731, Asia SLPM-65181 or Korea SLPM-67527) into ports/nfshp2/gamedata/; the first launch installs the game from it (about 10 minutes, 3 GB free, python3 needed, or see the README to install from a computer).",
+        "inst_md": null,
+        "min_glibc": "2.17",
+        "porter": [
+          "manuelpllull"
+        ],
+        "reqs": [],
+        "rtr": false,
+        "runtime": [],
+        "title": "Need for Speed: Hot Pursuit 2"
+      },
+      "items": [
+        "NFSHP2.sh",
+        "nfshp2"
+      ],
+      "items_opt": null,
+      "name": "nfshp2.zip",
+      "source": {
+        "date_added": "2026-11-24",
+        "date_updated": "2026-11-24",
+        "md5": "9c4b160f4643e40088e70f282734d5c1",
+        "release_id": "2026-11-24_1333",
+        "repo": "main",
+        "size": 1066363,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-24_1333/nfshp2.zip"
+      },
+      "version": 4
     },
     "nicechess.zip": {
       "attr": {
@@ -101877,12 +102059,12 @@
       "name": "rez.zip",
       "source": {
         "date_added": "2026-11-19",
-        "date_updated": "2026-11-19",
-        "md5": "7bd92a32f3ac96305084c9851ace77fc",
-        "release_id": "2026-11-19_1259",
+        "date_updated": "2026-11-24",
+        "md5": "344258028d7e67bee4901d5723a54734",
+        "release_id": "2026-11-24_1333",
         "repo": "main",
-        "size": 45441415,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-19_1259/rez.zip"
+        "size": 45441553,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-24_1333/rez.zip"
       },
       "version": 4
     },
@@ -129215,7 +129397,7 @@
         "inst_md": "Purchase the game on [Itch.io](https://volcanobytes.itch.io/trasmoz-legends), download the `Trasmoz Legends Raspberry Pi 64bits` package and copy `trasmoz.port` into port folder.",
         "min_glibc": "2.30",
         "porter": [
-          "gama97"
+          "Ganimoth"
         ],
         "reqs": [],
         "rtr": false,
@@ -129237,12 +129419,12 @@
       "name": "trasmoz.zip",
       "source": {
         "date_added": "2026-11-21",
-        "date_updated": "2026-11-21",
-        "md5": "e616fa3c6f7a5d7b8be8c8baecdced0e",
-        "release_id": "2026-11-21_2220",
+        "date_updated": "2026-11-24",
+        "md5": "2a4f66917baa6d2cd4b05e4f3ac5cbd2",
+        "release_id": "2026-11-24_1333",
         "repo": "main",
-        "size": 2358268,
-        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-21_2220/trasmoz.zip"
+        "size": 2358270,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-24_1333/trasmoz.zip"
       },
       "version": 4
     },
@@ -131243,6 +131425,96 @@
         "repo": "main",
         "size": 7632024,
         "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-05-14_1654/tvruhh.zip"
+      },
+      "version": 4
+    },
+    "twill.zip": {
+      "attr": {
+        "arch": [
+          "aarch64"
+        ],
+        "avail": [
+          "rg-arc-d:ALL",
+          "rg-arc-s:ALL",
+          "rg353m:ALL",
+          "rg353ps:ALL",
+          "rg351mp:ALL",
+          "rg503:ALL",
+          "rg552:ALL",
+          "rgcubexx:ALL",
+          "rg40xx-h:ALL",
+          "rg40xx-v:ALL",
+          "rg35xx-plus:ALL",
+          "rg35xx-h:ALL",
+          "rg35xx-sp:ALL",
+          "rg34xx-h:ALL",
+          "rg34xx-sp:ALL",
+          "rg28xx:ALL",
+          "rg351v:ALL",
+          "rgb10:ALL",
+          "rgb20s:ALL",
+          "rgb30:ALL",
+          "rk2023:ALL",
+          "x55:ALL",
+          "rgb10max3:ALL",
+          "rgb10max3pro:ALL",
+          "ogs:ALL",
+          "ogu:ALL",
+          "ace:ALL",
+          "chi:ALL",
+          "trimui-smart-pro:ALL",
+          "trimui-brick:ALL",
+          "rp5:ALL",
+          "rpmini:ALL",
+          "gkd-bubble:ALL",
+          "xu10:ALL",
+          "r33s:ALL",
+          "r35s:ALL",
+          "r36s:ALL"
+        ],
+        "availability": "full",
+        "desc": "A groovebox for handhelds. Write songs in a piano roll with synths built on Emilie Gillet's open-source eurorack code (MIT) and sampler kits, arrange clips, automate sounds and effects, mix, and render to WAV. Plays along with USB MIDI keyboards and synths.",
+        "desc_md": null,
+        "exp": false,
+        "genres": [
+          "other"
+        ],
+        "image": {
+          "covers": [
+            "cover.png"
+          ],
+          "screenshot": "screenshot.png",
+          "thumbnail": null,
+          "video": null
+        },
+        "inst": "Ready to run, no additional files needed. Your own WAV samples go in ports/twill/samples.",
+        "inst_md": null,
+        "min_glibc": "2.27",
+        "porter": [
+          "LiminalKid"
+        ],
+        "reqs": [
+          "!lowres"
+        ],
+        "rtr": true,
+        "runtime": [],
+        "store": [],
+        "title": "Twill Studio"
+      },
+      "items": [
+        "Twill Studio.sh",
+        "twill"
+      ],
+      "items_opt": null,
+      "name": "twill.zip",
+      "source": {
+        "date_added": "2026-11-24",
+        "date_updated": "2026-11-24",
+        "md5": "7e2a5b28f0de6d95ffb871d00bef6fbf",
+        "release_id": "2026-11-24_1333",
+        "repo": "main",
+        "size": 2204720,
+        "url": "https://github.com/PortsMaster/PortMaster-New/releases/download/2026-11-24_1333/twill.zip"
       },
       "version": 4
     },
